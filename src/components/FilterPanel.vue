@@ -1,7 +1,10 @@
 <script setup>
 import { computed } from 'vue'
 import FilterChip from './FilterChip.vue'
+import MultiSelectDropdown from './MultiSelectDropdown.vue'
 import { getFilterOptions, MONTH_LABELS } from '../composables/usePlantFilters.js'
+
+const DROPDOWN_THRESHOLD = 8
 
 const props = defineProps({
   selected: { type: Object, required: true },
@@ -13,7 +16,8 @@ const props = defineProps({
   open: { type: Boolean, default: false },
 })
 const emit = defineEmits([
-  'toggle', 'heightMax', 'heightMin', 'deerOnly', 'cutFlowerOnly', 'culinaryOnly', 'clear', 'close',
+  'toggle', 'heightMax', 'heightMin', 'deerOnly', 'cutFlowerOnly', 'culinaryOnly',
+  'clear', 'clearGroup', 'close',
 ])
 
 const options = computed(() => getFilterOptions())
@@ -100,7 +104,16 @@ function labelFor(group, val) {
 
     <section v-for="g in groups" :key="g.key" class="filter-group">
       <h3>{{ g.title }}</h3>
-      <div class="chips">
+      <MultiSelectDropdown
+        v-if="options[g.key].length > DROPDOWN_THRESHOLD"
+        :title="g.title"
+        :options="options[g.key]"
+        :selected="selected[g.key] || []"
+        :label-for="(v) => labelFor(g, v)"
+        @toggle="(v) => emit('toggle', g.key, v)"
+        @clear="emit('clearGroup', g.key)"
+      />
+      <div v-else class="chips">
         <FilterChip
           v-for="val in options[g.key]"
           :key="val"

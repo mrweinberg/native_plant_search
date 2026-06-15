@@ -93,6 +93,9 @@ export function usePlantFilters() {
     const next = exists ? current.filter((v) => v !== value) : [...current, value]
     setQuery({ [key]: next.length ? next.join(',') : undefined })
   }
+  function clearFilter(key) {
+    setQuery({ [key]: undefined })
+  }
   function setHeightMax(val) {
     setQuery({ heightMax: val ? String(val) : undefined })
   }
@@ -203,6 +206,7 @@ export function usePlantFilters() {
     activeFilterCount,
     setSearch,
     toggleFilter,
+    clearFilter,
     setHeightMax,
     setHeightMin,
     setDeerOnly,

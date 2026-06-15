@@ -26,6 +26,7 @@ const {
   setCutFlowerOnly,
   setCulinaryOnly,
   setSortBy,
+  clearFilter,
   clearAll,
 } = usePlantFilters()
 
@@ -65,6 +66,7 @@ watch(() => route.fullPath, () => { drawerOpen.value = false })
       @deer-only="setDeerOnly"
       @cut-flower-only="setCutFlowerOnly"
       @culinary-only="setCulinaryOnly"
+      @clear-group="clearFilter"
       @clear="clearAll"
     />
     <div class="results">
