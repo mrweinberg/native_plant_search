@@ -218,6 +218,116 @@ const TRAITS = {
   'elymus-canadensis':         { cutFlower: true,  culinaryUse: false }, // seed heads dry well
   'eragrostis-spectabilis':    { cutFlower: true,  culinaryUse: false },
   'spartina-pectinata':        { cutFlower: true,  culinaryUse: false }, // wear gloves
+
+  // A-tier batch from ODNR ranking (woody)
+  'carya-laciniosa':           { cutFlower: false, culinaryUse: true  },
+  'celtis-occidentalis':       { cutFlower: false, culinaryUse: false },
+  'gymnocladus-dioica':        { cutFlower: false, culinaryUse: false }, // seeds toxic raw
+  'liquidambar-styraciflua':   { cutFlower: false, culinaryUse: false },
+  'magnolia-tripetala':        { cutFlower: true,  culinaryUse: false },
+  'morus-rubra':               { cutFlower: false, culinaryUse: true  },
+  'ostrya-virginiana':         { cutFlower: false, culinaryUse: false },
+  'oxydendrum-arboreum':       { cutFlower: false, culinaryUse: false },
+  'populus-deltoides':         { cutFlower: false, culinaryUse: false },
+  'ptelea-trifoliata':         { cutFlower: false, culinaryUse: false },
+  'quercus-montana':           { cutFlower: false, culinaryUse: false },
+  'salix-nigra':               { cutFlower: false, culinaryUse: false },
+  'ulmus-rubra':               { cutFlower: false, culinaryUse: false },
+  'zanthoxylum-americanum':    { cutFlower: false, culinaryUse: false },
+  'pinus-virginiana':          { cutFlower: false, culinaryUse: false },
+  'thuja-occidentalis':        { cutFlower: true,  culinaryUse: false }, // greens for wreaths
+  'taxus-canadensis':          { cutFlower: false, culinaryUse: false }, // foliage/seeds toxic
+  'cornus-racemosa':           { cutFlower: false, culinaryUse: false },
+  'dirca-palustris':           { cutFlower: false, culinaryUse: false },
+  'hypericum-prolificum':      { cutFlower: true,  culinaryUse: false },
+  'rhus-copallinum':           { cutFlower: true,  culinaryUse: true  }, // berries for sumac-ade
+  'rhus-glabra':               { cutFlower: true,  culinaryUse: true  }, // sumac-ade
+  'rosa-setigera':             { cutFlower: true,  culinaryUse: false }, // hips edible cooked, conservative no
+  'rubus-odoratus':            { cutFlower: true,  culinaryUse: true  }, // berries edible but bland
+  'sambucus-racemosa':         { cutFlower: false, culinaryUse: false }, // raw fruit toxic
+  'vaccinium-pallidum':        { cutFlower: false, culinaryUse: true  },
+  'vaccinium-stamineum':       { cutFlower: false, culinaryUse: false }, // sour, not great
+  'dennstaedtia-punctilobula': { cutFlower: true,  culinaryUse: false },
+  'deparia-acrostichoides':    { cutFlower: true,  culinaryUse: false },
+  'diplazium-pycnocarpon':     { cutFlower: true,  culinaryUse: false },
+  'dryopteris-goldiana':       { cutFlower: true,  culinaryUse: false },
+  'phegopteris-hexagonoptera': { cutFlower: true,  culinaryUse: false },
+  'thelypteris-noveboracensis': { cutFlower: true, culinaryUse: false },
+
+  // A-tier batch from ODNR ranking (forbs + graminoids)
+  'chamaecrista-fasciculata':  { cutFlower: false, culinaryUse: false },
+  'impatiens-pallida':         { cutFlower: false, culinaryUse: false },
+  'campanula-americana':       { cutFlower: true,  culinaryUse: false },
+  'actaea-pachypoda':          { cutFlower: false, culinaryUse: false }, // all parts toxic
+  'anemone-quinquefolia':      { cutFlower: false, culinaryUse: false },
+  'anemone-virginiana':        { cutFlower: true,  culinaryUse: false }, // cotton seed heads
+  'arisaema-dracontium':       { cutFlower: false, culinaryUse: false }, // toxic raw
+  'asclepias-sullivantii':     { cutFlower: true,  culinaryUse: false },
+  'baptisia-alba':             { cutFlower: true,  culinaryUse: false },
+  'baptisia-tinctoria':        { cutFlower: true,  culinaryUse: false },
+  'blephilia-ciliata':         { cutFlower: true,  culinaryUse: false },
+  'blephilia-hirsuta':         { cutFlower: true,  culinaryUse: false },
+  'cardamine-concatenata':     { cutFlower: false, culinaryUse: true  }, // foraged spring green
+  'collinsonia-canadensis':    { cutFlower: false, culinaryUse: false },
+  'conoclinium-coelestinum':   { cutFlower: true,  culinaryUse: false },
+  'cunila-origanoides':        { cutFlower: false, culinaryUse: true  }, // tea
+  'dicentra-canadensis':       { cutFlower: false, culinaryUse: false },
+  'doellingeria-umbellata':    { cutFlower: true,  culinaryUse: false },
+  'erythronium-albidum':       { cutFlower: false, culinaryUse: false },
+  'euphorbia-corollata':       { cutFlower: true,  culinaryUse: false }, // sap irritant — gloves
+  'eutrochium-altissimum':     { cutFlower: true,  culinaryUse: false },
+  'gaultheria-procumbens':     { cutFlower: false, culinaryUse: true  },
+  'helianthus-giganteus':      { cutFlower: true,  culinaryUse: false },
+  'hepatica-acutiloba':        { cutFlower: false, culinaryUse: false },
+  'hypoxis-hirsuta':           { cutFlower: false, culinaryUse: false },
+  'liatris-aspera':            { cutFlower: true,  culinaryUse: false },
+  'liatris-scariosa':          { cutFlower: true,  culinaryUse: false },
+  'liatris-squarrosa':         { cutFlower: true,  culinaryUse: false },
+  'lilium-canadense':          { cutFlower: true,  culinaryUse: false },
+  'lysimachia-ciliata':        { cutFlower: true,  culinaryUse: false },
+  'lythrum-alatum':            { cutFlower: true,  culinaryUse: false },
+  'maianthemum-canadense':     { cutFlower: false, culinaryUse: false },
+  'maianthemum-stellatum':     { cutFlower: true,  culinaryUse: false },
+  'mimulus-alatus':            { cutFlower: false, culinaryUse: false },
+  'mitchella-repens':          { cutFlower: false, culinaryUse: false }, // too small
+  'mitella-diphylla':          { cutFlower: false, culinaryUse: false },
+  'oenothera-fruticosa':       { cutFlower: true,  culinaryUse: false },
+  'oligoneuron-riddellii':     { cutFlower: true,  culinaryUse: false },
+  'oxypolis-rigidior':         { cutFlower: false, culinaryUse: false }, // TOXIC — never confuse with edibles
+  'penstemon-hirsutus':        { cutFlower: true,  culinaryUse: false },
+  'phlox-maculata':            { cutFlower: true,  culinaryUse: false },
+  'phlox-pilosa':              { cutFlower: true,  culinaryUse: false },
+  'physostegia-virginiana':    { cutFlower: true,  culinaryUse: false },
+  'primula-meadia':            { cutFlower: true,  culinaryUse: false },
+  'pycnanthemum-incanum':      { cutFlower: true,  culinaryUse: true  },
+  'pycnanthemum-verticillatum':{ cutFlower: true,  culinaryUse: true  },
+  'rudbeckia-laciniata':       { cutFlower: true,  culinaryUse: false },
+  'salvia-lyrata':             { cutFlower: false, culinaryUse: false },
+  'saxifraga-virginiensis':    { cutFlower: false, culinaryUse: false }, // too small
+  'sedum-ternatum':            { cutFlower: false, culinaryUse: false }, // groundcover
+  'silene-stellata':           { cutFlower: true,  culinaryUse: false },
+  'silene-virginica':          { cutFlower: true,  culinaryUse: false },
+  'silphium-trifoliatum':      { cutFlower: true,  culinaryUse: false },
+  'solidago-flexicaulis':      { cutFlower: true,  culinaryUse: false },
+  'solidago-juncea':           { cutFlower: true,  culinaryUse: false },
+  'solidago-ulmifolia':        { cutFlower: true,  culinaryUse: false },
+  'symphyotrichum-firmum':     { cutFlower: true,  culinaryUse: false },
+  'symphyotrichum-urophyllum': { cutFlower: true,  culinaryUse: false },
+  'thalictrum-dasycarpum':     { cutFlower: true,  culinaryUse: false },
+  'thalictrum-pubescens':      { cutFlower: true,  culinaryUse: false },
+  'thalictrum-thalictroides':  { cutFlower: false, culinaryUse: false },
+  'trillium-flexipes':         { cutFlower: false, culinaryUse: false }, // never cut trillium
+  'trillium-sessile':          { cutFlower: false, culinaryUse: false }, // never cut trillium
+  'uvularia-perfoliata':       { cutFlower: true,  culinaryUse: false },
+  'uvularia-sessilifolia':     { cutFlower: false, culinaryUse: false },
+  'verbena-stricta':           { cutFlower: true,  culinaryUse: false },
+  'zizia-aptera':              { cutFlower: true,  culinaryUse: false },
+  'calamagrostis-canadensis':  { cutFlower: true,  culinaryUse: false },
+  'carex-blanda':              { cutFlower: false, culinaryUse: false },
+  'carex-plantaginea':         { cutFlower: false, culinaryUse: false },
+  'carex-platyphylla':         { cutFlower: false, culinaryUse: false },
+  'cinna-arundinacea':         { cutFlower: true,  culinaryUse: false },
+  'diarrhena-americana':       { cutFlower: false, culinaryUse: false },
 }
 
 const plants = JSON.parse(readFileSync(PLANTS_PATH, 'utf8'))

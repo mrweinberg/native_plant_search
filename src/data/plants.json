@@ -15466,5 +15466,8816 @@
     ],
     "cutFlower": true,
     "culinaryUse": false
+  },
+  {
+    "id": "carya-laciniosa",
+    "scientificName": "Carya laciniosa",
+    "commonNames": [
+      "Shellbark Hickory",
+      "Kingnut Hickory"
+    ],
+    "family": "Juglandaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "DC",
+      "DE",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MD",
+      "MI",
+      "MO",
+      "MS",
+      "NC",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "TN",
+      "VA",
+      "WV"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 60,
+      "max": 80
+    },
+    "spreadFeet": {
+      "min": 30,
+      "max": 50
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "green",
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Bears the largest nuts of any native hickory — sweet, edible kernels in thick husks. Floodplain tree with shaggy peeling bark like shagbark hickory but on wetter sites.",
+    "usdaSymbol": "CALA21",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true
+  },
+  {
+    "id": "celtis-occidentalis",
+    "scientificName": "Celtis occidentalis",
+    "commonNames": [
+      "Hackberry",
+      "Common Hackberry"
+    ],
+    "family": "Cannabaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CO",
+      "CT",
+      "DC",
+      "DE",
+      "GA",
+      "IA",
+      "ID",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "ND",
+      "NE",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "RI",
+      "SC",
+      "SD",
+      "TN",
+      "TX",
+      "UT",
+      "VA",
+      "VT",
+      "WI",
+      "WV",
+      "WY"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 40,
+      "max": 60
+    },
+    "spreadFeet": {
+      "min": 40,
+      "max": 60
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "clay",
+      "rocky"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "green"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "butterflies",
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Extremely tough urban shade tree — handles compacted soil, drought, salt, pollution. Distinctive corky warty bark. Host plant for hackberry emperor and tawny emperor butterflies. Persistent purple drupes feed winter birds.",
+    "usdaSymbol": "CEOC",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false
+  },
+  {
+    "id": "gymnocladus-dioica",
+    "scientificName": "Gymnocladus dioica",
+    "commonNames": [
+      "Kentucky Coffee Tree"
+    ],
+    "family": "Fabaceae",
+    "nativeStates": [
+      "AR",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "MI",
+      "MN",
+      "MO",
+      "NE",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "SD",
+      "TN",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 60,
+      "max": 80
+    },
+    "spreadFeet": {
+      "min": 40,
+      "max": 55
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "white",
+      "green"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [],
+    "deerResistant": true,
+    "notes": "Coarse architectural silhouette and massive bipinnately compound leaves — among the last trees to leaf out, first to drop. Tolerates urban abuse. Seeds inside the leathery brown pods are toxic raw; settlers roasted them as a coffee substitute (don't try this).",
+    "usdaSymbol": "GYDI",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false
+  },
+  {
+    "id": "liquidambar-styraciflua",
+    "scientificName": "Liquidambar styraciflua",
+    "commonNames": [
+      "Sweet Gum",
+      "American Sweetgum"
+    ],
+    "family": "Altingiaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "IL",
+      "IN",
+      "KY",
+      "LA",
+      "MD",
+      "MO",
+      "MS",
+      "NC",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "WV"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 60,
+      "max": 80
+    },
+    "spreadFeet": {
+      "min": 40,
+      "max": 60
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "yellow",
+      "green"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Glossy five-pointed star-shaped leaves turn extraordinary mixed red-purple-orange-yellow in fall, often on a single tree. Spiny \"gumball\" fruits drop in quantity — a nuisance on lawns and walks.",
+    "usdaSymbol": "LIST2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false
+  },
+  {
+    "id": "magnolia-tripetala",
+    "scientificName": "Magnolia tripetala",
+    "commonNames": [
+      "Umbrella Magnolia"
+    ],
+    "family": "Magnoliaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "GA",
+      "IN",
+      "KY",
+      "MA",
+      "MD",
+      "MS",
+      "NC",
+      "OH",
+      "PA",
+      "SC",
+      "TN",
+      "VA",
+      "WV"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 15,
+      "max": 30
+    },
+    "spreadFeet": {
+      "min": 15,
+      "max": 30
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Tropical-looking small tree with 2-foot leaves clustered at branch tips like umbrella spokes. Large white flowers smell musky-sweet. Rose-colored fruit cones in fall.",
+    "usdaSymbol": "MATR",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
+  },
+  {
+    "id": "morus-rubra",
+    "scientificName": "Morus rubra",
+    "commonNames": [
+      "Red Mulberry"
+    ],
+    "family": "Moraceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "MI",
+      "MO",
+      "MS",
+      "NC",
+      "NE",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "RI",
+      "SC",
+      "SD",
+      "TN",
+      "TX",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 35,
+      "max": 50
+    },
+    "spreadFeet": {
+      "min": 30,
+      "max": 50
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "green"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "pollinators"
+    ],
+    "deerResistant": false,
+    "notes": "Edible blackberry-like fruit in early summer — sweet, juicy, beloved by birds. Threatened by hybridization with introduced white mulberry (*M. alba*). Distinguished by hairy leaf undersides and longer dull-tipped buds.",
+    "usdaSymbol": "MORU2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true
+  },
+  {
+    "id": "ostrya-virginiana",
+    "scientificName": "Ostrya virginiana",
+    "commonNames": [
+      "Hop Hornbeam",
+      "Ironwood"
+    ],
+    "family": "Betulaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "ND",
+      "NE",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "RI",
+      "SC",
+      "SD",
+      "TN",
+      "TX",
+      "VA",
+      "VT",
+      "WI",
+      "WV",
+      "WY"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 25,
+      "max": 40
+    },
+    "spreadFeet": {
+      "min": 20,
+      "max": 30
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "green"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Small understory tree with distinctive papery hop-like seed clusters. Exceptionally hard wood (hence \"ironwood\"). Shaggy strip-peeling bark; slow-growing but very long-lived.",
+    "usdaSymbol": "OSVI",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false
+  },
+  {
+    "id": "oxydendrum-arboreum",
+    "scientificName": "Oxydendrum arboreum",
+    "commonNames": [
+      "Sourwood",
+      "Sorrel Tree"
+    ],
+    "family": "Ericaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "IN",
+      "KY",
+      "LA",
+      "MD",
+      "MS",
+      "NC",
+      "NJ",
+      "OH",
+      "PA",
+      "SC",
+      "TN",
+      "VA",
+      "WV"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 20,
+      "max": 50
+    },
+    "spreadFeet": {
+      "min": 10,
+      "max": 25
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Drooping racemes of fragrant white lily-of-the-valley flowers in mid-summer — unusual bloom time for a tree. Brilliant deep-red fall color appears with the persistent seed pods. Source of the prized 'sourwood honey'.",
+    "usdaSymbol": "OXAR",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false
+  },
+  {
+    "id": "populus-deltoides",
+    "scientificName": "Populus deltoides",
+    "commonNames": [
+      "Eastern Cottonwood"
+    ],
+    "family": "Salicaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "AZ",
+      "CO",
+      "CT",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "IA",
+      "ID",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "MT",
+      "NC",
+      "ND",
+      "NE",
+      "NH",
+      "NJ",
+      "NM",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "RI",
+      "SC",
+      "SD",
+      "TN",
+      "TX",
+      "VA",
+      "VT",
+      "WI",
+      "WV",
+      "WY"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 50,
+      "max": 100
+    },
+    "spreadFeet": {
+      "min": 35,
+      "max": 60
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "red",
+      "green"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "One of the fastest-growing eastern trees — 6+ ft/year. Triangular leaves flutter audibly on flattened petioles. Female trees release cotton-like seeds in early summer (use male cultivars to avoid). Brittle wood drops branches; site away from structures.",
+    "usdaSymbol": "PODE3",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false
+  },
+  {
+    "id": "ptelea-trifoliata",
+    "scientificName": "Ptelea trifoliata",
+    "commonNames": [
+      "Common Hoptree",
+      "Wafer Ash"
+    ],
+    "family": "Rutaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "AZ",
+      "CO",
+      "CT",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "NE",
+      "NH",
+      "NJ",
+      "NM",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "TX",
+      "UT",
+      "VA",
+      "WI",
+      "WV",
+      "WY"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 15,
+      "max": 20
+    },
+    "spreadFeet": {
+      "min": 15,
+      "max": 20
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "white",
+      "green"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Small ornamental understory tree with greenish-white flowers and unusual papery winged-disc fruits (the \"wafers\") in dense clusters. Host plant for giant swallowtail butterfly. Citrus-family aroma in crushed leaves.",
+    "usdaSymbol": "PTTR",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false
+  },
+  {
+    "id": "quercus-montana",
+    "scientificName": "Quercus montana",
+    "commonNames": [
+      "Chestnut Oak",
+      "Rock Oak"
+    ],
+    "family": "Fagaceae",
+    "nativeStates": [
+      "AL",
+      "CT",
+      "DC",
+      "DE",
+      "GA",
+      "IN",
+      "KY",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MS",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "VA",
+      "VT",
+      "WV"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 50,
+      "max": 70
+    },
+    "spreadFeet": {
+      "min": 40,
+      "max": 60
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "yellow",
+      "green"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Defining ridge-top oak of the eastern Appalachian uplands. Deeply furrowed dark blocky bark and chestnut-like wavy-edged leaves. Sweet acorns prized by wildlife. Formerly *Q. prinus*.",
+    "usdaSymbol": "QUMO4",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false
+  },
+  {
+    "id": "salix-nigra",
+    "scientificName": "Salix nigra",
+    "commonNames": [
+      "Black Willow"
+    ],
+    "family": "Salicaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "AZ",
+      "CA",
+      "CO",
+      "CT",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "IA",
+      "ID",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "ND",
+      "NE",
+      "NH",
+      "NJ",
+      "NM",
+      "NV",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "RI",
+      "SC",
+      "SD",
+      "TN",
+      "TX",
+      "UT",
+      "VA",
+      "VT",
+      "WI",
+      "WV",
+      "WY"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 30,
+      "max": 60
+    },
+    "spreadFeet": {
+      "min": 30,
+      "max": 50
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "yellow",
+      "green"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "butterflies"
+    ],
+    "deerResistant": false,
+    "notes": "Largest native willow — a true tree, not shrub. Rough dark furrowed bark. Critical streambank stabilizer; host plant for viceroy and mourning cloak butterflies. Bark is the original source of salicylic acid (aspirin).",
+    "usdaSymbol": "SANI",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false
+  },
+  {
+    "id": "ulmus-rubra",
+    "scientificName": "Ulmus rubra",
+    "commonNames": [
+      "Slippery Elm",
+      "Red Elm"
+    ],
+    "family": "Ulmaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "ND",
+      "NE",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "RI",
+      "SC",
+      "SD",
+      "TN",
+      "TX",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 40,
+      "max": 60
+    },
+    "spreadFeet": {
+      "min": 30,
+      "max": 50
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "red",
+      "green"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Medicinal mucilaginous inner bark — long used as a sore-throat lozenge. Distinguished from American elm by sandpaper-rough leaf surface and hairy buds. Less susceptible to Dutch elm disease but not immune.",
+    "usdaSymbol": "ULRU",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false
+  },
+  {
+    "id": "zanthoxylum-americanum",
+    "scientificName": "Zanthoxylum americanum",
+    "commonNames": [
+      "Common Prickly-ash",
+      "Toothache Tree"
+    ],
+    "family": "Rutaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DC",
+      "DE",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "ND",
+      "NE",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "RI",
+      "SC",
+      "SD",
+      "TN",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 10,
+      "max": 20
+    },
+    "spreadFeet": {
+      "min": 10,
+      "max": 15
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "yellow",
+      "green"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "songbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Suckering thorny shrub-tree, host plant for giant swallowtail butterfly (the largest in OH). Chewing the bark numbs the mouth — traditional toothache remedy. Sister to the source of Sichuan peppercorns.",
+    "usdaSymbol": "ZAAM",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false
+  },
+  {
+    "id": "pinus-virginiana",
+    "scientificName": "Pinus virginiana",
+    "commonNames": [
+      "Virginia Pine",
+      "Scrub Pine"
+    ],
+    "family": "Pinaceae",
+    "nativeStates": [
+      "AL",
+      "DC",
+      "DE",
+      "GA",
+      "IN",
+      "KY",
+      "MD",
+      "MS",
+      "NC",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "SC",
+      "TN",
+      "VA",
+      "WV"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 20,
+      "max": 40
+    },
+    "spreadFeet": {
+      "min": 15,
+      "max": 30
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky",
+      "clay"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "whorled",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "songbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Pioneer pine of poor dry sites — eroded slopes, abandoned fields, strip-mine reclamation. Short twisted needles in pairs, persistent prickly cones. Once the dominant Christmas tree of the mid-Atlantic.",
+    "usdaSymbol": "PIVI2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false
+  },
+  {
+    "id": "thuja-occidentalis",
+    "scientificName": "Thuja occidentalis",
+    "commonNames": [
+      "Northern White-cedar",
+      "American Arborvitae"
+    ],
+    "family": "Cupressaceae",
+    "nativeStates": [
+      "CT",
+      "IA",
+      "IL",
+      "IN",
+      "KY",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 30,
+      "max": 50
+    },
+    "spreadFeet": {
+      "min": 10,
+      "max": 15
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "songbirds"
+    ],
+    "deerResistant": false,
+    "notes": "Aromatic flat-spray evergreen foliage; the species behind countless landscape arborvitae cultivars. Tolerates wet soils most evergreens won't. Heavily browsed by deer where populations are high — protect or site carefully.",
+    "usdaSymbol": "THOC2",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
+  },
+  {
+    "id": "taxus-canadensis",
+    "scientificName": "Taxus canadensis",
+    "commonNames": [
+      "Canada Yew",
+      "American Yew"
+    ],
+    "family": "Taxaceae",
+    "nativeStates": [
+      "CT",
+      "IA",
+      "IL",
+      "IN",
+      "KY",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "RI",
+      "TN",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 6
+    },
+    "spreadFeet": {
+      "min": 6,
+      "max": 10
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "yellow",
+      "green"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "songbirds"
+    ],
+    "deerResistant": false,
+    "notes": "Native low-spreading evergreen — a rare shade-tolerant native conifer groundcover. Bright-red berry-like arils ripen on female plants. Foliage and seeds toxic to humans/livestock; arils edible (the seed is not). Heavily deer-browsed.",
+    "usdaSymbol": "TACA",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false
+  },
+  {
+    "id": "cornus-racemosa",
+    "scientificName": "Cornus racemosa",
+    "commonNames": [
+      "Gray Dogwood"
+    ],
+    "family": "Cornaceae",
+    "nativeStates": [
+      "CT",
+      "DC",
+      "DE",
+      "IA",
+      "IL",
+      "IN",
+      "KY",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "NC",
+      "ND",
+      "NE",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "RI",
+      "SC",
+      "SD",
+      "TN",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 10,
+      "max": 15
+    },
+    "spreadFeet": {
+      "min": 10,
+      "max": 15
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "clay",
+      "sandy"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "butterflies"
+    ],
+    "deerResistant": false,
+    "notes": "Tough multi-stemmed thicket-forming shrub for hedges and naturalizing. White berries on red pedicels are gone by mid-fall — birds clean them off. Tolerates almost any soil; spreads by root suckers.",
+    "usdaSymbol": "CORA6",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false
+  },
+  {
+    "id": "dirca-palustris",
+    "scientificName": "Dirca palustris",
+    "commonNames": [
+      "Eastern Leatherwood"
+    ],
+    "family": "Thymelaeaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 6
+    },
+    "spreadFeet": {
+      "min": 3,
+      "max": 6
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Among the earliest native shrubs to bloom — pale yellow flowers open before leaves emerge. Bark is famously flexible and rope-strong; impossible to snap a young branch. Slow-growing connoisseur shrub for woodlands.",
+    "usdaSymbol": "DIPA9",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false
+  },
+  {
+    "id": "hypericum-prolificum",
+    "scientificName": "Hypericum prolificum",
+    "commonNames": [
+      "Shrubby St. John's Wort"
+    ],
+    "family": "Hypericaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DC",
+      "DE",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "VA",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 5
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Tidy mounded shrub smothered in bright yellow puffball flowers all summer — long bloom rare in shrubs. Thrives in poor dry rocky soils where many shrubs fail. Distinctive reddish exfoliating bark.",
+    "usdaSymbol": "HYPR",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
+  },
+  {
+    "id": "rhus-copallinum",
+    "scientificName": "Rhus copallinum",
+    "commonNames": [
+      "Winged Sumac",
+      "Shining Sumac"
+    ],
+    "family": "Anacardiaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "MO",
+      "MS",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 10,
+      "max": 20
+    },
+    "spreadFeet": {
+      "min": 10,
+      "max": 20
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      7,
+      8
+    ],
+    "bloomColors": [
+      "yellow",
+      "green"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Distinctive winged \"rachis\" between leaflets along the central leaf stalk. Glossy compound leaves turn brilliant scarlet in fall — among the showiest fall-color shrubs. Drought-tolerant pioneer. Listed as *R. copallina* in older sources.",
+    "usdaSymbol": "RHCO",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": true
+  },
+  {
+    "id": "rhus-glabra",
+    "scientificName": "Rhus glabra",
+    "commonNames": [
+      "Smooth Sumac"
+    ],
+    "family": "Anacardiaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "AZ",
+      "CA",
+      "CO",
+      "CT",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "IA",
+      "ID",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "MT",
+      "NC",
+      "ND",
+      "NE",
+      "NH",
+      "NJ",
+      "NM",
+      "NV",
+      "NY",
+      "OH",
+      "OK",
+      "OR",
+      "PA",
+      "RI",
+      "SC",
+      "SD",
+      "TN",
+      "TX",
+      "UT",
+      "VA",
+      "VT",
+      "WA",
+      "WI",
+      "WV",
+      "WY"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 9,
+      "max": 15
+    },
+    "spreadFeet": {
+      "min": 10,
+      "max": 20
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      6,
+      7
+    ],
+    "bloomColors": [
+      "green",
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Sister to staghorn sumac but with smooth (not fuzzy) twigs. Crimson seed cones persist all winter — used to make 'sumac-ade'. Brilliant red fall color. Suckers freely into colonies.",
+    "usdaSymbol": "RHGL",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": true
+  },
+  {
+    "id": "rosa-setigera",
+    "scientificName": "Rosa setigera",
+    "commonNames": [
+      "Climbing Prairie Rose",
+      "Climbing Wild Rose"
+    ],
+    "family": "Rosaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "MI",
+      "MO",
+      "MS",
+      "NC",
+      "NE",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "vine",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 6,
+      "max": 15
+    },
+    "spreadFeet": {
+      "min": 6,
+      "max": 12
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      6,
+      7
+    ],
+    "bloomColors": [
+      "pink"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds"
+    ],
+    "deerResistant": false,
+    "notes": "Ohio's only native climbing rose. Trailing-arching canes can scramble 15 ft up a structure or sprawl as a thicket. Single five-petaled pink flowers fade to white; bright red hips in fall. Surprisingly disease-resistant.",
+    "usdaSymbol": "ROSE3",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
+  },
+  {
+    "id": "rubus-odoratus",
+    "scientificName": "Rubus odoratus",
+    "commonNames": [
+      "Purple-flowering Raspberry",
+      "Thimbleberry"
+    ],
+    "family": "Rosaceae",
+    "nativeStates": [
+      "AL",
+      "CT",
+      "DC",
+      "DE",
+      "GA",
+      "IL",
+      "IN",
+      "KY",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 6
+    },
+    "spreadFeet": {
+      "min": 6,
+      "max": 12
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "pink",
+      "purple"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Showy 2-inch rose-purple flowers all summer — one of the few thornless brambles. Maple-shaped leaves to 10 inches across. Dry shallow red raspberries are edible but bland. Suckers into colonies.",
+    "usdaSymbol": "RUOD",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": true
+  },
+  {
+    "id": "sambucus-racemosa",
+    "scientificName": "Sambucus racemosa",
+    "commonNames": [
+      "Red Elderberry",
+      "Red-berried Elder"
+    ],
+    "family": "Viburnaceae",
+    "nativeStates": [
+      "AK",
+      "AZ",
+      "CA",
+      "CO",
+      "CT",
+      "DC",
+      "GA",
+      "IA",
+      "ID",
+      "IL",
+      "IN",
+      "KY",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MT",
+      "NC",
+      "ND",
+      "NH",
+      "NJ",
+      "NM",
+      "NV",
+      "NY",
+      "OH",
+      "OR",
+      "PA",
+      "RI",
+      "SC",
+      "SD",
+      "TN",
+      "UT",
+      "VA",
+      "VT",
+      "WA",
+      "WI",
+      "WV",
+      "WY"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 8,
+      "max": 20
+    },
+    "spreadFeet": {
+      "min": 8,
+      "max": 15
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Pyramidal clusters of bright red berries ripen by midsummer — earlier than common elderberry, which has flat-topped purple clusters. Berries are eaten by birds but raw fruit/seeds are toxic to humans (cooked jams use them). Formerly *S. pubens*.",
+    "usdaSymbol": "SARA2",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false
+  },
+  {
+    "id": "vaccinium-pallidum",
+    "scientificName": "Vaccinium pallidum",
+    "commonNames": [
+      "Hillside Blueberry",
+      "Early Lowbush Blueberry"
+    ],
+    "family": "Ericaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MO",
+      "MS",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "white",
+      "pink"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "butterflies"
+    ],
+    "deerResistant": false,
+    "notes": "Drier-site sibling of *V. angustifolium*, tolerating rockier and poorer soils. Pale blue-green foliage gives the species name. Sweet small blueberries; brilliant red-purple fall color.",
+    "usdaSymbol": "VAPA4",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true
+  },
+  {
+    "id": "vaccinium-stamineum",
+    "scientificName": "Vaccinium stamineum",
+    "commonNames": [
+      "Deerberry"
+    ],
+    "family": "Ericaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "MI",
+      "MO",
+      "MS",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "VT",
+      "WV"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 8
+    },
+    "spreadFeet": {
+      "min": 4,
+      "max": 8
+    },
+    "lightRequirement": [
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds"
+    ],
+    "deerResistant": false,
+    "notes": "Taller bluebery relative with open spreading habit and distinctive flared (not urn-shaped) white bell flowers showing prominent stamens. Greenish-yellow fruits are sour — birds and deer eat them readily, but not great for humans.",
+    "usdaSymbol": "VAST",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false
+  },
+  {
+    "id": "dennstaedtia-punctilobula",
+    "scientificName": "Dennstaedtia punctilobula",
+    "commonNames": [
+      "Hay-scented Fern"
+    ],
+    "family": "Dennstaedtiaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DC",
+      "DE",
+      "GA",
+      "IL",
+      "IN",
+      "KY",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "fern",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [],
+    "bloomColors": [],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [],
+    "deerResistant": true,
+    "notes": "Bright lime-green lacy fronds release a fresh-cut hay scent when bruised. Spreads aggressively by rhizomes into solid groundcover — overwhelms wildflowers if not contained. Excellent for difficult dry shade slopes.",
+    "usdaSymbol": "DEPU",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
+  },
+  {
+    "id": "deparia-acrostichoides",
+    "scientificName": "Deparia acrostichoides",
+    "commonNames": [
+      "Silvery Glade Fern",
+      "Silvery Spleenwort"
+    ],
+    "family": "Athyriaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DC",
+      "DE",
+      "GA",
+      "IL",
+      "IN",
+      "KY",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "fern",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [],
+    "bloomColors": [],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [],
+    "deerResistant": true,
+    "notes": "Erect-arching fronds with linear sori that look silvery-white before maturing — hence the common name. Clump-forming, not aggressive. Easy and overlooked native for the shade garden.",
+    "usdaSymbol": "DEAC",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
+  },
+  {
+    "id": "diplazium-pycnocarpon",
+    "scientificName": "Diplazium pycnocarpon",
+    "commonNames": [
+      "Glade Fern",
+      "Narrow-leaved Glade Fern"
+    ],
+    "family": "Athyriaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DC",
+      "DE",
+      "GA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "fern",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [],
+    "bloomColors": [],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [],
+    "deerResistant": true,
+    "notes": "Unusual narrow undivided pinnae give an unfern-like look — almost grass-like ladder. Striking architectural texture in a shade planting. Slowly colonizes by rhizomes.",
+    "usdaSymbol": "DIPY",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
+  },
+  {
+    "id": "dryopteris-goldiana",
+    "scientificName": "Dryopteris goldiana",
+    "commonNames": [
+      "Goldie's Wood Fern",
+      "Goldie's Giant Fern"
+    ],
+    "family": "Dryopteridaceae",
+    "nativeStates": [
+      "CT",
+      "DC",
+      "DE",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KY",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "fern",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 3
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [],
+    "bloomColors": [],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [],
+    "deerResistant": true,
+    "notes": "Largest of the native wood ferns — broad arching fronds to 4 ft. Distinguished by dark scaly stipes and broad-based fronds that abruptly taper at the tip. Statement plant for rich shaded soils.",
+    "usdaSymbol": "DRGO2",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
+  },
+  {
+    "id": "phegopteris-hexagonoptera",
+    "scientificName": "Phegopteris hexagonoptera",
+    "commonNames": [
+      "Broad Beech Fern",
+      "Southern Beech Fern"
+    ],
+    "family": "Thelypteridaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "IL",
+      "IN",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "fern",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [],
+    "bloomColors": [],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [],
+    "deerResistant": true,
+    "notes": "Distinctive broad triangular fronds held nearly horizontal. Slow spreader by rhizomes into open colonies, ideal for naturalistic woodlands. Native counterpart to the larger Goldie's fern look.",
+    "usdaSymbol": "PHHE2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
+  },
+  {
+    "id": "thelypteris-noveboracensis",
+    "scientificName": "Thelypteris noveboracensis",
+    "commonNames": [
+      "New York Fern"
+    ],
+    "family": "Thelypteridaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DC",
+      "DE",
+      "GA",
+      "IL",
+      "IN",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MS",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "fern",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [],
+    "bloomColors": [],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [],
+    "deerResistant": true,
+    "notes": "Diagnostic 'tapered at both ends' frond — narrows to a point at the tip AND at the base, like a tapered torpedo. Aggressive colonizer; smothers spring ephemerals where it takes hold. Best in defined areas.",
+    "usdaSymbol": "THNO",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
+  },
+  {
+    "id": "chamaecrista-fasciculata",
+    "scientificName": "Chamaecrista fasciculata",
+    "commonNames": [
+      "Partridge Pea"
+    ],
+    "family": "Fabaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CO",
+      "CT",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "NE",
+      "NH",
+      "NJ",
+      "NM",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "RI",
+      "SC",
+      "SD",
+      "TN",
+      "TX",
+      "VA",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "annual",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "songbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Reliably self-sows from year to year — establishes a returning 'annual' colony. Sensitive leaflets fold when touched. Major food source for bobwhite quail and many bumblebees; nitrogen-fixer for poor soils.",
+    "usdaSymbol": "CHFA2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false
+  },
+  {
+    "id": "impatiens-pallida",
+    "scientificName": "Impatiens pallida",
+    "commonNames": [
+      "Yellow Jewelweed",
+      "Pale Touch-me-not"
+    ],
+    "family": "Balsaminaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DC",
+      "DE",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "NC",
+      "ND",
+      "NE",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "RI",
+      "SC",
+      "SD",
+      "TN",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "annual",
+    "heightFeet": {
+      "min": 3,
+      "max": 6
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds"
+    ],
+    "deerResistant": false,
+    "notes": "Pale yellow cousin of the more common orange jewelweed. Hollow translucent stems; ripe seedpods explode at the slightest touch. Folk remedy for poison ivy and stinging nettle exposure.",
+    "usdaSymbol": "IMPA",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false
+  },
+  {
+    "id": "campanula-americana",
+    "scientificName": "Campanula americana",
+    "commonNames": [
+      "American Bellflower",
+      "Tall Bellflower"
+    ],
+    "family": "Campanulaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "NE",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "SC",
+      "SD",
+      "TN",
+      "VA",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "biennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 6
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "blue",
+      "purple"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds"
+    ],
+    "deerResistant": false,
+    "notes": "Tall biennial spike of star-shaped sky-blue flowers (not the typical bellflower shape) — blooms in upper leaf axils all summer. Self-sows reliably on woodland edges.",
+    "usdaSymbol": "CAAM2",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
+  },
+  {
+    "id": "actaea-pachypoda",
+    "scientificName": "Actaea pachypoda",
+    "commonNames": [
+      "Doll's Eyes",
+      "White Baneberry"
+    ],
+    "family": "Ranunculaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DC",
+      "DE",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "ND",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1.5,
+      "max": 2.5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Spring white flowers ripen into one of the strangest fruits in the woods: porcelain-white berries with a black 'pupil' on thick red stalks, lasting months. All parts highly toxic — never eat the berries.",
+    "usdaSymbol": "ACPA",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false
+  },
+  {
+    "id": "anemone-quinquefolia",
+    "scientificName": "Anemone quinquefolia",
+    "commonNames": [
+      "Wood Anemone"
+    ],
+    "family": "Ranunculaceae",
+    "nativeStates": [
+      "CT",
+      "DC",
+      "DE",
+      "GA",
+      "IL",
+      "IN",
+      "KY",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.3,
+      "max": 0.6
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "white",
+      "pink"
+    ],
+    "leafArrangement": "whorled",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Delicate spring ephemeral that spreads by thin rhizomes into wide carpets. Single white star flower above five-parted whorled leaves. Disappears by midsummer.",
+    "usdaSymbol": "ANQU",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false
+  },
+  {
+    "id": "anemone-virginiana",
+    "scientificName": "Anemone virginiana",
+    "commonNames": [
+      "Tall Thimbleweed",
+      "Virginia Anemone"
+    ],
+    "family": "Ranunculaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DC",
+      "DE",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "ND",
+      "NE",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "RI",
+      "SC",
+      "SD",
+      "TN",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "white",
+      "green"
+    ],
+    "leafArrangement": "whorled",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Small white-green flowers atop tall wiry stems mature into thimble-shaped seed heads that burst into cotton tufts — striking late-fall feature. Tolerates dry shade where many anemones won't.",
+    "usdaSymbol": "ANVI3",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
+  },
+  {
+    "id": "arisaema-dracontium",
+    "scientificName": "Arisaema dracontium",
+    "commonNames": [
+      "Green Dragon",
+      "Dragon Arum"
+    ],
+    "family": "Araceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "NE",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "green"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Cousin of Jack-in-the-pulpit but stranger — a slender pale-green spadix extends 6 inches past the spathe, like a flicking tongue. Striking bright-red fruit cluster in late summer. Single horizontally-held leaf divided into 7-15 leaflets.",
+    "usdaSymbol": "ARDR3",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false
+  },
+  {
+    "id": "asclepias-sullivantii",
+    "scientificName": "Asclepias sullivantii",
+    "commonNames": [
+      "Sullivan's Milkweed",
+      "Prairie Milkweed"
+    ],
+    "family": "Apocynaceae",
+    "nativeStates": [
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "MI",
+      "MN",
+      "MO",
+      "NE",
+      "OH",
+      "OK",
+      "SD",
+      "WI"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      6,
+      7
+    ],
+    "bloomColors": [
+      "pink"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Restoration-favorite milkweed — looks like common milkweed but with smooth (not fuzzy) leaves and more refined garden habit. Monarch host plant. Clump-forming rather than aggressively spreading.",
+    "usdaSymbol": "ASSU2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
+  },
+  {
+    "id": "baptisia-alba",
+    "scientificName": "Baptisia alba",
+    "commonNames": [
+      "White Wild Indigo"
+    ],
+    "family": "Fabaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "FL",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "NE",
+      "OH",
+      "OK",
+      "PA",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "WI"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 5
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 3
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Tall elegant spires of white pea-flowers on dark stems. Nitrogen-fixer; shrub-like clump-forming habit that holds shape all season. Black seedpods rattle in fall — popular dried-arrangement element.",
+    "usdaSymbol": "BAAL",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
+  },
+  {
+    "id": "baptisia-tinctoria",
+    "scientificName": "Baptisia tinctoria",
+    "commonNames": [
+      "Yellow Wild Indigo",
+      "Horseflyweed"
+    ],
+    "family": "Fabaceae",
+    "nativeStates": [
+      "AL",
+      "CT",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "IL",
+      "IN",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MS",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "VA",
+      "VT",
+      "WV"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 3
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Most compact Baptisia — bushy 2-ft mound of small clover-like leaves with bright yellow pea-flowers across the top. Excellent for dry sandy soils. Foliage turns silvery-black with frost.",
+    "usdaSymbol": "BATI",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
+  },
+  {
+    "id": "blephilia-ciliata",
+    "scientificName": "Blephilia ciliata",
+    "commonNames": [
+      "Downy Woodmint",
+      "Ohio Horsemint"
+    ],
+    "family": "Lamiaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DC",
+      "DE",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KY",
+      "MA",
+      "MD",
+      "MI",
+      "MO",
+      "MS",
+      "NC",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "purple",
+      "pink"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Tiered stack of small lavender bee-attracting flower heads, each ringed with showy pink-purple bracts. Aromatic mint-family foliage. Tolerates drier sites than its sibling *B. hirsuta*.",
+    "usdaSymbol": "BLCI",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
+  },
+  {
+    "id": "blephilia-hirsuta",
+    "scientificName": "Blephilia hirsuta",
+    "commonNames": [
+      "Hairy Woodmint"
+    ],
+    "family": "Lamiaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DC",
+      "DE",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "MA",
+      "MD",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1.5,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "white",
+      "purple"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Shade-tolerant sister of *B. ciliata* — stacked tiers of dotted-lavender bee flowers above hairy aromatic foliage. Long bloom; reliably overlooked native for the woodland edge.",
+    "usdaSymbol": "BLHI2",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
+  },
+  {
+    "id": "cardamine-concatenata",
+    "scientificName": "Cardamine concatenata",
+    "commonNames": [
+      "Cut-leaved Toothwort",
+      "Pepperroot"
+    ],
+    "family": "Brassicaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DC",
+      "DE",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "ND",
+      "NE",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "RI",
+      "SC",
+      "SD",
+      "TN",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1.2
+    },
+    "spreadFeet": {
+      "min": 0.3,
+      "max": 0.8
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5
+    ],
+    "bloomColors": [
+      "white",
+      "pink"
+    ],
+    "leafArrangement": "whorled",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Common spring ephemeral with deeply cut whorled leaves and clusters of white-pink four-petaled flowers. Host plant for the West Virginia white butterfly. Disappears by early summer.",
+    "usdaSymbol": "CACO26",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true
+  },
+  {
+    "id": "collinsonia-canadensis",
+    "scientificName": "Collinsonia canadensis",
+    "commonNames": [
+      "Richweed",
+      "Horsebalm",
+      "Stoneroot"
+    ],
+    "family": "Lamiaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "IL",
+      "IN",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "MI",
+      "MS",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Lemon-scented foliage; airy panicles of small tubular yellow flowers with fringed lower lips. One of the few mints that thrives in deep shade. Stoneroot rhizome is a traditional herbal remedy.",
+    "usdaSymbol": "COCA5",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false
+  },
+  {
+    "id": "conoclinium-coelestinum",
+    "scientificName": "Conoclinium coelestinum",
+    "commonNames": [
+      "Blue Mistflower",
+      "Wild Ageratum"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "MI",
+      "MO",
+      "MS",
+      "NC",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1.5,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 3
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      8,
+      9,
+      10
+    ],
+    "bloomColors": [
+      "blue",
+      "purple"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Fluffy late-season blue-purple flat-topped flower heads — looks like a hardy ageratum. Major late-season nectar source for migrating monarchs. Spreads by rhizomes; give it room or a contained bed. Formerly *Eupatorium coelestinum*.",
+    "usdaSymbol": "COCO13",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
+  },
+  {
+    "id": "cunila-origanoides",
+    "scientificName": "Cunila origanoides",
+    "commonNames": [
+      "Common Dittany",
+      "American Dittany"
+    ],
+    "family": "Lamiaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "DC",
+      "FL",
+      "GA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MD",
+      "MO",
+      "MS",
+      "NC",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "WV"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      8,
+      9,
+      10
+    ],
+    "bloomColors": [
+      "pink",
+      "purple"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Late-season oregano-scented native mint. Tiny lavender flowers in axillary clusters. Late-fall novelty: stems exude ribbons of \"frost flowers\" — extruded ice ribbons — on the first freezes.",
+    "usdaSymbol": "CUOR",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true
+  },
+  {
+    "id": "dicentra-canadensis",
+    "scientificName": "Dicentra canadensis",
+    "commonNames": [
+      "Squirrel Corn"
+    ],
+    "family": "Papaveraceae",
+    "nativeStates": [
+      "CT",
+      "DC",
+      "DE",
+      "GA",
+      "IL",
+      "IN",
+      "KY",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "RI",
+      "TN",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "white",
+      "pink"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Close sibling of Dutchman's breeches — same lacy blue-green foliage, but heart-shaped (not pantaloon-shaped) fragrant white flowers. Named for the yellow corn-kernel-like underground bulblets. True spring ephemeral.",
+    "usdaSymbol": "DICA12",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false
+  },
+  {
+    "id": "doellingeria-umbellata",
+    "scientificName": "Doellingeria umbellata",
+    "commonNames": [
+      "Parasol Whitetop",
+      "Tall Flat-top White Aster"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "CT",
+      "DC",
+      "DE",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KY",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 7
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      8,
+      9,
+      10
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Tall wet-meadow aster with flat-topped umbrella clusters of small white daisies — distinctive among asters. Mt. Cuba aster trials showed high pollinator value. Formerly *Aster umbellatus*.",
+    "usdaSymbol": "DOUM",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
+  },
+  {
+    "id": "erythronium-albidum",
+    "scientificName": "Erythronium albidum",
+    "commonNames": [
+      "White Trout Lily",
+      "White Fawn Lily"
+    ],
+    "family": "Liliaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "DC",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "MD",
+      "MI",
+      "MN",
+      "MO",
+      "NC",
+      "ND",
+      "NE",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "SD",
+      "TN",
+      "TX",
+      "VA",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.3,
+      "max": 0.6
+    },
+    "spreadFeet": {
+      "min": 0.3,
+      "max": 0.5
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": false,
+    "notes": "White-flowered sister of the more common yellow trout lily. Mottled olive-brown leaves emerge like trout flanks. Nodding reflexed-petal flower for a few weeks in early spring; foliage gone by June.",
+    "usdaSymbol": "ERAL5",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false
+  },
+  {
+    "id": "euphorbia-corollata",
+    "scientificName": "Euphorbia corollata",
+    "commonNames": [
+      "Flowering Spurge"
+    ],
+    "family": "Euphorbiaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "NE",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "RI",
+      "SC",
+      "SD",
+      "TN",
+      "TX",
+      "VA",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Airy 'baby's breath of the prairie' — cloud of tiny white flower-like bracts on wiry stems for months. Brilliant orange-red fall color. Milky sap can irritate skin (typical of Euphorbia).",
+    "usdaSymbol": "EUCO10",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
+  },
+  {
+    "id": "eutrochium-altissimum",
+    "scientificName": "Eutrochium altissimum",
+    "commonNames": [
+      "Tall Joe-pye Weed",
+      "Tall Boneset"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "MA",
+      "MD",
+      "MO",
+      "NC",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "TN",
+      "TX",
+      "VA",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 6
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      8,
+      9
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "whorled",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Drier-site Joe-pye, with white flat-topped flower clusters instead of pink. Tolerates rocky upland soils where the wetland-loving siblings die. Formerly *Eupatorium altissimum*.",
+    "usdaSymbol": "EUAL13",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
+  },
+  {
+    "id": "gaultheria-procumbens",
+    "scientificName": "Gaultheria procumbens",
+    "commonNames": [
+      "Wintergreen",
+      "Eastern Teaberry"
+    ],
+    "family": "Ericaceae",
+    "nativeStates": [
+      "AL",
+      "CT",
+      "DC",
+      "DE",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KY",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.3,
+      "max": 0.5
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      7,
+      8
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Classic evergreen woodland groundcover. Glossy oval leaves smell of wintergreen when crushed (source of the flavor before synthetics). Bright red berries persist all winter — minty, edible. Needs acidic well-drained soil.",
+    "usdaSymbol": "GAPR2",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true
+  },
+  {
+    "id": "helianthus-giganteus",
+    "scientificName": "Helianthus giganteus",
+    "commonNames": [
+      "Giant Sunflower",
+      "Tall Sunflower"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "CT",
+      "DC",
+      "DE",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KY",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "SC",
+      "SD",
+      "TN",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 6,
+      "max": 10
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      8,
+      9,
+      10
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "butterflies"
+    ],
+    "deerResistant": false,
+    "notes": "Towering 10-ft wet-meadow sunflower with many small yellow daisies on reddish stems. Stout enough not to flop. Goldfinches strip the seed heads in fall.",
+    "usdaSymbol": "HEGI",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
+  },
+  {
+    "id": "hepatica-acutiloba",
+    "scientificName": "Hepatica acutiloba",
+    "commonNames": [
+      "Sharp-lobed Hepatica"
+    ],
+    "family": "Ranunculaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DC",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KY",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.3,
+      "max": 0.6
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "white",
+      "pink",
+      "purple"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Earliest spring bloomer in the woods — flowers emerge from leathery overwintered foliage before new leaves. Distinguished from round-lobed hepatica by pointed (not rounded) leaf lobes. Prefers limestone soils.",
+    "usdaSymbol": "HENO",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false
+  },
+  {
+    "id": "hypoxis-hirsuta",
+    "scientificName": "Hypoxis hirsuta",
+    "commonNames": [
+      "Common Goldstar",
+      "Yellow Stargrass"
+    ],
+    "family": "Hypoxidaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "NE",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "RI",
+      "SC",
+      "SD",
+      "TN",
+      "TX",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.3,
+      "max": 0.8
+    },
+    "spreadFeet": {
+      "min": 0.3,
+      "max": 0.5
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Tiny grass-leaved corm-bulb with cheerful 6-petaled yellow stars over many weeks. Looks like a miniature daffodil-relative. Easy reseeder on lean dry soils.",
+    "usdaSymbol": "HYHI2",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false
+  },
+  {
+    "id": "liatris-aspera",
+    "scientificName": "Liatris aspera",
+    "commonNames": [
+      "Rough Blazing Star",
+      "Button Blazing Star"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "FL",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "ND",
+      "NE",
+      "OH",
+      "OK",
+      "PA",
+      "SC",
+      "SD",
+      "TN",
+      "TX",
+      "VA",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      8,
+      9,
+      10
+    ],
+    "bloomColors": [
+      "purple",
+      "pink"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Most drought-tolerant blazing star — large rounded flower clusters along the stem like spaced buttons. Late-season nectar for migrating monarchs.",
+    "usdaSymbol": "LIAS",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
+  },
+  {
+    "id": "liatris-scariosa",
+    "scientificName": "Liatris scariosa",
+    "commonNames": [
+      "Devil's Bit Blazing Star",
+      "Northern Blazing Star"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AL",
+      "CT",
+      "DC",
+      "DE",
+      "GA",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      8,
+      9
+    ],
+    "bloomColors": [
+      "purple"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Largest individual flower heads of any blazing star — open globes the size of golf balls. Conservation-listed in some Northeast states; less common than L. spicata in the trade.",
+    "usdaSymbol": "LISC",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
+  },
+  {
+    "id": "liatris-squarrosa",
+    "scientificName": "Liatris squarrosa",
+    "commonNames": [
+      "Scaly Blazing Star"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MD",
+      "MO",
+      "MS",
+      "NC",
+      "OH",
+      "OK",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "WV"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "purple"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Distinctive squared-off recurved phyllary bracts give the species name \"squarrosa\" (out-of-square). Earliest blazing star to bloom; shortest in stature.",
+    "usdaSymbol": "LISQ",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
+  },
+  {
+    "id": "lilium-canadense",
+    "scientificName": "Lilium canadense",
+    "commonNames": [
+      "Canada Lily",
+      "Wild Yellow Lily"
+    ],
+    "family": "Liliaceae",
+    "nativeStates": [
+      "AL",
+      "CT",
+      "DC",
+      "DE",
+      "GA",
+      "IN",
+      "KY",
+      "MA",
+      "MD",
+      "ME",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "VA",
+      "VT",
+      "WV"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 6
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      6,
+      7
+    ],
+    "bloomColors": [
+      "yellow",
+      "orange"
+    ],
+    "leafArrangement": "whorled",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds",
+      "butterflies"
+    ],
+    "deerResistant": false,
+    "notes": "Nodding yellow-to-orange bell-shaped flowers (petals less reflexed than Turk's-cap lilies). Up to 20 flowers per stem on mature plants. Wet woodland edges and meadows.",
+    "usdaSymbol": "LICA3",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
+  },
+  {
+    "id": "lysimachia-ciliata",
+    "scientificName": "Lysimachia ciliata",
+    "commonNames": [
+      "Fringed Loosestrife"
+    ],
+    "family": "Primulaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "AZ",
+      "CA",
+      "CO",
+      "CT",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "IA",
+      "ID",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "MT",
+      "NC",
+      "ND",
+      "NE",
+      "NH",
+      "NJ",
+      "NM",
+      "NV",
+      "NY",
+      "OH",
+      "OK",
+      "OR",
+      "PA",
+      "RI",
+      "SC",
+      "SD",
+      "TN",
+      "TX",
+      "UT",
+      "VA",
+      "VT",
+      "WA",
+      "WI",
+      "WV",
+      "WY"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Native loosestrife (NOT the invasive purple) — downturned yellow star flowers from upper leaf axils. Fringed leaf-stalk hairs give the species name. Specialist host for oil-collecting Macropis bees.",
+    "usdaSymbol": "LYCI",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
+  },
+  {
+    "id": "lythrum-alatum",
+    "scientificName": "Lythrum alatum",
+    "commonNames": [
+      "Winged Lythrum",
+      "Winged Loosestrife"
+    ],
+    "family": "Lythraceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CO",
+      "CT",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "NE",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "RI",
+      "SC",
+      "SD",
+      "TN",
+      "TX",
+      "VA",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "purple",
+      "pink"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Native Lythrum — wiry stems with magenta flowers in upper leaf axils all summer. DO NOT confuse with invasive purple loosestrife (*L. salicaria*), which has dense terminal spikes and lance leaves. Winged stems are diagnostic.",
+    "usdaSymbol": "LYAL2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
+  },
+  {
+    "id": "maianthemum-canadense",
+    "scientificName": "Maianthemum canadense",
+    "commonNames": [
+      "Canada Mayflower",
+      "False Lily-of-the-valley"
+    ],
+    "family": "Asparagaceae",
+    "nativeStates": [
+      "CT",
+      "DC",
+      "DE",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KY",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "RI",
+      "SC",
+      "SD",
+      "TN",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.3,
+      "max": 0.5
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Carpet-forming two-leaved groundcover of northern woods. Small fluffy spikes of white flowers above heart-shaped leaves, ripening into speckled red berries. Tolerates dry shade once established.",
+    "usdaSymbol": "MACA4",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false
+  },
+  {
+    "id": "maianthemum-stellatum",
+    "scientificName": "Maianthemum stellatum",
+    "commonNames": [
+      "Starry False Solomon's Seal",
+      "Starry Solomon Plume"
+    ],
+    "family": "Asparagaceae",
+    "nativeStates": [
+      "AK",
+      "AR",
+      "AZ",
+      "CA",
+      "CO",
+      "CT",
+      "DC",
+      "GA",
+      "IA",
+      "ID",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "MT",
+      "NC",
+      "ND",
+      "NE",
+      "NH",
+      "NJ",
+      "NM",
+      "NV",
+      "NY",
+      "OH",
+      "OR",
+      "PA",
+      "RI",
+      "SD",
+      "TN",
+      "UT",
+      "VT",
+      "WA",
+      "WI",
+      "WV",
+      "WY"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Distinctive open star-shaped white flowers (not the dense fluff of M. racemosum). Arching wider-leaved stems; spreads steadily by rhizomes. Berries ripen striped-then-red. Formerly *Smilacina stellata*.",
+    "usdaSymbol": "MAST4",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
+  },
+  {
+    "id": "mimulus-alatus",
+    "scientificName": "Mimulus alatus",
+    "commonNames": [
+      "Sharpwing Monkeyflower",
+      "Winged Monkeyflower"
+    ],
+    "family": "Phrymaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MD",
+      "MI",
+      "MO",
+      "MS",
+      "NC",
+      "NE",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "WV"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "purple",
+      "pink"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Almost identical to *M. ringens* but with winged stems and stalked (not stalkless) leaves. Snapdragon-like lavender-purple flowers in upper leaf axils. Floodplain and streambank.",
+    "usdaSymbol": "MIAL5",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false
+  },
+  {
+    "id": "mitchella-repens",
+    "scientificName": "Mitchella repens",
+    "commonNames": [
+      "Partridgeberry"
+    ],
+    "family": "Rubiaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.1,
+      "max": 0.3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "white",
+      "pink"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Evergreen creeping vine-like groundcover. Pairs of fragrant white trumpet flowers fuse at the base into a single red berry, two flower scars visible. Berries persist through winter.",
+    "usdaSymbol": "MIRE",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false
+  },
+  {
+    "id": "mitella-diphylla",
+    "scientificName": "Mitella diphylla",
+    "commonNames": [
+      "Twoleaf Miterwort",
+      "Bishop's Cap"
+    ],
+    "family": "Saxifragaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DC",
+      "DE",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KY",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.8,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Spike of intricate snowflake-shaped tiny white flowers — only visible up close. Two opposite leaves clasp the flowering stalk (the species name). Charming connoisseur plant for shade gardens.",
+    "usdaSymbol": "MIDI6",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false
+  },
+  {
+    "id": "oenothera-fruticosa",
+    "scientificName": "Oenothera fruticosa",
+    "commonNames": [
+      "Narrow-leaf Evening Primrose",
+      "Sundrops"
+    ],
+    "family": "Onagraceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "IL",
+      "IN",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MS",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Day-blooming evening primrose — bright yellow cup flowers open in morning, unlike the night-blooming species. Long bloom for weeks. Reliable mid-border perennial.",
+    "usdaSymbol": "OEFR",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
+  },
+  {
+    "id": "oligoneuron-riddellii",
+    "scientificName": "Oligoneuron riddellii",
+    "commonNames": [
+      "Riddell's Goldenrod"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AR",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KY",
+      "MI",
+      "MN",
+      "MO",
+      "OH",
+      "WI"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      8,
+      9,
+      10
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Wet-prairie goldenrod with distinctive folded V-shaped leaves held nearly vertical. Flat-topped (not plumed) flower clusters. Conservation concern as wet prairies disappear. Formerly *Solidago riddellii*.",
+    "usdaSymbol": "OLRI",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
+  },
+  {
+    "id": "oxypolis-rigidior",
+    "scientificName": "Oxypolis rigidior",
+    "commonNames": [
+      "Stiff Cowbane",
+      "Pig Potato"
+    ],
+    "family": "Apiaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      8,
+      9
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Tall white-flowered umbel of wet meadows. Resembles cultivated parsley relatives but TOXIC like its cousin water hemlock — never confuse with edible carrots. Important late-season pollinator nectar.",
+    "usdaSymbol": "OXRI",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false
+  },
+  {
+    "id": "penstemon-hirsutus",
+    "scientificName": "Penstemon hirsutus",
+    "commonNames": [
+      "Hairy Beardtongue",
+      "Northeastern Beardtongue"
+    ],
+    "family": "Plantaginaceae",
+    "nativeStates": [
+      "CT",
+      "DC",
+      "DE",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KY",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "RI",
+      "TN",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2.5
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "pink",
+      "purple"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Compact Penstemon with pale lavender-pink tubular flowers and hairy stems/foliage. Evergreen basal rosette. Smaller and tougher than *P. digitalis* for the dry rock-garden border.",
+    "usdaSymbol": "PEHI3",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
+  },
+  {
+    "id": "phlox-maculata",
+    "scientificName": "Phlox maculata",
+    "commonNames": [
+      "Spotted Phlox",
+      "Meadow Phlox",
+      "Wild Sweet William"
+    ],
+    "family": "Polemoniaceae",
+    "nativeStates": [
+      "AL",
+      "CT",
+      "DC",
+      "DE",
+      "GA",
+      "IL",
+      "IN",
+      "KY",
+      "MA",
+      "MD",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      6,
+      7
+    ],
+    "bloomColors": [
+      "pink",
+      "purple"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "hummingbirds"
+    ],
+    "deerResistant": false,
+    "notes": "Cylindrical pyramidal pink flower clusters earlier than *P. paniculata*. Purple-spotted stems give the species name. Significantly more powdery-mildew-resistant than garden phlox.",
+    "usdaSymbol": "PHMA5",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
+  },
+  {
+    "id": "phlox-pilosa",
+    "scientificName": "Phlox pilosa",
+    "commonNames": [
+      "Downy Phlox",
+      "Prairie Phlox"
+    ],
+    "family": "Polemoniaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "NE",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "SC",
+      "SD",
+      "TN",
+      "TX",
+      "VA",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "pink",
+      "purple"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "hummingbirds"
+    ],
+    "deerResistant": false,
+    "notes": "Mid-height prairie phlox with downy soft-hairy foliage and pink-lavender flowers. Earlier and tougher than garden phlox; the drier-soil counterpart to *P. divaricata*.",
+    "usdaSymbol": "PHPI",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
+  },
+  {
+    "id": "physostegia-virginiana",
+    "scientificName": "Physostegia virginiana",
+    "commonNames": [
+      "Obedient Plant",
+      "False Dragonhead"
+    ],
+    "family": "Lamiaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CO",
+      "CT",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "ND",
+      "NE",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "RI",
+      "SC",
+      "SD",
+      "TN",
+      "TX",
+      "VA",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 3
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "pink",
+      "purple",
+      "white"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "hummingbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Snapdragon-like flowers in four-sided spikes — each flower stays put when pushed sideways (hence 'obedient'). Aggressive rhizomatous spreader in good soil; contain in a defined bed.",
+    "usdaSymbol": "PHVI5",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
+  },
+  {
+    "id": "primula-meadia",
+    "scientificName": "Primula meadia",
+    "commonNames": [
+      "Eastern Shooting Star",
+      "Pride of Ohio"
+    ],
+    "family": "Primulaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "DC",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "MD",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "OH",
+      "OK",
+      "PA",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "white",
+      "pink"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Unforgettable flower — petals fully reflexed backward like a comet trailing past dark anthers. Buzz-pollinated by bumblebees. Goes summer-dormant after seed-set. Formerly *Dodecatheon meadia*.",
+    "usdaSymbol": "PRME8",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
+  },
+  {
+    "id": "pycnanthemum-incanum",
+    "scientificName": "Pycnanthemum incanum",
+    "commonNames": [
+      "Hoary Mountain Mint"
+    ],
+    "family": "Lamiaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DC",
+      "DE",
+      "GA",
+      "IL",
+      "IN",
+      "KY",
+      "MA",
+      "MD",
+      "MI",
+      "MO",
+      "MS",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "VA",
+      "WV"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 3
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "white",
+      "purple"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Distinctive whitened (hoary) upper leaves act as flower-like bracts long before and after actual bloom. Spotted pale lavender flowers. Pollinator powerhouse in shade tolerance Pycnanthemum lacks elsewhere.",
+    "usdaSymbol": "PYIN",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": true
+  },
+  {
+    "id": "pycnanthemum-verticillatum",
+    "scientificName": "Pycnanthemum verticillatum",
+    "commonNames": [
+      "Whorled Mountain Mint"
+    ],
+    "family": "Lamiaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DC",
+      "DE",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KY",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MO",
+      "MS",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1.5,
+      "max": 3
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "whorled",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Top-rated pollinator plant alongside *P. tenuifolium*. Distinguished by broader leaves than slender mountain mint. Aromatic; spreads steadily by rhizomes.",
+    "usdaSymbol": "PYVE",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": true
+  },
+  {
+    "id": "rudbeckia-laciniata",
+    "scientificName": "Rudbeckia laciniata",
+    "commonNames": [
+      "Cutleaf Coneflower",
+      "Green-headed Coneflower"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "AZ",
+      "CO",
+      "CT",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "IA",
+      "ID",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "MT",
+      "NC",
+      "ND",
+      "NE",
+      "NH",
+      "NJ",
+      "NM",
+      "NY",
+      "OH",
+      "OK",
+      "OR",
+      "PA",
+      "RI",
+      "SC",
+      "SD",
+      "TN",
+      "TX",
+      "UT",
+      "VA",
+      "VT",
+      "WA",
+      "WI",
+      "WV",
+      "WY"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 5,
+      "max": 9
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "songbirds"
+    ],
+    "deerResistant": false,
+    "notes": "Tall yellow coneflower with drooping ray petals and a tall green central cone. Deeply cut leaves. Spreads aggressively in rich moist soils — site where it can colonize freely. Parent of double-flowered heirloom 'Golden Glow'.",
+    "usdaSymbol": "RULA3",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
+  },
+  {
+    "id": "salvia-lyrata",
+    "scientificName": "Salvia lyrata",
+    "commonNames": [
+      "Lyre-leaf Sage"
+    ],
+    "family": "Lamiaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "MO",
+      "MS",
+      "NC",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "WV"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "blue",
+      "purple"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Burgundy-tinted basal rosette of lyre-shaped leaves persists in mild winters. Spike of pale blue-violet two-lipped flowers in spring. Self-sows freely on lean soils.",
+    "usdaSymbol": "SALY2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false
+  },
+  {
+    "id": "saxifraga-virginiensis",
+    "scientificName": "Saxifraga virginiensis",
+    "commonNames": [
+      "Early Saxifrage"
+    ],
+    "family": "Saxifragaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DC",
+      "DE",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KY",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.3,
+      "max": 1
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "rocky"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Wedges into rock crevices and ledges (the name *saxifraga* means \"rock-breaker\"). Basal rosette of toothed succulent leaves; airy panicle of tiny white flowers in earliest spring.",
+    "usdaSymbol": "SAVI3",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false
+  },
+  {
+    "id": "sedum-ternatum",
+    "scientificName": "Sedum ternatum",
+    "commonNames": [
+      "Woodland Stonecrop",
+      "Three-leaved Stonecrop"
+    ],
+    "family": "Crassulaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DC",
+      "DE",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KY",
+      "MA",
+      "MD",
+      "MI",
+      "MO",
+      "MS",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "SC",
+      "TN",
+      "VA",
+      "WV"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.2,
+      "max": 0.5
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "whorled",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Only native shade-tolerant Sedum — all others are sun lovers. Pale green succulent leaves in whorls of three. Star-shaped white flowers in spring. Excellent groundcover for shady rock walls and slopes.",
+    "usdaSymbol": "SETE3",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false
+  },
+  {
+    "id": "silene-stellata",
+    "scientificName": "Silene stellata",
+    "commonNames": [
+      "Whorled Catchfly",
+      "Starry Campion"
+    ],
+    "family": "Caryophyllaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DC",
+      "DE",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "NE",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "whorled",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "White star-shaped flowers with deeply fringed petals — each petal cut into thread-like segments. Whorled leaves and airy panicle give an unusually delicate look for a native.",
+    "usdaSymbol": "SIST2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
+  },
+  {
+    "id": "silene-virginica",
+    "scientificName": "Silene virginica",
+    "commonNames": [
+      "Fire Pink"
+    ],
+    "family": "Caryophyllaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "DC",
+      "DE",
+      "GA",
+      "IL",
+      "IN",
+      "KY",
+      "MD",
+      "MI",
+      "MO",
+      "MS",
+      "NC",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "SC",
+      "TN",
+      "VA",
+      "WV"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "red"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Brilliant crimson-scarlet star flowers with notched petals — magnet for ruby-throated hummingbirds. Short-lived but self-sows readily on rocky woodland slopes. One of the showiest red natives.",
+    "usdaSymbol": "SIVI4",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
+  },
+  {
+    "id": "silphium-trifoliatum",
+    "scientificName": "Silphium trifoliatum",
+    "commonNames": [
+      "Whorled Rosinweed"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AL",
+      "GA",
+      "IN",
+      "KY",
+      "MD",
+      "MS",
+      "NC",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "SC",
+      "TN",
+      "VA",
+      "WV"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 7
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "whorled",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "songbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Whorls of three leaves around square stems; loose panicles of yellow daisies for weeks. More refined than cup plant (*S. perfoliatum*) — doesn't flop in good gardens.",
+    "usdaSymbol": "SITR",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
+  },
+  {
+    "id": "solidago-flexicaulis",
+    "scientificName": "Solidago flexicaulis",
+    "commonNames": [
+      "Zigzag Goldenrod",
+      "Broad-leaved Goldenrod"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DC",
+      "DE",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KY",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "NC",
+      "ND",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1.5,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      8,
+      9,
+      10
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "songbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Shade-tolerant goldenrod with distinctive zigzagging stem and broad ovate leaves (very un-goldenrod-like). Yellow flower clusters in upper leaf axils. Spreads steadily in rich woodland soil.",
+    "usdaSymbol": "SOFL2",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
+  },
+  {
+    "id": "solidago-juncea",
+    "scientificName": "Solidago juncea",
+    "commonNames": [
+      "Early Goldenrod"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DC",
+      "DE",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "ND",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "RI",
+      "SC",
+      "SD",
+      "TN",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "songbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Earliest goldenrod to flower — often starts in late June, weeks before showy and Canada goldenrods. Pyramidal plumes with one-sided arching branches.",
+    "usdaSymbol": "SOJU",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
+  },
+  {
+    "id": "solidago-ulmifolia",
+    "scientificName": "Solidago ulmifolia",
+    "commonNames": [
+      "Elm-leaved Goldenrod"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      8,
+      9,
+      10
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "songbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Shade-tolerant goldenrod with toothed elm-like leaves and graceful arching one-sided branches. Mt. Cuba goldenrod trials ranked it a top performer in part shade.",
+    "usdaSymbol": "SOUL",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
+  },
+  {
+    "id": "symphyotrichum-firmum",
+    "scientificName": "Symphyotrichum firmum",
+    "commonNames": [
+      "Shining Aster"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "CT",
+      "DC",
+      "DE",
+      "IA",
+      "IL",
+      "IN",
+      "KY",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "TN",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      8,
+      9,
+      10
+    ],
+    "bloomColors": [
+      "blue",
+      "purple"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Glossy lance-shaped leaves on smooth purplish stems. Wet-meadow aster with pale blue rays. Often lumped with swamp aster (*S. puniceum*). Formerly *Aster firmus*.",
+    "usdaSymbol": "SYFI",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
+  },
+  {
+    "id": "symphyotrichum-urophyllum",
+    "scientificName": "Symphyotrichum urophyllum",
+    "commonNames": [
+      "Arrow-leaved Aster",
+      "White Arrow-leaved Aster"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DC",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "MD",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "ND",
+      "NE",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "SC",
+      "SD",
+      "TN",
+      "TX",
+      "VA",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      8,
+      9,
+      10
+    ],
+    "bloomColors": [
+      "white",
+      "blue"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Shade-tolerant aster with arrow-shaped lower leaves on winged petioles. White to pale blue rays in airy panicles. Less common than its sister *S. cordifolium* in the trade. Formerly *Aster sagittifolius*.",
+    "usdaSymbol": "SYUR",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
+  },
+  {
+    "id": "thalictrum-dasycarpum",
+    "scientificName": "Thalictrum dasycarpum",
+    "commonNames": [
+      "Purple Meadow Rue",
+      "Tall Meadow Rue"
+    ],
+    "family": "Ranunculaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CO",
+      "CT",
+      "DC",
+      "DE",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "MT",
+      "ND",
+      "NE",
+      "NH",
+      "NJ",
+      "NM",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "SD",
+      "TN",
+      "TX",
+      "VA",
+      "VT",
+      "WI",
+      "WV",
+      "WY"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 4,
+      "max": 6
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 3
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "white",
+      "purple"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Tall airy meadow rue with purple-tinged stems and fluffy white-to-pinkish flowers (no petals — just stamens). Lacy columbine-like foliage. Wind-pollinated, dioecious.",
+    "usdaSymbol": "THDA",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
+  },
+  {
+    "id": "thalictrum-pubescens",
+    "scientificName": "Thalictrum pubescens",
+    "commonNames": [
+      "King-of-the-Meadow",
+      "Tall Meadow Rue"
+    ],
+    "family": "Ranunculaceae",
+    "nativeStates": [
+      "AL",
+      "CT",
+      "DC",
+      "DE",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KY",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 4,
+      "max": 7
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 3
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      6,
+      7
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Sometimes treated as a synonym of *T. polygamum*. Tall cloud-like white-puff inflorescences over delicate columbine-like foliage. Eastern wet-meadow counterpart of *T. dasycarpum*.",
+    "usdaSymbol": "THPU",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
+  },
+  {
+    "id": "thalictrum-thalictroides",
+    "scientificName": "Thalictrum thalictroides",
+    "commonNames": [
+      "Rue Anemone"
+    ],
+    "family": "Ranunculaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.3,
+      "max": 0.8
+    },
+    "spreadFeet": {
+      "min": 0.3,
+      "max": 0.6
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5
+    ],
+    "bloomColors": [
+      "white",
+      "pink"
+    ],
+    "leafArrangement": "whorled",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Delicate spring ephemeral with white-pink anemone-like flowers above tiny columbine-like leaves. Cross between true Thalictrum and true Anemone in look. Formerly *Anemonella thalictroides*.",
+    "usdaSymbol": "THTH2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false
+  },
+  {
+    "id": "trillium-flexipes",
+    "scientificName": "Trillium flexipes",
+    "commonNames": [
+      "Drooping Trillium",
+      "Bent Trillium"
+    ],
+    "family": "Melanthiaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "MD",
+      "MI",
+      "MN",
+      "MO",
+      "NY",
+      "OH",
+      "PA",
+      "TN",
+      "VA",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "whorled",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": false,
+    "notes": "White nodding trillium with the flower held below or beside the leaves on a bent pedicel. Wider petals than its sibling *T. cernuum*. Slow-growing; never dig from wild populations.",
+    "usdaSymbol": "TRFL",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false
+  },
+  {
+    "id": "trillium-sessile",
+    "scientificName": "Trillium sessile",
+    "commonNames": [
+      "Toadshade",
+      "Sessile Trillium"
+    ],
+    "family": "Melanthiaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "GA",
+      "IL",
+      "IN",
+      "KY",
+      "MD",
+      "MI",
+      "MO",
+      "MS",
+      "NC",
+      "NY",
+      "OH",
+      "PA",
+      "TN",
+      "VA",
+      "WV"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "red",
+      "purple"
+    ],
+    "leafArrangement": "whorled",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": false,
+    "notes": "Stalkless dark-maroon upright flower sitting directly on the whorl of mottled silver-and-green leaves. Faint carrion scent attracts fly pollinators. Smaller than *T. cuneatum* but similar look.",
+    "usdaSymbol": "TRSE",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false
+  },
+  {
+    "id": "uvularia-perfoliata",
+    "scientificName": "Uvularia perfoliata",
+    "commonNames": [
+      "Perfoliate Bellwort",
+      "Mealy Bellwort"
+    ],
+    "family": "Colchicaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "IL",
+      "IN",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "MS",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "VA",
+      "VT",
+      "WV"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Slender stems appear pierced through the leaves (perfoliate); twisted pale-yellow bell flowers nod beneath. Quieter sister of *U. grandiflora* — smaller flowers, daintier presence.",
+    "usdaSymbol": "UVPE",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
+  },
+  {
+    "id": "uvularia-sessilifolia",
+    "scientificName": "Uvularia sessilifolia",
+    "commonNames": [
+      "Sessile Bellwort",
+      "Wild Oats"
+    ],
+    "family": "Colchicaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "ND",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1.2
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Smallest of the bellworts — delicate pale-yellow bells on arching stems. Stalkless (sessile) leaves don't pierce the stem (vs. perfoliate bellwort). Spreads steadily by rhizomes into colonies.",
+    "usdaSymbol": "UVSE",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false
+  },
+  {
+    "id": "verbena-stricta",
+    "scientificName": "Verbena stricta",
+    "commonNames": [
+      "Hoary Vervain"
+    ],
+    "family": "Verbenaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CO",
+      "CT",
+      "DC",
+      "DE",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "MT",
+      "NC",
+      "ND",
+      "NE",
+      "NH",
+      "NJ",
+      "NM",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "SD",
+      "TN",
+      "TX",
+      "VA",
+      "VT",
+      "WI",
+      "WV",
+      "WY"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "purple",
+      "blue"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Densely white-felted gray-green leaves (hoary). Stiff upright purple flower spikes for months. Excellent drought tolerance; thrives on the worst dry sites where blue vervain struggles.",
+    "usdaSymbol": "VEST",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
+  },
+  {
+    "id": "zizia-aptera",
+    "scientificName": "Zizia aptera",
+    "commonNames": [
+      "Heart-leaved Alexanders",
+      "Meadow Zizia"
+    ],
+    "family": "Apiaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CO",
+      "CT",
+      "GA",
+      "IA",
+      "ID",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "MT",
+      "NC",
+      "ND",
+      "NE",
+      "NH",
+      "NJ",
+      "NM",
+      "NY",
+      "OH",
+      "OR",
+      "PA",
+      "SD",
+      "TN",
+      "UT",
+      "VA",
+      "VT",
+      "WA",
+      "WI",
+      "WV",
+      "WY"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2.5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Heart-shaped basal leaves distinguish it from the lacy-leaved sister *Z. aurea*. Flat-topped yellow umbels in spring. Black swallowtail host plant.",
+    "usdaSymbol": "ZIAP",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
+  },
+  {
+    "id": "calamagrostis-canadensis",
+    "scientificName": "Calamagrostis canadensis",
+    "commonNames": [
+      "Bluejoint"
+    ],
+    "family": "Poaceae",
+    "nativeStates": [
+      "AK",
+      "CA",
+      "CO",
+      "CT",
+      "DC",
+      "DE",
+      "IA",
+      "ID",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "MT",
+      "NC",
+      "ND",
+      "NE",
+      "NH",
+      "NJ",
+      "NM",
+      "NV",
+      "NY",
+      "OH",
+      "OR",
+      "PA",
+      "RI",
+      "SD",
+      "TN",
+      "UT",
+      "VA",
+      "VT",
+      "WA",
+      "WI",
+      "WV",
+      "WY"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 5
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 3
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "purple",
+      "green"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Common cool-season wet-meadow grass with arching purple-tinged flower panicles aging to straw-gold. Spreads by rhizomes into solid stands. Important nesting cover for waterbirds.",
+    "usdaSymbol": "CACA4",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
+  },
+  {
+    "id": "carex-blanda",
+    "scientificName": "Carex blanda",
+    "commonNames": [
+      "Eastern Woodland Sedge",
+      "Common Wood Sedge"
+    ],
+    "family": "Cyperaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "ND",
+      "NE",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "RI",
+      "SC",
+      "SD",
+      "TN",
+      "TX",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "green"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "songbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Easiest woodland sedge for gardens — tolerates dry shade, foot traffic, and lawn-style mowing. Bright lime-green semi-evergreen mounds; widely substituted for non-native lawn grass in shade.",
+    "usdaSymbol": "CABL5",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false
+  },
+  {
+    "id": "carex-plantaginea",
+    "scientificName": "Carex plantaginea",
+    "commonNames": [
+      "Plantain-leaved Sedge",
+      "Seersucker Sedge"
+    ],
+    "family": "Cyperaceae",
+    "nativeStates": [
+      "CT",
+      "DC",
+      "DE",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KY",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1.2
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "purple",
+      "green"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [],
+    "deerResistant": true,
+    "notes": "Distinctive 1-inch-wide pleated puckered evergreen leaves — far broader than typical sedges. Reddish-purple flower spikes in spring. Popular under-tree groundcover, clump-forming.",
+    "usdaSymbol": "CAPL3",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false
+  },
+  {
+    "id": "carex-platyphylla",
+    "scientificName": "Carex platyphylla",
+    "commonNames": [
+      "Broad-leaved Sedge",
+      "Silver Sedge"
+    ],
+    "family": "Cyperaceae",
+    "nativeStates": [
+      "CT",
+      "DC",
+      "DE",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KY",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "RI",
+      "TN",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.4,
+      "max": 1
+    },
+    "spreadFeet": {
+      "min": 0.8,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "green"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [],
+    "deerResistant": true,
+    "notes": "Striking bluish-silver wide leaves — the most colorful native sedge for shade. Clump-forming; tolerates dry shade once established. Beautiful contrast against dark-green woodland ferns.",
+    "usdaSymbol": "CAPL2",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false
+  },
+  {
+    "id": "cinna-arundinacea",
+    "scientificName": "Cinna arundinacea",
+    "commonNames": [
+      "Sweet Woodreed",
+      "Stout Woodreed"
+    ],
+    "family": "Poaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "RI",
+      "SC",
+      "SD",
+      "TN",
+      "TX",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      8,
+      9
+    ],
+    "bloomColors": [
+      "green",
+      "purple"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [],
+    "deerResistant": true,
+    "notes": "Tall arching shade-tolerant grass for floodplain and woodland edges. Open nodding flower panicles in late summer. Faint sweet hay scent when crushed.",
+    "usdaSymbol": "CIAR2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
+  },
+  {
+    "id": "diarrhena-americana",
+    "scientificName": "Diarrhena americana",
+    "commonNames": [
+      "American Beakgrain"
+    ],
+    "family": "Poaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "MD",
+      "MI",
+      "MO",
+      "MS",
+      "NC",
+      "OH",
+      "OK",
+      "PA",
+      "SC",
+      "TN",
+      "VA",
+      "WV"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "green"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [],
+    "deerResistant": true,
+    "notes": "Glossy arching dark-green leaves give a clean look in deep shade — one of the few truly shade-thriving native grasses. Spreads slowly by rhizomes. Distinctive beaked grain at maturity.",
+    "usdaSymbol": "DIAM4",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false
   }
 ]
