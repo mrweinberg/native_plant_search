@@ -737,7 +737,7 @@
   },
   {
     "id": "solidago-rigida",
-    "scientificName": "Solidago rigida",
+    "scientificName": "Oligoneuron rigidum",
     "commonNames": [
       "Stiff Goldenrod"
     ],
@@ -1125,8 +1125,7 @@
     ],
     "bloomMonths": [
       7,
-      8,
-      9
+      8
     ],
     "bloomColors": [
       "pink",
@@ -1365,7 +1364,7 @@
       "white",
       "pink"
     ],
-    "leafArrangement": "alternate",
+    "leafArrangement": "basal",
     "leafRetention": "semi-evergreen",
     "wildlifeValue": [
       "pollinators"
@@ -1443,7 +1442,7 @@
       "white",
       "green"
     ],
-    "leafArrangement": "alternate",
+    "leafArrangement": "basal",
     "leafRetention": "semi-evergreen",
     "wildlifeValue": [
       "pollinators",
@@ -1615,7 +1614,7 @@
       "brown",
       "red"
     ],
-    "leafArrangement": "opposite",
+    "leafArrangement": "basal",
     "leafRetention": "deciduous",
     "wildlifeValue": [
       "host plant"
@@ -1872,8 +1871,7 @@
       5
     ],
     "bloomColors": [
-      "white",
-      "pink"
+      "white"
     ],
     "leafArrangement": "opposite",
     "leafRetention": "deciduous",
@@ -2946,7 +2944,7 @@
     ],
     "bloomColors": [
       "pink",
-      "brown"
+      "red"
     ],
     "leafArrangement": "alternate",
     "leafRetention": "deciduous",
@@ -3035,7 +3033,7 @@
     ],
     "bloomColors": [
       "purple",
-      "orange"
+      "red"
     ],
     "leafArrangement": "alternate",
     "leafRetention": "deciduous",
@@ -3269,7 +3267,7 @@
     ],
     "bloomMonths": [],
     "bloomColors": [],
-    "leafArrangement": "whorled",
+    "leafArrangement": "basal",
     "leafRetention": "evergreen",
     "wildlifeValue": [
       "host plant"
@@ -3339,7 +3337,7 @@
     ],
     "bloomMonths": [],
     "bloomColors": [],
-    "leafArrangement": "whorled",
+    "leafArrangement": "basal",
     "leafRetention": "deciduous",
     "wildlifeValue": [],
     "deerResistant": true,
@@ -3424,7 +3422,7 @@
     ],
     "bloomMonths": [],
     "bloomColors": [],
-    "leafArrangement": "whorled",
+    "leafArrangement": "basal",
     "leafRetention": "deciduous",
     "wildlifeValue": [],
     "deerResistant": true,
@@ -3502,7 +3500,7 @@
     ],
     "bloomMonths": [],
     "bloomColors": [],
-    "leafArrangement": "whorled",
+    "leafArrangement": "basal",
     "leafRetention": "evergreen",
     "wildlifeValue": [],
     "deerResistant": true,
@@ -3581,7 +3579,7 @@
     ],
     "bloomMonths": [],
     "bloomColors": [],
-    "leafArrangement": "whorled",
+    "leafArrangement": "basal",
     "leafRetention": "deciduous",
     "wildlifeValue": [],
     "deerResistant": true,
@@ -3666,7 +3664,7 @@
     ],
     "bloomMonths": [],
     "bloomColors": [],
-    "leafArrangement": "whorled",
+    "leafArrangement": "basal",
     "leafRetention": "deciduous",
     "wildlifeValue": [],
     "deerResistant": true,
@@ -4190,7 +4188,7 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": true
+    "culinaryUse": false
   },
   {
     "id": "trillium-grandiflorum",
@@ -4427,7 +4425,7 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": true
+    "culinaryUse": false
   },
   {
     "id": "claytonia-virginica",
@@ -4823,8 +4821,7 @@
       9
     ],
     "bloomColors": [
-      "white",
-      "pink"
+      "white"
     ],
     "leafArrangement": "opposite",
     "leafRetention": "deciduous",
@@ -5005,8 +5002,7 @@
       7
     ],
     "bloomColors": [
-      "pink",
-      "purple"
+      "pink"
     ],
     "leafArrangement": "opposite",
     "leafRetention": "deciduous",
@@ -5022,7 +5018,7 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": true
+    "culinaryUse": false
   },
   {
     "id": "eupatorium-perfoliatum",
@@ -5608,7 +5604,7 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": true
+    "culinaryUse": false
   },
   {
     "id": "maianthemum-racemosum",
@@ -5840,7 +5836,7 @@
     "bloomColors": [
       "white"
     ],
-    "leafArrangement": "whorled",
+    "leafArrangement": "basal",
     "leafRetention": "deciduous",
     "wildlifeValue": [
       "pollinators"
@@ -6825,7 +6821,7 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": true
+    "culinaryUse": false
   },
   {
     "id": "quercus-rubra",
@@ -6955,7 +6951,8 @@
       5
     ],
     "bloomColors": [
-      "yellow"
+      "yellow",
+      "green"
     ],
     "leafArrangement": "alternate",
     "leafRetention": "deciduous",
@@ -7708,8 +7705,8 @@
       "loam"
     ],
     "bloomMonths": [
-      5,
-      6
+      4,
+      5
     ],
     "bloomColors": [
       "yellow",
@@ -8156,7 +8153,7 @@
     "bloomColors": [
       "yellow"
     ],
-    "leafArrangement": "whorled",
+    "leafArrangement": "alternate",
     "leafRetention": "evergreen",
     "wildlifeValue": [
       "songbirds",
@@ -9035,7 +9032,7 @@
     "commonNames": [
       "Northern Bush Honeysuckle"
     ],
-    "family": "Diervillaceae",
+    "family": "Caprifoliaceae",
     "generalAppearance": "shrub",
     "lifespan": "perennial",
     "heightFeet": {
@@ -9302,11 +9299,10 @@
     ],
     "bloomColors": [
       "orange",
-      "red",
-      "yellow"
+      "red"
     ],
     "leafArrangement": "opposite",
-    "leafRetention": "evergreen",
+    "leafRetention": "semi-evergreen",
     "wildlifeValue": [
       "hummingbirds",
       "pollinators"
@@ -10692,7 +10688,7 @@
     "bloomColors": [
       "yellow",
       "green",
-      "purple"
+      "brown"
     ],
     "leafArrangement": "alternate",
     "leafRetention": "deciduous",
@@ -11237,8 +11233,8 @@
     "generalAppearance": "herb",
     "lifespan": "perennial",
     "heightFeet": {
-      "min": 2,
-      "max": 4
+      "min": 1,
+      "max": 3
     },
     "spreadFeet": {
       "min": 1,

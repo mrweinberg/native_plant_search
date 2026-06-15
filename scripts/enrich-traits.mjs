@@ -64,24 +64,24 @@ const TRAITS = {
   'clematis-virginiana':       { cutFlower: true,  culinaryUse: false },
   'passiflora-incarnata':      { cutFlower: false, culinaryUse: true  },
   'geranium-maculatum':        { cutFlower: false, culinaryUse: false },
-  'mertensia-virginica':       { cutFlower: false, culinaryUse: true  },
+  'mertensia-virginica':       { cutFlower: false, culinaryUse: false }, // not a standard edible; Boraginaceae pyrrolizidine concerns
   'trillium-grandiflorum':     { cutFlower: false, culinaryUse: false },
   'dicentra-cucullaria':       { cutFlower: false, culinaryUse: false },
-  'erythronium-americanum':    { cutFlower: false, culinaryUse: true  },
+  'erythronium-americanum':    { cutFlower: false, culinaryUse: false }, // bulbs/leaves emetic
   'claytonia-virginica':       { cutFlower: false, culinaryUse: true  },
   'iris-versicolor':           { cutFlower: true,  culinaryUse: false },
   'silphium-perfoliatum':      { cutFlower: true,  culinaryUse: false },
   'zizia-aurea':               { cutFlower: true,  culinaryUse: false },
   'chelone-glabra':            { cutFlower: true,  culinaryUse: false },
   'asclepias-incarnata':       { cutFlower: true,  culinaryUse: false },
-  'asclepias-syriaca':         { cutFlower: true,  culinaryUse: true  },
+  'asclepias-syriaca':         { cutFlower: true,  culinaryUse: false }, // raw plant toxic; only safely edible if boiled in multiple water changes
   'eupatorium-perfoliatum':    { cutFlower: true,  culinaryUse: false },
   'allium-cernuum':            { cutFlower: true,  culinaryUse: true  },
   'pycnanthemum-virginianum':  { cutFlower: true,  culinaryUse: true  },
   'veronicastrum-virginicum':  { cutFlower: true,  culinaryUse: false },
   'helenium-autumnale':        { cutFlower: true,  culinaryUse: false },
   'packera-aurea':             { cutFlower: false, culinaryUse: false },
-  'podophyllum-peltatum':      { cutFlower: false, culinaryUse: true  },
+  'podophyllum-peltatum':      { cutFlower: false, culinaryUse: false }, // only ripe fruit pulp safe; rest contains podophyllotoxin
   'maianthemum-racemosum':     { cutFlower: true,  culinaryUse: true  },
   'actaea-racemosa':           { cutFlower: true,  culinaryUse: false },
   'anemone-canadensis':        { cutFlower: true,  culinaryUse: false },
@@ -96,7 +96,7 @@ const TRAITS = {
   'betula-nigra':              { cutFlower: false, culinaryUse: false },
   'platanus-occidentalis':     { cutFlower: false, culinaryUse: false },
   'asimina-triloba':           { cutFlower: false, culinaryUse: true  },
-  'sassafras-albidum':         { cutFlower: false, culinaryUse: true  },
+  'sassafras-albidum':         { cutFlower: false, culinaryUse: false }, // FDA banned safrole oil/root bark 1960; leaves still safe but flagging conservatively
 
   // --- 2026-06 batch ---
   // Trees: nuts/fruits drive culinary; foliage rarely good cut material.
