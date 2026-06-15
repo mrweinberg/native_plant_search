@@ -129,7 +129,6 @@ function labelFor(group, val) {
 <style scoped>
 .filter-panel {
   background: var(--card);
-  border: 1px solid var(--border);
   border-radius: 10px;
   padding: 14px 16px;
   position: sticky;
@@ -178,8 +177,7 @@ h3 {
   }
   .close { display: inline-block; }
 }
-.filter-group { border-top: 1px solid var(--border); padding-top: 8px; }
-.filter-group:first-of-type { border-top: none; }
+.filter-group { padding-top: 8px; }
 .chips { display: flex; flex-wrap: wrap; gap: 2px; }
 input[type='range'] { width: 100%; }
 .range-label {
