@@ -185,6 +185,39 @@ const TRAITS = {
   'camassia-scilloides':       { cutFlower: true,  culinaryUse: false }, // bulbs reportedly edible cooked but conservative
   'celastrus-scandens':        { cutFlower: true,  culinaryUse: false }, // berried branches iconic for fall arrangements
   'symphyotrichum-ericoides':  { cutFlower: true,  culinaryUse: false },
+
+  // S-tier batch from ODNR ranking
+  'aesculus-flava':            { cutFlower: false, culinaryUse: false }, // all parts toxic
+  'fraxinus-quadrangulata':    { cutFlower: false, culinaryUse: false },
+  'quercus-coccinea':          { cutFlower: false, culinaryUse: false },
+  'quercus-shumardii':         { cutFlower: false, culinaryUse: false },
+  'ulmus-americana':           { cutFlower: false, culinaryUse: false },
+  'prunus-virginiana':         { cutFlower: false, culinaryUse: true  }, // cherries jammed, foliage/pits toxic
+  'rhus-typhina':              { cutFlower: true,  culinaryUse: true  }, // berries used for sumac-ade
+  'vaccinium-angustifolium':   { cutFlower: false, culinaryUse: true  },
+  'kalmia-latifolia':          { cutFlower: true,  culinaryUse: false }, // all parts toxic; flowers gorgeous in vases
+  'dryopteris-intermedia':     { cutFlower: true,  culinaryUse: false }, // fronds for arrangements
+  'osmunda-claytoniana':       { cutFlower: true,  culinaryUse: false }, // fiddleheads not eaten (Osmunda spp. concerns)
+  'allium-tricoccum':          { cutFlower: false, culinaryUse: true  },
+  'asclepias-verticillata':    { cutFlower: false, culinaryUse: false }, // toxic to livestock
+  'eutrochium-fistulosum':     { cutFlower: true,  culinaryUse: false },
+  'eutrochium-maculatum':      { cutFlower: true,  culinaryUse: false },
+  'helianthus-tuberosus':      { cutFlower: true,  culinaryUse: true  },
+  'iris-cristata':             { cutFlower: false, culinaryUse: false }, // too short to cut
+  'lilium-michiganense':       { cutFlower: true,  culinaryUse: false },
+  'lilium-superbum':           { cutFlower: true,  culinaryUse: false },
+  'phlox-stolonifera':         { cutFlower: false, culinaryUse: false }, // too short to cut
+  'pycnanthemum-tenuifolium':  { cutFlower: true,  culinaryUse: true  }, // leaves used as mint tea
+  'rudbeckia-fulgida':         { cutFlower: true,  culinaryUse: false },
+  'solidago-nemoralis':        { cutFlower: true,  culinaryUse: false },
+  'solidago-speciosa':         { cutFlower: true,  culinaryUse: false },
+  'stylophorum-diphyllum':     { cutFlower: false, culinaryUse: false }, // sap can stain/irritate
+  'symphyotrichum-oolentangiense': { cutFlower: true, culinaryUse: false },
+  'tradescantia-ohiensis':     { cutFlower: false, culinaryUse: false }, // flowers close by afternoon
+  'trillium-erectum':          { cutFlower: false, culinaryUse: false }, // never cut — recovery is too slow
+  'elymus-canadensis':         { cutFlower: true,  culinaryUse: false }, // seed heads dry well
+  'eragrostis-spectabilis':    { cutFlower: true,  culinaryUse: false },
+  'spartina-pectinata':        { cutFlower: true,  culinaryUse: false }, // wear gloves
 }
 
 const plants = JSON.parse(readFileSync(PLANTS_PATH, 'utf8'))
