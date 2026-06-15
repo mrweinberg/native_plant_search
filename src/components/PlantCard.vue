@@ -6,7 +6,8 @@ import FavoriteButton from './FavoriteButton.vue'
 const props = defineProps({ plant: { type: Object, required: true } })
 const route = useRoute()
 const sciName = toRef(() => props.plant.scientificName)
-const { src: imageSrc } = usePlantImage(sciName)
+const imageFile = toRef(() => props.plant.imageFile)
+const { src: imageSrc } = usePlantImage(sciName, imageFile)
 
 const colorMap = {
   white: '#ffffff', red: '#c44d4d', pink: '#f0a0b8', orange: '#e08b3a',

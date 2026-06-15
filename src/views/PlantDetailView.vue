@@ -47,7 +47,8 @@ const companions = computed(() => {
   return scored.slice(0, 6).map((s) => s.plant)
 })
 const sciName = computed(() => plant.value?.scientificName || '')
-const { src: imageSrc } = usePlantImage(sciName)
+const imageFile = computed(() => plant.value?.imageFile || null)
+const { src: imageSrc } = usePlantImage(sciName, imageFile)
 const { photos: inatPhotos } = useInatGallery(sciName)
 const wikiUrl = computed(() =>
   sciName.value
@@ -82,6 +83,14 @@ function fmtRange(r, unit) {
       <div class="image-wrap">
         <img v-if="imageSrc" :src="imageSrc" :alt="plant.commonNames[0]" />
         <div v-else class="placeholder" aria-hidden="true">❧</div>
+        <a
+          v-if="plant.imageFile && plant.imageSource"
+          :href="plant.imageSource"
+          target="_blank"
+          rel="noopener"
+          class="img-credit"
+          :title="`Image via ${plant.imageCredit || 'Wikimedia'}`"
+        >via {{ plant.imageCredit || 'Wikimedia' }}</a>
       </div>
       <div>
         <div class="title-row">
@@ -225,7 +234,20 @@ function fmtRange(r, unit) {
   border-radius: 8px;
   overflow: hidden;
   background: var(--accent-soft);
+  position: relative;
 }
+.img-credit {
+  position: absolute;
+  right: 4px;
+  bottom: 4px;
+  font-size: 10px;
+  padding: 2px 6px;
+  border-radius: 3px;
+  background: rgba(0, 0, 0, 0.55);
+  color: #fff;
+  text-decoration: none;
+}
+.img-credit:hover { background: rgba(0, 0, 0, 0.75); }
 .image-wrap img {
   width: 100%;
   height: 100%;

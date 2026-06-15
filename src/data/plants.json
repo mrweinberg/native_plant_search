@@ -103,7 +103,10 @@
       "alkaline"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/asclepias-tuberosa.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Asclepias_tuberosa",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "echinacea-purpurea",
@@ -194,7 +197,10 @@
       "alkaline"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/echinacea-purpurea.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Echinacea_purpurea",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "rudbeckia-hirta",
@@ -302,7 +308,10 @@
       "alkaline"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/rudbeckia-hirta.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Rudbeckia_hirta",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "monarda-fistulosa",
@@ -408,7 +417,10 @@
       "alkaline"
     ],
     "spreadHabit": "spreading",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/monarda-fistulosa.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Monarda_fistulosa",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "liatris-spicata",
@@ -495,7 +507,10 @@
       "alkaline"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/liatris-spicata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Liatris_spicata",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "aquilegia-canadensis",
@@ -595,7 +610,10 @@
       "alkaline"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/aquilegia-canadensis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Aquilegia_canadensis",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "lobelia-cardinalis",
@@ -699,7 +717,10 @@
       "alkaline"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/lobelia-cardinalis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Lobelia_cardinalis",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "coreopsis-lanceolata",
@@ -789,7 +810,10 @@
       "alkaline"
     ],
     "spreadHabit": "spreading",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/coreopsis-lanceolata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Coreopsis_lanceolata",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "solidago-rigida",
@@ -881,7 +905,10 @@
       "alkaline"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/solidago-rigida.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Solidago_rigida",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "symphyotrichum-novae-angliae",
@@ -974,7 +1001,10 @@
       "alkaline"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/symphyotrichum-novae-angliae.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Symphyotrichum_novae-angliae",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "baptisia-australis",
@@ -1058,7 +1088,10 @@
       "alkaline"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/baptisia-australis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Baptisia_australis",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "penstemon-digitalis",
@@ -1149,7 +1182,10 @@
       "alkaline"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/penstemon-digitalis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Penstemon_digitalis",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "eutrochium-purpureum",
@@ -1236,7 +1272,10 @@
       "alkaline"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/eutrochium-purpureum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Eutrochium_purpureum",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "vernonia-gigantea",
@@ -1320,7 +1359,10 @@
       "alkaline"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/vernonia-gigantea.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Vernonia_gigantea",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "phlox-divaricata",
@@ -1408,7 +1450,10 @@
       "neutral"
     ],
     "spreadHabit": "spreading",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/phlox-divaricata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Phlox_divaricata",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "tiarella-cordifolia",
@@ -1487,7 +1532,10 @@
       "neutral"
     ],
     "spreadHabit": "spreading",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/tiarella-cordifolia.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Tiarella_cordifolia",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "heuchera-americana",
@@ -1573,7 +1621,10 @@
       "alkaline"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/heuchera-americana.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Heuchera_americana",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "polygonatum-biflorum",
@@ -1668,7 +1719,10 @@
       "alkaline"
     ],
     "spreadHabit": "spreading",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/polygonatum-biflorum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Polygonatum_biflorum",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "asarum-canadense",
@@ -1757,7 +1811,10 @@
       "neutral"
     ],
     "spreadHabit": "spreading",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/asarum-canadense.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Asarum_canadense",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "sanguinaria-canadensis",
@@ -1852,7 +1909,10 @@
       "neutral"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": true
+    "springEphemeral": true,
+    "imageFile": "plants/sanguinaria-canadensis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Sanguinaria",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "acer-rubrum",
@@ -1947,7 +2007,10 @@
       "neutral"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/acer-rubrum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Acer_rubrum",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "cornus-florida",
@@ -2035,7 +2098,10 @@
       "neutral"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/cornus-florida.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Cornus_florida",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "cercis-canadensis",
@@ -2130,7 +2196,10 @@
       "alkaline"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/cercis-canadensis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Cercis_canadensis",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "quercus-alba",
@@ -2226,7 +2295,10 @@
       "neutral"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/quercus-alba.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Quercus_alba",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "carpinus-caroliniana",
@@ -2323,7 +2395,10 @@
       "neutral"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/carpinus-caroliniana.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Carpinus_caroliniana",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "amelanchier-arborea",
@@ -2415,7 +2490,10 @@
       "neutral"
     ],
     "spreadHabit": "spreading",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/amelanchier-arborea.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Amelanchier_arborea",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "hamamelis-virginiana",
@@ -2508,7 +2586,10 @@
       "neutral"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/hamamelis-virginiana.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Hamamelis_virginiana",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "lindera-benzoin",
@@ -2600,7 +2681,10 @@
       "neutral"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/lindera-benzoin.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Lindera_benzoin",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "itea-virginica",
@@ -2683,7 +2767,10 @@
       "neutral"
     ],
     "spreadHabit": "spreading",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/itea-virginica.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Itea_virginica",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "viburnum-prunifolium",
@@ -2767,7 +2854,10 @@
       "alkaline"
     ],
     "spreadHabit": "spreading",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/viburnum-prunifolium.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Viburnum_prunifolium",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "schizachyrium-scoparium",
@@ -2873,7 +2963,10 @@
       "alkaline"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/schizachyrium-scoparium.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Schizachyrium_scoparium",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "andropogon-gerardii",
@@ -2979,7 +3072,10 @@
       "alkaline"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/andropogon-gerardii.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Andropogon_gerardi",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "sorghastrum-nutans",
@@ -3079,7 +3175,10 @@
       "alkaline"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/sorghastrum-nutans.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Sorghastrum_nutans",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "panicum-virgatum",
@@ -3186,7 +3285,10 @@
       "alkaline"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/panicum-virgatum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Panicum_virgatum",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "bouteloua-curtipendula",
@@ -3281,7 +3383,10 @@
       "alkaline"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/bouteloua-curtipendula.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Bouteloua_curtipendula",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "sporobolus-heterolepis",
@@ -3358,7 +3463,10 @@
       "alkaline"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/sporobolus-heterolepis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Sporobolus_heterolepis",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "carex-pensylvanica",
@@ -3443,7 +3551,10 @@
       "neutral"
     ],
     "spreadHabit": "spreading",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/carex-pensylvanica.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Carex_pensylvanica",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "polystichum-acrostichoides",
@@ -3531,7 +3642,10 @@
       "neutral"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/polystichum-acrostichoides.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Polystichum_acrostichoides",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "matteuccia-struthiopteris",
@@ -3606,7 +3720,10 @@
       "neutral"
     ],
     "spreadHabit": "aggressive",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/matteuccia-struthiopteris.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Matteuccia",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "athyrium-filix-femina",
@@ -3699,7 +3816,10 @@
       "neutral"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/athyrium-filix-femina.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Athyrium_filix-femina",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "dryopteris-marginalis",
@@ -3781,7 +3901,10 @@
       "neutral"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/dryopteris-marginalis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Dryopteris_marginalis",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "osmundastrum-cinnamomeum",
@@ -3866,7 +3989,10 @@
       "acidic"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/osmundastrum-cinnamomeum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Osmundastrum_cinnamomeum",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "adiantum-pedatum",
@@ -3955,7 +4081,10 @@
       "neutral"
     ],
     "spreadHabit": "spreading",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/adiantum-pedatum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Adiantum_pedatum",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "parthenocissus-quinquefolia",
@@ -4062,7 +4191,10 @@
       "alkaline"
     ],
     "spreadHabit": "aggressive",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/parthenocissus-quinquefolia.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Parthenocissus_quinquefolia",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "lonicera-sempervirens",
@@ -4152,7 +4284,10 @@
       "neutral"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/lonicera-sempervirens.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Lonicera_sempervirens",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "clematis-virginiana",
@@ -4242,7 +4377,10 @@
       "neutral"
     ],
     "spreadHabit": "spreading",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/clematis-virginiana.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Clematis_virginiana",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "passiflora-incarnata",
@@ -4328,7 +4466,10 @@
       "neutral"
     ],
     "spreadHabit": "aggressive",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/passiflora-incarnata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Passiflora_incarnata",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "geranium-maculatum",
@@ -4420,7 +4561,10 @@
       "neutral"
     ],
     "spreadHabit": "spreading",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/geranium-maculatum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Geranium_maculatum",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "mertensia-virginica",
@@ -4505,7 +4649,10 @@
       "neutral"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": true
+    "springEphemeral": true,
+    "imageFile": "plants/mertensia-virginica.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Mertensia_virginica",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "trillium-grandiflorum",
@@ -4581,7 +4728,10 @@
       "neutral"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": true
+    "springEphemeral": true,
+    "imageFile": "plants/trillium-grandiflorum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Trillium_grandiflorum",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "dicentra-cucullaria",
@@ -4674,7 +4824,10 @@
       "alkaline"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": true
+    "springEphemeral": true,
+    "imageFile": "plants/dicentra-cucullaria.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Dicentra_cucullaria",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "erythronium-americanum",
@@ -4761,7 +4914,10 @@
       "neutral"
     ],
     "spreadHabit": "spreading",
-    "springEphemeral": true
+    "springEphemeral": true,
+    "imageFile": "plants/erythronium-americanum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Erythronium_americanum",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "claytonia-virginica",
@@ -4853,7 +5009,10 @@
       "alkaline"
     ],
     "spreadHabit": "spreading",
-    "springEphemeral": true
+    "springEphemeral": true,
+    "imageFile": "plants/claytonia-virginica.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Claytonia_virginica",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "iris-versicolor",
@@ -4934,7 +5093,10 @@
       "neutral"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/iris-versicolor.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Iris_versicolor",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "silphium-perfoliatum",
@@ -5022,7 +5184,10 @@
       "alkaline"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/silphium-perfoliatum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Silphium_perfoliatum",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "zizia-aurea",
@@ -5119,7 +5284,10 @@
       "alkaline"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/zizia-aurea.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Zizia_aurea",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "chelone-glabra",
@@ -5207,7 +5375,10 @@
       "neutral"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/chelone-glabra.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Chelone_glabra",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "asclepias-incarnata",
@@ -5306,7 +5477,10 @@
       "neutral"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/asclepias-incarnata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Asclepias_incarnata",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "asclepias-syriaca",
@@ -5400,7 +5574,10 @@
       "alkaline"
     ],
     "spreadHabit": "aggressive",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/asclepias-syriaca.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Asclepias_syriaca",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "eupatorium-perfoliatum",
@@ -5495,7 +5672,10 @@
       "neutral"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/eupatorium-perfoliatum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Eupatorium_perfoliatum",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "allium-cernuum",
@@ -5587,7 +5767,10 @@
       "alkaline"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/allium-cernuum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Allium_cernuum",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "pycnanthemum-virginianum",
@@ -5666,7 +5849,10 @@
       "alkaline"
     ],
     "spreadHabit": "spreading",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/pycnanthemum-virginianum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Pycnanthemum_virginianum",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "veronicastrum-virginicum",
@@ -5749,7 +5935,10 @@
       "alkaline"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/veronicastrum-virginicum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Veronicastrum_virginicum",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "helenium-autumnale",
@@ -5849,7 +6038,10 @@
       "neutral"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/helenium-autumnale.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Helenium_autumnale",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "packera-aurea",
@@ -5940,7 +6132,10 @@
       "alkaline"
     ],
     "spreadHabit": "spreading",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/packera-aurea.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Packera_aurea",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "podophyllum-peltatum",
@@ -6033,7 +6228,10 @@
       "alkaline"
     ],
     "spreadHabit": "aggressive",
-    "springEphemeral": true
+    "springEphemeral": true,
+    "imageFile": "plants/podophyllum-peltatum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Podophyllum_peltatum",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "maianthemum-racemosum",
@@ -6136,7 +6334,10 @@
       "neutral"
     ],
     "spreadHabit": "spreading",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/maianthemum-racemosum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Maianthemum_racemosum",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "actaea-racemosa",
@@ -6217,7 +6418,10 @@
       "neutral"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/actaea-racemosa.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Actaea_racemosa",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "anemone-canadensis",
@@ -6297,7 +6501,10 @@
       "alkaline"
     ],
     "spreadHabit": "aggressive",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/anemone-canadensis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Anemonastrum_canadense",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "cephalanthus-occidentalis",
@@ -6396,7 +6603,10 @@
       "neutral"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/cephalanthus-occidentalis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Cephalanthus_occidentalis",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "sambucus-canadensis",
@@ -6498,7 +6708,10 @@
       "alkaline"
     ],
     "spreadHabit": "aggressive",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/sambucus-canadensis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Sambucus_canadensis",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "aronia-melanocarpa",
@@ -6580,7 +6793,10 @@
       "acidic"
     ],
     "spreadHabit": "spreading",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/aronia-melanocarpa.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Aronia_melanocarpa",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "ilex-verticillata",
@@ -6672,7 +6888,10 @@
       "acidic"
     ],
     "spreadHabit": "spreading",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/ilex-verticillata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Ilex_verticillata",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "physocarpus-opulifolius",
@@ -6742,7 +6961,10 @@
       "alkaline"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/physocarpus-opulifolius.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Physocarpus_opulifolius",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "rhus-aromatica",
@@ -6811,7 +7033,10 @@
       "alkaline"
     ],
     "spreadHabit": "spreading",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/rhus-aromatica.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Rhus_aromatica",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "liriodendron-tulipifera",
@@ -6879,7 +7104,10 @@
       "neutral"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/liriodendron-tulipifera.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Liriodendron_tulipifera",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "nyssa-sylvatica",
@@ -6970,7 +7198,10 @@
       "acidic"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/nyssa-sylvatica.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Nyssa_sylvatica",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "betula-nigra",
@@ -7061,7 +7292,10 @@
       "acidic"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/betula-nigra.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Betula_nigra",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "platanus-occidentalis",
@@ -7158,7 +7392,10 @@
       "alkaline"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/platanus-occidentalis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Platanus_occidentalis",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "asimina-triloba",
@@ -7247,7 +7484,10 @@
       "neutral"
     ],
     "spreadHabit": "spreading",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/asimina-triloba.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Asimina_triloba",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "sassafras-albidum",
@@ -7341,7 +7581,10 @@
       "neutral"
     ],
     "spreadHabit": "aggressive",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/sassafras-albidum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Sassafras_albidum",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "quercus-rubra",
@@ -7440,7 +7683,10 @@
       "neutral"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/quercus-rubra.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Quercus_rubra",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "quercus-macrocarpa",
@@ -7533,7 +7779,10 @@
       "alkaline"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/quercus-macrocarpa.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Quercus_macrocarpa",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "quercus-velutina",
@@ -7627,7 +7876,10 @@
       "neutral"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/quercus-velutina.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Quercus_velutina",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "quercus-muehlenbergii",
@@ -7716,7 +7968,10 @@
       "alkaline"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/quercus-muehlenbergii.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Quercus_muehlenbergii",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "quercus-palustris",
@@ -7798,7 +8053,10 @@
       "acidic"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/quercus-palustris.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Quercus_palustris",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "carya-ovata",
@@ -7892,7 +8150,10 @@
       "alkaline"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/carya-ovata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Carya_ovata",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "carya-glabra",
@@ -7981,7 +8242,10 @@
       "neutral"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/carya-glabra.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Carya_glabra",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "carya-cordiformis",
@@ -8073,7 +8337,10 @@
       "alkaline"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/carya-cordiformis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Carya_cordiformis",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "acer-saccharum",
@@ -8167,7 +8434,10 @@
       "alkaline"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/acer-saccharum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Acer_saccharum",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "fagus-grandifolia",
@@ -8258,7 +8528,10 @@
       "neutral"
     ],
     "spreadHabit": "spreading",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/fagus-grandifolia.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Fagus_grandifolia",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "juglans-nigra",
@@ -8357,7 +8630,10 @@
       "alkaline"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/juglans-nigra.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Juglans_nigra",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "tilia-americana",
@@ -8457,7 +8733,10 @@
       "alkaline"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/tilia-americana.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Tilia_americana",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "prunus-serotina",
@@ -8556,7 +8835,10 @@
       "alkaline"
     ],
     "spreadHabit": "spreading",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/prunus-serotina.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Prunus_serotina",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "diospyros-virginiana",
@@ -8645,7 +8927,10 @@
       "alkaline"
     ],
     "spreadHabit": "spreading",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/diospyros-virginiana.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Diospyros_virginiana",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "tsuga-canadensis",
@@ -8730,7 +9015,10 @@
       "acidic"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/tsuga-canadensis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Tsuga_canadensis",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "pinus-strobus",
@@ -8818,7 +9106,10 @@
       "neutral"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/pinus-strobus.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Pinus_strobus",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "juniperus-virginiana",
@@ -8918,7 +9209,10 @@
       "alkaline"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/juniperus-virginiana.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Juniperus_virginiana",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "magnolia-acuminata",
@@ -8997,7 +9291,10 @@
       "neutral"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/magnolia-acuminata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Magnolia_acuminata",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "viburnum-dentatum",
@@ -9085,7 +9382,10 @@
       "alkaline"
     ],
     "spreadHabit": "spreading",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/viburnum-dentatum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Viburnum_dentatum",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "viburnum-acerifolium",
@@ -9173,7 +9473,10 @@
       "neutral"
     ],
     "spreadHabit": "spreading",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/viburnum-acerifolium.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Viburnum_acerifolium",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "cornus-sericea",
@@ -9267,7 +9570,10 @@
       "neutral"
     ],
     "spreadHabit": "aggressive",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/cornus-sericea.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Cornus_sericea",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "cornus-amomum",
@@ -9354,7 +9660,10 @@
       "neutral"
     ],
     "spreadHabit": "spreading",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/cornus-amomum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Cornus_amomum",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "hydrangea-arborescens",
@@ -9432,7 +9741,10 @@
       "neutral"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/hydrangea-arborescens.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Hydrangea_arborescens",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "ceanothus-americanus",
@@ -9524,7 +9836,10 @@
       "alkaline"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/ceanothus-americanus.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Ceanothus_americanus",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "corylus-americana",
@@ -9619,7 +9934,10 @@
       "alkaline"
     ],
     "spreadHabit": "spreading",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/corylus-americana.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Corylus_americana",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "vaccinium-corymbosum",
@@ -9708,7 +10026,10 @@
       "acidic"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/vaccinium-corymbosum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Vaccinium_corymbosum",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "diervilla-lonicera",
@@ -9791,7 +10112,10 @@
       "alkaline"
     ],
     "spreadHabit": "spreading",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/diervilla-lonicera.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Diervilla_lonicera",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "spiraea-alba",
@@ -9874,7 +10198,10 @@
       "neutral"
     ],
     "spreadHabit": "spreading",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/spiraea-alba.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Spiraea_alba",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "rosa-carolina",
@@ -9968,7 +10295,10 @@
       "alkaline"
     ],
     "spreadHabit": "spreading",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/rosa-carolina.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Rosa_carolina",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "bignonia-capreolata",
@@ -10045,7 +10375,10 @@
       "alkaline"
     ],
     "spreadHabit": "spreading",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/bignonia-capreolata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Bignonia_capreolata",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "campsis-radicans",
@@ -10151,7 +10484,10 @@
       "alkaline"
     ],
     "spreadHabit": "aggressive",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/campsis-radicans.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Campsis_radicans",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "aristolochia-macrophylla",
@@ -10252,7 +10588,10 @@
       "neutral"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/aristolochia-macrophylla.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Aristolochia_macrophylla",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "wisteria-frutescens",
@@ -10327,7 +10666,10 @@
       "neutral"
     ],
     "spreadHabit": "spreading",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/wisteria-frutescens.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Wisteria_frutescens",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "apios-americana",
@@ -10423,7 +10765,10 @@
       "neutral"
     ],
     "spreadHabit": "aggressive",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/apios-americana.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Apios_americana",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "carex-muskingumensis",
@@ -10493,7 +10838,10 @@
       "neutral"
     ],
     "spreadHabit": "spreading",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/carex-muskingumensis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Carex_muskingumensis",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "carex-stricta",
@@ -10578,7 +10926,10 @@
       "neutral"
     ],
     "spreadHabit": "aggressive",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/carex-stricta.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Carex_stricta",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "carex-grayi",
@@ -10666,7 +11017,10 @@
       "neutral"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/carex-grayi.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Carex_grayi",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "elymus-virginicus",
@@ -10763,7 +11117,10 @@
       "alkaline"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/elymus-virginicus.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Elymus_virginicus",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "elymus-hystrix",
@@ -10853,7 +11210,10 @@
       "alkaline"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/elymus-hystrix.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Elymus_hystrix",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "chasmanthium-latifolium",
@@ -10941,7 +11301,10 @@
       "alkaline"
     ],
     "spreadHabit": "spreading",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/chasmanthium-latifolium.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Chasmanthium_latifolium",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "juncus-effusus",
@@ -11045,7 +11408,10 @@
       "neutral"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/juncus-effusus.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Juncus_effusus",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "onoclea-sensibilis",
@@ -11136,7 +11502,10 @@
       "neutral"
     ],
     "spreadHabit": "aggressive",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/onoclea-sensibilis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Onoclea_sensibilis",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "asplenium-platyneuron",
@@ -11224,7 +11593,10 @@
       "alkaline"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/asplenium-platyneuron.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Asplenium_platyneuron",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "polypodium-virginianum",
@@ -11304,7 +11676,10 @@
       "acidic"
     ],
     "spreadHabit": "spreading",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/polypodium-virginianum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Polypodium_virginianum",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "hepatica-americana",
@@ -11391,7 +11766,10 @@
       "acidic"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/hepatica-americana.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Hepatica_americana",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "jeffersonia-diphylla",
@@ -11462,7 +11840,10 @@
       "alkaline"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": true
+    "springEphemeral": true,
+    "imageFile": "plants/jeffersonia-diphylla.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Jeffersonia",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "caulophyllum-thalictroides",
@@ -11547,7 +11928,10 @@
       "neutral"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/caulophyllum-thalictroides.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Caulophyllum_thalictroides",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "uvularia-grandiflora",
@@ -11628,7 +12012,10 @@
       "alkaline"
     ],
     "spreadHabit": "spreading",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/uvularia-grandiflora.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Uvularia_grandiflora",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "polemonium-reptans",
@@ -11712,7 +12099,10 @@
       "neutral"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/polemonium-reptans.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Polemonium_reptans",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "solidago-caesia",
@@ -11804,7 +12194,9 @@
       "neutral"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/solidago-caesia.jpg",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "eurybia-divaricata",
@@ -11884,7 +12276,10 @@
       "neutral"
     ],
     "spreadHabit": "spreading",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/eurybia-divaricata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Eurybia_divaricata",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "symphyotrichum-laeve",
@@ -11984,7 +12379,10 @@
       "alkaline"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/symphyotrichum-laeve.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Symphyotrichum_laeve",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "symphyotrichum-cordifolium",
@@ -12074,7 +12472,10 @@
       "neutral"
     ],
     "spreadHabit": "spreading",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/symphyotrichum-cordifolium.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Symphyotrichum_cordifolium",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "lobelia-siphilitica",
@@ -12170,7 +12571,10 @@
       "alkaline"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/lobelia-siphilitica.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Lobelia_siphilitica",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "mimulus-ringens",
@@ -12266,7 +12670,10 @@
       "neutral"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/mimulus-ringens.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Mimulus_ringens",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "senna-hebecarpa",
@@ -12343,7 +12750,10 @@
       "alkaline"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/senna-hebecarpa.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Senna_hebecarpa",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "aruncus-dioicus",
@@ -12419,7 +12829,10 @@
       "neutral"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/aruncus-dioicus.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Aruncus_dioicus",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "coreopsis-tripteris",
@@ -12500,7 +12913,10 @@
       "alkaline"
     ],
     "spreadHabit": "spreading",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/coreopsis-tripteris.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Anacis_tripteris",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "aesculus-glabra",
@@ -12581,7 +12997,10 @@
       "alkaline"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/aesculus-glabra.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Aesculus_glabra",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "acer-saccharinum",
@@ -12680,7 +13099,10 @@
       "neutral"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/acer-saccharinum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Acer_saccharinum",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "cornus-alternifolia",
@@ -12771,7 +13193,10 @@
       "alkaline"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/cornus-alternifolia.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Cornus_alternifolia",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "symphoricarpos-orbiculatus",
@@ -12867,7 +13292,10 @@
       "alkaline"
     ],
     "spreadHabit": "aggressive",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/symphoricarpos-orbiculatus.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Symphoricarpos_orbiculatus",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "staphylea-trifolia",
@@ -12955,7 +13383,10 @@
       "alkaline"
     ],
     "spreadHabit": "spreading",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/staphylea-trifolia.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Staphylea_trifolia",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "heliopsis-helianthoides",
@@ -13059,7 +13490,10 @@
       "alkaline"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/heliopsis-helianthoides.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Heliopsis_helianthoides",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "ratibida-pinnata",
@@ -13156,7 +13590,10 @@
       "alkaline"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/ratibida-pinnata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Ratibida_pinnata",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "rudbeckia-triloba",
@@ -13254,7 +13691,10 @@
       "alkaline"
     ],
     "spreadHabit": "spreading",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/rudbeckia-triloba.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Rudbeckia_triloba",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "filipendula-rubra",
@@ -13335,7 +13775,10 @@
       "alkaline"
     ],
     "spreadHabit": "spreading",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/filipendula-rubra.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Filipendula_rubra",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "gentiana-andrewsii",
@@ -13420,7 +13863,10 @@
       "neutral"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/gentiana-andrewsii.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Gentiana_andrewsii",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "phlox-paniculata",
@@ -13507,7 +13953,10 @@
       "neutral"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/phlox-paniculata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Phlox_paniculata",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "silphium-terebinthinaceum",
@@ -13588,7 +14037,10 @@
       "alkaline"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/silphium-terebinthinaceum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Silphium_terebinthinaceum",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "camassia-scilloides",
@@ -13674,7 +14126,10 @@
       "alkaline"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/camassia-scilloides.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Camassia_scilloides",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "celastrus-scandens",
@@ -13774,7 +14229,10 @@
       "alkaline"
     ],
     "spreadHabit": "spreading",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/celastrus-scandens.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Celastrus_scandens",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "symphyotrichum-ericoides",
@@ -13881,7 +14339,10 @@
       "alkaline"
     ],
     "spreadHabit": "spreading",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/symphyotrichum-ericoides.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Symphyotrichum_ericoides",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "aesculus-flava",
@@ -13951,7 +14412,10 @@
       "neutral"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/aesculus-flava.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Aesculus_flava",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "fraxinus-quadrangulata",
@@ -14026,7 +14490,10 @@
       "alkaline"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/fraxinus-quadrangulata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Fraxinus_quadrangulata",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "quercus-coccinea",
@@ -14114,7 +14581,10 @@
       "acidic"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/quercus-coccinea.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Quercus_coccinea",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "quercus-shumardii",
@@ -14196,7 +14666,10 @@
       "alkaline"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/quercus-shumardii.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Quercus_shumardii",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "ulmus-americana",
@@ -14299,7 +14772,10 @@
       "alkaline"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/ulmus-americana.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Ulmus_americana",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "prunus-virginiana",
@@ -14410,7 +14886,10 @@
       "alkaline"
     ],
     "spreadHabit": "aggressive",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/prunus-virginiana.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Prunus_virginiana",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "rhus-typhina",
@@ -14500,7 +14979,10 @@
       "alkaline"
     ],
     "spreadHabit": "aggressive",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/rhus-typhina.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Rhus_typhina",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "vaccinium-angustifolium",
@@ -14584,7 +15066,10 @@
       "acidic"
     ],
     "spreadHabit": "spreading",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/vaccinium-angustifolium.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Vaccinium_angustifolium",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "kalmia-latifolia",
@@ -14669,7 +15154,10 @@
       "acidic"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/kalmia-latifolia.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Kalmia_latifolia",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "dryopteris-intermedia",
@@ -14748,7 +15236,10 @@
       "neutral"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/dryopteris-intermedia.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Dryopteris_intermedia",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "osmunda-claytoniana",
@@ -14827,7 +15318,10 @@
       "acidic"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/osmunda-claytoniana.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Claytosmunda",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "allium-tricoccum",
@@ -14913,7 +15407,10 @@
       "neutral"
     ],
     "spreadHabit": "spreading",
-    "springEphemeral": true
+    "springEphemeral": true,
+    "imageFile": "plants/allium-tricoccum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Allium_tricoccum",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "asclepias-verticillata",
@@ -15016,7 +15513,10 @@
       "alkaline"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/asclepias-verticillata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Asclepias_verticillata",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "eutrochium-fistulosum",
@@ -15110,7 +15610,10 @@
       "neutral"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/eutrochium-fistulosum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Eutrochium_fistulosum",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "eutrochium-maculatum",
@@ -15207,7 +15710,10 @@
       "alkaline"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/eutrochium-maculatum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Eutrochium_maculatum",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "helianthus-tuberosus",
@@ -15307,7 +15813,10 @@
       "alkaline"
     ],
     "spreadHabit": "aggressive",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/helianthus-tuberosus.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Jerusalem_artichoke",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "iris-cristata",
@@ -15383,7 +15892,10 @@
       "neutral"
     ],
     "spreadHabit": "spreading",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/iris-cristata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Iris_cristata",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "lilium-michiganense",
@@ -15459,7 +15971,10 @@
       "neutral"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/lilium-michiganense.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Lilium_michiganense",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "lilium-superbum",
@@ -15545,7 +16060,10 @@
       "neutral"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/lilium-superbum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Lilium_superbum",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "phlox-stolonifera",
@@ -15617,7 +16135,10 @@
       "neutral"
     ],
     "spreadHabit": "spreading",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/phlox-stolonifera.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Phlox_stolonifera",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "pycnanthemum-tenuifolium",
@@ -15715,7 +16236,10 @@
       "alkaline"
     ],
     "spreadHabit": "spreading",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/pycnanthemum-tenuifolium.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Pycnanthemum_tenuifolium",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "rudbeckia-fulgida",
@@ -15805,7 +16329,10 @@
       "alkaline"
     ],
     "spreadHabit": "spreading",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/rudbeckia-fulgida.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Rudbeckia_fulgida",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "solidago-nemoralis",
@@ -15905,7 +16432,10 @@
       "alkaline"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/solidago-nemoralis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Solidago_nemoralis",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "solidago-speciosa",
@@ -16003,7 +16533,10 @@
       "alkaline"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/solidago-speciosa.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Solidago_speciosa",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "stylophorum-diphyllum",
@@ -16074,7 +16607,10 @@
       "neutral"
     ],
     "spreadHabit": "spreading",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/stylophorum-diphyllum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Stylophorum_diphyllum",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "symphyotrichum-oolentangiense",
@@ -16163,7 +16699,10 @@
       "alkaline"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/symphyotrichum-oolentangiense.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Symphyotrichum_oolentangiense",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "tradescantia-ohiensis",
@@ -16258,7 +16797,10 @@
       "alkaline"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/tradescantia-ohiensis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Tradescantia_ohiensis",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "trillium-erectum",
@@ -16341,7 +16883,10 @@
       "neutral"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": true
+    "springEphemeral": true,
+    "imageFile": "plants/trillium-erectum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Trillium_erectum",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "elymus-canadensis",
@@ -16450,7 +16995,10 @@
       "alkaline"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/elymus-canadensis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Elymus_canadensis",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "eragrostis-spectabilis",
@@ -16550,7 +17098,10 @@
       "alkaline"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/eragrostis-spectabilis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Eragrostis_spectabilis",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "spartina-pectinata",
@@ -16651,7 +17202,10 @@
       "alkaline"
     ],
     "spreadHabit": "aggressive",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/spartina-pectinata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Sporobolus_michauxianus",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "carya-laciniosa",
@@ -16737,7 +17291,10 @@
       "alkaline"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/carya-laciniosa.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Carya_laciniosa",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "celtis-occidentalis",
@@ -16841,7 +17398,10 @@
       "alkaline"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/celtis-occidentalis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Celtis_occidentalis",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "gymnocladus-dioica",
@@ -16917,7 +17477,10 @@
       "alkaline"
     ],
     "spreadHabit": "spreading",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/gymnocladus-dioica.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Kentucky_coffeetree",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "liquidambar-styraciflua",
@@ -17002,7 +17565,10 @@
       "neutral"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/liquidambar-styraciflua.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Liquidambar_styraciflua",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "magnolia-tripetala",
@@ -17074,7 +17640,10 @@
       "neutral"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/magnolia-tripetala.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Magnolia_tripetala",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "morus-rubra",
@@ -17167,7 +17736,10 @@
       "alkaline"
     ],
     "spreadHabit": "spreading",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/morus-rubra.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Morus_rubra",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "ostrya-virginiana",
@@ -17268,7 +17840,10 @@
       "alkaline"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/ostrya-virginiana.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Ostrya_virginiana",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "oxydendrum-arboreum",
@@ -17344,7 +17919,10 @@
       "acidic"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/oxydendrum-arboreum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Oxydendrum",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "populus-deltoides",
@@ -17450,7 +18028,10 @@
       "alkaline"
     ],
     "spreadHabit": "spreading",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/populus-deltoides.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Populus_deltoides",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "ptelea-trifoliata",
@@ -17554,7 +18135,10 @@
       "alkaline"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/ptelea-trifoliata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Ptelea_trifoliata",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "quercus-montana",
@@ -17636,7 +18220,10 @@
       "acidic"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/quercus-montana.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Quercus_montana",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "salix-nigra",
@@ -17744,7 +18331,10 @@
       "alkaline"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/salix-nigra.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Salix_nigra",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "ulmus-rubra",
@@ -17844,7 +18434,10 @@
       "alkaline"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/ulmus-rubra.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Ulmus_rubra",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "zanthoxylum-americanum",
@@ -17943,7 +18536,10 @@
       "alkaline"
     ],
     "spreadHabit": "aggressive",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/zanthoxylum-americanum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Zanthoxylum_americanum",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "pinus-virginiana",
@@ -18017,7 +18613,10 @@
       "acidic"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/pinus-virginiana.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Pinus_virginiana",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "thuja-occidentalis",
@@ -18101,7 +18700,10 @@
       "alkaline"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/thuja-occidentalis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Thuja_occidentalis",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "taxus-canadensis",
@@ -18182,7 +18784,10 @@
       "neutral"
     ],
     "spreadHabit": "spreading",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/taxus-canadensis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Taxus_canadensis",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "cornus-racemosa",
@@ -18275,7 +18880,10 @@
       "alkaline"
     ],
     "spreadHabit": "aggressive",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/cornus-racemosa.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Cornus_racemosa",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "dirca-palustris",
@@ -18364,7 +18972,10 @@
       "neutral"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/dirca-palustris.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Dirca_palustris",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "hypericum-prolificum",
@@ -18455,7 +19066,10 @@
       "alkaline"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/hypericum-prolificum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Hypericum_prolificum",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "rhus-copallinum",
@@ -18547,7 +19161,10 @@
       "alkaline"
     ],
     "spreadHabit": "aggressive",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/rhus-copallinum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Rhus_copallinum",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "rhus-glabra",
@@ -18658,7 +19275,10 @@
       "alkaline"
     ],
     "spreadHabit": "aggressive",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/rhus-glabra.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Rhus_glabra",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "rosa-setigera",
@@ -18750,7 +19370,10 @@
       "alkaline"
     ],
     "spreadHabit": "spreading",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/rosa-setigera.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Rosa_setigera",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "rubus-odoratus",
@@ -18836,7 +19459,10 @@
       "neutral"
     ],
     "spreadHabit": "aggressive",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/rubus-odoratus.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Rubus_odoratus",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "sambucus-racemosa",
@@ -18936,7 +19562,10 @@
       "alkaline"
     ],
     "spreadHabit": "spreading",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/sambucus-racemosa.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Sambucus_racemosa",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "vaccinium-pallidum",
@@ -19028,7 +19657,10 @@
       "acidic"
     ],
     "spreadHabit": "spreading",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/vaccinium-pallidum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Vaccinium_pallidum",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "vaccinium-stamineum",
@@ -19115,7 +19747,10 @@
       "acidic"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/vaccinium-stamineum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Vaccinium_stamineum",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "dennstaedtia-punctilobula",
@@ -19194,7 +19829,10 @@
       "acidic"
     ],
     "spreadHabit": "aggressive",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/dennstaedtia-punctilobula.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Sitobolium_punctilobulum",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "deparia-acrostichoides",
@@ -19274,7 +19912,10 @@
       "neutral"
     ],
     "spreadHabit": "spreading",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/deparia-acrostichoides.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Deparia_acrostichoides",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "diplazium-pycnocarpon",
@@ -19354,7 +19995,10 @@
       "neutral"
     ],
     "spreadHabit": "spreading",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/diplazium-pycnocarpon.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Homalosorus",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "dryopteris-goldiana",
@@ -19431,7 +20075,10 @@
       "neutral"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/dryopteris-goldiana.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Dryopteris_goldieana",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "phegopteris-hexagonoptera",
@@ -19513,7 +20160,10 @@
       "neutral"
     ],
     "spreadHabit": "spreading",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/phegopteris-hexagonoptera.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Phegopteris_hexagonoptera",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "thelypteris-noveboracensis",
@@ -19590,7 +20240,10 @@
       "acidic"
     ],
     "spreadHabit": "aggressive",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/thelypteris-noveboracensis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Amauropelta_noveboracensis",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "chamaecrista-fasciculata",
@@ -19690,7 +20343,10 @@
       "alkaline"
     ],
     "spreadHabit": "spreading",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/chamaecrista-fasciculata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Chamaecrista_fasciculata",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "impatiens-pallida",
@@ -19786,7 +20442,10 @@
       "alkaline"
     ],
     "spreadHabit": "spreading",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/impatiens-pallida.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Impatiens_pallida",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "campanula-americana",
@@ -19880,7 +20539,10 @@
       "alkaline"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/campanula-americana.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Campanula_americana",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "actaea-pachypoda",
@@ -19971,7 +20633,10 @@
       "neutral"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/actaea-pachypoda.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Actaea_pachypoda",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "anemone-quinquefolia",
@@ -20054,7 +20719,10 @@
       "neutral"
     ],
     "spreadHabit": "spreading",
-    "springEphemeral": true
+    "springEphemeral": true,
+    "imageFile": "plants/anemone-quinquefolia.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Anemonoides_quinquefolia",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "anemone-virginiana",
@@ -20152,7 +20820,10 @@
       "alkaline"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/anemone-virginiana.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Anemone_virginiana",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "arisaema-dracontium",
@@ -20246,7 +20917,10 @@
       "neutral"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/arisaema-dracontium.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Arisaema_dracontium",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "asclepias-sullivantii",
@@ -20317,7 +20991,10 @@
       "neutral"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/asclepias-sullivantii.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Asclepias_sullivantii",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "baptisia-alba",
@@ -20401,7 +21078,10 @@
       "alkaline"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/baptisia-alba.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Baptisia_alba",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "baptisia-tinctoria",
@@ -20487,7 +21167,10 @@
       "neutral"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/baptisia-tinctoria.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Baptisia_tinctoria",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "blephilia-ciliata",
@@ -20579,7 +21262,10 @@
       "alkaline"
     ],
     "spreadHabit": "spreading",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/blephilia-ciliata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Blephilia_ciliata",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "blephilia-hirsuta",
@@ -20670,7 +21356,10 @@
       "neutral"
     ],
     "spreadHabit": "spreading",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/blephilia-hirsuta.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Blephilia_hirsuta",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "cardamine-concatenata",
@@ -20767,7 +21456,10 @@
       "alkaline"
     ],
     "spreadHabit": "spreading",
-    "springEphemeral": true
+    "springEphemeral": true,
+    "imageFile": "plants/cardamine-concatenata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Cardamine_concatenata",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "collinsonia-canadensis",
@@ -20855,7 +21547,10 @@
       "neutral"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/collinsonia-canadensis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Collinsonia_canadensis",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "conoclinium-coelestinum",
@@ -20947,7 +21642,10 @@
       "alkaline"
     ],
     "spreadHabit": "aggressive",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/conoclinium-coelestinum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Conoclinium_coelestinum",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "cunila-origanoides",
@@ -21030,7 +21728,10 @@
       "neutral"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/cunila-origanoides.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Cunila_origanoides",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "dicentra-canadensis",
@@ -21114,7 +21815,10 @@
       "alkaline"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": true
+    "springEphemeral": true,
+    "imageFile": "plants/dicentra-canadensis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Dicentra_canadensis",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "doellingeria-umbellata",
@@ -21202,7 +21906,10 @@
       "neutral"
     ],
     "spreadHabit": "spreading",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/doellingeria-umbellata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Doellingeria_umbellata",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "erythronium-albidum",
@@ -21288,7 +21995,10 @@
       "alkaline"
     ],
     "spreadHabit": "spreading",
-    "springEphemeral": true
+    "springEphemeral": true,
+    "imageFile": "plants/erythronium-albidum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Erythronium_albidum",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "euphorbia-corollata",
@@ -21384,7 +22094,10 @@
       "alkaline"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/euphorbia-corollata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Euphorbia_corollata",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "eutrochium-altissimum",
@@ -21468,7 +22181,10 @@
       "alkaline"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/eutrochium-altissimum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Eupatorium_altissimum",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "gaultheria-procumbens",
@@ -21556,7 +22272,10 @@
       "acidic"
     ],
     "spreadHabit": "spreading",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/gaultheria-procumbens.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Gaultheria_procumbens",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "helianthus-giganteus",
@@ -21644,7 +22363,10 @@
       "neutral"
     ],
     "spreadHabit": "spreading",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/helianthus-giganteus.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Helianthus_giganteus",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "hepatica-acutiloba",
@@ -21732,7 +22454,10 @@
       "alkaline"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/hepatica-acutiloba.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Hepatica_acutiloba",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "hypoxis-hirsuta",
@@ -21831,7 +22556,10 @@
       "neutral"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/hypoxis-hirsuta.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Hypoxis_hirsuta",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "liatris-aspera",
@@ -21920,7 +22648,10 @@
       "alkaline"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/liatris-aspera.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Liatris_aspera",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "liatris-scariosa",
@@ -22001,7 +22732,10 @@
       "alkaline"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/liatris-scariosa.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Liatris_scariosa",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "liatris-squarrosa",
@@ -22083,7 +22817,10 @@
       "alkaline"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/liatris-squarrosa.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Liatris_squarrosa",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "lilium-canadense",
@@ -22166,7 +22903,10 @@
       "neutral"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/lilium-canadense.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Lilium_canadense",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "lysimachia-ciliata",
@@ -22275,7 +23015,10 @@
       "neutral"
     ],
     "spreadHabit": "spreading",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/lysimachia-ciliata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Lysimachia_ciliata",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "lythrum-alatum",
@@ -22373,7 +23116,10 @@
       "alkaline"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/lythrum-alatum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Lythrum_alatum",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "maianthemum-canadense",
@@ -22458,7 +23204,10 @@
       "acidic"
     ],
     "spreadHabit": "spreading",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/maianthemum-canadense.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Maianthemum_canadense",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "maianthemum-stellatum",
@@ -22560,7 +23309,10 @@
       "alkaline"
     ],
     "spreadHabit": "spreading",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/maianthemum-stellatum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Maianthemum_stellatum",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "mimulus-alatus",
@@ -22651,7 +23403,10 @@
       "neutral"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/mimulus-alatus.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Mimulus_alatus",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "mitchella-repens",
@@ -22746,7 +23501,10 @@
       "acidic"
     ],
     "spreadHabit": "spreading",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/mitchella-repens.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Mitchella_repens",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "mitella-diphylla",
@@ -22834,7 +23592,10 @@
       "neutral"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/mitella-diphylla.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Mitella_diphylla",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "oenothera-fruticosa",
@@ -22926,7 +23687,10 @@
       "alkaline"
     ],
     "spreadHabit": "spreading",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/oenothera-fruticosa.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Oenothera_fruticosa",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "oligoneuron-riddellii",
@@ -22997,7 +23761,10 @@
       "alkaline"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/oligoneuron-riddellii.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Solidago_riddellii",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "oxypolis-rigidior",
@@ -23086,7 +23853,10 @@
       "neutral"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/oxypolis-rigidior.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Oxypolis_rigidior",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "penstemon-hirsutus",
@@ -23175,7 +23945,10 @@
       "alkaline"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/penstemon-hirsutus.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Penstemon_hirsutus",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "phlox-maculata",
@@ -23263,7 +24036,10 @@
       "neutral"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/phlox-maculata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Phlox_maculata",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "phlox-pilosa",
@@ -23360,7 +24136,10 @@
       "alkaline"
     ],
     "spreadHabit": "spreading",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/phlox-pilosa.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Phlox_pilosa",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "physostegia-virginiana",
@@ -23463,7 +24242,10 @@
       "alkaline"
     ],
     "spreadHabit": "aggressive",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/physostegia-virginiana.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Physostegia_virginiana",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "primula-meadia",
@@ -23547,7 +24329,10 @@
       "alkaline"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/primula-meadia.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Primula_meadia",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "pycnanthemum-incanum",
@@ -23633,7 +24418,10 @@
       "neutral"
     ],
     "spreadHabit": "spreading",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/pycnanthemum-incanum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Pycnanthemum_incanum",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "pycnanthemum-verticillatum",
@@ -23722,7 +24510,10 @@
       "alkaline"
     ],
     "spreadHabit": "spreading",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/pycnanthemum-verticillatum.jpg",
+    "imageSource": "https://www.inaturalist.org/taxa/153908",
+    "imageCredit": "iNaturalist"
   },
   {
     "id": "rudbeckia-laciniata",
@@ -23833,7 +24624,10 @@
       "alkaline"
     ],
     "spreadHabit": "aggressive",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/rudbeckia-laciniata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Rudbeckia_laciniata",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "salvia-lyrata",
@@ -23922,7 +24716,10 @@
       "alkaline"
     ],
     "spreadHabit": "spreading",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/salvia-lyrata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Salvia_lyrata",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "saxifraga-virginiensis",
@@ -24012,7 +24809,10 @@
       "alkaline"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/saxifraga-virginiensis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Micranthes_virginiensis",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "sedum-ternatum",
@@ -24097,7 +24897,10 @@
       "alkaline"
     ],
     "spreadHabit": "spreading",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/sedum-ternatum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Sedum_ternatum",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "silene-stellata",
@@ -24188,7 +24991,10 @@
       "neutral"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/silene-stellata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Silene_stellata",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "silene-virginica",
@@ -24270,7 +25076,10 @@
       "alkaline"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/silene-virginica.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Silene_virginica",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "silphium-trifoliatum",
@@ -24347,7 +25156,10 @@
       "alkaline"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/silphium-trifoliatum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Silphium_trifoliatum",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "solidago-flexicaulis",
@@ -24438,7 +25250,10 @@
       "neutral"
     ],
     "spreadHabit": "spreading",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/solidago-flexicaulis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Solidago_flexicaulis",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "solidago-juncea",
@@ -24534,7 +25349,10 @@
       "alkaline"
     ],
     "spreadHabit": "spreading",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/solidago-juncea.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Solidago_juncea",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "solidago-ulmifolia",
@@ -24628,7 +25446,10 @@
       "neutral"
     ],
     "spreadHabit": "spreading",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/solidago-ulmifolia.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Solidago_ulmifolia",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "symphyotrichum-firmum",
@@ -24713,7 +25534,10 @@
       "neutral"
     ],
     "spreadHabit": "spreading",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/symphyotrichum-firmum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Symphyotrichum_firmum",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "symphyotrichum-urophyllum",
@@ -24806,7 +25630,10 @@
       "neutral"
     ],
     "spreadHabit": "spreading",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/symphyotrichum-urophyllum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Symphyotrichum_urophyllum",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "thalictrum-dasycarpum",
@@ -24903,7 +25730,10 @@
       "neutral"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/thalictrum-dasycarpum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Thalictrum_dasycarpum",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "thalictrum-pubescens",
@@ -24990,7 +25820,10 @@
       "neutral"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/thalictrum-pubescens.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Thalictrum_pubescens",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "thalictrum-thalictroides",
@@ -25082,7 +25915,10 @@
       "neutral"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": true
+    "springEphemeral": true,
+    "imageFile": "plants/thalictrum-thalictroides.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Thalictrum_thalictroides",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "trillium-flexipes",
@@ -25158,7 +25994,10 @@
       "neutral"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": true
+    "springEphemeral": true,
+    "imageFile": "plants/trillium-flexipes.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Trillium_flexipes",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "trillium-sessile",
@@ -25233,7 +26072,10 @@
       "neutral"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": true
+    "springEphemeral": true,
+    "imageFile": "plants/trillium-sessile.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Trillium_sessile",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "uvularia-perfoliata",
@@ -25316,7 +26158,10 @@
       "neutral"
     ],
     "spreadHabit": "spreading",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/uvularia-perfoliata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Uvularia_perfoliata",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "uvularia-sessilifolia",
@@ -25409,7 +26254,10 @@
       "neutral"
     ],
     "spreadHabit": "spreading",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/uvularia-sessilifolia.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Uvularia_sessilifolia",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "verbena-stricta",
@@ -25510,7 +26358,10 @@
       "alkaline"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/verbena-stricta.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Verbena_stricta",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "zizia-aptera",
@@ -25609,7 +26460,10 @@
       "alkaline"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/zizia-aptera.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Zizia_aptera",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "calamagrostis-canadensis",
@@ -25710,7 +26564,10 @@
       "neutral"
     ],
     "spreadHabit": "spreading",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/calamagrostis-canadensis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Calamagrostis_canadensis",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "carex-blanda",
@@ -25809,7 +26666,10 @@
       "alkaline"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/carex-blanda.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Carex_blanda",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "carex-plantaginea",
@@ -25892,7 +26752,10 @@
       "neutral"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/carex-plantaginea.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Carex_plantaginea",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "carex-platyphylla",
@@ -25973,7 +26836,10 @@
       "neutral"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/carex-platyphylla.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Carex_platyphylla",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "cinna-arundinacea",
@@ -26064,7 +26930,10 @@
       "neutral"
     ],
     "spreadHabit": "clump",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/cinna-arundinacea.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Cinna_arundinacea",
+    "imageCredit": "Wikimedia"
   },
   {
     "id": "diarrhena-americana",
@@ -26138,6 +27007,9 @@
       "neutral"
     ],
     "spreadHabit": "spreading",
-    "springEphemeral": false
+    "springEphemeral": false,
+    "imageFile": "plants/diarrhena-americana.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Diarrhena_americana",
+    "imageCredit": "Wikimedia"
   }
 ]

@@ -15,11 +15,22 @@ function fetchThumb(scientificName) {
   return promise
 }
 
-export function usePlantImage(scientificNameRef) {
+function unwrap(maybeRef) {
+  if (maybeRef == null) return null
+  return typeof maybeRef === 'object' && 'value' in maybeRef ? maybeRef.value : maybeRef
+}
+
+export function usePlantImage(scientificNameRef, imageFileRef) {
   const src = ref(null)
   const loading = ref(false)
   watchEffect(async () => {
-    const name = typeof scientificNameRef === 'string' ? scientificNameRef : scientificNameRef.value
+    const name = unwrap(scientificNameRef)
+    const file = unwrap(imageFileRef)
+    if (file) {
+      src.value = `${import.meta.env.BASE_URL}${file}`
+      loading.value = false
+      return
+    }
     if (!name) return
     src.value = null
     loading.value = true
