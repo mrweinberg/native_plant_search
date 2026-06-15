@@ -168,6 +168,23 @@ const TRAITS = {
   'senna-hebecarpa':           { cutFlower: true,  culinaryUse: false },
   'aruncus-dioicus':           { cutFlower: true,  culinaryUse: false },
   'coreopsis-tripteris':       { cutFlower: true,  culinaryUse: false },
+
+  // Added from ODNR habitat factsheets
+  'aesculus-glabra':           { cutFlower: false, culinaryUse: false }, // all parts toxic
+  'acer-saccharinum':          { cutFlower: false, culinaryUse: false },
+  'cornus-alternifolia':       { cutFlower: false, culinaryUse: false },
+  'symphoricarpos-orbiculatus':{ cutFlower: true,  culinaryUse: false }, // berried branches
+  'staphylea-trifolia':        { cutFlower: false, culinaryUse: false }, // pods interesting but shrub form
+  'heliopsis-helianthoides':   { cutFlower: true,  culinaryUse: false },
+  'ratibida-pinnata':          { cutFlower: true,  culinaryUse: false },
+  'rudbeckia-triloba':         { cutFlower: true,  culinaryUse: false },
+  'filipendula-rubra':         { cutFlower: true,  culinaryUse: false },
+  'gentiana-andrewsii':        { cutFlower: false, culinaryUse: false }, // wilts immediately when cut
+  'phlox-paniculata':          { cutFlower: true,  culinaryUse: false },
+  'silphium-terebinthinaceum': { cutFlower: false, culinaryUse: false }, // basal-only foliage, stalks too tall
+  'camassia-scilloides':       { cutFlower: true,  culinaryUse: false }, // bulbs reportedly edible cooked but conservative
+  'celastrus-scandens':        { cutFlower: true,  culinaryUse: false }, // berried branches iconic for fall arrangements
+  'symphyotrichum-ericoides':  { cutFlower: true,  culinaryUse: false },
 }
 
 const plants = JSON.parse(readFileSync(PLANTS_PATH, 'utf8'))

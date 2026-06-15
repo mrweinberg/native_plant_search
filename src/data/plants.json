@@ -11615,5 +11615,1284 @@
     ],
     "cutFlower": true,
     "culinaryUse": false
+  },
+  {
+    "id": "aesculus-glabra",
+    "scientificName": "Aesculus glabra",
+    "commonNames": [
+      "Ohio Buckeye",
+      "American Buckeye"
+    ],
+    "family": "Sapindaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MI",
+      "MO",
+      "MS",
+      "NC",
+      "OH",
+      "OK",
+      "PA",
+      "TN",
+      "TX",
+      "VA",
+      "WV"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 20,
+      "max": 40
+    },
+    "spreadFeet": {
+      "min": 20,
+      "max": 40
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "yellow",
+      "green"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Ohio's state tree. All parts are toxic to humans and livestock; the polished brown nuts are traditionally carried as good-luck charms. Among the first trees to leaf out in spring.",
+    "usdaSymbol": "AEGL",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false
+  },
+  {
+    "id": "acer-saccharinum",
+    "scientificName": "Acer saccharinum",
+    "commonNames": [
+      "Silver Maple",
+      "River Maple"
+    ],
+    "family": "Sapindaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "NE",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "RI",
+      "SC",
+      "SD",
+      "TN",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 50,
+      "max": 80
+    },
+    "spreadFeet": {
+      "min": 35,
+      "max": 60
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      2,
+      3,
+      4
+    ],
+    "bloomColors": [
+      "red",
+      "yellow"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds"
+    ],
+    "deerResistant": false,
+    "notes": "Fast-growing floodplain tree with deeply lobed leaves silvery on the underside. Brittle wood drops branches in storms — site away from structures.",
+    "usdaSymbol": "ACSA2",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false
+  },
+  {
+    "id": "cornus-alternifolia",
+    "scientificName": "Cornus alternifolia",
+    "commonNames": [
+      "Pagoda Dogwood",
+      "Alternate-leaf Dogwood"
+    ],
+    "family": "Cornaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DC",
+      "DE",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KY",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 15,
+      "max": 25
+    },
+    "spreadFeet": {
+      "min": 20,
+      "max": 30
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "butterflies"
+    ],
+    "deerResistant": false,
+    "notes": "The only dogwood with alternate leaves — all others are opposite. Distinctive tiered horizontal branches give it the common name. Bluish-black drupes ripen on red stems.",
+    "usdaSymbol": "COAL2",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false
+  },
+  {
+    "id": "symphoricarpos-orbiculatus",
+    "scientificName": "Symphoricarpos orbiculatus",
+    "commonNames": [
+      "Coralberry",
+      "Indian Currant"
+    ],
+    "family": "Caprifoliaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CO",
+      "CT",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MD",
+      "MI",
+      "MO",
+      "MS",
+      "NC",
+      "NE",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "SC",
+      "SD",
+      "TN",
+      "TX",
+      "VA",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 5
+    },
+    "spreadFeet": {
+      "min": 4,
+      "max": 8
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "clay",
+      "rocky"
+    ],
+    "bloomMonths": [
+      6,
+      7
+    ],
+    "bloomColors": [
+      "pink",
+      "white"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Clusters of persistent coral-pink berries hold through winter, well after the leaves drop. Suckers freely — useful for stabilizing slopes and banks.",
+    "usdaSymbol": "SYOR",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
+  },
+  {
+    "id": "staphylea-trifolia",
+    "scientificName": "Staphylea trifolia",
+    "commonNames": [
+      "American Bladdernut"
+    ],
+    "family": "Staphyleaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DC",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "MA",
+      "MD",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "NE",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "SC",
+      "TN",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 10,
+      "max": 15
+    },
+    "spreadFeet": {
+      "min": 8,
+      "max": 12
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Distinctive three-chambered inflated seed pods rattle in the wind. Understory shrub of moist deciduous woods; suckers into thickets over time.",
+    "usdaSymbol": "STTR",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false
+  },
+  {
+    "id": "heliopsis-helianthoides",
+    "scientificName": "Heliopsis helianthoides",
+    "commonNames": [
+      "Oxeye Sunflower",
+      "False Sunflower",
+      "Smooth Oxeye"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "ND",
+      "NE",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "RI",
+      "SC",
+      "SD",
+      "TN",
+      "TX",
+      "VA",
+      "VT",
+      "WI",
+      "WV",
+      "WY"
+    ],
+    "generalAppearance": "herb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 5
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 3
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Resembles a true sunflower but blooms longer and stays a manageable size. Tolerates clay and drought once established.",
+    "usdaSymbol": "HEHE5",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
+  },
+  {
+    "id": "ratibida-pinnata",
+    "scientificName": "Ratibida pinnata",
+    "commonNames": [
+      "Gray-headed Coneflower",
+      "Yellow Coneflower",
+      "Prairie Coneflower"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DC",
+      "FL",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "NE",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "SC",
+      "SD",
+      "TN",
+      "TX",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "herb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 5
+    },
+    "spreadFeet": {
+      "min": 1.5,
+      "max": 2.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Drooping yellow petals around a tall gray-brown cone. Crushed cones smell of anise. A signature prairie species.",
+    "usdaSymbol": "RAPI",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
+  },
+  {
+    "id": "rudbeckia-triloba",
+    "scientificName": "Rudbeckia triloba",
+    "commonNames": [
+      "Brown-eyed Susan",
+      "Three-lobed Coneflower"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "NE",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "herb",
+    "lifespan": "biennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 1.5,
+      "max": 2.5
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "bloomColors": [
+      "yellow",
+      "brown"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Smaller flowers than black-eyed Susan but borne in massive airy sprays late into autumn. Reliably self-seeds; treat as a short-lived perennial colony.",
+    "usdaSymbol": "RUTR2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
+  },
+  {
+    "id": "filipendula-rubra",
+    "scientificName": "Filipendula rubra",
+    "commonNames": [
+      "Queen-of-the-Prairie"
+    ],
+    "family": "Rosaceae",
+    "nativeStates": [
+      "CT",
+      "DC",
+      "DE",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KY",
+      "MA",
+      "MD",
+      "MI",
+      "NC",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "TN",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "herb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 4,
+      "max": 7
+    },
+    "spreadFeet": {
+      "min": 3,
+      "max": 4
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      6,
+      7
+    ],
+    "bloomColors": [
+      "pink"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Wet-meadow giant with frothy cotton-candy plumes 5–7 ft tall. Needs consistent moisture; wilts dramatically in drought.",
+    "usdaSymbol": "FIRU",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
+  },
+  {
+    "id": "gentiana-andrewsii",
+    "scientificName": "Gentiana andrewsii",
+    "commonNames": [
+      "Bottle Gentian",
+      "Closed Gentian",
+      "Andrews' Bottle Gentian"
+    ],
+    "family": "Gentianaceae",
+    "nativeStates": [
+      "CT",
+      "IA",
+      "IL",
+      "IN",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "ND",
+      "NE",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "SD",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "herb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      8,
+      9,
+      10
+    ],
+    "bloomColors": [
+      "blue",
+      "purple"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Flowers never fully open. Bumblebees are nearly the only pollinators strong enough to pry the petals apart, making this a specialist resource late in the season.",
+    "usdaSymbol": "GEAN",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false
+  },
+  {
+    "id": "phlox-paniculata",
+    "scientificName": "Phlox paniculata",
+    "commonNames": [
+      "Summer Phlox",
+      "Garden Phlox",
+      "Tall Phlox"
+    ],
+    "family": "Polemoniaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "DC",
+      "DE",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MD",
+      "MO",
+      "MS",
+      "NC",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "SC",
+      "TN",
+      "VA",
+      "WV"
+    ],
+    "generalAppearance": "herb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 1.5,
+      "max": 2.5
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "pink",
+      "white",
+      "purple"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "hummingbirds"
+    ],
+    "deerResistant": false,
+    "notes": "Fragrant pyramidal flower clusters carry the late-summer border. Prone to powdery mildew — site with morning sun and good airflow.",
+    "usdaSymbol": "PHPA9",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
+  },
+  {
+    "id": "silphium-terebinthinaceum",
+    "scientificName": "Silphium terebinthinaceum",
+    "commonNames": [
+      "Prairie Dock"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KY",
+      "LA",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "OH",
+      "OK",
+      "PA",
+      "SC",
+      "TN",
+      "VA",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "herb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 4,
+      "max": 10
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 3
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Enormous sandpaper-textured spade-shaped basal leaves anchor a nearly leafless flower stalk that towers 6–10 ft. Deep taproot makes it drought-proof but resentful of transplanting.",
+    "usdaSymbol": "SITE2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false
+  },
+  {
+    "id": "camassia-scilloides",
+    "scientificName": "Camassia scilloides",
+    "commonNames": [
+      "Wild Hyacinth",
+      "Atlantic Camas"
+    ],
+    "family": "Asparagaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "DC",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MD",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "herb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "blue",
+      "purple",
+      "white"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": false,
+    "notes": "Spring ephemeral bulb of moist woods and prairies. Pale blue spires above grass-like foliage; goes fully dormant by midsummer.",
+    "usdaSymbol": "CASC7",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
+  },
+  {
+    "id": "celastrus-scandens",
+    "scientificName": "Celastrus scandens",
+    "commonNames": [
+      "American Bittersweet"
+    ],
+    "family": "Celastraceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DC",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "MT",
+      "NC",
+      "ND",
+      "NE",
+      "NH",
+      "NJ",
+      "NM",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "RI",
+      "SC",
+      "SD",
+      "TN",
+      "TX",
+      "VA",
+      "VT",
+      "WI",
+      "WV",
+      "WY"
+    ],
+    "generalAppearance": "vine",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 15,
+      "max": 25
+    },
+    "spreadFeet": {
+      "min": 10,
+      "max": 20
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "sandy"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "green",
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds"
+    ],
+    "deerResistant": true,
+    "notes": "The native bittersweet — not the invasive Oriental C. orbiculatus that displaces it. Yellow capsules split to reveal orange-red arils; female plants only fruit if a male is nearby.",
+    "usdaSymbol": "CESC",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
+  },
+  {
+    "id": "symphyotrichum-ericoides",
+    "scientificName": "Symphyotrichum ericoides",
+    "commonNames": [
+      "Heath Aster",
+      "White Heath Aster"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "AZ",
+      "CO",
+      "CT",
+      "DC",
+      "DE",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "MT",
+      "NC",
+      "ND",
+      "NE",
+      "NH",
+      "NJ",
+      "NM",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "RI",
+      "SC",
+      "SD",
+      "TN",
+      "TX",
+      "UT",
+      "VA",
+      "VT",
+      "WI",
+      "WV",
+      "WY"
+    ],
+    "generalAppearance": "herb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      8,
+      9,
+      10
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "songbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Smothered in tiny white daisies on bushy, needle-leaved stems in fall. Tolerates poor dry soils where showier asters fail.",
+    "usdaSymbol": "SYER",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
   }
 ]
