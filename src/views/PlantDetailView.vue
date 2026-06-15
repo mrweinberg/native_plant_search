@@ -18,17 +18,27 @@ function overlap(a, b) {
   return n
 }
 
+function bloomSuccessionBonus(a, b) {
+  if (!a?.length || !b?.length) return 0
+  const set = new Set(a)
+  const distinct = b.filter((m) => !set.has(m)).length
+  return distinct >= 2 ? 2 : distinct === 1 ? 1 : 0
+}
+
 const companions = computed(() => {
   const target = plant.value
   if (!target) return []
   const scored = []
   for (const p of allPlants) {
     if (p.id === target.id) continue
-    const score =
+    const conditions =
       3 * overlap(p.lightRequirement, target.lightRequirement) +
       2 * overlap(p.soilMoisture, target.soilMoisture) +
-      1 * overlap(p.soilType, target.soilType)
-    if (score > 0) scored.push({ plant: p, score })
+      1 * overlap(p.soilType, target.soilType) +
+      1 * overlap(p.soilPh, target.soilPh)
+    if (conditions === 0) continue
+    const score = conditions + bloomSuccessionBonus(target.bloomMonths, p.bloomMonths)
+    scored.push({ plant: p, score })
   }
   scored.sort((a, b) => {
     if (b.score !== a.score) return b.score - a.score
@@ -89,10 +99,11 @@ function fmtRange(r, unit) {
     </div>
     <p class="notes" v-if="plant.notes">{{ plant.notes }}</p>
 
-    <div class="traits-row" v-if="plant.cutFlower || plant.culinaryUse || plant.deerResistant">
+    <div class="traits-row" v-if="plant.cutFlower || plant.culinaryUse || plant.deerResistant || plant.springEphemeral">
       <span v-if="plant.cutFlower" class="trait trait-cut">✂ Cut flower</span>
       <span v-if="plant.culinaryUse" class="trait trait-edible">🍴 Edible</span>
       <span v-if="plant.deerResistant" class="trait trait-deer">🦌 Deer-resistant</span>
+      <span v-if="plant.springEphemeral" class="trait trait-ephemeral">🌱 Spring ephemeral</span>
     </div>
 
     <section class="group" v-if="inatPhotos.length">
@@ -137,6 +148,8 @@ function fmtRange(r, unit) {
         <div><dt>Light</dt><dd class="cap">{{ fmtList(plant.lightRequirement) }}</dd></div>
         <div><dt>Soil moisture</dt><dd class="cap">{{ fmtList(plant.soilMoisture) }}</dd></div>
         <div><dt>Soil type</dt><dd class="cap">{{ fmtList(plant.soilType) }}</dd></div>
+        <div><dt>Soil pH</dt><dd class="cap">{{ fmtList(plant.soilPh) }}</dd></div>
+        <div><dt>Spread habit</dt><dd class="cap">{{ plant.spreadHabit || '—' }}</dd></div>
       </dl>
     </section>
 
@@ -295,6 +308,7 @@ dd { margin: 2px 0 0; font-size: 14px; }
 .trait-cut { color: #8a4a8a; border-color: #d4b3d4; background: #f4e8f4; }
 .trait-edible { color: #8a5a2a; border-color: #d9c2a3; background: #f6ecdc; }
 .trait-deer { color: #4a6a4a; border-color: #b3d4b3; background: #e8f4e8; }
+.trait-ephemeral { color: #3d6e7a; border-color: #b3d4d9; background: #e3f0f3; }
 .companions-sub {
   font-size: 13px;
   color: var(--ink-soft);

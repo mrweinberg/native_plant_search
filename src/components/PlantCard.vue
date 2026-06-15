@@ -41,9 +41,10 @@ const colorMap = {
         <span class="badge">{{ plant.generalAppearance }}</span>
         <span class="badge">{{ plant.heightFeet.min }}–{{ plant.heightFeet.max }} ft</span>
       </div>
-      <div class="traits" v-if="plant.cutFlower || plant.culinaryUse">
+      <div class="traits" v-if="plant.cutFlower || plant.culinaryUse || plant.spreadHabit === 'aggressive'">
         <span v-if="plant.cutFlower" class="trait trait-cut" title="Good for cut-flower arrangements">✂ Cut flower</span>
         <span v-if="plant.culinaryUse" class="trait trait-edible" title="Has edible parts">🍴 Edible</span>
+        <span v-if="plant.spreadHabit === 'aggressive'" class="trait trait-spread" title="Spreads aggressively — give it room or contain it">⚠ Spreader</span>
       </div>
       <div class="colors" v-if="plant.bloomColors?.length">
         <span
@@ -121,6 +122,7 @@ const colorMap = {
 }
 .trait-cut { color: #8a4a8a; border-color: #d4b3d4; background: #f4e8f4; }
 .trait-edible { color: #8a5a2a; border-color: #d9c2a3; background: #f6ecdc; }
+.trait-spread { color: #8a4a2a; border-color: #e0b89a; background: #fae5d4; }
 .colors { display: flex; gap: 4px; }
 .dot {
   width: 14px;

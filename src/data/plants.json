@@ -96,7 +96,14 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "echinacea-purpurea",
@@ -180,7 +187,14 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "rudbeckia-hirta",
@@ -281,7 +295,14 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "monarda-fistulosa",
@@ -380,7 +401,14 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": true
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false
   },
   {
     "id": "liatris-spicata",
@@ -460,7 +488,14 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "aquilegia-canadensis",
@@ -553,7 +588,14 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "lobelia-cardinalis",
@@ -650,7 +692,14 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "coreopsis-lanceolata",
@@ -733,7 +782,14 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false
   },
   {
     "id": "solidago-rigida",
@@ -818,7 +874,14 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "symphyotrichum-novae-angliae",
@@ -904,7 +967,14 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "baptisia-australis",
@@ -981,7 +1051,14 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "penstemon-digitalis",
@@ -1065,7 +1142,14 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "eutrochium-purpureum",
@@ -1145,7 +1229,14 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "vernonia-gigantea",
@@ -1222,7 +1313,14 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "phlox-divaricata",
@@ -1304,7 +1402,13 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false
   },
   {
     "id": "tiarella-cordifolia",
@@ -1377,7 +1481,13 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false
   },
   {
     "id": "heuchera-americana",
@@ -1456,7 +1566,14 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "polygonatum-biflorum",
@@ -1544,7 +1661,14 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false
   },
   {
     "id": "asarum-canadense",
@@ -1627,7 +1751,13 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false
   },
   {
     "id": "sanguinaria-canadensis",
@@ -1716,7 +1846,13 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": true
   },
   {
     "id": "acer-rubrum",
@@ -1805,7 +1941,13 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "cornus-florida",
@@ -1887,7 +2029,13 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "cercis-canadensis",
@@ -1975,7 +2123,14 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": true
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "quercus-alba",
@@ -2065,7 +2220,13 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": true
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "carpinus-caroliniana",
@@ -2156,7 +2317,13 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "amelanchier-arborea",
@@ -2242,7 +2409,13 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": true
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false
   },
   {
     "id": "hamamelis-virginiana",
@@ -2329,7 +2502,13 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "lindera-benzoin",
@@ -2415,7 +2594,13 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": true
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "itea-virginica",
@@ -2492,7 +2677,13 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false
   },
   {
     "id": "viburnum-prunifolium",
@@ -2569,7 +2760,14 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": true
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false
   },
   {
     "id": "schizachyrium-scoparium",
@@ -2668,7 +2866,14 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "andropogon-gerardii",
@@ -2767,7 +2972,14 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "sorghastrum-nutans",
@@ -2860,7 +3072,14 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "panicum-virgatum",
@@ -2960,7 +3179,14 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "bouteloua-curtipendula",
@@ -3049,7 +3275,13 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "sporobolus-heterolepis",
@@ -3119,7 +3351,14 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "carex-pensylvanica",
@@ -3198,7 +3437,13 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false
   },
   {
     "id": "polystichum-acrostichoides",
@@ -3280,7 +3525,13 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "matteuccia-struthiopteris",
@@ -3349,7 +3600,13 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": true
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "aggressive",
+    "springEphemeral": false
   },
   {
     "id": "athyrium-filix-femina",
@@ -3436,7 +3693,13 @@
       "SPM"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "dryopteris-marginalis",
@@ -3512,7 +3775,13 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "osmundastrum-cinnamomeum",
@@ -3592,7 +3861,12 @@
       "SPM"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "adiantum-pedatum",
@@ -3675,7 +3949,13 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false
   },
   {
     "id": "parthenocissus-quinquefolia",
@@ -3775,7 +4055,14 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "aggressive",
+    "springEphemeral": false
   },
   {
     "id": "lonicera-sempervirens",
@@ -3859,7 +4146,13 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "clematis-virginiana",
@@ -3943,7 +4236,13 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false
   },
   {
     "id": "passiflora-incarnata",
@@ -4023,7 +4322,13 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": true
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "aggressive",
+    "springEphemeral": false
   },
   {
     "id": "geranium-maculatum",
@@ -4109,7 +4414,13 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false
   },
   {
     "id": "mertensia-virginica",
@@ -4188,7 +4499,13 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": true
   },
   {
     "id": "trillium-grandiflorum",
@@ -4258,7 +4575,13 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": true
   },
   {
     "id": "dicentra-cucullaria",
@@ -4344,7 +4667,14 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": true
   },
   {
     "id": "erythronium-americanum",
@@ -4425,7 +4755,13 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": true
   },
   {
     "id": "claytonia-virginica",
@@ -4510,7 +4846,14 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": true
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": true
   },
   {
     "id": "iris-versicolor",
@@ -4585,7 +4928,13 @@
       "SPM"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "silphium-perfoliatum",
@@ -4666,7 +5015,14 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "zizia-aurea",
@@ -4756,7 +5112,14 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "chelone-glabra",
@@ -4838,7 +5201,13 @@
       "SPM"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "asclepias-incarnata",
@@ -4931,7 +5300,13 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "asclepias-syriaca",
@@ -5018,7 +5393,14 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "aggressive",
+    "springEphemeral": false
   },
   {
     "id": "eupatorium-perfoliatum",
@@ -5107,7 +5489,13 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "allium-cernuum",
@@ -5192,7 +5580,14 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": true
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "pycnanthemum-virginianum",
@@ -5264,7 +5659,14 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": true
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false
   },
   {
     "id": "veronicastrum-virginicum",
@@ -5340,7 +5742,14 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "helenium-autumnale",
@@ -5434,7 +5843,13 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "packera-aurea",
@@ -5518,7 +5933,14 @@
       "SPM"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false
   },
   {
     "id": "podophyllum-peltatum",
@@ -5604,7 +6026,14 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "aggressive",
+    "springEphemeral": true
   },
   {
     "id": "maianthemum-racemosum",
@@ -5701,7 +6130,13 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": true
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false
   },
   {
     "id": "actaea-racemosa",
@@ -5776,7 +6211,13 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "anemone-canadensis",
@@ -5849,7 +6290,14 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "aggressive",
+    "springEphemeral": false
   },
   {
     "id": "cephalanthus-occidentalis",
@@ -5942,7 +6390,13 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "sambucus-canadensis",
@@ -6037,7 +6491,14 @@
       "PR"
     ],
     "cutFlower": true,
-    "culinaryUse": true
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "aggressive",
+    "springEphemeral": false
   },
   {
     "id": "aronia-melanocarpa",
@@ -6114,7 +6575,12 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": true
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false
   },
   {
     "id": "ilex-verticillata",
@@ -6201,7 +6667,12 @@
       "SPM"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false
   },
   {
     "id": "physocarpus-opulifolius",
@@ -6264,7 +6735,14 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "rhus-aromatica",
@@ -6326,7 +6804,14 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": true
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false
   },
   {
     "id": "liriodendron-tulipifera",
@@ -6388,7 +6873,13 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "nyssa-sylvatica",
@@ -6474,7 +6965,12 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "betula-nigra",
@@ -6560,7 +7056,12 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "platanus-occidentalis",
@@ -6650,7 +7151,14 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "asimina-triloba",
@@ -6733,7 +7241,13 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": true
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false
   },
   {
     "id": "sassafras-albidum",
@@ -6821,7 +7335,13 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "aggressive",
+    "springEphemeral": false
   },
   {
     "id": "quercus-rubra",
@@ -6914,7 +7434,13 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "quercus-macrocarpa",
@@ -7000,7 +7526,14 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "quercus-velutina",
@@ -7088,7 +7621,13 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "quercus-muehlenbergii",
@@ -7172,7 +7711,12 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "quercus-palustris",
@@ -7249,7 +7793,12 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "carya-ovata",
@@ -7336,7 +7885,14 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": true
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "carya-glabra",
@@ -7419,7 +7975,13 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "carya-cordiformis",
@@ -7504,7 +8066,14 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "acer-saccharum",
@@ -7591,7 +8160,14 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": true
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "fagus-grandifolia",
@@ -7676,7 +8252,13 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": true
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false
   },
   {
     "id": "juglans-nigra",
@@ -7768,7 +8350,14 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": true
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "tilia-americana",
@@ -7861,7 +8450,14 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": true
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "prunus-serotina",
@@ -7953,7 +8549,14 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": true
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false
   },
   {
     "id": "diospyros-virginiana",
@@ -8035,7 +8638,14 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": true
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false
   },
   {
     "id": "tsuga-canadensis",
@@ -8115,7 +8725,12 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "pinus-strobus",
@@ -8197,7 +8812,13 @@
       "SPM"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "juniperus-virginiana",
@@ -8290,7 +8911,14 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "magnolia-acuminata",
@@ -8363,7 +8991,13 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "viburnum-dentatum",
@@ -8444,7 +9078,14 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false
   },
   {
     "id": "viburnum-acerifolium",
@@ -8526,7 +9167,13 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false
   },
   {
     "id": "cornus-sericea",
@@ -8614,7 +9261,13 @@
       "SPM"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "aggressive",
+    "springEphemeral": false
   },
   {
     "id": "cornus-amomum",
@@ -8695,7 +9348,13 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false
   },
   {
     "id": "hydrangea-arborescens",
@@ -8767,7 +9426,13 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "ceanothus-americanus",
@@ -8852,7 +9517,14 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": true
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "corylus-americana",
@@ -8940,7 +9612,14 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": true
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false
   },
   {
     "id": "vaccinium-corymbosum",
@@ -9024,7 +9703,12 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": true
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "diervilla-lonicera",
@@ -9100,7 +9784,14 @@
       "SPM"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false
   },
   {
     "id": "spiraea-alba",
@@ -9177,7 +9868,13 @@
       "SPM"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false
   },
   {
     "id": "rosa-carolina",
@@ -9264,7 +9961,14 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": true
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false
   },
   {
     "id": "bignonia-capreolata",
@@ -9334,7 +10038,14 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false
   },
   {
     "id": "campsis-radicans",
@@ -9433,7 +10144,14 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "aggressive",
+    "springEphemeral": false
   },
   {
     "id": "aristolochia-macrophylla",
@@ -9528,7 +10246,13 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "wisteria-frutescens",
@@ -9597,7 +10321,13 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false
   },
   {
     "id": "apios-americana",
@@ -9687,7 +10417,13 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": true
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "aggressive",
+    "springEphemeral": false
   },
   {
     "id": "carex-muskingumensis",
@@ -9751,7 +10487,13 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false
   },
   {
     "id": "carex-stricta",
@@ -9830,7 +10572,13 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "aggressive",
+    "springEphemeral": false
   },
   {
     "id": "carex-grayi",
@@ -9912,7 +10660,13 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "elymus-virginicus",
@@ -10002,7 +10756,14 @@
       "SPM"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "elymus-hystrix",
@@ -10085,7 +10846,14 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "chasmanthium-latifolium",
@@ -10166,7 +10934,14 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false
   },
   {
     "id": "juncus-effusus",
@@ -10264,7 +11039,13 @@
       "SPM"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "onoclea-sensibilis",
@@ -10349,7 +11130,13 @@
       "SPM"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "aggressive",
+    "springEphemeral": false
   },
   {
     "id": "asplenium-platyneuron",
@@ -10430,7 +11217,14 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "polypodium-virginianum",
@@ -10505,7 +11299,12 @@
       "SPM"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false
   },
   {
     "id": "hepatica-americana",
@@ -10587,7 +11386,12 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "jeffersonia-diphylla",
@@ -10652,7 +11456,13 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": true
   },
   {
     "id": "caulophyllum-thalictroides",
@@ -10731,7 +11541,13 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "uvularia-grandiflora",
@@ -10806,7 +11622,13 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false
   },
   {
     "id": "polemonium-reptans",
@@ -10884,7 +11706,13 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "solidago-caesia",
@@ -10970,7 +11798,13 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "eurybia-divaricata",
@@ -11044,7 +11878,13 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false
   },
   {
     "id": "symphyotrichum-laeve",
@@ -11137,7 +11977,14 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "symphyotrichum-cordifolium",
@@ -11221,7 +12068,13 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false
   },
   {
     "id": "lobelia-siphilitica",
@@ -11310,7 +12163,14 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "mimulus-ringens",
@@ -11400,7 +12260,13 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "senna-hebecarpa",
@@ -11470,7 +12336,14 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "aruncus-dioicus",
@@ -11540,7 +12413,13 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "coreopsis-tripteris",
@@ -11614,7 +12493,14 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false
   },
   {
     "id": "aesculus-glabra",
@@ -11688,7 +12574,14 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "acer-saccharinum",
@@ -11781,7 +12674,13 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "cornus-alternifolia",
@@ -11865,7 +12764,14 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "symphoricarpos-orbiculatus",
@@ -11954,7 +12860,14 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "aggressive",
+    "springEphemeral": false
   },
   {
     "id": "staphylea-trifolia",
@@ -12035,7 +12948,14 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false
   },
   {
     "id": "heliopsis-helianthoides",
@@ -12132,7 +13052,14 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "ratibida-pinnata",
@@ -12222,7 +13149,14 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "rudbeckia-triloba",
@@ -12313,7 +13247,14 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false
   },
   {
     "id": "filipendula-rubra",
@@ -12387,7 +13328,14 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false
   },
   {
     "id": "gentiana-andrewsii",
@@ -12466,7 +13414,13 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "phlox-paniculata",
@@ -12547,7 +13501,13 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "silphium-terebinthinaceum",
@@ -12621,7 +13581,14 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "camassia-scilloides",
@@ -12700,7 +13667,14 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "celastrus-scandens",
@@ -12793,7 +13767,14 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false
   },
   {
     "id": "symphyotrichum-ericoides",
@@ -12893,7 +13874,14 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false
   },
   {
     "id": "aesculus-flava",
@@ -12957,7 +13945,13 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "fraxinus-quadrangulata",
@@ -13026,7 +14020,13 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "quercus-coccinea",
@@ -13109,7 +14109,12 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "quercus-shumardii",
@@ -13184,7 +14189,14 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "ulmus-americana",
@@ -13280,7 +14292,14 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "prunus-virginiana",
@@ -13384,7 +14403,14 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": true
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "aggressive",
+    "springEphemeral": false
   },
   {
     "id": "rhus-typhina",
@@ -13467,7 +14493,14 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": true
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "aggressive",
+    "springEphemeral": false
   },
   {
     "id": "vaccinium-angustifolium",
@@ -13546,7 +14579,12 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": true
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false
   },
   {
     "id": "kalmia-latifolia",
@@ -13626,7 +14664,12 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "dryopteris-intermedia",
@@ -13699,7 +14742,13 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "osmunda-claytoniana",
@@ -13773,7 +14822,12 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "allium-tricoccum",
@@ -13853,7 +14907,13 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": true
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": true
   },
   {
     "id": "asclepias-verticillata",
@@ -13949,7 +15009,14 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "eutrochium-fistulosum",
@@ -14037,7 +15104,13 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "eutrochium-maculatum",
@@ -14127,7 +15200,14 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "helianthus-tuberosus",
@@ -14220,7 +15300,14 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": true
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "aggressive",
+    "springEphemeral": false
   },
   {
     "id": "iris-cristata",
@@ -14290,7 +15377,13 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false
   },
   {
     "id": "lilium-michiganense",
@@ -14360,7 +15453,13 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "lilium-superbum",
@@ -14440,7 +15539,13 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "phlox-stolonifera",
@@ -14506,7 +15611,13 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false
   },
   {
     "id": "pycnanthemum-tenuifolium",
@@ -14597,7 +15708,14 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": true
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false
   },
   {
     "id": "rudbeckia-fulgida",
@@ -14680,7 +15798,14 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false
   },
   {
     "id": "solidago-nemoralis",
@@ -14773,7 +15898,14 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "solidago-speciosa",
@@ -14864,7 +15996,14 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "stylophorum-diphyllum",
@@ -14929,7 +16068,13 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false
   },
   {
     "id": "symphyotrichum-oolentangiense",
@@ -15011,7 +16156,14 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "tradescantia-ohiensis",
@@ -15099,7 +16251,14 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "trillium-erectum",
@@ -15176,7 +16335,13 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": true
   },
   {
     "id": "elymus-canadensis",
@@ -15278,7 +16443,14 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "eragrostis-spectabilis",
@@ -15371,7 +16543,14 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "spartina-pectinata",
@@ -15465,7 +16644,14 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "aggressive",
+    "springEphemeral": false
   },
   {
     "id": "carya-laciniosa",
@@ -15544,7 +16730,14 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": true
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "celtis-occidentalis",
@@ -15641,7 +16834,14 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "gymnocladus-dioica",
@@ -15710,7 +16910,14 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false
   },
   {
     "id": "liquidambar-styraciflua",
@@ -15789,7 +16996,13 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "magnolia-tripetala",
@@ -15855,7 +17068,13 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "morus-rubra",
@@ -15941,7 +17160,14 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": true
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false
   },
   {
     "id": "ostrya-virginiana",
@@ -16035,7 +17261,14 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "oxydendrum-arboreum",
@@ -16106,7 +17339,12 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "populus-deltoides",
@@ -16205,7 +17443,14 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false
   },
   {
     "id": "ptelea-trifoliata",
@@ -16302,7 +17547,14 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "quercus-montana",
@@ -16379,7 +17631,12 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "salix-nigra",
@@ -16480,7 +17737,14 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "ulmus-rubra",
@@ -16573,7 +17837,14 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "zanthoxylum-americanum",
@@ -16665,7 +17936,14 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "aggressive",
+    "springEphemeral": false
   },
   {
     "id": "pinus-virginiana",
@@ -16734,7 +18012,12 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "thuja-occidentalis",
@@ -16811,7 +18094,14 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "taxus-canadensis",
@@ -16886,7 +18176,13 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false
   },
   {
     "id": "cornus-racemosa",
@@ -16972,7 +18268,14 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "aggressive",
+    "springEphemeral": false
   },
   {
     "id": "dirca-palustris",
@@ -17055,7 +18358,13 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "hypericum-prolificum",
@@ -17139,7 +18448,14 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "rhus-copallinum",
@@ -17224,7 +18540,14 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": true
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "aggressive",
+    "springEphemeral": false
   },
   {
     "id": "rhus-glabra",
@@ -17328,7 +18651,14 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": true
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "aggressive",
+    "springEphemeral": false
   },
   {
     "id": "rosa-setigera",
@@ -17413,7 +18743,14 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false
   },
   {
     "id": "rubus-odoratus",
@@ -17493,7 +18830,13 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": true
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "aggressive",
+    "springEphemeral": false
   },
   {
     "id": "sambucus-racemosa",
@@ -17586,7 +18929,14 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false
   },
   {
     "id": "vaccinium-pallidum",
@@ -17673,7 +19023,12 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": true
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false
   },
   {
     "id": "vaccinium-stamineum",
@@ -17755,7 +19110,12 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "dennstaedtia-punctilobula",
@@ -17829,7 +19189,12 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "aggressive",
+    "springEphemeral": false
   },
   {
     "id": "deparia-acrostichoides",
@@ -17903,7 +19268,13 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false
   },
   {
     "id": "diplazium-pycnocarpon",
@@ -17977,7 +19348,13 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false
   },
   {
     "id": "dryopteris-goldiana",
@@ -18048,7 +19425,13 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "phegopteris-hexagonoptera",
@@ -18124,7 +19507,13 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false
   },
   {
     "id": "thelypteris-noveboracensis",
@@ -18196,7 +19585,12 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "aggressive",
+    "springEphemeral": false
   },
   {
     "id": "chamaecrista-fasciculata",
@@ -18289,7 +19683,14 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false
   },
   {
     "id": "impatiens-pallida",
@@ -18378,7 +19779,14 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false
   },
   {
     "id": "campanula-americana",
@@ -18465,7 +19873,14 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "actaea-pachypoda",
@@ -18550,7 +19965,13 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "anemone-quinquefolia",
@@ -18627,7 +20048,13 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": true
   },
   {
     "id": "anemone-virginiana",
@@ -18718,7 +20145,14 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "arisaema-dracontium",
@@ -18806,7 +20240,13 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "asclepias-sullivantii",
@@ -18871,7 +20311,13 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "baptisia-alba",
@@ -18948,7 +20394,14 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "baptisia-tinctoria",
@@ -19028,7 +20481,13 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "blephilia-ciliata",
@@ -19113,7 +20572,14 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false
   },
   {
     "id": "blephilia-hirsuta",
@@ -19198,7 +20664,13 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false
   },
   {
     "id": "cardamine-concatenata",
@@ -19288,7 +20760,14 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": true
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": true
   },
   {
     "id": "collinsonia-canadensis",
@@ -19370,7 +20849,13 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "conoclinium-coelestinum",
@@ -19455,7 +20940,14 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "aggressive",
+    "springEphemeral": false
   },
   {
     "id": "cunila-origanoides",
@@ -19532,7 +21024,13 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": true
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "dicentra-canadensis",
@@ -19609,7 +21107,14 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": true
   },
   {
     "id": "doellingeria-umbellata",
@@ -19691,7 +21196,13 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false
   },
   {
     "id": "erythronium-albidum",
@@ -19770,7 +21281,14 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": true
   },
   {
     "id": "euphorbia-corollata",
@@ -19859,7 +21377,14 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "eutrochium-altissimum",
@@ -19936,7 +21461,14 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "gaultheria-procumbens",
@@ -20019,7 +21551,12 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": true
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false
   },
   {
     "id": "helianthus-giganteus",
@@ -20101,7 +21638,13 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false
   },
   {
     "id": "hepatica-acutiloba",
@@ -20183,7 +21726,13 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "hypoxis-hirsuta",
@@ -20276,7 +21825,13 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "liatris-aspera",
@@ -20358,7 +21913,14 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "liatris-scariosa",
@@ -20432,7 +21994,14 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "liatris-squarrosa",
@@ -20507,7 +22076,14 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "lilium-canadense",
@@ -20584,7 +22160,13 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "lysimachia-ciliata",
@@ -20687,7 +22269,13 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false
   },
   {
     "id": "lythrum-alatum",
@@ -20778,7 +22366,14 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "maianthemum-canadense",
@@ -20858,7 +22453,12 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false
   },
   {
     "id": "maianthemum-stellatum",
@@ -20953,7 +22553,14 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false
   },
   {
     "id": "mimulus-alatus",
@@ -21038,7 +22645,13 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "mitchella-repens",
@@ -21128,7 +22741,12 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false
   },
   {
     "id": "mitella-diphylla",
@@ -21210,7 +22828,13 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "oenothera-fruticosa",
@@ -21295,7 +22919,14 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false
   },
   {
     "id": "oligoneuron-riddellii",
@@ -21360,7 +22991,13 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "oxypolis-rigidior",
@@ -21443,7 +23080,13 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "penstemon-hirsutus",
@@ -21525,7 +23168,14 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "phlox-maculata",
@@ -21607,7 +23257,13 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "phlox-pilosa",
@@ -21697,7 +23353,14 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false
   },
   {
     "id": "physostegia-virginiana",
@@ -21793,7 +23456,14 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "aggressive",
+    "springEphemeral": false
   },
   {
     "id": "primula-meadia",
@@ -21870,7 +23540,14 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "pycnanthemum-incanum",
@@ -21950,7 +23627,13 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": true
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false
   },
   {
     "id": "pycnanthemum-verticillatum",
@@ -22032,7 +23715,14 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": true
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false
   },
   {
     "id": "rudbeckia-laciniata",
@@ -22136,7 +23826,14 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "aggressive",
+    "springEphemeral": false
   },
   {
     "id": "salvia-lyrata",
@@ -22218,7 +23915,14 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false
   },
   {
     "id": "saxifraga-virginiensis",
@@ -22301,7 +24005,14 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "sedum-ternatum",
@@ -22379,7 +24090,14 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false
   },
   {
     "id": "silene-stellata",
@@ -22464,7 +24182,13 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "silene-virginica",
@@ -22539,7 +24263,14 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "silphium-trifoliatum",
@@ -22609,7 +24340,14 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "solidago-flexicaulis",
@@ -22694,7 +24432,13 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false
   },
   {
     "id": "solidago-juncea",
@@ -22783,7 +24527,14 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false
   },
   {
     "id": "solidago-ulmifolia",
@@ -22871,7 +24622,13 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false
   },
   {
     "id": "symphyotrichum-firmum",
@@ -22950,7 +24707,13 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false
   },
   {
     "id": "symphyotrichum-urophyllum",
@@ -23037,7 +24800,13 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false
   },
   {
     "id": "thalictrum-dasycarpum",
@@ -23128,7 +24897,13 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "thalictrum-pubescens",
@@ -23209,7 +24984,13 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "thalictrum-thalictroides",
@@ -23295,7 +25076,13 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": true
   },
   {
     "id": "trillium-flexipes",
@@ -23365,7 +25152,13 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": true
   },
   {
     "id": "trillium-sessile",
@@ -23434,7 +25227,13 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": true
   },
   {
     "id": "uvularia-perfoliata",
@@ -23511,7 +25310,13 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false
   },
   {
     "id": "uvularia-sessilifolia",
@@ -23598,7 +25403,13 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false
   },
   {
     "id": "verbena-stricta",
@@ -23692,7 +25503,14 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "zizia-aptera",
@@ -23784,7 +25602,14 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "calamagrostis-canadensis",
@@ -23879,7 +25704,13 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false
   },
   {
     "id": "carex-blanda",
@@ -23971,7 +25802,14 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "carex-plantaginea",
@@ -24048,7 +25886,13 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "carex-platyphylla",
@@ -24123,7 +25967,13 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "cinna-arundinacea",
@@ -24208,7 +26058,13 @@
       "L48"
     ],
     "cutFlower": true,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false
   },
   {
     "id": "diarrhena-americana",
@@ -24276,6 +26132,12 @@
       "L48"
     ],
     "cutFlower": false,
-    "culinaryUse": false
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false
   }
 ]

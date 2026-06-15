@@ -13,11 +13,12 @@ const props = defineProps({
   deerOnly: { type: Boolean, default: false },
   cutFlowerOnly: { type: Boolean, default: false },
   culinaryOnly: { type: Boolean, default: false },
+  springEphemeralOnly: { type: Boolean, default: false },
   open: { type: Boolean, default: false },
 })
 const emit = defineEmits([
   'toggle', 'heightMax', 'heightMin', 'deerOnly', 'cutFlowerOnly', 'culinaryOnly',
-  'clear', 'clearGroup', 'close',
+  'springEphemeralOnly', 'clear', 'clearGroup', 'close',
 ])
 
 const options = computed(() => getFilterOptions())
@@ -28,6 +29,8 @@ const groups = [
   { key: 'lightRequirement', title: 'Light' },
   { key: 'soilMoisture', title: 'Soil moisture' },
   { key: 'soilType', title: 'Soil type' },
+  { key: 'soilPh', title: 'Soil pH' },
+  { key: 'spreadHabit', title: 'Spread habit' },
   { key: 'bloomMonths', title: 'Bloom month', isMonth: true },
   { key: 'bloomColors', title: 'Bloom color' },
   { key: 'leafArrangement', title: 'Leaf arrangement' },
@@ -99,6 +102,14 @@ function labelFor(group, val) {
           @change="emit('culinaryOnly', $event.target.checked)"
         />
         Edible / culinary use
+      </label>
+      <label class="toggle">
+        <input
+          type="checkbox"
+          :checked="springEphemeralOnly"
+          @change="emit('springEphemeralOnly', $event.target.checked)"
+        />
+        Spring ephemerals only
       </label>
     </section>
 

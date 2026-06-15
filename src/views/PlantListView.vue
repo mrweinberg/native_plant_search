@@ -5,7 +5,7 @@ import SearchBar from '../components/SearchBar.vue'
 import FilterPanel from '../components/FilterPanel.vue'
 import PlantCard from '../components/PlantCard.vue'
 import BloomCalendar from '../components/BloomCalendar.vue'
-import { usePlantFilters } from '../composables/usePlantFilters.js'
+import { usePlantFilters, MONTH_LABELS } from '../composables/usePlantFilters.js'
 
 const {
   query,
@@ -15,6 +15,7 @@ const {
   deerOnly,
   cutFlowerOnly,
   culinaryOnly,
+  springEphemeralOnly,
   sortBy,
   sortedPlants,
   activeFilterCount,
@@ -25,10 +26,52 @@ const {
   setDeerOnly,
   setCutFlowerOnly,
   setCulinaryOnly,
+  setSpringEphemeralOnly,
   setSortBy,
   clearFilter,
   clearAll,
 } = usePlantFilters()
+
+const GROUP_TITLES = {
+  generalAppearance: 'Type',
+  lifespan: 'Lifespan',
+  lightRequirement: 'Light',
+  soilMoisture: 'Moisture',
+  soilType: 'Soil',
+  soilPh: 'pH',
+  spreadHabit: 'Spread',
+  bloomMonths: 'Bloom',
+  bloomColors: 'Color',
+  leafArrangement: 'Leaves',
+  leafRetention: 'Foliage',
+  nativeStates: 'State',
+  wildlifeValue: 'Wildlife',
+  family: 'Family',
+}
+
+const activeChips = computed(() => {
+  const chips = []
+  for (const [key, vals] of Object.entries(selected.value)) {
+    for (const v of vals) {
+      const label = key === 'bloomMonths' ? MONTH_LABELS[v] : String(v)
+      chips.push({
+        label: `${GROUP_TITLES[key] || key}: ${label}`,
+        remove: () => toggleFilter(key, v),
+      })
+    }
+  }
+  if (heightMin.value != null) {
+    chips.push({ label: `Min height: ${heightMin.value} ft`, remove: () => setHeightMin(null) })
+  }
+  if (heightMax.value != null) {
+    chips.push({ label: `Max height: ${heightMax.value} ft`, remove: () => setHeightMax(null) })
+  }
+  if (deerOnly.value) chips.push({ label: 'Deer-resistant', remove: () => setDeerOnly(false) })
+  if (cutFlowerOnly.value) chips.push({ label: 'Cut flower', remove: () => setCutFlowerOnly(false) })
+  if (culinaryOnly.value) chips.push({ label: 'Edible', remove: () => setCulinaryOnly(false) })
+  if (springEphemeralOnly.value) chips.push({ label: 'Spring ephemeral', remove: () => setSpringEphemeralOnly(false) })
+  return chips
+})
 
 const route = useRoute()
 const router = useRouter()
@@ -60,12 +103,14 @@ watch(() => route.fullPath, () => { drawerOpen.value = false })
       :deer-only="deerOnly"
       :cut-flower-only="cutFlowerOnly"
       :culinary-only="culinaryOnly"
+      :spring-ephemeral-only="springEphemeralOnly"
       @toggle="(k, v) => toggleFilter(k, v)"
       @height-max="setHeightMax"
       @height-min="setHeightMin"
       @deer-only="setDeerOnly"
       @cut-flower-only="setCutFlowerOnly"
       @culinary-only="setCulinaryOnly"
+      @spring-ephemeral-only="setSpringEphemeralOnly"
       @clear-group="clearFilter"
       @clear="clearAll"
     />
@@ -77,6 +122,17 @@ watch(() => route.fullPath, () => { drawerOpen.value = false })
         </button>
       </div>
       <SearchBar :model-value="query" @update:model-value="setSearch" />
+      <div v-if="activeChips.length" class="active-chips">
+        <button
+          v-for="(c, i) in activeChips"
+          :key="i"
+          type="button"
+          class="active-chip"
+          @click="c.remove()"
+          :title="`Remove ${c.label}`"
+        >{{ c.label }} <span class="x">✕</span></button>
+        <button type="button" class="clear-chip" @click="clearAll">Clear all</button>
+      </div>
       <div class="result-bar">
         <span>{{ sortedPlants.length }} plants</span>
         <span v-if="activeFilterCount > 0" class="muted">
@@ -242,4 +298,39 @@ watch(() => route.fullPath, () => { drawerOpen.value = false })
   margin-left: 6px;
   text-decoration: underline;
 }
+.active-chips {
+  position: sticky;
+  top: 0;
+  z-index: 5;
+  background: var(--bg, var(--card));
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  padding: 8px 0;
+  margin-bottom: 4px;
+  border-bottom: 1px solid var(--border);
+}
+.active-chip {
+  background: var(--accent-soft);
+  color: var(--accent);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  font-size: 12px;
+  padding: 3px 10px;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+.active-chip:hover { background: var(--card); }
+.active-chip .x { font-size: 10px; opacity: 0.7; }
+.clear-chip {
+  background: none;
+  border: none;
+  color: var(--accent);
+  font-size: 12px;
+  cursor: pointer;
+  padding: 3px 6px;
+}
+.clear-chip:hover { text-decoration: underline; }
 </style>

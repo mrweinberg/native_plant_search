@@ -8,6 +8,8 @@ const MULTI_FILTERS = [
   { key: 'lightRequirement', field: 'lightRequirement', isArray: true },
   { key: 'soilMoisture', field: 'soilMoisture', isArray: true },
   { key: 'soilType', field: 'soilType', isArray: true },
+  { key: 'soilPh', field: 'soilPh', isArray: true },
+  { key: 'spreadHabit', field: 'spreadHabit', isArray: false },
   { key: 'bloomMonths', field: 'bloomMonths', isArray: true, numeric: true },
   { key: 'bloomColors', field: 'bloomColors', isArray: true },
   { key: 'leafArrangement', field: 'leafArrangement', isArray: false },
@@ -64,6 +66,7 @@ export function usePlantFilters() {
   const deerOnly = computed(() => route.query.deer === '1')
   const cutFlowerOnly = computed(() => route.query.cut === '1')
   const culinaryOnly = computed(() => route.query.edible === '1')
+  const springEphemeralOnly = computed(() => route.query.ephemeral === '1')
   const sortBy = computed(() => String(route.query.sort || 'common'))
 
   const selected = computed(() => {
@@ -111,6 +114,9 @@ export function usePlantFilters() {
   function setCulinaryOnly(val) {
     setQuery({ edible: val ? '1' : undefined })
   }
+  function setSpringEphemeralOnly(val) {
+    setQuery({ ephemeral: val ? '1' : undefined })
+  }
   function setSortBy(val) {
     setQuery({ sort: val && val !== 'common' ? val : undefined })
   }
@@ -152,6 +158,7 @@ export function usePlantFilters() {
       if (deer && !p.deerResistant) return false
       if (cutFlowerOnly.value && !p.cutFlower) return false
       if (culinaryOnly.value && !p.culinaryUse) return false
+      if (springEphemeralOnly.value && !p.springEphemeral) return false
       return true
     })
   })
@@ -189,6 +196,7 @@ export function usePlantFilters() {
     if (deerOnly.value) n++
     if (cutFlowerOnly.value) n++
     if (culinaryOnly.value) n++
+    if (springEphemeralOnly.value) n++
     return n
   })
 
@@ -200,6 +208,7 @@ export function usePlantFilters() {
     deerOnly,
     cutFlowerOnly,
     culinaryOnly,
+    springEphemeralOnly,
     sortBy,
     filteredPlants,
     sortedPlants,
@@ -212,6 +221,7 @@ export function usePlantFilters() {
     setDeerOnly,
     setCutFlowerOnly,
     setCulinaryOnly,
+    setSpringEphemeralOnly,
     setSortBy,
     clearAll,
   }
