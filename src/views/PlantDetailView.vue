@@ -3,6 +3,7 @@ import { computed } from 'vue'
 import { useRoute, RouterLink } from 'vue-router'
 import { allPlants, MONTH_LABELS } from '../composables/usePlantFilters.js'
 import { usePlantImage } from '../composables/usePlantImage.js'
+import { useInatGallery } from '../composables/useInatGallery.js'
 import FavoriteButton from '../components/FavoriteButton.vue'
 import PlantCard from '../components/PlantCard.vue'
 
@@ -37,6 +38,7 @@ const companions = computed(() => {
 })
 const sciName = computed(() => plant.value?.scientificName || '')
 const { src: imageSrc } = usePlantImage(sciName)
+const { photos: inatPhotos } = useInatGallery(sciName)
 const wikiUrl = computed(() =>
   sciName.value
     ? `https://en.wikipedia.org/wiki/${encodeURIComponent(sciName.value.replace(/ /g, '_'))}`
@@ -92,6 +94,24 @@ function fmtRange(r, unit) {
       <span v-if="plant.culinaryUse" class="trait trait-edible">🍴 Edible</span>
       <span v-if="plant.deerResistant" class="trait trait-deer">🦌 Deer-resistant</span>
     </div>
+
+    <section class="group" v-if="inatPhotos.length">
+      <h2>Photos</h2>
+      <div class="gallery">
+        <a
+          v-for="(photo, i) in inatPhotos"
+          :key="i"
+          :href="photo.full"
+          target="_blank"
+          rel="noopener"
+          class="gallery-item"
+          :title="photo.attribution"
+        >
+          <img :src="photo.thumb" :alt="`${plant.commonNames[0]} photo ${i + 1}`" loading="lazy" />
+        </a>
+      </div>
+      <div class="gallery-credit">Photos via iNaturalist</div>
+    </section>
 
     <section class="group">
       <h2>Identification</h2>
@@ -244,6 +264,27 @@ dt {
 }
 dd { margin: 2px 0 0; font-size: 14px; }
 .cap { text-transform: capitalize; }
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+  gap: 8px;
+}
+.gallery-item {
+  display: block;
+  aspect-ratio: 1;
+  border-radius: 6px;
+  overflow: hidden;
+  background: var(--accent-soft);
+}
+.gallery-item img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  transition: transform 0.2s ease;
+}
+.gallery-item:hover img { transform: scale(1.05); }
+.gallery-credit { font-size: 11px; color: var(--ink-soft); margin-top: 8px; }
 .traits-row { display: flex; flex-wrap: wrap; gap: 6px; margin: 14px 0 4px; }
 .trait {
   font-size: 12px;
