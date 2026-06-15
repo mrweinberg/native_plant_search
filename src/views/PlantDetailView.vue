@@ -51,23 +51,75 @@ function fmtRange(r, unit) {
       </div>
     </div>
     <p class="notes" v-if="plant.notes">{{ plant.notes }}</p>
-    <dl class="facts">
-      <div><dt>Family</dt><dd>{{ plant.family }}</dd></div>
-      <div><dt>Type</dt><dd class="cap">{{ plant.generalAppearance }}</dd></div>
-      <div><dt>Lifespan</dt><dd class="cap">{{ plant.lifespan }}</dd></div>
-      <div><dt>Height</dt><dd>{{ fmtRange(plant.heightFeet, 'ft') }}</dd></div>
-      <div><dt>Spread</dt><dd>{{ fmtRange(plant.spreadFeet, 'ft') }}</dd></div>
-      <div><dt>Light</dt><dd class="cap">{{ fmtList(plant.lightRequirement) }}</dd></div>
-      <div><dt>Soil moisture</dt><dd class="cap">{{ fmtList(plant.soilMoisture) }}</dd></div>
-      <div><dt>Soil type</dt><dd class="cap">{{ fmtList(plant.soilType) }}</dd></div>
-      <div><dt>Bloom months</dt><dd>{{ fmtMonths(plant.bloomMonths) }}</dd></div>
-      <div><dt>Bloom colors</dt><dd class="cap">{{ fmtList(plant.bloomColors) }}</dd></div>
-      <div><dt>Leaf arrangement</dt><dd class="cap">{{ plant.leafArrangement }}</dd></div>
-      <div><dt>Leaf retention</dt><dd class="cap">{{ plant.leafRetention }}</dd></div>
-      <div><dt>Native to states</dt><dd>{{ fmtList(plant.nativeStates) }}</dd></div>
-      <div><dt>Wildlife value</dt><dd class="cap">{{ fmtList(plant.wildlifeValue) }}</dd></div>
-      <div><dt>Deer-resistant</dt><dd>{{ plant.deerResistant ? 'Yes' : 'No' }}</dd></div>
-    </dl>
+
+    <div class="traits-row" v-if="plant.cutFlower || plant.culinaryUse || plant.deerResistant">
+      <span v-if="plant.cutFlower" class="trait trait-cut">✂ Cut flower</span>
+      <span v-if="plant.culinaryUse" class="trait trait-edible">🍴 Edible</span>
+      <span v-if="plant.deerResistant" class="trait trait-deer">🦌 Deer-resistant</span>
+    </div>
+
+    <section class="group">
+      <h2>Identification</h2>
+      <dl class="facts">
+        <div><dt>Family</dt><dd>{{ plant.family }}</dd></div>
+        <div><dt>Type</dt><dd class="cap">{{ plant.generalAppearance }}</dd></div>
+        <div><dt>Lifespan</dt><dd class="cap">{{ plant.lifespan }}</dd></div>
+        <div v-if="plant.usdaSymbol"><dt>USDA symbol</dt><dd>{{ plant.usdaSymbol }}</dd></div>
+      </dl>
+    </section>
+
+    <section class="group">
+      <h2>Size</h2>
+      <dl class="facts">
+        <div><dt>Height</dt><dd>{{ fmtRange(plant.heightFeet, 'ft') }}</dd></div>
+        <div><dt>Spread</dt><dd>{{ fmtRange(plant.spreadFeet, 'ft') }}</dd></div>
+      </dl>
+    </section>
+
+    <section class="group">
+      <h2>Growing conditions</h2>
+      <dl class="facts">
+        <div><dt>Light</dt><dd class="cap">{{ fmtList(plant.lightRequirement) }}</dd></div>
+        <div><dt>Soil moisture</dt><dd class="cap">{{ fmtList(plant.soilMoisture) }}</dd></div>
+        <div><dt>Soil type</dt><dd class="cap">{{ fmtList(plant.soilType) }}</dd></div>
+      </dl>
+    </section>
+
+    <section class="group">
+      <h2>Bloom</h2>
+      <dl class="facts">
+        <div><dt>Bloom months</dt><dd>{{ fmtMonths(plant.bloomMonths) }}</dd></div>
+        <div><dt>Bloom colors</dt><dd class="cap">{{ fmtList(plant.bloomColors) }}</dd></div>
+      </dl>
+    </section>
+
+    <section class="group">
+      <h2>Foliage</h2>
+      <dl class="facts">
+        <div><dt>Leaf arrangement</dt><dd class="cap">{{ plant.leafArrangement }}</dd></div>
+        <div><dt>Leaf retention</dt><dd class="cap">{{ plant.leafRetention }}</dd></div>
+      </dl>
+    </section>
+
+    <section class="group">
+      <h2>Native range</h2>
+      <dl class="facts">
+        <div v-if="plant.nativeRegions?.length">
+          <dt>USDA regions</dt><dd>{{ fmtList(plant.nativeRegions) }}</dd>
+        </div>
+        <div class="wide"><dt>States</dt><dd>{{ fmtList(plant.nativeStates) }}</dd></div>
+      </dl>
+    </section>
+
+    <section class="group">
+      <h2>Wildlife &amp; uses</h2>
+      <dl class="facts">
+        <div><dt>Wildlife value</dt><dd class="cap">{{ fmtList(plant.wildlifeValue) }}</dd></div>
+        <div><dt>Deer-resistant</dt><dd>{{ plant.deerResistant ? 'Yes' : 'No' }}</dd></div>
+        <div><dt>Cut flower</dt><dd>{{ plant.cutFlower ? 'Yes' : 'No' }}</dd></div>
+        <div><dt>Edible / culinary</dt><dd>{{ plant.culinaryUse ? 'Yes' : 'No' }}</dd></div>
+      </dl>
+    </section>
     <p class="wiki-link" v-if="wikiUrl">
       <a :href="wikiUrl" target="_blank" rel="noopener">Read more on Wikipedia ↗</a>
     </p>
@@ -125,13 +177,24 @@ h1 { margin: 0 0 4px; font-size: 26px; }
   border-radius: 4px;
   margin: 18px 0;
 }
+.group { margin-top: 22px; }
+.group h2 {
+  font-size: 13px;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--accent);
+  margin: 0 0 10px;
+  padding-bottom: 6px;
+  border-bottom: 1px solid var(--border);
+}
 .facts {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
   gap: 12px 24px;
   margin: 0;
 }
-.facts > div { border-bottom: 1px dotted var(--border); padding-bottom: 6px; }
+.facts > div { padding-bottom: 4px; }
+.facts > div.wide { grid-column: 1 / -1; }
 dt {
   font-size: 11px;
   text-transform: uppercase;
@@ -140,4 +203,14 @@ dt {
 }
 dd { margin: 2px 0 0; font-size: 14px; }
 .cap { text-transform: capitalize; }
+.traits-row { display: flex; flex-wrap: wrap; gap: 6px; margin: 14px 0 4px; }
+.trait {
+  font-size: 12px;
+  padding: 4px 10px;
+  border-radius: 4px;
+  border: 1px solid;
+}
+.trait-cut { color: #8a4a8a; border-color: #d4b3d4; background: #f4e8f4; }
+.trait-edible { color: #8a5a2a; border-color: #d9c2a3; background: #f6ecdc; }
+.trait-deer { color: #4a6a4a; border-color: #b3d4b3; background: #e8f4e8; }
 </style>

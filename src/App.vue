@@ -36,4 +36,10 @@ import { RouterLink, RouterView } from 'vue-router'
 .brand-mark { color: #a7d6a7; margin-right: 6px; }
 .tagline { color: #c9c0a4; font-size: 13px; }
 main { padding: 24px; max-width: 1280px; margin: 0 auto; }
+@media (max-width: 800px) {
+  .app-header { padding: 10px 14px; flex-wrap: wrap; gap: 8px; }
+  .brand { font-size: 16px; }
+  .tagline { font-size: 12px; }
+  main { padding: 14px; }
+}
 </style>

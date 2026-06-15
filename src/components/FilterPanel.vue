@@ -8,8 +8,13 @@ const props = defineProps({
   heightMax: { type: Number, default: null },
   heightMin: { type: Number, default: null },
   deerOnly: { type: Boolean, default: false },
+  cutFlowerOnly: { type: Boolean, default: false },
+  culinaryOnly: { type: Boolean, default: false },
+  open: { type: Boolean, default: false },
 })
-const emit = defineEmits(['toggle', 'heightMax', 'heightMin', 'deerOnly', 'clear'])
+const emit = defineEmits([
+  'toggle', 'heightMax', 'heightMin', 'deerOnly', 'cutFlowerOnly', 'culinaryOnly', 'clear', 'close',
+])
 
 const options = computed(() => getFilterOptions())
 
@@ -39,6 +44,7 @@ function labelFor(group, val) {
     <div class="filter-head">
       <h2>Filters</h2>
       <button class="clear" @click="emit('clear')" type="button">Clear all</button>
+      <button class="close" @click="emit('close')" type="button" aria-label="Close filters">✕</button>
     </div>
 
     <section class="filter-group">
@@ -73,6 +79,22 @@ function labelFor(group, val) {
           @change="emit('deerOnly', $event.target.checked)"
         />
         Deer-resistant only
+      </label>
+      <label class="toggle">
+        <input
+          type="checkbox"
+          :checked="cutFlowerOnly"
+          @change="emit('cutFlowerOnly', $event.target.checked)"
+        />
+        Good for cut flowers
+      </label>
+      <label class="toggle">
+        <input
+          type="checkbox"
+          :checked="culinaryOnly"
+          @change="emit('culinaryOnly', $event.target.checked)"
+        />
+        Edible / culinary use
       </label>
     </section>
 
@@ -124,6 +146,25 @@ h3 {
   padding: 0;
 }
 .clear:hover { text-decoration: underline; }
+.close {
+  display: none;
+  background: none;
+  border: none;
+  font-size: 18px;
+  color: var(--ink-soft);
+  padding: 0 4px;
+  margin-left: 8px;
+  cursor: pointer;
+}
+@media (max-width: 800px) {
+  .filter-panel {
+    max-height: none;
+    height: 100%;
+    border-radius: 0;
+    padding-bottom: 32px;
+  }
+  .close { display: inline-block; }
+}
 .filter-group { border-top: 1px solid var(--border); padding-top: 8px; }
 .filter-group:first-of-type { border-top: none; }
 .chips { display: flex; flex-wrap: wrap; gap: 2px; }

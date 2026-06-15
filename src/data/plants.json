@@ -2,1702 +2,6829 @@
   {
     "id": "asclepias-tuberosa",
     "scientificName": "Asclepias tuberosa",
-    "commonNames": ["Butterfly Weed", "Orange Milkweed"],
+    "commonNames": [
+      "Butterfly Weed",
+      "Orange Milkweed"
+    ],
     "family": "Apocynaceae",
-    "nativeStates": ["OH", "PA", "IN", "KY", "MI", "WV", "NY"],
+    "nativeStates": [
+      "AL",
+      "AR",
+      "AZ",
+      "CO",
+      "CT",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "NE",
+      "NH",
+      "NJ",
+      "NM",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "RI",
+      "SC",
+      "SD",
+      "TN",
+      "TX",
+      "UT",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
     "generalAppearance": "herb",
     "lifespan": "perennial",
-    "heightFeet": { "min": 1, "max": 2.5 },
-    "spreadFeet": { "min": 1, "max": 1.5 },
-    "lightRequirement": ["sun"],
-    "soilMoisture": ["dry", "moist"],
-    "soilType": ["sandy", "loam"],
-    "bloomMonths": [6, 7, 8, 9],
-    "bloomColors": ["orange", "yellow"],
+    "heightFeet": {
+      "min": 1,
+      "max": 2.5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "orange",
+      "yellow"
+    ],
     "leafArrangement": "alternate",
     "leafRetention": "deciduous",
-    "wildlifeValue": ["pollinators", "monarch host", "songbirds"],
+    "wildlifeValue": [
+      "pollinators",
+      "monarch host",
+      "songbirds"
+    ],
     "deerResistant": true,
-    "notes": "Critical host plant for monarch butterflies. Tap-rooted, dislikes transplanting once established."
+    "notes": "Critical host plant for monarch butterflies. Tap-rooted, dislikes transplanting once established.",
+    "usdaSymbol": "ASTU",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
   },
   {
     "id": "echinacea-purpurea",
     "scientificName": "Echinacea purpurea",
-    "commonNames": ["Purple Coneflower"],
+    "commonNames": [
+      "Purple Coneflower"
+    ],
     "family": "Asteraceae",
-    "nativeStates": ["OH", "PA", "IN", "KY", "MI", "WV", "TN"],
+    "nativeStates": [
+      "AL",
+      "AR",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "NE",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "TN",
+      "TX",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
     "generalAppearance": "herb",
     "lifespan": "perennial",
-    "heightFeet": { "min": 2, "max": 4 },
-    "spreadFeet": { "min": 1.5, "max": 2 },
-    "lightRequirement": ["sun", "part shade"],
-    "soilMoisture": ["dry", "moist"],
-    "soilType": ["loam", "clay"],
-    "bloomMonths": [6, 7, 8, 9],
-    "bloomColors": ["purple", "pink"],
+    "heightFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 1.5,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "purple",
+      "pink"
+    ],
     "leafArrangement": "alternate",
     "leafRetention": "deciduous",
-    "wildlifeValue": ["pollinators", "songbirds"],
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds"
+    ],
     "deerResistant": true,
-    "notes": "Long-blooming prairie staple. Leave seedheads for goldfinches in winter."
+    "notes": "Long-blooming prairie staple. Leave seedheads for goldfinches in winter.",
+    "usdaSymbol": "ECPU",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
   },
   {
     "id": "rudbeckia-hirta",
     "scientificName": "Rudbeckia hirta",
-    "commonNames": ["Black-eyed Susan"],
+    "commonNames": [
+      "Black-eyed Susan"
+    ],
     "family": "Asteraceae",
-    "nativeStates": ["OH", "PA", "IN", "KY", "MI", "WV", "NY"],
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CA",
+      "CO",
+      "CT",
+      "DE",
+      "FL",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "ND",
+      "NE",
+      "NH",
+      "NJ",
+      "NM",
+      "NY",
+      "OH",
+      "OK",
+      "OR",
+      "PA",
+      "RI",
+      "SC",
+      "SD",
+      "TN",
+      "TX",
+      "VA",
+      "VT",
+      "WA",
+      "WI",
+      "WV",
+      "WY"
+    ],
     "generalAppearance": "herb",
     "lifespan": "biennial",
-    "heightFeet": { "min": 1, "max": 3 },
-    "spreadFeet": { "min": 1, "max": 1.5 },
-    "lightRequirement": ["sun", "part shade"],
-    "soilMoisture": ["dry", "moist"],
-    "soilType": ["loam", "clay", "sandy"],
-    "bloomMonths": [6, 7, 8, 9, 10],
-    "bloomColors": ["yellow"],
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "clay",
+      "sandy"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
     "leafArrangement": "alternate",
     "leafRetention": "deciduous",
-    "wildlifeValue": ["pollinators", "songbirds"],
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds"
+    ],
     "deerResistant": true,
-    "notes": "Often grown as a short-lived perennial; self-seeds readily."
+    "notes": "Often grown as a short-lived perennial; self-seeds readily.",
+    "usdaSymbol": "RUHI2",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
   },
   {
     "id": "monarda-fistulosa",
     "scientificName": "Monarda fistulosa",
-    "commonNames": ["Wild Bergamot", "Bee Balm"],
+    "commonNames": [
+      "Wild Bergamot",
+      "Bee Balm"
+    ],
     "family": "Lamiaceae",
-    "nativeStates": ["OH", "PA", "IN", "KY", "MI", "WV", "NY"],
+    "nativeStates": [
+      "AL",
+      "AR",
+      "AZ",
+      "CO",
+      "CT",
+      "DC",
+      "DE",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "MT",
+      "NC",
+      "ND",
+      "NE",
+      "NH",
+      "NJ",
+      "NM",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "RI",
+      "SD",
+      "TN",
+      "TX",
+      "UT",
+      "VA",
+      "VT",
+      "WI",
+      "WV",
+      "WY"
+    ],
     "generalAppearance": "herb",
     "lifespan": "perennial",
-    "heightFeet": { "min": 2, "max": 4 },
-    "spreadFeet": { "min": 2, "max": 3 },
-    "lightRequirement": ["sun", "part shade"],
-    "soilMoisture": ["dry", "moist"],
-    "soilType": ["loam", "clay"],
-    "bloomMonths": [6, 7, 8],
-    "bloomColors": ["purple", "pink"],
+    "heightFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 3
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "purple",
+      "pink"
+    ],
     "leafArrangement": "opposite",
     "leafRetention": "deciduous",
-    "wildlifeValue": ["pollinators", "hummingbirds"],
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds"
+    ],
     "deerResistant": true,
-    "notes": "Mint-family aromatic. Powdery mildew possible in humid sites."
+    "notes": "Mint-family aromatic. Powdery mildew possible in humid sites.",
+    "usdaSymbol": "MOFI",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": true
   },
   {
     "id": "liatris-spicata",
     "scientificName": "Liatris spicata",
-    "commonNames": ["Dense Blazing Star", "Marsh Blazing Star"],
+    "commonNames": [
+      "Dense Blazing Star",
+      "Marsh Blazing Star"
+    ],
     "family": "Asteraceae",
-    "nativeStates": ["OH", "PA", "IN", "KY", "MI", "WV", "NY"],
+    "nativeStates": [
+      "AL",
+      "AR",
+      "FL",
+      "GA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MI",
+      "MS",
+      "NC",
+      "NE",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "WI",
+      "WV"
+    ],
     "generalAppearance": "herb",
     "lifespan": "perennial",
-    "heightFeet": { "min": 2, "max": 4 },
-    "spreadFeet": { "min": 0.75, "max": 1.5 },
-    "lightRequirement": ["sun"],
-    "soilMoisture": ["moist", "wet"],
-    "soilType": ["loam", "clay"],
-    "bloomMonths": [7, 8, 9],
-    "bloomColors": ["purple", "pink"],
+    "heightFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 0.75,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "purple",
+      "pink"
+    ],
     "leafArrangement": "alternate",
     "leafRetention": "deciduous",
-    "wildlifeValue": ["pollinators", "monarch nectar"],
+    "wildlifeValue": [
+      "pollinators",
+      "monarch nectar"
+    ],
     "deerResistant": true,
-    "notes": "Tall purple spikes bloom top-down. Great for cut flowers."
+    "notes": "Tall purple spikes bloom top-down. Great for cut flowers.",
+    "usdaSymbol": "LISP",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
   },
   {
     "id": "aquilegia-canadensis",
     "scientificName": "Aquilegia canadensis",
-    "commonNames": ["Eastern Red Columbine", "Wild Columbine"],
+    "commonNames": [
+      "Eastern Red Columbine",
+      "Wild Columbine"
+    ],
     "family": "Ranunculaceae",
-    "nativeStates": ["OH", "PA", "IN", "KY", "MI", "WV", "NY"],
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "NC",
+      "ND",
+      "NE",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "RI",
+      "SC",
+      "SD",
+      "TN",
+      "TX",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
     "generalAppearance": "herb",
     "lifespan": "perennial",
-    "heightFeet": { "min": 1, "max": 3 },
-    "spreadFeet": { "min": 0.5, "max": 1.5 },
-    "lightRequirement": ["part shade", "shade"],
-    "soilMoisture": ["dry", "moist"],
-    "soilType": ["loam", "rocky"],
-    "bloomMonths": [4, 5, 6],
-    "bloomColors": ["red", "yellow"],
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "red",
+      "yellow"
+    ],
     "leafArrangement": "alternate",
     "leafRetention": "deciduous",
-    "wildlifeValue": ["hummingbirds", "pollinators"],
+    "wildlifeValue": [
+      "hummingbirds",
+      "pollinators"
+    ],
     "deerResistant": true,
-    "notes": "Early-spring nectar for returning ruby-throated hummingbirds."
+    "notes": "Early-spring nectar for returning ruby-throated hummingbirds.",
+    "usdaSymbol": "AQCA",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
   },
   {
     "id": "lobelia-cardinalis",
     "scientificName": "Lobelia cardinalis",
-    "commonNames": ["Cardinal Flower"],
+    "commonNames": [
+      "Cardinal Flower"
+    ],
     "family": "Campanulaceae",
-    "nativeStates": ["OH", "PA", "IN", "KY", "MI", "WV", "NY"],
+    "nativeStates": [
+      "AL",
+      "AR",
+      "AZ",
+      "CA",
+      "CO",
+      "CT",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "NE",
+      "NH",
+      "NJ",
+      "NM",
+      "NV",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "TX",
+      "UT",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
     "generalAppearance": "herb",
     "lifespan": "perennial",
-    "heightFeet": { "min": 2, "max": 4 },
-    "spreadFeet": { "min": 1, "max": 2 },
-    "lightRequirement": ["sun", "part shade"],
-    "soilMoisture": ["moist", "wet"],
-    "soilType": ["loam", "clay"],
-    "bloomMonths": [7, 8, 9],
-    "bloomColors": ["red"],
+    "heightFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "red"
+    ],
     "leafArrangement": "alternate",
     "leafRetention": "deciduous",
-    "wildlifeValue": ["hummingbirds", "pollinators"],
+    "wildlifeValue": [
+      "hummingbirds",
+      "pollinators"
+    ],
     "deerResistant": false,
-    "notes": "Streamside and rain-garden favorite. Short-lived but self-seeds."
+    "notes": "Streamside and rain-garden favorite. Short-lived but self-seeds.",
+    "usdaSymbol": "LOCA2",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
   },
   {
     "id": "coreopsis-lanceolata",
     "scientificName": "Coreopsis lanceolata",
-    "commonNames": ["Lanceleaf Coreopsis", "Lance-leaved Tickseed"],
+    "commonNames": [
+      "Lanceleaf Coreopsis",
+      "Lance-leaved Tickseed"
+    ],
     "family": "Asteraceae",
-    "nativeStates": ["OH", "PA", "IN", "KY", "MI", "WV"],
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "FL",
+      "GA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "WI",
+      "WV"
+    ],
     "generalAppearance": "herb",
     "lifespan": "perennial",
-    "heightFeet": { "min": 1, "max": 2 },
-    "spreadFeet": { "min": 1, "max": 1.5 },
-    "lightRequirement": ["sun"],
-    "soilMoisture": ["dry", "moist"],
-    "soilType": ["sandy", "loam"],
-    "bloomMonths": [5, 6, 7],
-    "bloomColors": ["yellow"],
+    "heightFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
     "leafArrangement": "opposite",
     "leafRetention": "deciduous",
-    "wildlifeValue": ["pollinators", "songbirds"],
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds"
+    ],
     "deerResistant": true,
-    "notes": "Tough, drought-tolerant. Deadhead for repeat bloom."
+    "notes": "Tough, drought-tolerant. Deadhead for repeat bloom.",
+    "usdaSymbol": "COLA5",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
   },
   {
     "id": "solidago-rigida",
     "scientificName": "Solidago rigida",
-    "commonNames": ["Stiff Goldenrod"],
+    "commonNames": [
+      "Stiff Goldenrod"
+    ],
     "family": "Asteraceae",
-    "nativeStates": ["OH", "PA", "IN", "KY", "MI"],
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CO",
+      "CT",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "MT",
+      "NC",
+      "ND",
+      "NE",
+      "NJ",
+      "NM",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "SD",
+      "TN",
+      "TX",
+      "VA",
+      "WI",
+      "WY"
+    ],
     "generalAppearance": "herb",
     "lifespan": "perennial",
-    "heightFeet": { "min": 3, "max": 5 },
-    "spreadFeet": { "min": 1.5, "max": 2.5 },
-    "lightRequirement": ["sun"],
-    "soilMoisture": ["dry", "moist"],
-    "soilType": ["loam", "clay", "rocky"],
-    "bloomMonths": [8, 9, 10],
-    "bloomColors": ["yellow"],
+    "heightFeet": {
+      "min": 3,
+      "max": 5
+    },
+    "spreadFeet": {
+      "min": 1.5,
+      "max": 2.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "clay",
+      "rocky"
+    ],
+    "bloomMonths": [
+      8,
+      9,
+      10
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
     "leafArrangement": "alternate",
     "leafRetention": "deciduous",
-    "wildlifeValue": ["pollinators", "songbirds"],
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds"
+    ],
     "deerResistant": true,
-    "notes": "Late-season pollinator powerhouse. Does NOT cause hay fever."
+    "notes": "Late-season pollinator powerhouse. Does NOT cause hay fever.",
+    "usdaSymbol": "SORI2",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
   },
   {
     "id": "symphyotrichum-novae-angliae",
     "scientificName": "Symphyotrichum novae-angliae",
-    "commonNames": ["New England Aster"],
+    "commonNames": [
+      "New England Aster"
+    ],
     "family": "Asteraceae",
-    "nativeStates": ["OH", "PA", "IN", "KY", "MI", "WV", "NY"],
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CO",
+      "CT",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "NE",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "RI",
+      "SD",
+      "TN",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
     "generalAppearance": "herb",
     "lifespan": "perennial",
-    "heightFeet": { "min": 3, "max": 6 },
-    "spreadFeet": { "min": 2, "max": 3 },
-    "lightRequirement": ["sun", "part shade"],
-    "soilMoisture": ["moist", "wet"],
-    "soilType": ["loam", "clay"],
-    "bloomMonths": [8, 9, 10],
-    "bloomColors": ["purple", "pink"],
+    "heightFeet": {
+      "min": 3,
+      "max": 6
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 3
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      8,
+      9,
+      10
+    ],
+    "bloomColors": [
+      "purple",
+      "pink"
+    ],
     "leafArrangement": "alternate",
     "leafRetention": "deciduous",
-    "wildlifeValue": ["pollinators", "monarch nectar"],
+    "wildlifeValue": [
+      "pollinators",
+      "monarch nectar"
+    ],
     "deerResistant": true,
-    "notes": "Key fall nectar source for monarch migration."
+    "notes": "Key fall nectar source for monarch migration.",
+    "usdaSymbol": "SYNO2",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
   },
   {
     "id": "baptisia-australis",
     "scientificName": "Baptisia australis",
-    "commonNames": ["Blue False Indigo", "Wild Blue Indigo"],
+    "commonNames": [
+      "Blue False Indigo",
+      "Wild Blue Indigo"
+    ],
     "family": "Fabaceae",
-    "nativeStates": ["OH", "PA", "IN", "KY", "WV"],
+    "nativeStates": [
+      "AR",
+      "DC",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "MA",
+      "MD",
+      "MN",
+      "MO",
+      "NC",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "TN",
+      "TX",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
     "generalAppearance": "herb",
     "lifespan": "perennial",
-    "heightFeet": { "min": 3, "max": 4 },
-    "spreadFeet": { "min": 3, "max": 4 },
-    "lightRequirement": ["sun", "part shade"],
-    "soilMoisture": ["dry", "moist"],
-    "soilType": ["loam", "sandy"],
-    "bloomMonths": [5, 6],
-    "bloomColors": ["blue", "purple"],
+    "heightFeet": {
+      "min": 3,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 3,
+      "max": 4
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "sandy"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "blue",
+      "purple"
+    ],
     "leafArrangement": "alternate",
     "leafRetention": "deciduous",
-    "wildlifeValue": ["pollinators", "host plant"],
+    "wildlifeValue": [
+      "pollinators",
+      "host plant"
+    ],
     "deerResistant": true,
-    "notes": "Long-lived, shrub-like with a deep taproot. Nitrogen fixer."
+    "notes": "Long-lived, shrub-like with a deep taproot. Nitrogen fixer.",
+    "usdaSymbol": "BAAU",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
   },
   {
     "id": "penstemon-digitalis",
     "scientificName": "Penstemon digitalis",
-    "commonNames": ["Foxglove Beardtongue", "Smooth White Penstemon"],
+    "commonNames": [
+      "Foxglove Beardtongue",
+      "Smooth White Penstemon"
+    ],
     "family": "Plantaginaceae",
-    "nativeStates": ["OH", "PA", "IN", "KY", "MI", "WV", "NY"],
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "NE",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "TN",
+      "TX",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
     "generalAppearance": "herb",
     "lifespan": "perennial",
-    "heightFeet": { "min": 2, "max": 5 },
-    "spreadFeet": { "min": 1.5, "max": 2 },
-    "lightRequirement": ["sun", "part shade"],
-    "soilMoisture": ["dry", "moist"],
-    "soilType": ["loam", "clay"],
-    "bloomMonths": [5, 6, 7],
-    "bloomColors": ["white"],
+    "heightFeet": {
+      "min": 2,
+      "max": 5
+    },
+    "spreadFeet": {
+      "min": 1.5,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "white"
+    ],
     "leafArrangement": "opposite",
     "leafRetention": "deciduous",
-    "wildlifeValue": ["pollinators", "hummingbirds"],
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds"
+    ],
     "deerResistant": true,
-    "notes": "Evergreen basal rosette in winter. Reddish-purple foliage on 'Husker Red'."
+    "notes": "Evergreen basal rosette in winter. Reddish-purple foliage on 'Husker Red'.",
+    "usdaSymbol": "PEDI",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
   },
   {
     "id": "eutrochium-purpureum",
     "scientificName": "Eutrochium purpureum",
-    "commonNames": ["Sweet Joe-Pye Weed", "Purple Joe-Pye Weed"],
+    "commonNames": [
+      "Sweet Joe-Pye Weed",
+      "Purple Joe-Pye Weed"
+    ],
     "family": "Asteraceae",
-    "nativeStates": ["OH", "PA", "IN", "KY", "MI", "WV", "NY"],
+    "nativeStates": [
+      "AR",
+      "CT",
+      "DC",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "MA",
+      "MD",
+      "MI",
+      "MN",
+      "MO",
+      "NC",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "SC",
+      "TN",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
     "generalAppearance": "herb",
     "lifespan": "perennial",
-    "heightFeet": { "min": 5, "max": 7 },
-    "spreadFeet": { "min": 2, "max": 4 },
-    "lightRequirement": ["part shade", "sun"],
-    "soilMoisture": ["moist"],
-    "soilType": ["loam", "clay"],
-    "bloomMonths": [7, 8, 9],
-    "bloomColors": ["pink", "purple"],
+    "heightFeet": {
+      "min": 5,
+      "max": 7
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "lightRequirement": [
+      "part shade",
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "pink",
+      "purple"
+    ],
     "leafArrangement": "whorled",
     "leafRetention": "deciduous",
-    "wildlifeValue": ["pollinators", "swallowtail nectar"],
+    "wildlifeValue": [
+      "pollinators",
+      "swallowtail nectar"
+    ],
     "deerResistant": true,
-    "notes": "Tall back-of-border with vanilla-scented flowers."
+    "notes": "Tall back-of-border with vanilla-scented flowers.",
+    "usdaSymbol": "EUPU21",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
   },
   {
     "id": "vernonia-gigantea",
     "scientificName": "Vernonia gigantea",
-    "commonNames": ["Giant Ironweed", "Tall Ironweed"],
+    "commonNames": [
+      "Giant Ironweed",
+      "Tall Ironweed"
+    ],
     "family": "Asteraceae",
-    "nativeStates": ["OH", "PA", "IN", "KY", "WV"],
+    "nativeStates": [
+      "AL",
+      "AR",
+      "FL",
+      "GA",
+      "IL",
+      "IN",
+      "KY",
+      "LA",
+      "MD",
+      "MI",
+      "MO",
+      "MS",
+      "NC",
+      "NY",
+      "OH",
+      "PA",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "WV"
+    ],
     "generalAppearance": "herb",
     "lifespan": "perennial",
-    "heightFeet": { "min": 5, "max": 8 },
-    "spreadFeet": { "min": 2, "max": 4 },
-    "lightRequirement": ["sun", "part shade"],
-    "soilMoisture": ["moist", "wet"],
-    "soilType": ["loam", "clay"],
-    "bloomMonths": [7, 8, 9],
-    "bloomColors": ["purple"],
+    "heightFeet": {
+      "min": 5,
+      "max": 8
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "purple"
+    ],
     "leafArrangement": "alternate",
     "leafRetention": "deciduous",
-    "wildlifeValue": ["pollinators", "songbirds"],
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds"
+    ],
     "deerResistant": true,
-    "notes": "Stunning saturated purple. Pair with late goldenrods."
+    "notes": "Stunning saturated purple. Pair with late goldenrods.",
+    "usdaSymbol": "VEGI",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
   },
   {
     "id": "phlox-divaricata",
     "scientificName": "Phlox divaricata",
-    "commonNames": ["Woodland Phlox", "Wild Blue Phlox"],
+    "commonNames": [
+      "Woodland Phlox",
+      "Wild Blue Phlox"
+    ],
     "family": "Polemoniaceae",
-    "nativeStates": ["OH", "PA", "IN", "KY", "MI", "WV", "NY"],
+    "nativeStates": [
+      "AL",
+      "AR",
+      "FL",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MD",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "NE",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "TN",
+      "TX",
+      "VA",
+      "WI",
+      "WV"
+    ],
     "generalAppearance": "herb",
     "lifespan": "perennial",
-    "heightFeet": { "min": 0.75, "max": 1.25 },
-    "spreadFeet": { "min": 0.5, "max": 1 },
-    "lightRequirement": ["part shade", "shade"],
-    "soilMoisture": ["moist"],
-    "soilType": ["loam"],
-    "bloomMonths": [4, 5, 6],
-    "bloomColors": ["blue", "purple"],
+    "heightFeet": {
+      "min": 0.75,
+      "max": 1.25
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "blue",
+      "purple"
+    ],
     "leafArrangement": "opposite",
     "leafRetention": "semi-evergreen",
-    "wildlifeValue": ["pollinators", "hummingbirds"],
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds"
+    ],
     "deerResistant": false,
-    "notes": "Fragrant spring woodland groundcover."
+    "notes": "Fragrant spring woodland groundcover.",
+    "usdaSymbol": "PHDI5",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false
   },
   {
     "id": "tiarella-cordifolia",
     "scientificName": "Tiarella cordifolia",
-    "commonNames": ["Foamflower", "Heart-leaved Foamflower"],
+    "commonNames": [
+      "Foamflower",
+      "Heart-leaved Foamflower"
+    ],
     "family": "Saxifragaceae",
-    "nativeStates": ["OH", "PA", "IN", "KY", "MI", "WV", "NY"],
+    "nativeStates": [
+      "AL",
+      "CT",
+      "GA",
+      "IN",
+      "KY",
+      "MA",
+      "ME",
+      "MI",
+      "MS",
+      "NC",
+      "NH",
+      "NY",
+      "OH",
+      "PA",
+      "SC",
+      "TN",
+      "VA",
+      "VT",
+      "WV"
+    ],
     "generalAppearance": "herb",
     "lifespan": "perennial",
-    "heightFeet": { "min": 0.5, "max": 1 },
-    "spreadFeet": { "min": 0.5, "max": 1.5 },
-    "lightRequirement": ["part shade", "shade"],
-    "soilMoisture": ["moist"],
-    "soilType": ["loam"],
-    "bloomMonths": [4, 5, 6],
-    "bloomColors": ["white", "pink"],
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "white",
+      "pink"
+    ],
     "leafArrangement": "alternate",
     "leafRetention": "semi-evergreen",
-    "wildlifeValue": ["pollinators"],
+    "wildlifeValue": [
+      "pollinators"
+    ],
     "deerResistant": true,
-    "notes": "Spreads gently by stolons. Lovely shade groundcover."
+    "notes": "Spreads gently by stolons. Lovely shade groundcover.",
+    "usdaSymbol": "TICO",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false
   },
   {
     "id": "heuchera-americana",
     "scientificName": "Heuchera americana",
-    "commonNames": ["American Alumroot", "Rock Geranium"],
+    "commonNames": [
+      "American Alumroot",
+      "Rock Geranium"
+    ],
     "family": "Saxifragaceae",
-    "nativeStates": ["OH", "PA", "IN", "KY", "MI", "WV", "NY"],
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DC",
+      "GA",
+      "IL",
+      "IN",
+      "KY",
+      "MD",
+      "MI",
+      "MO",
+      "MS",
+      "NC",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "SC",
+      "TN",
+      "VA",
+      "WV"
+    ],
     "generalAppearance": "herb",
     "lifespan": "perennial",
-    "heightFeet": { "min": 1, "max": 3 },
-    "spreadFeet": { "min": 1, "max": 1.5 },
-    "lightRequirement": ["part shade", "shade"],
-    "soilMoisture": ["dry", "moist"],
-    "soilType": ["loam", "rocky"],
-    "bloomMonths": [5, 6, 7],
-    "bloomColors": ["white", "green"],
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "white",
+      "green"
+    ],
     "leafArrangement": "alternate",
     "leafRetention": "semi-evergreen",
-    "wildlifeValue": ["pollinators", "hummingbirds"],
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds"
+    ],
     "deerResistant": true,
-    "notes": "Marbled basal foliage; airy flower panicles."
+    "notes": "Marbled basal foliage; airy flower panicles.",
+    "usdaSymbol": "HEAM6",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false
   },
   {
     "id": "polygonatum-biflorum",
     "scientificName": "Polygonatum biflorum",
-    "commonNames": ["Smooth Solomon's Seal"],
+    "commonNames": [
+      "Smooth Solomon's Seal"
+    ],
     "family": "Asparagaceae",
-    "nativeStates": ["OH", "PA", "IN", "KY", "MI", "WV", "NY"],
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "NE",
+      "NJ",
+      "NM",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "SC",
+      "SD",
+      "TN",
+      "TX",
+      "VA",
+      "WI",
+      "WV"
+    ],
     "generalAppearance": "herb",
     "lifespan": "perennial",
-    "heightFeet": { "min": 1, "max": 3 },
-    "spreadFeet": { "min": 1, "max": 2 },
-    "lightRequirement": ["part shade", "shade"],
-    "soilMoisture": ["moist"],
-    "soilType": ["loam"],
-    "bloomMonths": [4, 5, 6],
-    "bloomColors": ["white", "green"],
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "white",
+      "green"
+    ],
     "leafArrangement": "alternate",
     "leafRetention": "deciduous",
-    "wildlifeValue": ["pollinators", "songbirds"],
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds"
+    ],
     "deerResistant": true,
-    "notes": "Arching stems with pendant flowers; blue-black berries."
+    "notes": "Arching stems with pendant flowers; blue-black berries.",
+    "usdaSymbol": "POBI2",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
   },
   {
     "id": "asarum-canadense",
     "scientificName": "Asarum canadense",
-    "commonNames": ["Wild Ginger", "Canadian Wild Ginger"],
+    "commonNames": [
+      "Wild Ginger",
+      "Canadian Wild Ginger"
+    ],
     "family": "Aristolochiaceae",
-    "nativeStates": ["OH", "PA", "IN", "KY", "MI", "WV", "NY"],
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DE",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "SC",
+      "TN",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
     "generalAppearance": "herb",
     "lifespan": "perennial",
-    "heightFeet": { "min": 0.3, "max": 0.6 },
-    "spreadFeet": { "min": 1, "max": 2 },
-    "lightRequirement": ["shade", "part shade"],
-    "soilMoisture": ["moist"],
-    "soilType": ["loam"],
-    "bloomMonths": [4, 5],
-    "bloomColors": ["brown", "red"],
+    "heightFeet": {
+      "min": 0.3,
+      "max": 0.6
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "shade",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "brown",
+      "red"
+    ],
     "leafArrangement": "opposite",
     "leafRetention": "deciduous",
-    "wildlifeValue": ["host plant"],
+    "wildlifeValue": [
+      "host plant"
+    ],
     "deerResistant": true,
-    "notes": "Heart-shaped leaves form dense groundcover; ground-level flowers."
+    "notes": "Heart-shaped leaves form dense groundcover; ground-level flowers.",
+    "usdaSymbol": "ASCA",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false
   },
   {
     "id": "sanguinaria-canadensis",
     "scientificName": "Sanguinaria canadensis",
-    "commonNames": ["Bloodroot"],
+    "commonNames": [
+      "Bloodroot"
+    ],
     "family": "Papaveraceae",
-    "nativeStates": ["OH", "PA", "IN", "KY", "MI", "WV", "NY"],
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "NE",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "RI",
+      "SC",
+      "SD",
+      "TN",
+      "TX",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
     "generalAppearance": "herb",
     "lifespan": "perennial",
-    "heightFeet": { "min": 0.5, "max": 1 },
-    "spreadFeet": { "min": 0.5, "max": 1 },
-    "lightRequirement": ["part shade", "shade"],
-    "soilMoisture": ["moist"],
-    "soilType": ["loam"],
-    "bloomMonths": [3, 4, 5],
-    "bloomColors": ["white"],
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5
+    ],
+    "bloomColors": [
+      "white"
+    ],
     "leafArrangement": "alternate",
     "leafRetention": "deciduous",
-    "wildlifeValue": ["pollinators"],
+    "wildlifeValue": [
+      "pollinators"
+    ],
     "deerResistant": true,
-    "notes": "Spring ephemeral with brilliant white flowers and red sap."
+    "notes": "Spring ephemeral with brilliant white flowers and red sap.",
+    "usdaSymbol": "SACA13",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false
   },
   {
     "id": "acer-rubrum",
     "scientificName": "Acer rubrum",
-    "commonNames": ["Red Maple"],
+    "commonNames": [
+      "Red Maple"
+    ],
     "family": "Sapindaceae",
-    "nativeStates": ["OH", "PA", "IN", "KY", "MI", "WV", "NY"],
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "IL",
+      "IN",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "OR",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
     "generalAppearance": "tree",
     "lifespan": "perennial",
-    "heightFeet": { "min": 40, "max": 70 },
-    "spreadFeet": { "min": 30, "max": 50 },
-    "lightRequirement": ["sun", "part shade"],
-    "soilMoisture": ["moist", "wet"],
-    "soilType": ["loam", "clay"],
-    "bloomMonths": [3, 4],
-    "bloomColors": ["red"],
+    "heightFeet": {
+      "min": 40,
+      "max": 70
+    },
+    "spreadFeet": {
+      "min": 30,
+      "max": 50
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "red"
+    ],
     "leafArrangement": "opposite",
     "leafRetention": "deciduous",
-    "wildlifeValue": ["pollinators", "songbirds", "host plant"],
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "host plant"
+    ],
     "deerResistant": false,
-    "notes": "Brilliant fall color. Tolerates wet feet."
+    "notes": "Brilliant fall color. Tolerates wet feet.",
+    "usdaSymbol": "ACRU",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false
   },
   {
     "id": "cornus-florida",
     "scientificName": "Cornus florida",
-    "commonNames": ["Flowering Dogwood"],
+    "commonNames": [
+      "Flowering Dogwood"
+    ],
     "family": "Cornaceae",
-    "nativeStates": ["OH", "PA", "IN", "KY", "MI", "WV"],
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "MI",
+      "MO",
+      "MS",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "WV"
+    ],
     "generalAppearance": "tree",
     "lifespan": "perennial",
-    "heightFeet": { "min": 15, "max": 30 },
-    "spreadFeet": { "min": 15, "max": 30 },
-    "lightRequirement": ["part shade", "sun"],
-    "soilMoisture": ["moist"],
-    "soilType": ["loam"],
-    "bloomMonths": [4, 5],
-    "bloomColors": ["white", "pink"],
+    "heightFeet": {
+      "min": 15,
+      "max": 30
+    },
+    "spreadFeet": {
+      "min": 15,
+      "max": 30
+    },
+    "lightRequirement": [
+      "part shade",
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "white",
+      "pink"
+    ],
     "leafArrangement": "opposite",
     "leafRetention": "deciduous",
-    "wildlifeValue": ["pollinators", "songbirds"],
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds"
+    ],
     "deerResistant": false,
-    "notes": "Iconic understory tree. Watch for anthracnose; site with good airflow."
+    "notes": "Iconic understory tree. Watch for anthracnose; site with good airflow.",
+    "usdaSymbol": "COFL2",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
   },
   {
     "id": "cercis-canadensis",
     "scientificName": "Cercis canadensis",
-    "commonNames": ["Eastern Redbud"],
+    "commonNames": [
+      "Eastern Redbud"
+    ],
     "family": "Fabaceae",
-    "nativeStates": ["OH", "PA", "IN", "KY", "WV"],
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CA",
+      "CT",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "NE",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "WI",
+      "WV"
+    ],
     "generalAppearance": "tree",
     "lifespan": "perennial",
-    "heightFeet": { "min": 20, "max": 30 },
-    "spreadFeet": { "min": 25, "max": 35 },
-    "lightRequirement": ["sun", "part shade"],
-    "soilMoisture": ["moist"],
-    "soilType": ["loam", "clay"],
-    "bloomMonths": [3, 4, 5],
-    "bloomColors": ["pink", "purple"],
+    "heightFeet": {
+      "min": 20,
+      "max": 30
+    },
+    "spreadFeet": {
+      "min": 25,
+      "max": 35
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5
+    ],
+    "bloomColors": [
+      "pink",
+      "purple"
+    ],
     "leafArrangement": "alternate",
     "leafRetention": "deciduous",
-    "wildlifeValue": ["pollinators", "songbirds"],
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds"
+    ],
     "deerResistant": false,
-    "notes": "Pea-family flowers cover bare branches in early spring."
+    "notes": "Pea-family flowers cover bare branches in early spring.",
+    "usdaSymbol": "CECA4",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": true
   },
   {
     "id": "quercus-alba",
     "scientificName": "Quercus alba",
-    "commonNames": ["White Oak"],
+    "commonNames": [
+      "White Oak"
+    ],
     "family": "Fagaceae",
-    "nativeStates": ["OH", "PA", "IN", "KY", "MI", "WV", "NY"],
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
     "generalAppearance": "tree",
     "lifespan": "perennial",
-    "heightFeet": { "min": 50, "max": 80 },
-    "spreadFeet": { "min": 50, "max": 80 },
-    "lightRequirement": ["sun"],
-    "soilMoisture": ["dry", "moist"],
-    "soilType": ["loam", "clay"],
-    "bloomMonths": [4, 5],
-    "bloomColors": ["yellow", "green"],
+    "heightFeet": {
+      "min": 50,
+      "max": 80
+    },
+    "spreadFeet": {
+      "min": 50,
+      "max": 80
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "yellow",
+      "green"
+    ],
     "leafArrangement": "alternate",
     "leafRetention": "deciduous",
-    "wildlifeValue": ["host plant", "songbirds", "mammals"],
+    "wildlifeValue": [
+      "host plant",
+      "songbirds",
+      "mammals"
+    ],
     "deerResistant": false,
-    "notes": "Keystone species supporting hundreds of caterpillar species."
+    "notes": "Keystone species supporting hundreds of caterpillar species.",
+    "usdaSymbol": "QUAL",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true
   },
   {
     "id": "carpinus-caroliniana",
     "scientificName": "Carpinus caroliniana",
-    "commonNames": ["American Hornbeam", "Musclewood", "Ironwood"],
+    "commonNames": [
+      "American Hornbeam",
+      "Musclewood",
+      "Ironwood"
+    ],
     "family": "Betulaceae",
-    "nativeStates": ["OH", "PA", "IN", "KY", "MI", "WV", "NY"],
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
     "generalAppearance": "tree",
     "lifespan": "perennial",
-    "heightFeet": { "min": 20, "max": 35 },
-    "spreadFeet": { "min": 20, "max": 30 },
-    "lightRequirement": ["part shade", "shade"],
-    "soilMoisture": ["moist", "wet"],
-    "soilType": ["loam", "clay"],
-    "bloomMonths": [4, 5],
-    "bloomColors": ["green", "brown"],
+    "heightFeet": {
+      "min": 20,
+      "max": 35
+    },
+    "spreadFeet": {
+      "min": 20,
+      "max": 30
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "green",
+      "brown"
+    ],
     "leafArrangement": "alternate",
     "leafRetention": "deciduous",
-    "wildlifeValue": ["songbirds", "host plant"],
+    "wildlifeValue": [
+      "songbirds",
+      "host plant"
+    ],
     "deerResistant": false,
-    "notes": "Sinewy gray bark; tolerates shade and seasonal flooding."
+    "notes": "Sinewy gray bark; tolerates shade and seasonal flooding.",
+    "usdaSymbol": "CACA18",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false
   },
   {
     "id": "amelanchier-arborea",
     "scientificName": "Amelanchier arborea",
-    "commonNames": ["Downy Serviceberry", "Shadbush", "Juneberry"],
+    "commonNames": [
+      "Downy Serviceberry",
+      "Shadbush",
+      "Juneberry"
+    ],
     "family": "Rosaceae",
-    "nativeStates": ["OH", "PA", "IN", "KY", "MI", "WV", "NY"],
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DC",
+      "FL",
+      "GA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "NE",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "SC",
+      "TN",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
     "generalAppearance": "tree",
     "lifespan": "perennial",
-    "heightFeet": { "min": 15, "max": 25 },
-    "spreadFeet": { "min": 15, "max": 20 },
-    "lightRequirement": ["sun", "part shade"],
-    "soilMoisture": ["moist"],
-    "soilType": ["loam"],
-    "bloomMonths": [3, 4],
-    "bloomColors": ["white"],
+    "heightFeet": {
+      "min": 15,
+      "max": 25
+    },
+    "spreadFeet": {
+      "min": 15,
+      "max": 20
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "white"
+    ],
     "leafArrangement": "alternate",
     "leafRetention": "deciduous",
-    "wildlifeValue": ["pollinators", "songbirds"],
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds"
+    ],
     "deerResistant": false,
-    "notes": "Early white blooms, edible June berries, vivid fall color."
+    "notes": "Early white blooms, edible June berries, vivid fall color.",
+    "usdaSymbol": "AMAR3",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": true
   },
   {
     "id": "hamamelis-virginiana",
     "scientificName": "Hamamelis virginiana",
-    "commonNames": ["American Witch Hazel"],
+    "commonNames": [
+      "American Witch Hazel"
+    ],
     "family": "Hamamelidaceae",
-    "nativeStates": ["OH", "PA", "IN", "KY", "MI", "WV", "NY"],
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "IL",
+      "IN",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
     "generalAppearance": "shrub",
     "lifespan": "perennial",
-    "heightFeet": { "min": 15, "max": 25 },
-    "spreadFeet": { "min": 10, "max": 20 },
-    "lightRequirement": ["part shade", "shade", "sun"],
-    "soilMoisture": ["moist"],
-    "soilType": ["loam", "clay"],
-    "bloomMonths": [10, 11, 12],
-    "bloomColors": ["yellow"],
+    "heightFeet": {
+      "min": 15,
+      "max": 25
+    },
+    "spreadFeet": {
+      "min": 10,
+      "max": 20
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade",
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      10,
+      11,
+      12
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
     "leafArrangement": "alternate",
     "leafRetention": "deciduous",
-    "wildlifeValue": ["pollinators", "songbirds"],
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds"
+    ],
     "deerResistant": true,
-    "notes": "Fragrant late-fall blooms after the leaves drop."
+    "notes": "Fragrant late-fall blooms after the leaves drop.",
+    "usdaSymbol": "HAVI4",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
   },
   {
     "id": "lindera-benzoin",
     "scientificName": "Lindera benzoin",
-    "commonNames": ["Northern Spicebush"],
+    "commonNames": [
+      "Northern Spicebush"
+    ],
     "family": "Lauraceae",
-    "nativeStates": ["OH", "PA", "IN", "KY", "MI", "WV", "NY"],
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MO",
+      "MS",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "VT",
+      "WV"
+    ],
     "generalAppearance": "shrub",
     "lifespan": "perennial",
-    "heightFeet": { "min": 6, "max": 12 },
-    "spreadFeet": { "min": 6, "max": 12 },
-    "lightRequirement": ["part shade", "shade"],
-    "soilMoisture": ["moist", "wet"],
-    "soilType": ["loam"],
-    "bloomMonths": [3, 4],
-    "bloomColors": ["yellow"],
+    "heightFeet": {
+      "min": 6,
+      "max": 12
+    },
+    "spreadFeet": {
+      "min": 6,
+      "max": 12
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
     "leafArrangement": "alternate",
     "leafRetention": "deciduous",
-    "wildlifeValue": ["host plant", "songbirds", "pollinators"],
+    "wildlifeValue": [
+      "host plant",
+      "songbirds",
+      "pollinators"
+    ],
     "deerResistant": true,
-    "notes": "Host plant for spicebush swallowtail. Aromatic foliage."
+    "notes": "Host plant for spicebush swallowtail. Aromatic foliage.",
+    "usdaSymbol": "LIBE3",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true
   },
   {
     "id": "itea-virginica",
     "scientificName": "Itea virginica",
-    "commonNames": ["Virginia Sweetspire"],
+    "commonNames": [
+      "Virginia Sweetspire"
+    ],
     "family": "Iteaceae",
-    "nativeStates": ["OH", "PA", "IN", "KY", "WV"],
+    "nativeStates": [
+      "AL",
+      "AR",
+      "DE",
+      "FL",
+      "GA",
+      "IL",
+      "IN",
+      "KY",
+      "LA",
+      "MD",
+      "MO",
+      "MS",
+      "NC",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "WV"
+    ],
     "generalAppearance": "shrub",
     "lifespan": "perennial",
-    "heightFeet": { "min": 3, "max": 8 },
-    "spreadFeet": { "min": 3, "max": 6 },
-    "lightRequirement": ["sun", "part shade", "shade"],
-    "soilMoisture": ["moist", "wet"],
-    "soilType": ["loam", "clay"],
-    "bloomMonths": [5, 6, 7],
-    "bloomColors": ["white"],
+    "heightFeet": {
+      "min": 3,
+      "max": 8
+    },
+    "spreadFeet": {
+      "min": 3,
+      "max": 6
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "white"
+    ],
     "leafArrangement": "alternate",
     "leafRetention": "deciduous",
-    "wildlifeValue": ["pollinators", "songbirds"],
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds"
+    ],
     "deerResistant": true,
-    "notes": "Fragrant cascading racemes; brilliant crimson fall color."
+    "notes": "Fragrant cascading racemes; brilliant crimson fall color.",
+    "usdaSymbol": "ITVI",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
   },
   {
     "id": "viburnum-prunifolium",
     "scientificName": "Viburnum prunifolium",
-    "commonNames": ["Blackhaw Viburnum"],
+    "commonNames": [
+      "Blackhaw Viburnum"
+    ],
     "family": "Adoxaceae",
-    "nativeStates": ["OH", "PA", "IN", "KY", "MI", "WV", "NY"],
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DC",
+      "DE",
+      "GA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MD",
+      "MI",
+      "MO",
+      "NC",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "SC",
+      "TN",
+      "VA",
+      "WI",
+      "WV"
+    ],
     "generalAppearance": "shrub",
     "lifespan": "perennial",
-    "heightFeet": { "min": 12, "max": 20 },
-    "spreadFeet": { "min": 6, "max": 12 },
-    "lightRequirement": ["sun", "part shade"],
-    "soilMoisture": ["dry", "moist"],
-    "soilType": ["loam", "clay"],
-    "bloomMonths": [4, 5],
-    "bloomColors": ["white"],
+    "heightFeet": {
+      "min": 12,
+      "max": 20
+    },
+    "spreadFeet": {
+      "min": 6,
+      "max": 12
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "white"
+    ],
     "leafArrangement": "opposite",
     "leafRetention": "deciduous",
-    "wildlifeValue": ["pollinators", "songbirds"],
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds"
+    ],
     "deerResistant": true,
-    "notes": "Large shrub/small tree. Edible blue-black drupes loved by birds."
+    "notes": "Large shrub/small tree. Edible blue-black drupes loved by birds.",
+    "usdaSymbol": "VIPR",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": true
   },
   {
     "id": "schizachyrium-scoparium",
     "scientificName": "Schizachyrium scoparium",
-    "commonNames": ["Little Bluestem"],
+    "commonNames": [
+      "Little Bluestem"
+    ],
     "family": "Poaceae",
-    "nativeStates": ["OH", "PA", "IN", "KY", "MI", "WV", "NY"],
+    "nativeStates": [
+      "AL",
+      "AR",
+      "AZ",
+      "CO",
+      "CT",
+      "DE",
+      "FL",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "MT",
+      "NC",
+      "ND",
+      "NE",
+      "NH",
+      "NJ",
+      "NM",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "RI",
+      "SC",
+      "SD",
+      "TN",
+      "TX",
+      "UT",
+      "VA",
+      "VT",
+      "WA",
+      "WI",
+      "WV",
+      "WY"
+    ],
     "generalAppearance": "grass",
     "lifespan": "perennial",
-    "heightFeet": { "min": 2, "max": 4 },
-    "spreadFeet": { "min": 1.5, "max": 2 },
-    "lightRequirement": ["sun"],
-    "soilMoisture": ["dry", "moist"],
-    "soilType": ["sandy", "loam", "rocky"],
-    "bloomMonths": [8, 9],
-    "bloomColors": ["purple", "brown"],
+    "heightFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 1.5,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      8,
+      9
+    ],
+    "bloomColors": [
+      "purple",
+      "brown"
+    ],
     "leafArrangement": "alternate",
     "leafRetention": "deciduous",
-    "wildlifeValue": ["host plant", "songbirds"],
+    "wildlifeValue": [
+      "host plant",
+      "songbirds"
+    ],
     "deerResistant": true,
-    "notes": "Iconic prairie bunchgrass with copper-red fall and winter color."
+    "notes": "Iconic prairie bunchgrass with copper-red fall and winter color.",
+    "usdaSymbol": "SCSC",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
   },
   {
     "id": "andropogon-gerardii",
     "scientificName": "Andropogon gerardii",
-    "commonNames": ["Big Bluestem", "Turkeyfoot"],
+    "commonNames": [
+      "Big Bluestem",
+      "Turkeyfoot"
+    ],
     "family": "Poaceae",
-    "nativeStates": ["OH", "PA", "IN", "KY", "MI", "WV"],
+    "nativeStates": [
+      "AL",
+      "AR",
+      "AZ",
+      "CO",
+      "CT",
+      "FL",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "MT",
+      "NC",
+      "ND",
+      "NE",
+      "NH",
+      "NJ",
+      "NM",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "RI",
+      "SC",
+      "SD",
+      "TN",
+      "TX",
+      "UT",
+      "VA",
+      "VT",
+      "WI",
+      "WV",
+      "WY"
+    ],
     "generalAppearance": "grass",
     "lifespan": "perennial",
-    "heightFeet": { "min": 4, "max": 8 },
-    "spreadFeet": { "min": 2, "max": 3 },
-    "lightRequirement": ["sun"],
-    "soilMoisture": ["dry", "moist"],
-    "soilType": ["loam", "clay", "sandy"],
-    "bloomMonths": [8, 9, 10],
-    "bloomColors": ["purple", "red"],
+    "heightFeet": {
+      "min": 4,
+      "max": 8
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 3
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "clay",
+      "sandy"
+    ],
+    "bloomMonths": [
+      8,
+      9,
+      10
+    ],
+    "bloomColors": [
+      "purple",
+      "red"
+    ],
     "leafArrangement": "alternate",
     "leafRetention": "deciduous",
-    "wildlifeValue": ["host plant", "songbirds"],
+    "wildlifeValue": [
+      "host plant",
+      "songbirds"
+    ],
     "deerResistant": true,
-    "notes": "Tallgrass-prairie dominant. Three-pronged seedhead resembles turkey foot."
+    "notes": "Tallgrass-prairie dominant. Three-pronged seedhead resembles turkey foot.",
+    "usdaSymbol": "ANGE",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
   },
   {
     "id": "sorghastrum-nutans",
     "scientificName": "Sorghastrum nutans",
-    "commonNames": ["Indiangrass"],
+    "commonNames": [
+      "Indiangrass"
+    ],
     "family": "Poaceae",
-    "nativeStates": ["OH", "PA", "IN", "KY", "MI", "WV"],
+    "nativeStates": [
+      "AL",
+      "AR",
+      "AZ",
+      "CO",
+      "CT",
+      "FL",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "ND",
+      "NE",
+      "NJ",
+      "NM",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "RI",
+      "SC",
+      "SD",
+      "TN",
+      "TX",
+      "UT",
+      "VA",
+      "WI",
+      "WV"
+    ],
     "generalAppearance": "grass",
     "lifespan": "perennial",
-    "heightFeet": { "min": 3, "max": 6 },
-    "spreadFeet": { "min": 1.5, "max": 2.5 },
-    "lightRequirement": ["sun"],
-    "soilMoisture": ["dry", "moist"],
-    "soilType": ["loam", "clay", "sandy"],
-    "bloomMonths": [8, 9, 10],
-    "bloomColors": ["yellow", "brown"],
+    "heightFeet": {
+      "min": 3,
+      "max": 6
+    },
+    "spreadFeet": {
+      "min": 1.5,
+      "max": 2.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "clay",
+      "sandy"
+    ],
+    "bloomMonths": [
+      8,
+      9,
+      10
+    ],
+    "bloomColors": [
+      "yellow",
+      "brown"
+    ],
     "leafArrangement": "alternate",
     "leafRetention": "deciduous",
-    "wildlifeValue": ["host plant", "songbirds"],
+    "wildlifeValue": [
+      "host plant",
+      "songbirds"
+    ],
     "deerResistant": true,
-    "notes": "Golden plumes in fall; warm-season tallgrass."
+    "notes": "Golden plumes in fall; warm-season tallgrass.",
+    "usdaSymbol": "SONU2",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
   },
   {
     "id": "panicum-virgatum",
     "scientificName": "Panicum virgatum",
-    "commonNames": ["Switchgrass"],
+    "commonNames": [
+      "Switchgrass"
+    ],
     "family": "Poaceae",
-    "nativeStates": ["OH", "PA", "IN", "KY", "MI", "WV", "NY"],
+    "nativeStates": [
+      "AL",
+      "AR",
+      "AZ",
+      "CO",
+      "CT",
+      "DE",
+      "FL",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "MT",
+      "NC",
+      "ND",
+      "NE",
+      "NH",
+      "NJ",
+      "NM",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "RI",
+      "SC",
+      "SD",
+      "TN",
+      "TX",
+      "UT",
+      "VA",
+      "WI",
+      "WV",
+      "WY"
+    ],
     "generalAppearance": "grass",
     "lifespan": "perennial",
-    "heightFeet": { "min": 3, "max": 6 },
-    "spreadFeet": { "min": 2, "max": 3 },
-    "lightRequirement": ["sun", "part shade"],
-    "soilMoisture": ["dry", "moist", "wet"],
-    "soilType": ["loam", "clay", "sandy"],
-    "bloomMonths": [7, 8, 9],
-    "bloomColors": ["pink", "brown"],
+    "heightFeet": {
+      "min": 3,
+      "max": 6
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 3
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "clay",
+      "sandy"
+    ],
+    "bloomMonths": [
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "pink",
+      "brown"
+    ],
     "leafArrangement": "alternate",
     "leafRetention": "deciduous",
-    "wildlifeValue": ["host plant", "songbirds"],
+    "wildlifeValue": [
+      "host plant",
+      "songbirds"
+    ],
     "deerResistant": true,
-    "notes": "Airy seed panicles. Versatile across moisture conditions."
+    "notes": "Airy seed panicles. Versatile across moisture conditions.",
+    "usdaSymbol": "PAVI2",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
   },
   {
     "id": "bouteloua-curtipendula",
     "scientificName": "Bouteloua curtipendula",
-    "commonNames": ["Sideoats Grama"],
+    "commonNames": [
+      "Sideoats Grama"
+    ],
     "family": "Poaceae",
-    "nativeStates": ["OH", "PA", "IN", "KY", "MI"],
+    "nativeStates": [
+      "AL",
+      "AR",
+      "AZ",
+      "CA",
+      "CO",
+      "CT",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "MD",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "MT",
+      "ND",
+      "NE",
+      "NJ",
+      "NM",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "SD",
+      "TN",
+      "TX",
+      "UT",
+      "VA",
+      "WI",
+      "WV",
+      "WY"
+    ],
     "generalAppearance": "grass",
     "lifespan": "perennial",
-    "heightFeet": { "min": 1.5, "max": 3 },
-    "spreadFeet": { "min": 1, "max": 1.5 },
-    "lightRequirement": ["sun"],
-    "soilMoisture": ["dry"],
-    "soilType": ["rocky", "sandy", "loam"],
-    "bloomMonths": [6, 7, 8],
-    "bloomColors": ["purple", "orange"],
+    "heightFeet": {
+      "min": 1.5,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "purple",
+      "orange"
+    ],
     "leafArrangement": "alternate",
     "leafRetention": "deciduous",
-    "wildlifeValue": ["host plant", "songbirds"],
+    "wildlifeValue": [
+      "host plant",
+      "songbirds"
+    ],
     "deerResistant": true,
-    "notes": "Oat-like seeds hang on one side of stem. Drought-loving."
+    "notes": "Oat-like seeds hang on one side of stem. Drought-loving.",
+    "usdaSymbol": "BOCU",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
   },
   {
     "id": "sporobolus-heterolepis",
     "scientificName": "Sporobolus heterolepis",
-    "commonNames": ["Prairie Dropseed"],
+    "commonNames": [
+      "Prairie Dropseed"
+    ],
     "family": "Poaceae",
-    "nativeStates": ["OH", "PA", "IN", "KY", "MI"],
+    "nativeStates": [
+      "CO",
+      "CT",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "MI",
+      "MN",
+      "MO",
+      "NE",
+      "OH",
+      "PA",
+      "SD",
+      "WI"
+    ],
     "generalAppearance": "grass",
     "lifespan": "perennial",
-    "heightFeet": { "min": 2, "max": 3 },
-    "spreadFeet": { "min": 1.5, "max": 2 },
-    "lightRequirement": ["sun"],
-    "soilMoisture": ["dry", "moist"],
-    "soilType": ["loam", "rocky", "clay"],
-    "bloomMonths": [8, 9],
-    "bloomColors": ["pink", "brown"],
+    "heightFeet": {
+      "min": 2,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1.5,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "rocky",
+      "clay"
+    ],
+    "bloomMonths": [
+      8,
+      9
+    ],
+    "bloomColors": [
+      "pink",
+      "brown"
+    ],
     "leafArrangement": "alternate",
     "leafRetention": "deciduous",
-    "wildlifeValue": ["host plant", "songbirds"],
+    "wildlifeValue": [
+      "host plant",
+      "songbirds"
+    ],
     "deerResistant": true,
-    "notes": "Fine-textured fountain of foliage; flowers smell like coriander."
+    "notes": "Fine-textured fountain of foliage; flowers smell like coriander.",
+    "usdaSymbol": "SPHE",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
   },
   {
     "id": "carex-pensylvanica",
     "scientificName": "Carex pensylvanica",
-    "commonNames": ["Pennsylvania Sedge"],
+    "commonNames": [
+      "Pennsylvania Sedge"
+    ],
     "family": "Cyperaceae",
-    "nativeStates": ["OH", "PA", "IN", "KY", "MI", "WV", "NY"],
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CO",
+      "CT",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KY",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "RI",
+      "TN",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
     "generalAppearance": "grass",
     "lifespan": "perennial",
-    "heightFeet": { "min": 0.5, "max": 1 },
-    "spreadFeet": { "min": 0.5, "max": 1.5 },
-    "lightRequirement": ["part shade", "shade"],
-    "soilMoisture": ["dry", "moist"],
-    "soilType": ["loam"],
-    "bloomMonths": [4, 5],
-    "bloomColors": ["brown"],
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "brown"
+    ],
     "leafArrangement": "alternate",
     "leafRetention": "semi-evergreen",
-    "wildlifeValue": ["host plant"],
+    "wildlifeValue": [
+      "host plant"
+    ],
     "deerResistant": true,
-    "notes": "Lawn-alternative for dry shade. Spreads by short rhizomes."
+    "notes": "Lawn-alternative for dry shade. Spreads by short rhizomes.",
+    "usdaSymbol": "CAPE6",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false
   },
   {
     "id": "polystichum-acrostichoides",
     "scientificName": "Polystichum acrostichoides",
-    "commonNames": ["Christmas Fern"],
+    "commonNames": [
+      "Christmas Fern"
+    ],
     "family": "Dryopteridaceae",
-    "nativeStates": ["OH", "PA", "IN", "KY", "MI", "WV", "NY"],
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MO",
+      "MS",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
     "generalAppearance": "fern",
     "lifespan": "perennial",
-    "heightFeet": { "min": 1, "max": 2 },
-    "spreadFeet": { "min": 1, "max": 2 },
-    "lightRequirement": ["part shade", "shade"],
-    "soilMoisture": ["dry", "moist"],
-    "soilType": ["loam", "rocky"],
+    "heightFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
     "bloomMonths": [],
     "bloomColors": [],
     "leafArrangement": "whorled",
     "leafRetention": "evergreen",
-    "wildlifeValue": ["host plant"],
+    "wildlifeValue": [
+      "host plant"
+    ],
     "deerResistant": true,
-    "notes": "Evergreen leathery fronds; tolerates dry shade once established."
+    "notes": "Evergreen leathery fronds; tolerates dry shade once established.",
+    "usdaSymbol": "POAC4",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
   },
   {
     "id": "matteuccia-struthiopteris",
     "scientificName": "Matteuccia struthiopteris",
-    "commonNames": ["Ostrich Fern"],
+    "commonNames": [
+      "Ostrich Fern"
+    ],
     "family": "Onocleaceae",
-    "nativeStates": ["OH", "PA", "IN", "MI", "WV", "NY"],
+    "nativeStates": [
+      "AK",
+      "AR",
+      "CT",
+      "IA",
+      "IL",
+      "IN",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "SD",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
     "generalAppearance": "fern",
     "lifespan": "perennial",
-    "heightFeet": { "min": 3, "max": 6 },
-    "spreadFeet": { "min": 3, "max": 5 },
-    "lightRequirement": ["part shade", "shade"],
-    "soilMoisture": ["moist", "wet"],
-    "soilType": ["loam"],
+    "heightFeet": {
+      "min": 3,
+      "max": 6
+    },
+    "spreadFeet": {
+      "min": 3,
+      "max": 5
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam"
+    ],
     "bloomMonths": [],
     "bloomColors": [],
     "leafArrangement": "whorled",
     "leafRetention": "deciduous",
     "wildlifeValue": [],
     "deerResistant": true,
-    "notes": "Edible fiddleheads in spring. Spreads aggressively by rhizomes."
+    "notes": "Edible fiddleheads in spring. Spreads aggressively by rhizomes.",
+    "usdaSymbol": "MAST",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": true
   },
   {
     "id": "athyrium-filix-femina",
     "scientificName": "Athyrium filix-femina",
-    "commonNames": ["Lady Fern"],
+    "commonNames": [
+      "Lady Fern"
+    ],
     "family": "Athyriaceae",
-    "nativeStates": ["OH", "PA", "IN", "KY", "MI", "WV", "NY"],
+    "nativeStates": [
+      "AK",
+      "AL",
+      "AR",
+      "AZ",
+      "CA",
+      "CO",
+      "CT",
+      "GA",
+      "ID",
+      "IL",
+      "IN",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "MT",
+      "NC",
+      "ND",
+      "NH",
+      "NJ",
+      "NM",
+      "NV",
+      "NY",
+      "OH",
+      "OR",
+      "PA",
+      "SD",
+      "TN",
+      "TX",
+      "UT",
+      "VA",
+      "VT",
+      "WA",
+      "WI",
+      "WV",
+      "WY"
+    ],
     "generalAppearance": "fern",
     "lifespan": "perennial",
-    "heightFeet": { "min": 2, "max": 3 },
-    "spreadFeet": { "min": 1.5, "max": 2.5 },
-    "lightRequirement": ["part shade", "shade"],
-    "soilMoisture": ["moist"],
-    "soilType": ["loam"],
+    "heightFeet": {
+      "min": 2,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1.5,
+      "max": 2.5
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
     "bloomMonths": [],
     "bloomColors": [],
     "leafArrangement": "whorled",
     "leafRetention": "deciduous",
     "wildlifeValue": [],
     "deerResistant": true,
-    "notes": "Delicate lacy fronds; clump-forming, well-behaved."
+    "notes": "Delicate lacy fronds; clump-forming, well-behaved.",
+    "usdaSymbol": "ATFI",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "GL",
+      "L48",
+      "SPM"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
   },
   {
     "id": "dryopteris-marginalis",
     "scientificName": "Dryopteris marginalis",
-    "commonNames": ["Marginal Wood Fern", "Leather Wood Fern"],
+    "commonNames": [
+      "Marginal Wood Fern",
+      "Leather Wood Fern"
+    ],
     "family": "Dryopteridaceae",
-    "nativeStates": ["OH", "PA", "IN", "KY", "MI", "WV", "NY"],
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DE",
+      "GA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MO",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
     "generalAppearance": "fern",
     "lifespan": "perennial",
-    "heightFeet": { "min": 1.5, "max": 2.5 },
-    "spreadFeet": { "min": 1.5, "max": 2 },
-    "lightRequirement": ["part shade", "shade"],
-    "soilMoisture": ["dry", "moist"],
-    "soilType": ["loam", "rocky"],
+    "heightFeet": {
+      "min": 1.5,
+      "max": 2.5
+    },
+    "spreadFeet": {
+      "min": 1.5,
+      "max": 2
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
     "bloomMonths": [],
     "bloomColors": [],
     "leafArrangement": "whorled",
     "leafRetention": "evergreen",
     "wildlifeValue": [],
     "deerResistant": true,
-    "notes": "Evergreen, leathery; reliable in dry shade."
+    "notes": "Evergreen, leathery; reliable in dry shade.",
+    "usdaSymbol": "DRMA4",
+    "nativeRegions": [
+      "CAN",
+      "GL",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
   },
   {
     "id": "osmundastrum-cinnamomeum",
     "scientificName": "Osmundastrum cinnamomeum",
-    "commonNames": ["Cinnamon Fern"],
+    "commonNames": [
+      "Cinnamon Fern"
+    ],
     "family": "Osmundaceae",
-    "nativeStates": ["OH", "PA", "IN", "KY", "MI", "WV", "NY"],
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "IL",
+      "IN",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "VT",
+      "WA",
+      "WI",
+      "WV"
+    ],
     "generalAppearance": "fern",
     "lifespan": "perennial",
-    "heightFeet": { "min": 2, "max": 5 },
-    "spreadFeet": { "min": 2, "max": 3 },
-    "lightRequirement": ["part shade", "shade"],
-    "soilMoisture": ["moist", "wet"],
-    "soilType": ["loam"],
+    "heightFeet": {
+      "min": 2,
+      "max": 5
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 3
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam"
+    ],
     "bloomMonths": [],
     "bloomColors": [],
     "leafArrangement": "whorled",
     "leafRetention": "deciduous",
     "wildlifeValue": [],
     "deerResistant": true,
-    "notes": "Cinnamon-colored fertile fronds rise from center of vase."
+    "notes": "Cinnamon-colored fertile fronds rise from center of vase.",
+    "usdaSymbol": "OSCI2",
+    "nativeRegions": [
+      "CAN",
+      "L48",
+      "PR",
+      "SPM"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
   },
   {
     "id": "adiantum-pedatum",
     "scientificName": "Adiantum pedatum",
-    "commonNames": ["Northern Maidenhair Fern"],
+    "commonNames": [
+      "Northern Maidenhair Fern"
+    ],
     "family": "Pteridaceae",
-    "nativeStates": ["OH", "PA", "IN", "KY", "MI", "WV", "NY"],
+    "nativeStates": [
+      "AK",
+      "AL",
+      "AR",
+      "AZ",
+      "CA",
+      "CT",
+      "DE",
+      "GA",
+      "IA",
+      "ID",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "NE",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "OR",
+      "PA",
+      "SC",
+      "TN",
+      "UT",
+      "VA",
+      "VT",
+      "WA",
+      "WI",
+      "WV"
+    ],
     "generalAppearance": "fern",
     "lifespan": "perennial",
-    "heightFeet": { "min": 1, "max": 2 },
-    "spreadFeet": { "min": 1, "max": 1.5 },
-    "lightRequirement": ["shade", "part shade"],
-    "soilMoisture": ["moist"],
-    "soilType": ["loam"],
+    "heightFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "shade",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
     "bloomMonths": [],
     "bloomColors": [],
     "leafArrangement": "whorled",
     "leafRetention": "deciduous",
     "wildlifeValue": [],
     "deerResistant": true,
-    "notes": "Black wiry stems with delicate fan-shaped pinnae."
+    "notes": "Black wiry stems with delicate fan-shaped pinnae.",
+    "usdaSymbol": "ADPE",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
   },
   {
     "id": "parthenocissus-quinquefolia",
     "scientificName": "Parthenocissus quinquefolia",
-    "commonNames": ["Virginia Creeper"],
+    "commonNames": [
+      "Virginia Creeper"
+    ],
     "family": "Vitaceae",
-    "nativeStates": ["OH", "PA", "IN", "KY", "MI", "WV", "NY"],
+    "nativeStates": [
+      "AL",
+      "AR",
+      "AZ",
+      "CA",
+      "CO",
+      "CT",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "NE",
+      "NH",
+      "NJ",
+      "NM",
+      "NV",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "RI",
+      "SC",
+      "SD",
+      "TN",
+      "TX",
+      "UT",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
     "generalAppearance": "vine",
     "lifespan": "perennial",
-    "heightFeet": { "min": 30, "max": 50 },
-    "spreadFeet": { "min": 5, "max": 10 },
-    "lightRequirement": ["sun", "part shade", "shade"],
-    "soilMoisture": ["dry", "moist"],
-    "soilType": ["loam", "clay", "sandy"],
-    "bloomMonths": [5, 6, 7],
-    "bloomColors": ["green"],
+    "heightFeet": {
+      "min": 30,
+      "max": 50
+    },
+    "spreadFeet": {
+      "min": 5,
+      "max": 10
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "clay",
+      "sandy"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "green"
+    ],
     "leafArrangement": "alternate",
     "leafRetention": "deciduous",
-    "wildlifeValue": ["songbirds", "host plant"],
+    "wildlifeValue": [
+      "songbirds",
+      "host plant"
+    ],
     "deerResistant": false,
-    "notes": "Vigorous climbing vine; brilliant scarlet fall color."
+    "notes": "Vigorous climbing vine; brilliant scarlet fall color.",
+    "usdaSymbol": "PAQU2",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false
   },
   {
     "id": "lonicera-sempervirens",
     "scientificName": "Lonicera sempervirens",
-    "commonNames": ["Coral Honeysuckle", "Trumpet Honeysuckle"],
+    "commonNames": [
+      "Coral Honeysuckle",
+      "Trumpet Honeysuckle"
+    ],
     "family": "Caprifoliaceae",
-    "nativeStates": ["OH", "PA", "IN", "KY", "WV"],
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "MO",
+      "MS",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "WV"
+    ],
     "generalAppearance": "vine",
     "lifespan": "perennial",
-    "heightFeet": { "min": 8, "max": 20 },
-    "spreadFeet": { "min": 3, "max": 6 },
-    "lightRequirement": ["sun", "part shade"],
-    "soilMoisture": ["moist"],
-    "soilType": ["loam"],
-    "bloomMonths": [5, 6, 7, 8],
-    "bloomColors": ["red", "orange"],
+    "heightFeet": {
+      "min": 8,
+      "max": 20
+    },
+    "spreadFeet": {
+      "min": 3,
+      "max": 6
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "red",
+      "orange"
+    ],
     "leafArrangement": "opposite",
     "leafRetention": "semi-evergreen",
-    "wildlifeValue": ["hummingbirds", "pollinators", "songbirds"],
+    "wildlifeValue": [
+      "hummingbirds",
+      "pollinators",
+      "songbirds"
+    ],
     "deerResistant": false,
-    "notes": "Native alternative to invasive Japanese honeysuckle."
+    "notes": "Native alternative to invasive Japanese honeysuckle.",
+    "usdaSymbol": "LOSE",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
   },
   {
     "id": "clematis-virginiana",
     "scientificName": "Clematis virginiana",
-    "commonNames": ["Virgin's Bower", "Devil's Darning Needles"],
+    "commonNames": [
+      "Virgin's Bower",
+      "Devil's Darning Needles"
+    ],
     "family": "Ranunculaceae",
-    "nativeStates": ["OH", "PA", "IN", "KY", "MI", "WV", "NY"],
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "FL",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "NE",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
     "generalAppearance": "vine",
     "lifespan": "perennial",
-    "heightFeet": { "min": 10, "max": 20 },
-    "spreadFeet": { "min": 3, "max": 6 },
-    "lightRequirement": ["sun", "part shade"],
-    "soilMoisture": ["moist"],
-    "soilType": ["loam"],
-    "bloomMonths": [7, 8, 9],
-    "bloomColors": ["white"],
+    "heightFeet": {
+      "min": 10,
+      "max": 20
+    },
+    "spreadFeet": {
+      "min": 3,
+      "max": 6
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "white"
+    ],
     "leafArrangement": "opposite",
     "leafRetention": "deciduous",
-    "wildlifeValue": ["pollinators"],
+    "wildlifeValue": [
+      "pollinators"
+    ],
     "deerResistant": true,
-    "notes": "Frothy late-summer flowers followed by feathery seedheads."
+    "notes": "Frothy late-summer flowers followed by feathery seedheads.",
+    "usdaSymbol": "CLVI5",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
   },
   {
     "id": "passiflora-incarnata",
     "scientificName": "Passiflora incarnata",
-    "commonNames": ["Purple Passionflower", "Maypop"],
+    "commonNames": [
+      "Purple Passionflower",
+      "Maypop"
+    ],
     "family": "Passifloraceae",
-    "nativeStates": ["OH", "KY", "WV", "IN"],
+    "nativeStates": [
+      "AL",
+      "AR",
+      "DE",
+      "FL",
+      "GA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MD",
+      "MO",
+      "MS",
+      "NC",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "WV"
+    ],
     "generalAppearance": "vine",
     "lifespan": "perennial",
-    "heightFeet": { "min": 6, "max": 15 },
-    "spreadFeet": { "min": 3, "max": 6 },
-    "lightRequirement": ["sun"],
-    "soilMoisture": ["dry", "moist"],
-    "soilType": ["sandy", "loam"],
-    "bloomMonths": [6, 7, 8, 9],
-    "bloomColors": ["purple", "white"],
+    "heightFeet": {
+      "min": 6,
+      "max": 15
+    },
+    "spreadFeet": {
+      "min": 3,
+      "max": 6
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "purple",
+      "white"
+    ],
     "leafArrangement": "alternate",
     "leafRetention": "deciduous",
-    "wildlifeValue": ["pollinators", "host plant"],
+    "wildlifeValue": [
+      "pollinators",
+      "host plant"
+    ],
     "deerResistant": true,
-    "notes": "Host for Gulf fritillary. Spectacular intricate flowers."
+    "notes": "Host for Gulf fritillary. Spectacular intricate flowers.",
+    "usdaSymbol": "PAIN6",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true
   },
   {
     "id": "geranium-maculatum",
     "scientificName": "Geranium maculatum",
-    "commonNames": ["Wild Geranium", "Spotted Cranesbill"],
+    "commonNames": [
+      "Wild Geranium",
+      "Spotted Cranesbill"
+    ],
     "family": "Geraniaceae",
-    "nativeStates": ["OH", "PA", "IN", "KY", "MI", "WV", "NY"],
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DC",
+      "DE",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
     "generalAppearance": "herb",
     "lifespan": "perennial",
-    "heightFeet": { "min": 1, "max": 2 },
-    "spreadFeet": { "min": 1, "max": 1.5 },
-    "lightRequirement": ["part shade", "shade"],
-    "soilMoisture": ["moist"],
-    "soilType": ["loam"],
-    "bloomMonths": [4, 5, 6],
-    "bloomColors": ["pink", "purple"],
+    "heightFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "pink",
+      "purple"
+    ],
     "leafArrangement": "opposite",
     "leafRetention": "deciduous",
-    "wildlifeValue": ["pollinators"],
+    "wildlifeValue": [
+      "pollinators"
+    ],
     "deerResistant": true,
-    "notes": "Woodland edge classic; deeply lobed foliage."
+    "notes": "Woodland edge classic; deeply lobed foliage.",
+    "usdaSymbol": "GEMA",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false
   },
   {
     "id": "mertensia-virginica",
     "scientificName": "Mertensia virginica",
-    "commonNames": ["Virginia Bluebells"],
+    "commonNames": [
+      "Virginia Bluebells"
+    ],
     "family": "Boraginaceae",
-    "nativeStates": ["OH", "PA", "IN", "KY", "MI", "WV", "NY"],
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DC",
+      "DE",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "MA",
+      "MD",
+      "MI",
+      "MN",
+      "MO",
+      "NC",
+      "NE",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "TN",
+      "VA",
+      "WI",
+      "WV"
+    ],
     "generalAppearance": "herb",
     "lifespan": "perennial",
-    "heightFeet": { "min": 1, "max": 2 },
-    "spreadFeet": { "min": 1, "max": 1.5 },
-    "lightRequirement": ["part shade", "shade"],
-    "soilMoisture": ["moist"],
-    "soilType": ["loam"],
-    "bloomMonths": [3, 4, 5],
-    "bloomColors": ["blue", "pink"],
+    "heightFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5
+    ],
+    "bloomColors": [
+      "blue",
+      "pink"
+    ],
     "leafArrangement": "alternate",
     "leafRetention": "deciduous",
-    "wildlifeValue": ["pollinators"],
+    "wildlifeValue": [
+      "pollinators"
+    ],
     "deerResistant": true,
-    "notes": "Spring ephemeral; pink buds open to sky-blue bells, then dormant by summer."
+    "notes": "Spring ephemeral; pink buds open to sky-blue bells, then dormant by summer.",
+    "usdaSymbol": "MEVI3",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true
   },
   {
     "id": "trillium-grandiflorum",
     "scientificName": "Trillium grandiflorum",
-    "commonNames": ["Large-flowered Trillium", "White Trillium"],
+    "commonNames": [
+      "Large-flowered Trillium",
+      "White Trillium"
+    ],
     "family": "Melanthiaceae",
-    "nativeStates": ["OH", "PA", "IN", "KY", "MI", "WV", "NY"],
+    "nativeStates": [
+      "GA",
+      "IL",
+      "IN",
+      "KY",
+      "MA",
+      "MD",
+      "MI",
+      "MN",
+      "NC",
+      "NY",
+      "OH",
+      "PA",
+      "TN",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
     "generalAppearance": "herb",
     "lifespan": "perennial",
-    "heightFeet": { "min": 1, "max": 1.5 },
-    "spreadFeet": { "min": 0.5, "max": 1 },
-    "lightRequirement": ["part shade", "shade"],
-    "soilMoisture": ["moist"],
-    "soilType": ["loam"],
-    "bloomMonths": [4, 5],
-    "bloomColors": ["white", "pink"],
+    "heightFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "white",
+      "pink"
+    ],
     "leafArrangement": "whorled",
     "leafRetention": "deciduous",
-    "wildlifeValue": ["pollinators"],
+    "wildlifeValue": [
+      "pollinators"
+    ],
     "deerResistant": false,
-    "notes": "Ohio's state wildflower. Source only nursery-propagated; slow to establish."
+    "notes": "Ohio's state wildflower. Source only nursery-propagated; slow to establish.",
+    "usdaSymbol": "TRGR4",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false
   },
   {
     "id": "dicentra-cucullaria",
     "scientificName": "Dicentra cucullaria",
-    "commonNames": ["Dutchman's Breeches"],
+    "commonNames": [
+      "Dutchman's Breeches"
+    ],
     "family": "Papaveraceae",
-    "nativeStates": ["OH", "PA", "IN", "KY", "MI", "WV", "NY"],
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DC",
+      "DE",
+      "GA",
+      "IA",
+      "ID",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "NC",
+      "NE",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "OR",
+      "PA",
+      "SD",
+      "TN",
+      "VA",
+      "VT",
+      "WA",
+      "WI",
+      "WV"
+    ],
     "generalAppearance": "herb",
     "lifespan": "perennial",
-    "heightFeet": { "min": 0.5, "max": 1 },
-    "spreadFeet": { "min": 0.5, "max": 1 },
-    "lightRequirement": ["part shade", "shade"],
-    "soilMoisture": ["moist"],
-    "soilType": ["loam"],
-    "bloomMonths": [3, 4, 5],
-    "bloomColors": ["white"],
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5
+    ],
+    "bloomColors": [
+      "white"
+    ],
     "leafArrangement": "alternate",
     "leafRetention": "deciduous",
-    "wildlifeValue": ["pollinators"],
+    "wildlifeValue": [
+      "pollinators"
+    ],
     "deerResistant": true,
-    "notes": "Spring ephemeral; flowers resemble upside-down pantaloons."
+    "notes": "Spring ephemeral; flowers resemble upside-down pantaloons.",
+    "usdaSymbol": "DICU",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false
   },
   {
     "id": "erythronium-americanum",
     "scientificName": "Erythronium americanum",
-    "commonNames": ["Yellow Trout Lily", "Dogtooth Violet"],
+    "commonNames": [
+      "Yellow Trout Lily",
+      "Dogtooth Violet"
+    ],
     "family": "Liliaceae",
-    "nativeStates": ["OH", "PA", "IN", "KY", "MI", "WV", "NY"],
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DC",
+      "DE",
+      "GA",
+      "IL",
+      "IN",
+      "KY",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
     "generalAppearance": "herb",
     "lifespan": "perennial",
-    "heightFeet": { "min": 0.3, "max": 0.75 },
-    "spreadFeet": { "min": 0.5, "max": 1 },
-    "lightRequirement": ["part shade", "shade"],
-    "soilMoisture": ["moist"],
-    "soilType": ["loam"],
-    "bloomMonths": [3, 4, 5],
-    "bloomColors": ["yellow"],
+    "heightFeet": {
+      "min": 0.3,
+      "max": 0.75
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
     "leafArrangement": "opposite",
     "leafRetention": "deciduous",
-    "wildlifeValue": ["pollinators"],
+    "wildlifeValue": [
+      "pollinators"
+    ],
     "deerResistant": true,
-    "notes": "Mottled foliage like trout markings; ephemeral spring colony."
+    "notes": "Mottled foliage like trout markings; ephemeral spring colony.",
+    "usdaSymbol": "ERAM5",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true
   },
   {
     "id": "claytonia-virginica",
     "scientificName": "Claytonia virginica",
-    "commonNames": ["Spring Beauty"],
+    "commonNames": [
+      "Spring Beauty"
+    ],
     "family": "Montiaceae",
-    "nativeStates": ["OH", "PA", "IN", "KY", "MI", "WV", "NY"],
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DC",
+      "DE",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
     "generalAppearance": "herb",
     "lifespan": "perennial",
-    "heightFeet": { "min": 0.2, "max": 0.5 },
-    "spreadFeet": { "min": 0.3, "max": 0.5 },
-    "lightRequirement": ["part shade", "shade", "sun"],
-    "soilMoisture": ["moist"],
-    "soilType": ["loam"],
-    "bloomMonths": [3, 4, 5],
-    "bloomColors": ["white", "pink"],
+    "heightFeet": {
+      "min": 0.2,
+      "max": 0.5
+    },
+    "spreadFeet": {
+      "min": 0.3,
+      "max": 0.5
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade",
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5
+    ],
+    "bloomColors": [
+      "white",
+      "pink"
+    ],
     "leafArrangement": "opposite",
     "leafRetention": "deciduous",
-    "wildlifeValue": ["pollinators"],
+    "wildlifeValue": [
+      "pollinators"
+    ],
     "deerResistant": true,
-    "notes": "Tiny pink-veined flowers carpet woodlands in early spring."
+    "notes": "Tiny pink-veined flowers carpet woodlands in early spring.",
+    "usdaSymbol": "CLVI3",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true
   },
   {
     "id": "iris-versicolor",
     "scientificName": "Iris versicolor",
-    "commonNames": ["Northern Blue Flag Iris"],
+    "commonNames": [
+      "Northern Blue Flag Iris"
+    ],
     "family": "Iridaceae",
-    "nativeStates": ["OH", "PA", "IN", "MI", "WV", "NY"],
+    "nativeStates": [
+      "CT",
+      "DE",
+      "IN",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "RI",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
     "generalAppearance": "herb",
     "lifespan": "perennial",
-    "heightFeet": { "min": 2, "max": 3 },
-    "spreadFeet": { "min": 1, "max": 2 },
-    "lightRequirement": ["sun", "part shade"],
-    "soilMoisture": ["wet", "moist"],
-    "soilType": ["loam", "clay"],
-    "bloomMonths": [5, 6, 7],
-    "bloomColors": ["blue", "purple"],
+    "heightFeet": {
+      "min": 2,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "wet",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "blue",
+      "purple"
+    ],
     "leafArrangement": "alternate",
     "leafRetention": "deciduous",
-    "wildlifeValue": ["pollinators", "hummingbirds"],
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds"
+    ],
     "deerResistant": true,
-    "notes": "Wetland margins and rain gardens. Toxic to humans/pets if ingested."
+    "notes": "Wetland margins and rain gardens. Toxic to humans/pets if ingested.",
+    "usdaSymbol": "IRVE2",
+    "nativeRegions": [
+      "CAN",
+      "L48",
+      "SPM"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
   },
   {
     "id": "silphium-perfoliatum",
     "scientificName": "Silphium perfoliatum",
-    "commonNames": ["Cup Plant"],
+    "commonNames": [
+      "Cup Plant"
+    ],
     "family": "Asteraceae",
-    "nativeStates": ["OH", "PA", "IN", "KY", "MI", "WV", "NY"],
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "MA",
+      "MD",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "NE",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "SD",
+      "TN",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
     "generalAppearance": "herb",
     "lifespan": "perennial",
-    "heightFeet": { "min": 4, "max": 8 },
-    "spreadFeet": { "min": 2, "max": 4 },
-    "lightRequirement": ["sun", "part shade"],
-    "soilMoisture": ["moist", "wet"],
-    "soilType": ["loam", "clay"],
-    "bloomMonths": [7, 8, 9],
-    "bloomColors": ["yellow"],
+    "heightFeet": {
+      "min": 4,
+      "max": 8
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
     "leafArrangement": "opposite",
     "leafRetention": "deciduous",
-    "wildlifeValue": ["pollinators", "songbirds"],
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds"
+    ],
     "deerResistant": true,
-    "notes": "Fused leaves form cups that hold rainwater for birds."
+    "notes": "Fused leaves form cups that hold rainwater for birds.",
+    "usdaSymbol": "SIPE2",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
   },
   {
     "id": "zizia-aurea",
     "scientificName": "Zizia aurea",
-    "commonNames": ["Golden Alexanders"],
+    "commonNames": [
+      "Golden Alexanders"
+    ],
     "family": "Apiaceae",
-    "nativeStates": ["OH", "PA", "IN", "KY", "MI", "WV", "NY"],
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DE",
+      "FL",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "ND",
+      "NE",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "SC",
+      "SD",
+      "TN",
+      "TX",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
     "generalAppearance": "herb",
     "lifespan": "perennial",
-    "heightFeet": { "min": 1.5, "max": 3 },
-    "spreadFeet": { "min": 1, "max": 2 },
-    "lightRequirement": ["sun", "part shade"],
-    "soilMoisture": ["moist"],
-    "soilType": ["loam", "clay"],
-    "bloomMonths": [4, 5, 6],
-    "bloomColors": ["yellow"],
+    "heightFeet": {
+      "min": 1.5,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
     "leafArrangement": "alternate",
     "leafRetention": "deciduous",
-    "wildlifeValue": ["pollinators", "host plant"],
+    "wildlifeValue": [
+      "pollinators",
+      "host plant"
+    ],
     "deerResistant": true,
-    "notes": "Host for black swallowtail. Yellow umbels in late spring."
+    "notes": "Host for black swallowtail. Yellow umbels in late spring.",
+    "usdaSymbol": "ZIAU",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
   },
   {
     "id": "chelone-glabra",
     "scientificName": "Chelone glabra",
-    "commonNames": ["White Turtlehead"],
+    "commonNames": [
+      "White Turtlehead"
+    ],
     "family": "Plantaginaceae",
-    "nativeStates": ["OH", "PA", "IN", "KY", "MI", "WV", "NY"],
+    "nativeStates": [
+      "AL",
+      "CT",
+      "DE",
+      "GA",
+      "IL",
+      "IN",
+      "KY",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
     "generalAppearance": "herb",
     "lifespan": "perennial",
-    "heightFeet": { "min": 2, "max": 4 },
-    "spreadFeet": { "min": 1.5, "max": 2.5 },
-    "lightRequirement": ["sun", "part shade"],
-    "soilMoisture": ["moist", "wet"],
-    "soilType": ["loam", "clay"],
-    "bloomMonths": [8, 9],
-    "bloomColors": ["white", "pink"],
+    "heightFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 1.5,
+      "max": 2.5
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      8,
+      9
+    ],
+    "bloomColors": [
+      "white",
+      "pink"
+    ],
     "leafArrangement": "opposite",
     "leafRetention": "deciduous",
-    "wildlifeValue": ["pollinators", "host plant"],
+    "wildlifeValue": [
+      "pollinators",
+      "host plant"
+    ],
     "deerResistant": true,
-    "notes": "Host plant for Baltimore checkerspot butterfly."
+    "notes": "Host plant for Baltimore checkerspot butterfly.",
+    "usdaSymbol": "CHGL2",
+    "nativeRegions": [
+      "CAN",
+      "L48",
+      "SPM"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
   },
   {
     "id": "asclepias-incarnata",
     "scientificName": "Asclepias incarnata",
-    "commonNames": ["Swamp Milkweed", "Rose Milkweed"],
+    "commonNames": [
+      "Swamp Milkweed",
+      "Rose Milkweed"
+    ],
     "family": "Apocynaceae",
-    "nativeStates": ["OH", "PA", "IN", "KY", "MI", "WV", "NY"],
+    "nativeStates": [
+      "AR",
+      "CO",
+      "CT",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "IA",
+      "ID",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "NC",
+      "ND",
+      "NE",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "RI",
+      "SC",
+      "SD",
+      "TN",
+      "TX",
+      "UT",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
     "generalAppearance": "herb",
     "lifespan": "perennial",
-    "heightFeet": { "min": 3, "max": 5 },
-    "spreadFeet": { "min": 2, "max": 3 },
-    "lightRequirement": ["sun"],
-    "soilMoisture": ["moist", "wet"],
-    "soilType": ["loam", "clay"],
-    "bloomMonths": [6, 7, 8],
-    "bloomColors": ["pink"],
+    "heightFeet": {
+      "min": 3,
+      "max": 5
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 3
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "pink"
+    ],
     "leafArrangement": "opposite",
     "leafRetention": "deciduous",
-    "wildlifeValue": ["pollinators", "monarch host"],
+    "wildlifeValue": [
+      "pollinators",
+      "monarch host"
+    ],
     "deerResistant": true,
-    "notes": "Monarch host. Loves wet feet but adapts to garden soil."
+    "notes": "Monarch host. Loves wet feet but adapts to garden soil.",
+    "usdaSymbol": "ASIN",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
   },
   {
     "id": "asclepias-syriaca",
     "scientificName": "Asclepias syriaca",
-    "commonNames": ["Common Milkweed"],
+    "commonNames": [
+      "Common Milkweed"
+    ],
     "family": "Apocynaceae",
-    "nativeStates": ["OH", "PA", "IN", "KY", "MI", "WV", "NY"],
+    "nativeStates": [
+      "AR",
+      "CT",
+      "DC",
+      "DE",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "NC",
+      "ND",
+      "NE",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "RI",
+      "SC",
+      "SD",
+      "TN",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
     "generalAppearance": "herb",
     "lifespan": "perennial",
-    "heightFeet": { "min": 3, "max": 5 },
-    "spreadFeet": { "min": 2, "max": 3 },
-    "lightRequirement": ["sun"],
-    "soilMoisture": ["dry", "moist"],
-    "soilType": ["loam", "sandy", "clay"],
-    "bloomMonths": [6, 7],
-    "bloomColors": ["pink", "purple"],
+    "heightFeet": {
+      "min": 3,
+      "max": 5
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 3
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "sandy",
+      "clay"
+    ],
+    "bloomMonths": [
+      6,
+      7
+    ],
+    "bloomColors": [
+      "pink",
+      "purple"
+    ],
     "leafArrangement": "opposite",
     "leafRetention": "deciduous",
-    "wildlifeValue": ["pollinators", "monarch host"],
+    "wildlifeValue": [
+      "pollinators",
+      "monarch host"
+    ],
     "deerResistant": true,
-    "notes": "Most familiar monarch host. Spreads aggressively by rhizomes."
+    "notes": "Most familiar monarch host. Spreads aggressively by rhizomes.",
+    "usdaSymbol": "ASSY",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": true
   },
   {
     "id": "eupatorium-perfoliatum",
     "scientificName": "Eupatorium perfoliatum",
-    "commonNames": ["Common Boneset"],
+    "commonNames": [
+      "Common Boneset"
+    ],
     "family": "Asteraceae",
-    "nativeStates": ["OH", "PA", "IN", "KY", "MI", "WV", "NY"],
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DE",
+      "FL",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "NE",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
     "generalAppearance": "herb",
     "lifespan": "perennial",
-    "heightFeet": { "min": 3, "max": 5 },
-    "spreadFeet": { "min": 2, "max": 3 },
-    "lightRequirement": ["sun", "part shade"],
-    "soilMoisture": ["moist", "wet"],
-    "soilType": ["loam", "clay"],
-    "bloomMonths": [7, 8, 9],
-    "bloomColors": ["white"],
+    "heightFeet": {
+      "min": 3,
+      "max": 5
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 3
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "white"
+    ],
     "leafArrangement": "opposite",
     "leafRetention": "deciduous",
-    "wildlifeValue": ["pollinators"],
+    "wildlifeValue": [
+      "pollinators"
+    ],
     "deerResistant": true,
-    "notes": "Pierced leaves; flat-topped white flowers; pollinator magnet."
+    "notes": "Pierced leaves; flat-topped white flowers; pollinator magnet.",
+    "usdaSymbol": "EUPE3",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
   },
   {
     "id": "allium-cernuum",
     "scientificName": "Allium cernuum",
-    "commonNames": ["Nodding Onion"],
+    "commonNames": [
+      "Nodding Onion"
+    ],
     "family": "Amaryllidaceae",
-    "nativeStates": ["OH", "PA", "IN", "KY", "MI", "WV", "NY"],
+    "nativeStates": [
+      "AL",
+      "AZ",
+      "CO",
+      "GA",
+      "IA",
+      "ID",
+      "IL",
+      "IN",
+      "KY",
+      "MD",
+      "MI",
+      "MN",
+      "MO",
+      "MT",
+      "NC",
+      "NE",
+      "NM",
+      "NY",
+      "OH",
+      "OR",
+      "PA",
+      "SD",
+      "TN",
+      "TX",
+      "UT",
+      "VA",
+      "WA",
+      "WI",
+      "WV",
+      "WY"
+    ],
     "generalAppearance": "herb",
     "lifespan": "perennial",
-    "heightFeet": { "min": 1, "max": 1.5 },
-    "spreadFeet": { "min": 0.5, "max": 1 },
-    "lightRequirement": ["sun", "part shade"],
-    "soilMoisture": ["dry", "moist"],
-    "soilType": ["loam", "rocky"],
-    "bloomMonths": [6, 7, 8],
-    "bloomColors": ["pink", "white"],
+    "heightFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "pink",
+      "white"
+    ],
     "leafArrangement": "alternate",
     "leafRetention": "deciduous",
-    "wildlifeValue": ["pollinators"],
+    "wildlifeValue": [
+      "pollinators"
+    ],
     "deerResistant": true,
-    "notes": "Drooping pink umbels on slender stems; edible."
+    "notes": "Drooping pink umbels on slender stems; edible.",
+    "usdaSymbol": "ALCE2",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": true
   },
   {
     "id": "pycnanthemum-virginianum",
     "scientificName": "Pycnanthemum virginianum",
-    "commonNames": ["Virginia Mountain Mint"],
+    "commonNames": [
+      "Virginia Mountain Mint"
+    ],
     "family": "Lamiaceae",
-    "nativeStates": ["OH", "PA", "IN", "KY", "MI", "WV", "NY"],
+    "nativeStates": [
+      "CT",
+      "IA",
+      "IL",
+      "IN",
+      "KY",
+      "MA",
+      "MD",
+      "MI",
+      "MN",
+      "MO",
+      "NE",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
     "generalAppearance": "herb",
     "lifespan": "perennial",
-    "heightFeet": { "min": 2, "max": 3 },
-    "spreadFeet": { "min": 1.5, "max": 2.5 },
-    "lightRequirement": ["sun", "part shade"],
-    "soilMoisture": ["moist"],
-    "soilType": ["loam", "clay"],
-    "bloomMonths": [7, 8, 9],
-    "bloomColors": ["white"],
+    "heightFeet": {
+      "min": 2,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1.5,
+      "max": 2.5
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "white"
+    ],
     "leafArrangement": "opposite",
     "leafRetention": "deciduous",
-    "wildlifeValue": ["pollinators"],
+    "wildlifeValue": [
+      "pollinators"
+    ],
     "deerResistant": true,
-    "notes": "Top-tier pollinator plant; minty fragrance when crushed."
+    "notes": "Top-tier pollinator plant; minty fragrance when crushed.",
+    "usdaSymbol": "PYVI",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": true
   },
   {
     "id": "veronicastrum-virginicum",
     "scientificName": "Veronicastrum virginicum",
-    "commonNames": ["Culver's Root"],
+    "commonNames": [
+      "Culver's Root"
+    ],
     "family": "Plantaginaceae",
-    "nativeStates": ["OH", "PA", "IN", "KY", "MI", "WV", "NY"],
+    "nativeStates": [
+      "AR",
+      "CT",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "MA",
+      "MD",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "TN",
+      "VA",
+      "WI",
+      "WV"
+    ],
     "generalAppearance": "herb",
     "lifespan": "perennial",
-    "heightFeet": { "min": 4, "max": 6 },
-    "spreadFeet": { "min": 2, "max": 3 },
-    "lightRequirement": ["sun", "part shade"],
-    "soilMoisture": ["moist"],
-    "soilType": ["loam", "clay"],
-    "bloomMonths": [6, 7, 8],
-    "bloomColors": ["white", "purple"],
+    "heightFeet": {
+      "min": 4,
+      "max": 6
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 3
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "white",
+      "purple"
+    ],
     "leafArrangement": "whorled",
     "leafRetention": "deciduous",
-    "wildlifeValue": ["pollinators"],
+    "wildlifeValue": [
+      "pollinators"
+    ],
     "deerResistant": true,
-    "notes": "Tall candelabra of slender flower spikes."
+    "notes": "Tall candelabra of slender flower spikes.",
+    "usdaSymbol": "VEVI4",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
   },
   {
     "id": "helenium-autumnale",
     "scientificName": "Helenium autumnale",
-    "commonNames": ["Common Sneezeweed"],
+    "commonNames": [
+      "Common Sneezeweed"
+    ],
     "family": "Asteraceae",
-    "nativeStates": ["OH", "PA", "IN", "KY", "MI", "WV", "NY"],
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CO",
+      "CT",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "IA",
+      "ID",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "MT",
+      "NC",
+      "NE",
+      "NJ",
+      "NM",
+      "NV",
+      "NY",
+      "OH",
+      "OR",
+      "PA",
+      "SC",
+      "TN",
+      "TX",
+      "UT",
+      "VA",
+      "WA",
+      "WI",
+      "WV",
+      "WY"
+    ],
     "generalAppearance": "herb",
     "lifespan": "perennial",
-    "heightFeet": { "min": 3, "max": 5 },
-    "spreadFeet": { "min": 1.5, "max": 2.5 },
-    "lightRequirement": ["sun"],
-    "soilMoisture": ["moist", "wet"],
-    "soilType": ["loam", "clay"],
-    "bloomMonths": [8, 9, 10],
-    "bloomColors": ["yellow", "orange"],
+    "heightFeet": {
+      "min": 3,
+      "max": 5
+    },
+    "spreadFeet": {
+      "min": 1.5,
+      "max": 2.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      8,
+      9,
+      10
+    ],
+    "bloomColors": [
+      "yellow",
+      "orange"
+    ],
     "leafArrangement": "alternate",
     "leafRetention": "deciduous",
-    "wildlifeValue": ["pollinators"],
+    "wildlifeValue": [
+      "pollinators"
+    ],
     "deerResistant": true,
-    "notes": "Misleading name — doesn't cause sneezing. Late-season color."
+    "notes": "Misleading name — doesn't cause sneezing. Late-season color.",
+    "usdaSymbol": "HEAU",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
   },
   {
     "id": "packera-aurea",
     "scientificName": "Packera aurea",
-    "commonNames": ["Golden Ragwort"],
+    "commonNames": [
+      "Golden Ragwort"
+    ],
     "family": "Asteraceae",
-    "nativeStates": ["OH", "PA", "IN", "KY", "MI", "WV", "NY"],
+    "nativeStates": [
+      "AR",
+      "CT",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "IL",
+      "IN",
+      "KY",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
     "generalAppearance": "herb",
     "lifespan": "perennial",
-    "heightFeet": { "min": 1, "max": 2.5 },
-    "spreadFeet": { "min": 1, "max": 2 },
-    "lightRequirement": ["part shade", "shade", "sun"],
-    "soilMoisture": ["moist", "wet"],
-    "soilType": ["loam", "clay"],
-    "bloomMonths": [4, 5, 6],
-    "bloomColors": ["yellow"],
+    "heightFeet": {
+      "min": 1,
+      "max": 2.5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade",
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
     "leafArrangement": "alternate",
     "leafRetention": "semi-evergreen",
-    "wildlifeValue": ["pollinators"],
+    "wildlifeValue": [
+      "pollinators"
+    ],
     "deerResistant": true,
-    "notes": "Evergreen rosette spreads to form a deer-resistant groundcover."
+    "notes": "Evergreen rosette spreads to form a deer-resistant groundcover.",
+    "usdaSymbol": "PAAU3",
+    "nativeRegions": [
+      "CAN",
+      "L48",
+      "SPM"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false
   },
   {
     "id": "podophyllum-peltatum",
     "scientificName": "Podophyllum peltatum",
-    "commonNames": ["Mayapple"],
+    "commonNames": [
+      "Mayapple"
+    ],
     "family": "Berberidaceae",
-    "nativeStates": ["OH", "PA", "IN", "KY", "MI", "WV", "NY"],
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "NE",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
     "generalAppearance": "herb",
     "lifespan": "perennial",
-    "heightFeet": { "min": 1, "max": 1.5 },
-    "spreadFeet": { "min": 1, "max": 2 },
-    "lightRequirement": ["part shade", "shade"],
-    "soilMoisture": ["moist"],
-    "soilType": ["loam"],
-    "bloomMonths": [4, 5],
-    "bloomColors": ["white"],
+    "heightFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "white"
+    ],
     "leafArrangement": "alternate",
     "leafRetention": "deciduous",
-    "wildlifeValue": ["pollinators"],
+    "wildlifeValue": [
+      "pollinators"
+    ],
     "deerResistant": true,
-    "notes": "Umbrella-like colonies in spring. All parts toxic except ripe fruit."
+    "notes": "Umbrella-like colonies in spring. All parts toxic except ripe fruit.",
+    "usdaSymbol": "POPE",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true
   },
   {
     "id": "maianthemum-racemosum",
     "scientificName": "Maianthemum racemosum",
-    "commonNames": ["False Solomon's Seal", "Feathery False Lily of the Valley"],
+    "commonNames": [
+      "False Solomon's Seal",
+      "Feathery False Lily of the Valley"
+    ],
     "family": "Asparagaceae",
-    "nativeStates": ["OH", "PA", "IN", "KY", "MI", "WV", "NY"],
+    "nativeStates": [
+      "AL",
+      "AR",
+      "AZ",
+      "CA",
+      "CO",
+      "CT",
+      "DC",
+      "DE",
+      "GA",
+      "IA",
+      "ID",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "MT",
+      "NC",
+      "NH",
+      "NJ",
+      "NM",
+      "NV",
+      "NY",
+      "OH",
+      "OK",
+      "OR",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "UT",
+      "VA",
+      "VT",
+      "WA",
+      "WI",
+      "WV",
+      "WY"
+    ],
     "generalAppearance": "herb",
     "lifespan": "perennial",
-    "heightFeet": { "min": 2, "max": 3 },
-    "spreadFeet": { "min": 1, "max": 2 },
-    "lightRequirement": ["part shade", "shade"],
-    "soilMoisture": ["moist"],
-    "soilType": ["loam"],
-    "bloomMonths": [5, 6],
-    "bloomColors": ["white"],
+    "heightFeet": {
+      "min": 2,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "white"
+    ],
     "leafArrangement": "alternate",
     "leafRetention": "deciduous",
-    "wildlifeValue": ["songbirds", "pollinators"],
+    "wildlifeValue": [
+      "songbirds",
+      "pollinators"
+    ],
     "deerResistant": true,
-    "notes": "Plumes of tiny flowers at branch tips; red berries in fall."
+    "notes": "Plumes of tiny flowers at branch tips; red berries in fall.",
+    "usdaSymbol": "MARA7",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": true
   },
   {
     "id": "actaea-racemosa",
     "scientificName": "Actaea racemosa",
-    "commonNames": ["Black Cohosh", "Black Bugbane"],
+    "commonNames": [
+      "Black Cohosh",
+      "Black Bugbane"
+    ],
     "family": "Ranunculaceae",
-    "nativeStates": ["OH", "PA", "IN", "KY", "WV", "NY"],
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DE",
+      "GA",
+      "IL",
+      "IN",
+      "KY",
+      "MA",
+      "MD",
+      "MN",
+      "MO",
+      "NC",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "SC",
+      "TN",
+      "VA",
+      "WI",
+      "WV"
+    ],
     "generalAppearance": "herb",
     "lifespan": "perennial",
-    "heightFeet": { "min": 4, "max": 7 },
-    "spreadFeet": { "min": 2, "max": 4 },
-    "lightRequirement": ["part shade", "shade"],
-    "soilMoisture": ["moist"],
-    "soilType": ["loam"],
-    "bloomMonths": [6, 7, 8],
-    "bloomColors": ["white"],
+    "heightFeet": {
+      "min": 4,
+      "max": 7
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "white"
+    ],
     "leafArrangement": "alternate",
     "leafRetention": "deciduous",
-    "wildlifeValue": ["pollinators"],
+    "wildlifeValue": [
+      "pollinators"
+    ],
     "deerResistant": true,
-    "notes": "Tall slender spires of white above dark foliage."
+    "notes": "Tall slender spires of white above dark foliage.",
+    "usdaSymbol": "ACRA7",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
   },
   {
     "id": "anemone-canadensis",
     "scientificName": "Anemone canadensis",
-    "commonNames": ["Canada Anemone"],
+    "commonNames": [
+      "Canada Anemone"
+    ],
     "family": "Ranunculaceae",
-    "nativeStates": ["OH", "PA", "IN", "MI", "WV", "NY"],
+    "nativeStates": [
+      "CO",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "ND",
+      "NE",
+      "NM",
+      "NY",
+      "OH",
+      "PA",
+      "SD",
+      "VT",
+      "WI",
+      "WV"
+    ],
     "generalAppearance": "herb",
     "lifespan": "perennial",
-    "heightFeet": { "min": 1, "max": 2 },
-    "spreadFeet": { "min": 1, "max": 2 },
-    "lightRequirement": ["sun", "part shade"],
-    "soilMoisture": ["moist", "wet"],
-    "soilType": ["loam", "clay"],
-    "bloomMonths": [5, 6, 7],
-    "bloomColors": ["white"],
+    "heightFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "white"
+    ],
     "leafArrangement": "whorled",
     "leafRetention": "deciduous",
-    "wildlifeValue": ["pollinators"],
+    "wildlifeValue": [
+      "pollinators"
+    ],
     "deerResistant": true,
-    "notes": "Spreads aggressively — best in naturalized areas or rain gardens."
+    "notes": "Spreads aggressively — best in naturalized areas or rain gardens.",
+    "usdaSymbol": "ANCA8",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
   },
   {
     "id": "cephalanthus-occidentalis",
     "scientificName": "Cephalanthus occidentalis",
-    "commonNames": ["Buttonbush"],
+    "commonNames": [
+      "Buttonbush"
+    ],
     "family": "Rubiaceae",
-    "nativeStates": ["OH", "PA", "IN", "KY", "MI", "WV", "NY"],
+    "nativeStates": [
+      "AL",
+      "AR",
+      "AZ",
+      "CA",
+      "CT",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "NE",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
     "generalAppearance": "shrub",
     "lifespan": "perennial",
-    "heightFeet": { "min": 5, "max": 12 },
-    "spreadFeet": { "min": 4, "max": 8 },
-    "lightRequirement": ["sun", "part shade"],
-    "soilMoisture": ["moist", "wet"],
-    "soilType": ["loam", "clay"],
-    "bloomMonths": [6, 7, 8],
-    "bloomColors": ["white"],
+    "heightFeet": {
+      "min": 5,
+      "max": 12
+    },
+    "spreadFeet": {
+      "min": 4,
+      "max": 8
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "white"
+    ],
     "leafArrangement": "opposite",
     "leafRetention": "deciduous",
-    "wildlifeValue": ["pollinators", "songbirds"],
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds"
+    ],
     "deerResistant": true,
-    "notes": "Spherical pincushion flowers; thrives at pond edges."
+    "notes": "Spherical pincushion flowers; thrives at pond edges.",
+    "usdaSymbol": "CEOC2",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
   },
   {
     "id": "sambucus-canadensis",
     "scientificName": "Sambucus canadensis",
-    "commonNames": ["American Elderberry"],
+    "commonNames": [
+      "American Elderberry"
+    ],
     "family": "Adoxaceae",
-    "nativeStates": ["OH", "PA", "IN", "KY", "MI", "WV", "NY"],
+    "nativeStates": [
+      "AL",
+      "AR",
+      "AZ",
+      "CA",
+      "CT",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "HI",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "NE",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "RI",
+      "SC",
+      "SD",
+      "TN",
+      "TX",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
     "generalAppearance": "shrub",
     "lifespan": "perennial",
-    "heightFeet": { "min": 5, "max": 12 },
-    "spreadFeet": { "min": 5, "max": 12 },
-    "lightRequirement": ["sun", "part shade"],
-    "soilMoisture": ["moist", "wet"],
-    "soilType": ["loam", "clay"],
-    "bloomMonths": [6, 7],
-    "bloomColors": ["white"],
+    "heightFeet": {
+      "min": 5,
+      "max": 12
+    },
+    "spreadFeet": {
+      "min": 5,
+      "max": 12
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      6,
+      7
+    ],
+    "bloomColors": [
+      "white"
+    ],
     "leafArrangement": "opposite",
     "leafRetention": "deciduous",
-    "wildlifeValue": ["pollinators", "songbirds"],
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds"
+    ],
     "deerResistant": false,
-    "notes": "Edible cooked berries used for syrup and wine."
+    "notes": "Edible cooked berries used for syrup and wine.",
+    "usdaSymbol": "SACA12",
+    "nativeRegions": [
+      "CAN",
+      "L48",
+      "PR"
+    ],
+    "cutFlower": true,
+    "culinaryUse": true
   },
   {
     "id": "aronia-melanocarpa",
     "scientificName": "Aronia melanocarpa",
-    "commonNames": ["Black Chokeberry"],
+    "commonNames": [
+      "Black Chokeberry"
+    ],
     "family": "Rosaceae",
-    "nativeStates": ["OH", "PA", "IN", "KY", "MI", "WV", "NY"],
+    "nativeStates": [
+      "CT",
+      "GA",
+      "IL",
+      "IN",
+      "KY",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "RI",
+      "TN",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
     "generalAppearance": "shrub",
     "lifespan": "perennial",
-    "heightFeet": { "min": 3, "max": 6 },
-    "spreadFeet": { "min": 3, "max": 6 },
-    "lightRequirement": ["sun", "part shade"],
-    "soilMoisture": ["moist", "wet"],
-    "soilType": ["loam", "clay"],
-    "bloomMonths": [4, 5],
-    "bloomColors": ["white"],
+    "heightFeet": {
+      "min": 3,
+      "max": 6
+    },
+    "spreadFeet": {
+      "min": 3,
+      "max": 6
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "white"
+    ],
     "leafArrangement": "alternate",
     "leafRetention": "deciduous",
-    "wildlifeValue": ["pollinators", "songbirds"],
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds"
+    ],
     "deerResistant": true,
-    "notes": "Glossy black berries packed with antioxidants; brilliant fall color."
+    "notes": "Glossy black berries packed with antioxidants; brilliant fall color.",
+    "usdaSymbol": "ARME6",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": true
   },
   {
     "id": "ilex-verticillata",
     "scientificName": "Ilex verticillata",
-    "commonNames": ["Winterberry Holly"],
+    "commonNames": [
+      "Winterberry Holly"
+    ],
     "family": "Aquifoliaceae",
-    "nativeStates": ["OH", "PA", "IN", "KY", "MI", "WV", "NY"],
+    "nativeStates": [
+      "AL",
+      "CT",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "IL",
+      "IN",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
     "generalAppearance": "shrub",
     "lifespan": "perennial",
-    "heightFeet": { "min": 6, "max": 15 },
-    "spreadFeet": { "min": 6, "max": 12 },
-    "lightRequirement": ["sun", "part shade"],
-    "soilMoisture": ["moist", "wet"],
-    "soilType": ["loam", "clay"],
-    "bloomMonths": [5, 6, 7],
-    "bloomColors": ["white", "green"],
+    "heightFeet": {
+      "min": 6,
+      "max": 15
+    },
+    "spreadFeet": {
+      "min": 6,
+      "max": 12
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "white",
+      "green"
+    ],
     "leafArrangement": "alternate",
     "leafRetention": "deciduous",
-    "wildlifeValue": ["pollinators", "songbirds"],
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds"
+    ],
     "deerResistant": false,
-    "notes": "Dioecious; need male nearby for berries. Brilliant red winter fruit."
+    "notes": "Dioecious; need male nearby for berries. Brilliant red winter fruit.",
+    "usdaSymbol": "ILVE",
+    "nativeRegions": [
+      "CAN",
+      "L48",
+      "SPM"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false
   },
   {
     "id": "physocarpus-opulifolius",
     "scientificName": "Physocarpus opulifolius",
-    "commonNames": ["Common Ninebark"],
+    "commonNames": [
+      "Common Ninebark"
+    ],
     "family": "Rosaceae",
-    "nativeStates": ["OH", "PA", "IN", "KY", "MI", "WV", "NY"],
+    "nativeStates": [
+      "IN",
+      "KY",
+      "MI",
+      "NY",
+      "OH",
+      "PA",
+      "WV"
+    ],
     "generalAppearance": "shrub",
     "lifespan": "perennial",
-    "heightFeet": { "min": 5, "max": 10 },
-    "spreadFeet": { "min": 6, "max": 10 },
-    "lightRequirement": ["sun", "part shade"],
-    "soilMoisture": ["dry", "moist"],
-    "soilType": ["loam", "clay", "rocky"],
-    "bloomMonths": [5, 6],
-    "bloomColors": ["white", "pink"],
+    "heightFeet": {
+      "min": 5,
+      "max": 10
+    },
+    "spreadFeet": {
+      "min": 6,
+      "max": 10
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "clay",
+      "rocky"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "white",
+      "pink"
+    ],
     "leafArrangement": "alternate",
     "leafRetention": "deciduous",
-    "wildlifeValue": ["pollinators", "songbirds"],
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds"
+    ],
     "deerResistant": true,
-    "notes": "Peeling bark gives the name; tough and adaptable."
+    "notes": "Peeling bark gives the name; tough and adaptable.",
+    "usdaSymbol": "PHOP",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false
   },
   {
     "id": "rhus-aromatica",
     "scientificName": "Rhus aromatica",
-    "commonNames": ["Fragrant Sumac"],
+    "commonNames": [
+      "Fragrant Sumac"
+    ],
     "family": "Anacardiaceae",
-    "nativeStates": ["OH", "PA", "IN", "KY", "MI", "WV", "NY"],
+    "nativeStates": [
+      "IN",
+      "KY",
+      "MI",
+      "NY",
+      "OH",
+      "PA",
+      "WV"
+    ],
     "generalAppearance": "shrub",
     "lifespan": "perennial",
-    "heightFeet": { "min": 2, "max": 6 },
-    "spreadFeet": { "min": 6, "max": 10 },
-    "lightRequirement": ["sun", "part shade"],
-    "soilMoisture": ["dry", "moist"],
-    "soilType": ["loam", "sandy", "rocky"],
-    "bloomMonths": [3, 4],
-    "bloomColors": ["yellow"],
+    "heightFeet": {
+      "min": 2,
+      "max": 6
+    },
+    "spreadFeet": {
+      "min": 6,
+      "max": 10
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
     "leafArrangement": "alternate",
     "leafRetention": "deciduous",
-    "wildlifeValue": ["pollinators", "songbirds"],
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds"
+    ],
     "deerResistant": true,
-    "notes": "Excellent erosion-controlling shrub; striking red fall color."
+    "notes": "Excellent erosion-controlling shrub; striking red fall color.",
+    "usdaSymbol": "RHAR4",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true
   },
   {
     "id": "liriodendron-tulipifera",
     "scientificName": "Liriodendron tulipifera",
-    "commonNames": ["Tulip Poplar", "Yellow Poplar", "Tuliptree"],
+    "commonNames": [
+      "Tulip Poplar",
+      "Yellow Poplar",
+      "Tuliptree"
+    ],
     "family": "Magnoliaceae",
-    "nativeStates": ["OH", "PA", "IN", "KY", "MI", "WV", "NY"],
+    "nativeStates": [
+      "IN",
+      "KY",
+      "MI",
+      "NY",
+      "OH",
+      "PA",
+      "WV"
+    ],
     "generalAppearance": "tree",
     "lifespan": "perennial",
-    "heightFeet": { "min": 70, "max": 100 },
-    "spreadFeet": { "min": 30, "max": 50 },
-    "lightRequirement": ["sun"],
-    "soilMoisture": ["moist"],
-    "soilType": ["loam"],
-    "bloomMonths": [5, 6],
-    "bloomColors": ["yellow", "orange", "green"],
+    "heightFeet": {
+      "min": 70,
+      "max": 100
+    },
+    "spreadFeet": {
+      "min": 30,
+      "max": 50
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "yellow",
+      "orange",
+      "green"
+    ],
     "leafArrangement": "alternate",
     "leafRetention": "deciduous",
-    "wildlifeValue": ["pollinators", "host plant"],
+    "wildlifeValue": [
+      "pollinators",
+      "host plant"
+    ],
     "deerResistant": false,
-    "notes": "Tallest eastern hardwood. Tulip-shaped greenish-yellow flowers."
+    "notes": "Tallest eastern hardwood. Tulip-shaped greenish-yellow flowers.",
+    "usdaSymbol": "LITU",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false
   },
   {
     "id": "nyssa-sylvatica",
     "scientificName": "Nyssa sylvatica",
-    "commonNames": ["Black Gum", "Black Tupelo"],
+    "commonNames": [
+      "Black Gum",
+      "Black Tupelo"
+    ],
     "family": "Nyssaceae",
-    "nativeStates": ["OH", "PA", "IN", "KY", "MI", "WV", "NY"],
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "IL",
+      "IN",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MO",
+      "MS",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "VT",
+      "WV"
+    ],
     "generalAppearance": "tree",
     "lifespan": "perennial",
-    "heightFeet": { "min": 30, "max": 75 },
-    "spreadFeet": { "min": 20, "max": 35 },
-    "lightRequirement": ["sun", "part shade"],
-    "soilMoisture": ["moist", "wet"],
-    "soilType": ["loam", "clay"],
-    "bloomMonths": [5, 6],
-    "bloomColors": ["green"],
+    "heightFeet": {
+      "min": 30,
+      "max": 75
+    },
+    "spreadFeet": {
+      "min": 20,
+      "max": 35
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "green"
+    ],
     "leafArrangement": "alternate",
     "leafRetention": "deciduous",
-    "wildlifeValue": ["pollinators", "songbirds"],
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds"
+    ],
     "deerResistant": false,
-    "notes": "Best-in-class scarlet fall color. Key nectar source for honey."
+    "notes": "Best-in-class scarlet fall color. Key nectar source for honey.",
+    "usdaSymbol": "NYSY",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false
   },
   {
     "id": "betula-nigra",
     "scientificName": "Betula nigra",
-    "commonNames": ["River Birch"],
+    "commonNames": [
+      "River Birch"
+    ],
     "family": "Betulaceae",
-    "nativeStates": ["OH", "PA", "IN", "KY", "WV"],
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "WI",
+      "WV"
+    ],
     "generalAppearance": "tree",
     "lifespan": "perennial",
-    "heightFeet": { "min": 40, "max": 70 },
-    "spreadFeet": { "min": 25, "max": 50 },
-    "lightRequirement": ["sun", "part shade"],
-    "soilMoisture": ["moist", "wet"],
-    "soilType": ["loam", "clay"],
-    "bloomMonths": [4, 5],
-    "bloomColors": ["brown", "green"],
+    "heightFeet": {
+      "min": 40,
+      "max": 70
+    },
+    "spreadFeet": {
+      "min": 25,
+      "max": 50
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "brown",
+      "green"
+    ],
     "leafArrangement": "alternate",
     "leafRetention": "deciduous",
-    "wildlifeValue": ["host plant", "songbirds"],
+    "wildlifeValue": [
+      "host plant",
+      "songbirds"
+    ],
     "deerResistant": false,
-    "notes": "Exfoliating salmon-cream bark. Tolerates wet sites; resists bronze birch borer."
+    "notes": "Exfoliating salmon-cream bark. Tolerates wet sites; resists bronze birch borer.",
+    "usdaSymbol": "BENI",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false
   },
   {
     "id": "platanus-occidentalis",
     "scientificName": "Platanus occidentalis",
-    "commonNames": ["American Sycamore"],
+    "commonNames": [
+      "American Sycamore"
+    ],
     "family": "Platanaceae",
-    "nativeStates": ["OH", "PA", "IN", "KY", "MI", "WV", "NY"],
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CA",
+      "CT",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "MI",
+      "MO",
+      "MS",
+      "NC",
+      "NE",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "VT",
+      "WA",
+      "WI",
+      "WV"
+    ],
     "generalAppearance": "tree",
     "lifespan": "perennial",
-    "heightFeet": { "min": 75, "max": 100 },
-    "spreadFeet": { "min": 60, "max": 80 },
-    "lightRequirement": ["sun"],
-    "soilMoisture": ["moist", "wet"],
-    "soilType": ["loam", "clay"],
-    "bloomMonths": [4, 5],
-    "bloomColors": ["red", "green"],
+    "heightFeet": {
+      "min": 75,
+      "max": 100
+    },
+    "spreadFeet": {
+      "min": 60,
+      "max": 80
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "red",
+      "green"
+    ],
     "leafArrangement": "alternate",
     "leafRetention": "deciduous",
-    "wildlifeValue": ["songbirds", "host plant"],
+    "wildlifeValue": [
+      "songbirds",
+      "host plant"
+    ],
     "deerResistant": false,
-    "notes": "Massive shade tree with white mottled bark; floodplain native."
+    "notes": "Massive shade tree with white mottled bark; floodplain native.",
+    "usdaSymbol": "PLOC",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false
   },
   {
     "id": "asimina-triloba",
     "scientificName": "Asimina triloba",
-    "commonNames": ["Pawpaw"],
+    "commonNames": [
+      "Pawpaw"
+    ],
     "family": "Annonaceae",
-    "nativeStates": ["OH", "PA", "IN", "KY", "MI", "WV", "NY"],
+    "nativeStates": [
+      "AL",
+      "AR",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "MI",
+      "MO",
+      "MS",
+      "NC",
+      "NE",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "WV"
+    ],
     "generalAppearance": "tree",
     "lifespan": "perennial",
-    "heightFeet": { "min": 15, "max": 30 },
-    "spreadFeet": { "min": 15, "max": 25 },
-    "lightRequirement": ["part shade", "shade", "sun"],
-    "soilMoisture": ["moist"],
-    "soilType": ["loam"],
-    "bloomMonths": [4, 5],
-    "bloomColors": ["purple", "brown"],
+    "heightFeet": {
+      "min": 15,
+      "max": 30
+    },
+    "spreadFeet": {
+      "min": 15,
+      "max": 25
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade",
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "purple",
+      "brown"
+    ],
     "leafArrangement": "alternate",
     "leafRetention": "deciduous",
-    "wildlifeValue": ["host plant", "mammals"],
+    "wildlifeValue": [
+      "host plant",
+      "mammals"
+    ],
     "deerResistant": true,
-    "notes": "Largest edible fruit native to North America. Host for zebra swallowtail."
+    "notes": "Largest edible fruit native to North America. Host for zebra swallowtail.",
+    "usdaSymbol": "ASTR",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true
   },
   {
     "id": "sassafras-albidum",
     "scientificName": "Sassafras albidum",
-    "commonNames": ["Sassafras"],
+    "commonNames": [
+      "Sassafras"
+    ],
     "family": "Lauraceae",
-    "nativeStates": ["OH", "PA", "IN", "KY", "MI", "WV", "NY"],
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MO",
+      "MS",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "VT",
+      "WV"
+    ],
     "generalAppearance": "tree",
     "lifespan": "perennial",
-    "heightFeet": { "min": 30, "max": 60 },
-    "spreadFeet": { "min": 25, "max": 40 },
-    "lightRequirement": ["sun", "part shade"],
-    "soilMoisture": ["dry", "moist"],
-    "soilType": ["loam", "sandy"],
-    "bloomMonths": [4, 5],
-    "bloomColors": ["yellow", "green"],
+    "heightFeet": {
+      "min": 30,
+      "max": 60
+    },
+    "spreadFeet": {
+      "min": 25,
+      "max": 40
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "sandy"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "yellow",
+      "green"
+    ],
     "leafArrangement": "alternate",
     "leafRetention": "deciduous",
-    "wildlifeValue": ["pollinators", "songbirds", "host plant"],
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "host plant"
+    ],
     "deerResistant": true,
-    "notes": "Mitten-shaped leaves; spectacular orange-red fall color. Host for spicebush swallowtail."
+    "notes": "Mitten-shaped leaves; spectacular orange-red fall color. Host for spicebush swallowtail.",
+    "usdaSymbol": "SAAL5",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true
   }
 ]

@@ -62,6 +62,9 @@ export function usePlantFilters() {
     return Number.isFinite(v) && v > 0 ? v : null
   })
   const deerOnly = computed(() => route.query.deer === '1')
+  const cutFlowerOnly = computed(() => route.query.cut === '1')
+  const culinaryOnly = computed(() => route.query.edible === '1')
+  const sortBy = computed(() => String(route.query.sort || 'common'))
 
   const selected = computed(() => {
     const out = {}
@@ -99,6 +102,15 @@ export function usePlantFilters() {
   function setDeerOnly(val) {
     setQuery({ deer: val ? '1' : undefined })
   }
+  function setCutFlowerOnly(val) {
+    setQuery({ cut: val ? '1' : undefined })
+  }
+  function setCulinaryOnly(val) {
+    setQuery({ edible: val ? '1' : undefined })
+  }
+  function setSortBy(val) {
+    setQuery({ sort: val && val !== 'common' ? val : undefined })
+  }
   function clearAll() {
     router.replace({ query: {} })
   }
@@ -135,8 +147,34 @@ export function usePlantFilters() {
         if (plantMax < hMin) return false
       }
       if (deer && !p.deerResistant) return false
+      if (cutFlowerOnly.value && !p.cutFlower) return false
+      if (culinaryOnly.value && !p.culinaryUse) return false
       return true
     })
+  })
+
+  const sortedPlants = computed(() => {
+    const list = [...filteredPlants.value]
+    const firstBloom = (p) => (p.bloomMonths?.length ? Math.min(...p.bloomMonths) : 99)
+    const cmpStr = (a, b) => String(a).localeCompare(String(b))
+    switch (sortBy.value) {
+      case 'scientific':
+        list.sort((a, b) => cmpStr(a.scientificName, b.scientificName))
+        break
+      case 'heightAsc':
+        list.sort((a, b) => (a.heightFeet?.min ?? 0) - (b.heightFeet?.min ?? 0))
+        break
+      case 'heightDesc':
+        list.sort((a, b) => (b.heightFeet?.max ?? 0) - (a.heightFeet?.max ?? 0))
+        break
+      case 'bloomStart':
+        list.sort((a, b) => firstBloom(a) - firstBloom(b))
+        break
+      case 'common':
+      default:
+        list.sort((a, b) => cmpStr(a.commonNames?.[0] || '', b.commonNames?.[0] || ''))
+    }
+    return list
   })
 
   const activeFilterCount = computed(() => {
@@ -146,6 +184,8 @@ export function usePlantFilters() {
     if (heightMax.value != null) n++
     if (heightMin.value != null) n++
     if (deerOnly.value) n++
+    if (cutFlowerOnly.value) n++
+    if (culinaryOnly.value) n++
     return n
   })
 
@@ -155,13 +195,20 @@ export function usePlantFilters() {
     heightMax,
     heightMin,
     deerOnly,
+    cutFlowerOnly,
+    culinaryOnly,
+    sortBy,
     filteredPlants,
+    sortedPlants,
     activeFilterCount,
     setSearch,
     toggleFilter,
     setHeightMax,
     setHeightMin,
     setDeerOnly,
+    setCutFlowerOnly,
+    setCulinaryOnly,
+    setSortBy,
     clearAll,
   }
 }
