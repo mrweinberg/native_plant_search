@@ -1,6 +1,6 @@
 <script setup>
 import { computed } from 'vue'
-import { useRoute, RouterLink } from 'vue-router'
+import { useRoute, useRouter, RouterLink } from 'vue-router'
 import { allPlants, MONTH_LABELS } from '../composables/usePlantFilters.js'
 import { usePlantImage } from '../composables/usePlantImage.js'
 import { useInatGallery } from '../composables/useInatGallery.js'
@@ -8,7 +8,13 @@ import FavoriteButton from '../components/FavoriteButton.vue'
 import PlantCard from '../components/PlantCard.vue'
 
 const route = useRoute()
+const router = useRouter()
 const plant = computed(() => allPlants.find((p) => p.id === route.params.id))
+
+function goBack() {
+  if (window.history.state?.back) router.back()
+  else router.push({ name: 'list', query: backQuery.value })
+}
 
 function overlap(a, b) {
   if (!a?.length || !b?.length) return 0
@@ -78,7 +84,7 @@ function fmtRange(r, unit) {
 
 <template>
   <div v-if="plant" class="detail">
-    <RouterLink :to="{ name: 'list', query: backQuery }" class="back">← Back to results</RouterLink>
+    <a href="#" class="back" @click.prevent="goBack">← Back to results</a>
     <div class="header">
       <div class="image-wrap">
         <img v-if="imageSrc" :src="imageSrc" :alt="plant.commonNames[0]" />

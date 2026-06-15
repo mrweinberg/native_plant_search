@@ -10,7 +10,8 @@ export default createRouter({
     { path: '/favorites', name: 'favorites', component: FavoritesView },
     { path: '/plant/:id', name: 'detail', component: PlantDetailView, props: true },
   ],
-  scrollBehavior() {
+  scrollBehavior(to, from, savedPosition) {
+    if (savedPosition) return savedPosition
     return { top: 0 }
   },
 })
