@@ -4,9 +4,37 @@ import { useRoute, RouterLink } from 'vue-router'
 import { allPlants, MONTH_LABELS } from '../composables/usePlantFilters.js'
 import { usePlantImage } from '../composables/usePlantImage.js'
 import FavoriteButton from '../components/FavoriteButton.vue'
+import PlantCard from '../components/PlantCard.vue'
 
 const route = useRoute()
 const plant = computed(() => allPlants.find((p) => p.id === route.params.id))
+
+function overlap(a, b) {
+  if (!a?.length || !b?.length) return 0
+  const set = new Set(a)
+  let n = 0
+  for (const v of b) if (set.has(v)) n++
+  return n
+}
+
+const companions = computed(() => {
+  const target = plant.value
+  if (!target) return []
+  const scored = []
+  for (const p of allPlants) {
+    if (p.id === target.id) continue
+    const score =
+      3 * overlap(p.lightRequirement, target.lightRequirement) +
+      2 * overlap(p.soilMoisture, target.soilMoisture) +
+      1 * overlap(p.soilType, target.soilType)
+    if (score > 0) scored.push({ plant: p, score })
+  }
+  scored.sort((a, b) => {
+    if (b.score !== a.score) return b.score - a.score
+    return a.plant.commonNames[0].localeCompare(b.plant.commonNames[0])
+  })
+  return scored.slice(0, 6).map((s) => s.plant)
+})
 const sciName = computed(() => plant.value?.scientificName || '')
 const { src: imageSrc } = usePlantImage(sciName)
 const wikiUrl = computed(() =>
@@ -127,6 +155,14 @@ function fmtRange(r, unit) {
         <div><dt>Edible / culinary</dt><dd>{{ plant.culinaryUse ? 'Yes' : 'No' }}</dd></div>
       </dl>
     </section>
+
+    <section class="group companions" v-if="companions.length">
+      <h2>Companion plants</h2>
+      <div class="companions-sub">Thrives in similar conditions</div>
+      <div class="companions-row">
+        <PlantCard v-for="c in companions" :key="c.id" :plant="c" />
+      </div>
+    </section>
   </div>
   <div v-else class="detail">
     <RouterLink to="/" class="back">← Back to results</RouterLink>
@@ -218,4 +254,28 @@ dd { margin: 2px 0 0; font-size: 14px; }
 .trait-cut { color: #8a4a8a; border-color: #d4b3d4; background: #f4e8f4; }
 .trait-edible { color: #8a5a2a; border-color: #d9c2a3; background: #f6ecdc; }
 .trait-deer { color: #4a6a4a; border-color: #b3d4b3; background: #e8f4e8; }
+.companions-sub {
+  font-size: 13px;
+  color: var(--ink-soft);
+  margin: -4px 0 12px;
+}
+.companions-row {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 14px;
+}
+@media (max-width: 800px) {
+  .companions-row {
+    display: flex;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    gap: 12px;
+    padding-bottom: 8px;
+    -webkit-overflow-scrolling: touch;
+  }
+  .companions-row > * {
+    flex: 0 0 70%;
+    scroll-snap-align: start;
+  }
+}
 </style>
