@@ -3,6 +3,7 @@ import { computed } from 'vue'
 import { useRoute, RouterLink } from 'vue-router'
 import { allPlants, MONTH_LABELS } from '../composables/usePlantFilters.js'
 import { usePlantImage } from '../composables/usePlantImage.js'
+import FavoriteButton from '../components/FavoriteButton.vue'
 
 const route = useRoute()
 const plant = computed(() => allPlants.find((p) => p.id === route.params.id))
@@ -43,11 +44,17 @@ function fmtRange(r, unit) {
         <div v-else class="placeholder" aria-hidden="true">❧</div>
       </div>
       <div>
-        <h1>{{ plant.commonNames[0] }}</h1>
+        <div class="title-row">
+          <h1>{{ plant.commonNames[0] }}</h1>
+          <FavoriteButton :plant-id="plant.id" size="md" />
+        </div>
         <div class="sci">{{ plant.scientificName }}</div>
         <div class="alt-names" v-if="plant.commonNames.length > 1">
           Also known as: {{ plant.commonNames.slice(1).join(', ') }}
         </div>
+        <p class="wiki-link" v-if="wikiUrl">
+          <a :href="wikiUrl" target="_blank" rel="noopener">Read more on Wikipedia ↗</a>
+        </p>
       </div>
     </div>
     <p class="notes" v-if="plant.notes">{{ plant.notes }}</p>
@@ -120,9 +127,6 @@ function fmtRange(r, unit) {
         <div><dt>Edible / culinary</dt><dd>{{ plant.culinaryUse ? 'Yes' : 'No' }}</dd></div>
       </dl>
     </section>
-    <p class="wiki-link" v-if="wikiUrl">
-      <a :href="wikiUrl" target="_blank" rel="noopener">Read more on Wikipedia ↗</a>
-    </p>
   </div>
   <div v-else class="detail">
     <RouterLink to="/" class="back">← Back to results</RouterLink>
@@ -166,8 +170,9 @@ function fmtRange(r, unit) {
   color: var(--accent);
   font-size: 64px;
 }
-.wiki-link { margin-top: 20px; font-size: 14px; }
+.wiki-link { margin: 8px 0 0; font-size: 13px; }
 h1 { margin: 0 0 4px; font-size: 26px; }
+.title-row { display: flex; align-items: center; gap: 12px; }
 .sci { font-style: italic; color: var(--ink-soft); }
 .alt-names { margin-top: 6px; font-size: 13px; color: var(--ink-soft); }
 .notes {

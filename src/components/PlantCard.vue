@@ -2,6 +2,7 @@
 import { toRef } from 'vue'
 import { RouterLink, useRoute } from 'vue-router'
 import { usePlantImage } from '../composables/usePlantImage.js'
+import FavoriteButton from './FavoriteButton.vue'
 const props = defineProps({ plant: { type: Object, required: true } })
 const route = useRoute()
 const sciName = toRef(() => props.plant.scientificName)
@@ -29,6 +30,7 @@ const colorMap = {
       <div v-else class="placeholder" aria-hidden="true">
         <span>❧</span>
       </div>
+      <FavoriteButton :plant-id="plant.id" class="fav-overlay" />
     </div>
     <div class="body">
       <div class="names">
@@ -77,6 +79,13 @@ const colorMap = {
   height: 160px;
   background: var(--accent-soft);
   overflow: hidden;
+  position: relative;
+}
+.fav-overlay {
+  position: absolute;
+  top: 8px;
+  right: 8px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.15);
 }
 .image-wrap img {
   width: 100%;
