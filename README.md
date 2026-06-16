@@ -1,6 +1,6 @@
-# Native Plant Search
+# Bedfellow
 
-A browser-based catalog and filter for Ohio native plants. Built to help home gardeners and habitat planters narrow ~291 species down to the ones that actually fit a given spot — light, moisture, soil, pH, bloom window, wildlife value — and discover companions that thrive in the same conditions.
+A browser-based catalog and planner for Ohio native plants. Built to help home gardeners and habitat planters narrow ~291 species down to the ones that actually fit a given spot — light, moisture, soil, pH, bloom window, wildlife value — and discover companions that thrive in the same conditions.
 
 Live data is bundled at build time, so the site is a static SPA with no backend. It deploys to GitHub Pages.
 

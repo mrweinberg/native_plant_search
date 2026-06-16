@@ -9,9 +9,9 @@ const { count: favCount } = useFavorites()
     <header class="app-header">
       <RouterLink to="/" class="brand">
         <span class="brand-mark">❧</span>
-        Native Plant Search
+        Bedfellow
       </RouterLink>
-      <span class="tagline">Find natives by name, region, and growing conditions</span>
+      <span class="tagline">Plan an Ohio native garden that blooms all season</span>
       <span class="spacer"></span>
       <RouterLink :to="{ name: 'favorites' }" class="nav-link" active-class="nav-link-active">
         <span aria-hidden="true">★</span> Favorites
