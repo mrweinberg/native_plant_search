@@ -3,6 +3,7 @@ import { computed, ref } from 'vue'
 import { RouterLink } from 'vue-router'
 import PlantCard from '../components/PlantCard.vue'
 import BloomCalendar from '../components/BloomCalendar.vue'
+import FavoriteButton from '../components/FavoriteButton.vue'
 import { allPlants, MONTH_LABELS } from '../composables/usePlantFilters.js'
 import { useFavorites } from '../composables/useFavorites.js'
 
@@ -29,6 +30,82 @@ const coverage = computed(() => {
   const gaps = months.filter((m) => m.count === 0).map((m) => m.label)
   const peak = months.reduce((a, b) => (b.count > a.count ? b : a), months[0])
   return { months, covered, gaps, peak }
+})
+
+// Normalize a light data inconsistency in the catalog ('part-shade' vs 'part shade').
+const normLight = (l) => (l === 'part-shade' ? 'part shade' : l)
+const lightSet = (p) => new Set((p.lightRequirement || []).map(normLight))
+const moistSet = (p) => new Set(p.soilMoisture || [])
+
+// The growing conditions of what's already saved — suggestions must match these,
+// so anything recommended will actually thrive alongside the current favorites.
+const profile = computed(() => {
+  const light = new Set()
+  const moist = new Set()
+  for (const p of plants.value) {
+    for (const l of lightSet(p)) light.add(l)
+    for (const m of moistSet(p)) moist.add(m)
+  }
+  return { light, moist }
+})
+
+// For each empty month, native candidates that bloom then AND share the saved
+// light/moisture profile. Ranked so plants closing the most gaps surface first.
+const suggestions = computed(() => {
+  const gapMonths = new Set(
+    coverage.value.months.filter((m) => m.count === 0).map((m) => m.month),
+  )
+  if (gapMonths.size === 0 || plants.value.length === 0) return []
+  const { light, moist } = profile.value
+  const have = favoriteSet.value
+  const scored = []
+  for (const p of allPlants) {
+    if (have.has(p.id)) continue
+    const fills = (p.bloomMonths || []).filter((m) => gapMonths.has(m))
+    if (!fills.length) continue
+    const lOverlap = [...lightSet(p)].filter((x) => light.has(x)).length
+    const mOverlap = [...moistSet(p)].filter((x) => moist.has(x)).length
+    if (light.size && !lOverlap) continue
+    if (moist.size && !mOverlap) continue
+    scored.push({
+      plant: p,
+      fills: fills.sort((a, b) => a - b).map((m) => MONTH_LABELS[m]),
+      score: fills.length * 10 + lOverlap + mOverlap,
+    })
+  }
+  scored.sort(
+    (a, b) =>
+      b.score - a.score ||
+      a.plant.commonNames[0].localeCompare(b.plant.commonNames[0]),
+  )
+  return scored.slice(0, 6)
+})
+
+// Group saved plants into beds by the conditions they want, so a gardener can
+// see which favorites can share a planting spot. Each plant lands in one bed
+// keyed by its primary (first-listed) light + moisture.
+const LIGHT_LABEL = { sun: 'Full sun', 'part shade': 'Part shade', shade: 'Shade' }
+const LIGHT_ORDER = { sun: 0, 'part shade': 1, shade: 2 }
+const MOIST_LABEL = { dry: 'Dry', moist: 'Medium', wet: 'Wet' }
+const MOIST_ORDER = { dry: 0, moist: 1, wet: 2 }
+const lightLabel = (l) => LIGHT_LABEL[l] || 'Unknown light'
+const moistLabel = (m) => MOIST_LABEL[m] || 'Unknown'
+
+const beds = computed(() => {
+  const map = new Map()
+  for (const p of plants.value) {
+    const light = normLight((p.lightRequirement || [])[0] || 'unknown')
+    const moist = (p.soilMoisture || [])[0] || 'unknown'
+    const key = `${light}|${moist}`
+    if (!map.has(key)) map.set(key, { light, moist, plants: [] })
+    map.get(key).plants.push(p)
+  }
+  return [...map.values()].sort(
+    (a, b) =>
+      b.plants.length - a.plants.length ||
+      (LIGHT_ORDER[a.light] ?? 9) - (LIGHT_ORDER[b.light] ?? 9) ||
+      (MOIST_ORDER[a.moist] ?? 9) - (MOIST_ORDER[b.moist] ?? 9),
+  )
 })
 
 function confirmClear() {
@@ -83,6 +160,29 @@ function confirmClear() {
       </div>
     </section>
 
+    <section v-if="suggestions.length" class="suggest" aria-label="Plants to fill bloom gaps">
+      <div class="suggest-head">
+        <h2>Fill your gaps</h2>
+        <p class="muted">Natives that bloom in your empty months and like the same conditions as your saved plants.</p>
+      </div>
+      <ul class="suggest-list">
+        <li v-for="s in suggestions" :key="s.plant.id" class="suggest-card">
+          <RouterLink
+            :to="{ name: 'detail', params: { id: s.plant.id } }"
+            class="suggest-link"
+          >
+            <span class="suggest-name">{{ s.plant.commonNames[0] }}</span>
+            <span class="suggest-sci">{{ s.plant.scientificName }}</span>
+            <span class="suggest-fills">
+              Covers
+              <span v-for="mo in s.fills" :key="mo" class="fill-chip">{{ mo }}</span>
+            </span>
+          </RouterLink>
+          <FavoriteButton :plant-id="s.plant.id" size="sm" />
+        </li>
+      </ul>
+    </section>
+
     <div v-if="plants.length" class="view-row">
       <div class="view-toggle" role="tablist">
         <button
@@ -95,6 +195,11 @@ function confirmClear() {
           :class="{ active: viewMode === 'calendar' }"
           @click="viewMode = 'calendar'"
         >Calendar</button>
+        <button
+          type="button"
+          :class="{ active: viewMode === 'beds' }"
+          @click="viewMode = 'beds'"
+        >Beds</button>
       </div>
     </div>
 
@@ -102,7 +207,23 @@ function confirmClear() {
       <div v-if="viewMode === 'grid'" class="grid">
         <PlantCard v-for="p in plants" :key="p.id" :plant="p" />
       </div>
-      <BloomCalendar v-else :plants="plants" />
+      <BloomCalendar v-else-if="viewMode === 'calendar'" :plants="plants" />
+      <div v-else class="beds">
+        <div v-for="bed in beds" :key="bed.light + bed.moist" class="bed">
+          <div class="bed-head">
+            <span class="bed-title">{{ lightLabel(bed.light) }} · {{ moistLabel(bed.moist) }} soil</span>
+            <span class="bed-count">{{ bed.plants.length }}</span>
+          </div>
+          <ul class="bed-plants">
+            <li v-for="p in bed.plants" :key="p.id">
+              <RouterLink :to="{ name: 'detail', params: { id: p.id } }">
+                <span class="bp-name">{{ p.commonNames[0] }}</span>
+                <span class="bp-sci">{{ p.scientificName }}</span>
+              </RouterLink>
+            </li>
+          </ul>
+        </div>
+      </div>
     </template>
     <div v-else class="empty">
       <p>You haven't saved any favorites yet.</p>
@@ -186,6 +307,63 @@ h1 { margin: 0 0 4px; font-size: 24px; }
 .gaps { grid-area: gaps; font-size: 13px; color: var(--ink-soft); }
 .gaps strong { color: var(--ink); font-weight: 600; }
 
+.suggest {
+  background: var(--card);
+  border-radius: 10px;
+  padding: 14px 18px;
+  margin-bottom: 16px;
+}
+.suggest-head { margin-bottom: 12px; }
+.suggest-head h2 { margin: 0 0 2px; font-size: 16px; }
+.suggest-head .muted { font-size: 13px; }
+.suggest-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 10px;
+}
+.suggest-card {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 8px 8px 8px 12px;
+}
+.suggest-link {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  flex: 1;
+  min-width: 0;
+  text-decoration: none;
+  color: inherit;
+}
+.suggest-link:hover .suggest-name { color: var(--accent); }
+.suggest-name { font-weight: 600; font-size: 14px; }
+.suggest-sci {
+  font-style: italic;
+  color: var(--ink-soft);
+  font-size: 11px;
+}
+.suggest-fills {
+  font-size: 11px;
+  color: var(--ink-soft);
+  margin-top: 3px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 4px;
+}
+.fill-chip {
+  background: var(--accent-soft);
+  color: var(--accent);
+  border-radius: 4px;
+  padding: 1px 6px;
+  font-weight: 600;
+}
 .view-row { margin-bottom: 12px; }
 .view-toggle {
   display: inline-flex;
@@ -208,6 +386,56 @@ h1 { margin: 0 0 4px; font-size: 24px; }
   grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
   gap: 16px;
 }
+
+.beds {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 14px;
+  align-items: start;
+}
+.bed {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  overflow: hidden;
+}
+.bed-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  padding: 10px 14px;
+  background: var(--accent-soft);
+  border-bottom: 1px solid var(--border);
+}
+.bed-title { font-weight: 700; font-size: 13px; color: var(--accent); }
+.bed-count {
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--accent);
+  background: var(--card);
+  border-radius: 999px;
+  min-width: 22px;
+  height: 22px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 6px;
+}
+.bed-plants { list-style: none; margin: 0; padding: 6px 0; }
+.bed-plants li { border-top: 1px solid var(--border); }
+.bed-plants li:first-child { border-top: none; }
+.bed-plants a {
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  padding: 7px 14px;
+  text-decoration: none;
+  color: inherit;
+}
+.bed-plants a:hover { background: var(--accent-soft); }
+.bp-name { font-weight: 600; font-size: 13px; }
+.bp-sci { font-style: italic; color: var(--ink-soft); font-size: 11px; }
 @media (max-width: 800px) {
   .grid { grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); gap: 12px; }
   .coverage-summary {
