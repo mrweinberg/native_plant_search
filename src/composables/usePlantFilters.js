@@ -1,6 +1,16 @@
-import { computed } from 'vue'
+import { computed, ref } from 'vue'
 import { useRoute, useRouter } from 'vue-router'
-import plantsData from '../data/plants.json'
+
+// The catalog is large and grows with every region, so it's code-split into its
+// own async chunk instead of being bundled into the app shell. `allPlants`
+// starts empty and fills once the chunk resolves; every consumer reads it
+// reactively, so computeds recompute automatically when the data arrives.
+export const allPlants = ref([])
+export const plantsLoaded = ref(false)
+import('../data/plants.json').then((m) => {
+  allPlants.value = m.default
+  plantsLoaded.value = true
+})
 
 const MULTI_FILTERS = [
   { key: 'generalAppearance', field: 'generalAppearance', isArray: false },
@@ -30,7 +40,7 @@ export function getFilterOptions() {
   const options = {}
   for (const f of MULTI_FILTERS) {
     const all = []
-    for (const p of plantsData) {
+    for (const p of allPlants.value) {
       const v = p[f.field]
       if (v == null) continue
       if (f.isArray) all.push(...v)
@@ -38,11 +48,11 @@ export function getFilterOptions() {
     }
     options[f.key] = uniqueSorted(all, f.numeric)
   }
-  options.maxHeight = Math.max(...plantsData.map((p) => p.heightFeet?.max ?? 0))
+  options.maxHeight = allPlants.value.length
+    ? Math.max(...allPlants.value.map((p) => p.heightFeet?.max ?? 0))
+    : 0
   return options
 }
-
-export const allPlants = plantsData
 
 export function usePlantFilters() {
   const route = useRoute()
@@ -131,7 +141,7 @@ export function usePlantFilters() {
     const hMin = heightMin.value
     const deer = deerOnly.value
 
-    return plantsData.filter((p) => {
+    return allPlants.value.filter((p) => {
       if (q) {
         const hay = [p.scientificName, ...(p.commonNames || [])].join(' ').toLowerCase()
         if (!hay.includes(q)) return false

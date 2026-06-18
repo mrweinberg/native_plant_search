@@ -5,7 +5,7 @@ import SearchBar from '../components/SearchBar.vue'
 import FilterPanel from '../components/FilterPanel.vue'
 import PlantCard from '../components/PlantCard.vue'
 import BloomCalendar from '../components/BloomCalendar.vue'
-import { usePlantFilters, MONTH_LABELS } from '../composables/usePlantFilters.js'
+import { usePlantFilters, plantsLoaded, MONTH_LABELS } from '../composables/usePlantFilters.js'
 import { useLocation } from '../composables/useLocation.js'
 
 const {
@@ -183,6 +183,7 @@ watch(() => route.fullPath, () => { drawerOpen.value = false })
         <div v-if="sortedPlants.length" class="grid">
           <PlantCard v-for="p in sortedPlants" :key="p.id" :plant="p" />
         </div>
+        <div v-else-if="!plantsLoaded" class="empty">Loading plants…</div>
         <div v-else class="empty">
           No plants match your filters. <button @click="clearAll" type="button">Clear filters</button>
         </div>

@@ -13,7 +13,7 @@ const { location } = useLocation()
 
 const plants = computed(() =>
   favorites.value
-    .map((id) => allPlants.find((p) => p.id === id))
+    .map((id) => allPlants.value.find((p) => p.id === id))
     .filter(Boolean),
 )
 
@@ -62,7 +62,7 @@ const suggestions = computed(() => {
   const have = favoriteSet.value
   const loc = location.value
   const scored = []
-  for (const p of allPlants) {
+  for (const p of allPlants.value) {
     if (have.has(p.id)) continue
     // With a home state set, only suggest plants native there — a national
     // catalog would otherwise recommend a plant that won't grow in your garden.

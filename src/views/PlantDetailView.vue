@@ -1,7 +1,7 @@
 <script setup>
 import { computed } from 'vue'
 import { useRoute, useRouter, RouterLink } from 'vue-router'
-import { allPlants, MONTH_LABELS } from '../composables/usePlantFilters.js'
+import { allPlants, plantsLoaded, MONTH_LABELS } from '../composables/usePlantFilters.js'
 import { usePlantImage } from '../composables/usePlantImage.js'
 import { useInatGallery } from '../composables/useInatGallery.js'
 import FavoriteButton from '../components/FavoriteButton.vue'
@@ -9,7 +9,7 @@ import PlantCard from '../components/PlantCard.vue'
 
 const route = useRoute()
 const router = useRouter()
-const plant = computed(() => allPlants.find((p) => p.id === route.params.id))
+const plant = computed(() => allPlants.value.find((p) => p.id === route.params.id))
 
 function goBack() {
   if (window.history.state?.back) router.back()
@@ -35,7 +35,7 @@ const companions = computed(() => {
   const target = plant.value
   if (!target) return []
   const scored = []
-  for (const p of allPlants) {
+  for (const p of allPlants.value) {
     if (p.id === target.id) continue
     const conditions =
       3 * overlap(p.lightRequirement, target.lightRequirement) +
@@ -211,6 +211,9 @@ function fmtRange(r, unit) {
         <PlantCard v-for="c in companions" :key="c.id" :plant="c" />
       </div>
     </section>
+  </div>
+  <div v-else-if="!plantsLoaded" class="detail">
+    <p>Loading…</p>
   </div>
   <div v-else class="detail">
     <RouterLink to="/" class="back">← Back to results</RouterLink>
