@@ -31122,5 +31122,2716 @@
     "imageFile": "plants/pontederia-cordata.jpg",
     "imageSource": "https://en.wikipedia.org/wiki/Pontederia_cordata",
     "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "asclepias-humistrata",
+    "scientificName": "Asclepias humistrata",
+    "commonNames": [
+      "Sandhill Milkweed"
+    ],
+    "family": "Apocynaceae",
+    "nativeStates": [
+      "AL",
+      "FL",
+      "GA",
+      "MS",
+      "NC",
+      "SC"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "pink",
+      "white"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "monarch host",
+      "larval host",
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Sprawling, blue-green milkweed of deep sandhills and a vital monarch host where drier soils prevail. Pinkish flower clusters sit low among broad clasping leaves.",
+    "usdaSymbol": "ASHU3",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/asclepias-humistrata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Asclepias_humistrata",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "lilium-michauxii",
+    "scientificName": "Lilium michauxii",
+    "commonNames": [
+      "Carolina Lily"
+    ],
+    "family": "Liliaceae",
+    "nativeStates": [
+      "AL",
+      "GA",
+      "LA",
+      "MS",
+      "NC",
+      "SC",
+      "TN",
+      "TX",
+      "VA"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      7,
+      8
+    ],
+    "bloomColors": [
+      "orange",
+      "red"
+    ],
+    "leafArrangement": "whorled",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds",
+      "butterflies"
+    ],
+    "deerResistant": false,
+    "notes": "Fragrant nodding Turk's-cap lily with strongly recurved orange petals dotted maroon. The South's most heat-tolerant native lily, at home in dry woodland edges.",
+    "usdaSymbol": "LIMI",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/lilium-michauxii.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Lilium_michauxii",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "lilium-catesbaei",
+    "scientificName": "Lilium catesbaei",
+    "commonNames": [
+      "Pine Lily"
+    ],
+    "family": "Liliaceae",
+    "nativeStates": [
+      "AL",
+      "FL",
+      "GA",
+      "MS",
+      "NC",
+      "SC"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "sandy"
+    ],
+    "bloomMonths": [
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "orange",
+      "red"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": false,
+    "notes": "A solitary, upward-facing flame of orange-red atop wet pine savannas, one of the showiest native lilies. Demands constant moisture and fire-kept open ground.",
+    "usdaSymbol": "LICA4",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/lilium-catesbaei.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Lilium_catesbaei",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "zephyranthes-atamasca",
+    "scientificName": "Zephyranthes atamasca",
+    "commonNames": [
+      "Atamasco Lily"
+    ],
+    "family": "Amaryllidaceae",
+    "nativeStates": [
+      "AL",
+      "FL",
+      "GA",
+      "MS",
+      "NC",
+      "SC"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5
+    ],
+    "bloomColors": [
+      "white",
+      "pink"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": false,
+    "notes": "White, crocus-like rain lilies that carpet damp woods and ditches after spring rains, blushing pink as they age. Goes dormant by summer.",
+    "usdaSymbol": "ZEAT",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/zephyranthes-atamasca.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Zephyranthes_atamasca",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "hymenocallis-caroliniana",
+    "scientificName": "Hymenocallis caroliniana",
+    "commonNames": [
+      "Carolina Spiderlily"
+    ],
+    "family": "Amaryllidaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "FL",
+      "GA",
+      "LA",
+      "MS",
+      "NC",
+      "SC",
+      "TN"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds"
+    ],
+    "deerResistant": false,
+    "notes": "Fragrant white spider lilies with a delicate central cup webbing the long petals, lighting up wet bottomlands. Pollinated by night-flying sphinx moths.",
+    "usdaSymbol": "HYCA9",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/hymenocallis-caroliniana.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Hymenocallis_caroliniana",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "silphium-asteriscus",
+    "scientificName": "Silphium asteriscus",
+    "commonNames": [
+      "Starry Rosinweed"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "FL",
+      "GA",
+      "IN",
+      "KY",
+      "LA",
+      "MO",
+      "MS",
+      "NC",
+      "OH",
+      "PA",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "WV"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 1.5,
+      "max": 2.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "songbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Long-blooming yellow daisy on coarse, sturdy stems that shrugs off heat and drought. Goldfinches strip the seed heads in late summer.",
+    "usdaSymbol": "SIAS2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/silphium-asteriscus.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Silphium_asteriscus",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "vernonia-angustifolia",
+    "scientificName": "Vernonia angustifolia",
+    "commonNames": [
+      "Tall Ironweed"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AL",
+      "FL",
+      "GA",
+      "MS",
+      "NC",
+      "SC"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "purple"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Fine-textured ironweed with airy clusters of intense red-purple flowers, unusual for thriving on dry, sandy soil. A late-summer butterfly favorite.",
+    "usdaSymbol": "VEAN",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/vernonia-angustifolia.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Vernonia_angustifolia",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "helianthus-debilis",
+    "scientificName": "Helianthus debilis",
+    "commonNames": [
+      "Beach Sunflower"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AL",
+      "FL",
+      "GA",
+      "IN",
+      "SC",
+      "TX"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "songbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Sprawling, salt- and drought-proof beach sunflower that flowers nearly year-round on the coast. A tireless pollinator groundcover for pure sand.",
+    "usdaSymbol": "HEDE4",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/helianthus-debilis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Helianthus_debilis",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "coreopsis-tinctoria",
+    "scientificName": "Coreopsis tinctoria",
+    "commonNames": [
+      "Plains Coreopsis"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "AZ",
+      "CA",
+      "CO",
+      "FL",
+      "GA",
+      "ID",
+      "IL",
+      "KS",
+      "KY",
+      "LA",
+      "MD",
+      "MI",
+      "MO",
+      "MS",
+      "MT",
+      "NC",
+      "NE",
+      "NJ",
+      "NM",
+      "NY",
+      "OH",
+      "OK",
+      "OR",
+      "PA",
+      "SC",
+      "SD",
+      "TN",
+      "TX",
+      "VA",
+      "WA"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "annual",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "yellow",
+      "red"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "songbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Easy, free-reseeding annual with yellow rays banded mahogany at the base. Quick meadow color that tolerates wet or dry, poor or rich soil.",
+    "usdaSymbol": "COTI3",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/coreopsis-tinctoria.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Plains_coreopsis",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "echinacea-pallida",
+    "scientificName": "Echinacea pallida",
+    "commonNames": [
+      "Pale Purple Coneflower"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AR",
+      "IA",
+      "IL",
+      "KS",
+      "LA",
+      "MI",
+      "MN",
+      "MO",
+      "NC",
+      "OK",
+      "TX",
+      "WI"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "loam",
+      "rocky",
+      "clay"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "pink",
+      "purple"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "songbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Prairie coneflower with strongly drooping, pale rose-pink rays around a coppery cone. A deep taproot makes it tough in lean, dry soils.",
+    "usdaSymbol": "ECPA",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/echinacea-pallida.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Echinacea_pallida",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "liatris-elegans",
+    "scientificName": "Liatris elegans",
+    "commonNames": [
+      "Pinkscale Blazing Star"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "FL",
+      "GA",
+      "LA",
+      "MS",
+      "SC",
+      "TX"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy"
+    ],
+    "bloomMonths": [
+      8,
+      9,
+      10
+    ],
+    "bloomColors": [
+      "pink",
+      "white",
+      "purple"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "An elegant fall blazing star colored by showy pink-and-white bracts rather than its tiny florets. Thrives in deep, droughty sand where little else blooms.",
+    "usdaSymbol": "LIEL",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/liatris-elegans.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Liatris_elegans",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "chrysopsis-mariana",
+    "scientificName": "Chrysopsis mariana",
+    "commonNames": [
+      "Maryland Goldenaster"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AL",
+      "DE",
+      "FL",
+      "GA",
+      "KY",
+      "LA",
+      "MD",
+      "MS",
+      "NC",
+      "NJ",
+      "NY",
+      "PA",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "WV"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2.5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      8,
+      9,
+      10
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Silky-haired stems crowned with golden-yellow asters in fall, cheerful and undemanding on poor, dry sites. Spreads gently into colonies.",
+    "usdaSymbol": "CHMA14",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/chrysopsis-mariana.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Chrysopsis_mariana",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "penstemon-australis",
+    "scientificName": "Penstemon australis",
+    "commonNames": [
+      "Eustis Lake Beardtongue"
+    ],
+    "family": "Plantaginaceae",
+    "nativeStates": [
+      "AL",
+      "FL",
+      "GA",
+      "NC",
+      "SC",
+      "VA"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2.5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "pink",
+      "purple",
+      "white"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Southeastern beardtongue with slender spikes of pale tubular flowers lined inside with nectar guides. A pollinator and hummingbird draw for dry sand.",
+    "usdaSymbol": "PEAU",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/penstemon-australis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Penstemon_australis",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "mimosa-strigillosa",
+    "scientificName": "Mimosa strigillosa",
+    "commonNames": [
+      "Sunshine Mimosa"
+    ],
+    "family": "Fabaceae",
+    "nativeStates": [
+      "AR",
+      "FL",
+      "LA",
+      "MS",
+      "TX"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.2,
+      "max": 0.5
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "pink"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": true,
+    "notes": "Ground-hugging legume with ferny, touch-sensitive leaves and pink powderpuff blooms all season. A tough, mowable lawn alternative that fixes its own nitrogen.",
+    "usdaSymbol": "MIST2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/mimosa-strigillosa.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Mimosa_strigillosa",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "senna-marilandica",
+    "scientificName": "Senna marilandica",
+    "commonNames": [
+      "Maryland Senna"
+    ],
+    "family": "Fabaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "FL",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MD",
+      "MO",
+      "MS",
+      "NC",
+      "NE",
+      "OH",
+      "OK",
+      "PA",
+      "TN",
+      "TX",
+      "VA",
+      "WV"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 5
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 3
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      7,
+      8
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": true,
+    "notes": "Bushy legume topped with clusters of golden flowers and a larval host for sulphur butterflies. Extrafloral nectaries draw ants, wasps, and bumblebees.",
+    "usdaSymbol": "SEMA11",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/senna-marilandica.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Senna_marilandica",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "lupinus-diffusus",
+    "scientificName": "Lupinus diffusus",
+    "commonNames": [
+      "Sky-blue Lupine"
+    ],
+    "family": "Fabaceae",
+    "nativeStates": [
+      "AL",
+      "FL",
+      "GA",
+      "MS",
+      "NC",
+      "SC"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5
+    ],
+    "bloomColors": [
+      "blue",
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": true,
+    "notes": "Silvery, silk-leaved lupine with sky-blue spikes built for the driest scrub sand. Resents transplanting but unforgettable in bloom.",
+    "usdaSymbol": "LUDI2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/lupinus-diffusus.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Lupinus_diffusus",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "sagittaria-latifolia",
+    "scientificName": "Sagittaria latifolia",
+    "commonNames": [
+      "Broadleaf Arrowhead"
+    ],
+    "family": "Alismataceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CA",
+      "CO",
+      "CT",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "HI",
+      "IA",
+      "ID",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "NE",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "OR",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "VT",
+      "WA",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "mammals"
+    ],
+    "deerResistant": false,
+    "notes": "Emergent marginal with bold arrowhead leaves and whorls of papery white flowers. Its starchy tubers, the 'duck potatoes,' are prized by waterfowl.",
+    "usdaSymbol": "SALA2",
+    "nativeRegions": [
+      "CAN",
+      "L48",
+      "PR"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/sagittaria-latifolia.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Sagittaria_latifolia",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "rhexia-virginica",
+    "scientificName": "Rhexia virginica",
+    "commonNames": [
+      "Virginia Meadow Beauty"
+    ],
+    "family": "Melastomataceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DE",
+      "FL",
+      "GA",
+      "IL",
+      "IN",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MO",
+      "MS",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "pink",
+      "purple"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Damp-soil charmer with rose-pink four-petaled flowers and showy, curved yellow anthers. Distinctive urn-shaped seed capsules follow the bloom.",
+    "usdaSymbol": "RHVI",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/rhexia-virginica.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Rhexia_virginica",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "solidago-sempervirens",
+    "scientificName": "Solidago sempervirens",
+    "commonNames": [
+      "Seaside Goldenrod"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "CT",
+      "DE",
+      "FL",
+      "IL",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "PA",
+      "RI",
+      "SC",
+      "TX",
+      "VA"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 6
+    },
+    "spreadFeet": {
+      "min": 1.5,
+      "max": 3
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy"
+    ],
+    "bloomMonths": [
+      8,
+      9,
+      10,
+      11
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "songbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Succulent-leaved goldenrod that thrives in salt spray and sand, blooming into late fall. A critical last nectar source for migrating monarchs.",
+    "usdaSymbol": "SOSE",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/solidago-sempervirens.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Solidago_sempervirens",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "solidago-rugosa",
+    "scientificName": "Solidago rugosa",
+    "commonNames": [
+      "Wrinkleleaf Goldenrod"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "IN",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MO",
+      "MS",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "VT",
+      "WV"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 5
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 3
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      8,
+      9,
+      10
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "songbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Arching, fountain-like sprays of yellow that close out the pollinator season. The popular garden selection 'Fireworks' comes from this adaptable species.",
+    "usdaSymbol": "SORU2",
+    "nativeRegions": [
+      "CAN",
+      "L48",
+      "SPM"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/solidago-rugosa.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Solidago_rugosa",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "chrysogonum-virginianum",
+    "scientificName": "Chrysogonum virginianum",
+    "commonNames": [
+      "Green and Gold"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "DC",
+      "GA",
+      "MD",
+      "MS",
+      "NC",
+      "PA",
+      "SC",
+      "VA",
+      "WV"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.3,
+      "max": 0.8
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Low woodland groundcover starred with golden flowers from spring into summer. Slowly knits together into an evergreen mat in dappled shade.",
+    "usdaSymbol": "CHVI5",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/chrysogonum-virginianum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Chrysogonum_virginianum",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "phlox-subulata",
+    "scientificName": "Phlox subulata",
+    "commonNames": [
+      "Moss Phlox"
+    ],
+    "family": "Polemoniaceae",
+    "nativeStates": [
+      "AL",
+      "CT",
+      "GA",
+      "KY",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "SC",
+      "TN",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.3,
+      "max": 0.5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5
+    ],
+    "bloomColors": [
+      "pink",
+      "purple",
+      "white",
+      "blue"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "hummingbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Needle-leaved evergreen mat that blankets banks and walls in spring color. Tough, drought-proof, and excellent for erosion control on slopes.",
+    "usdaSymbol": "PHSU3",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/phlox-subulata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Phlox_subulata",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "tradescantia-virginiana",
+    "scientificName": "Tradescantia virginiana",
+    "commonNames": [
+      "Virginia Spiderwort"
+    ],
+    "family": "Commelinaceae",
+    "nativeStates": [
+      "AL",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KY",
+      "MA",
+      "MD",
+      "MI",
+      "MO",
+      "MS",
+      "NC",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "WV"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "blue",
+      "purple"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Clumping spiderwort with three-petaled violet-blue flowers that open fresh each morning and fade by afternoon. Adaptable in sun or shade.",
+    "usdaSymbol": "TRVI",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/tradescantia-virginiana.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Tradescantia_virginiana",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "symphyotrichum-carolinianum",
+    "scientificName": "Symphyotrichum carolinianum",
+    "commonNames": [
+      "Climbing Aster"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AL",
+      "FL",
+      "GA",
+      "LA",
+      "NC",
+      "SC",
+      "VA"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 6,
+      "max": 12
+    },
+    "spreadFeet": {
+      "min": 4,
+      "max": 8
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      9,
+      10,
+      11
+    ],
+    "bloomColors": [
+      "pink",
+      "purple"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "The South's only scrambling, near-vining aster, clambering over shrubs to bloom fragrant pink in late fall. A final, lavish pollinator feast before frost.",
+    "usdaSymbol": null,
+    "nativeRegions": [],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/symphyotrichum-carolinianum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Ampelaster",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "sarracenia-flava",
+    "scientificName": "Sarracenia flava",
+    "commonNames": [
+      "Yellow Pitcherplant"
+    ],
+    "family": "Sarraceniaceae",
+    "nativeStates": [
+      "AL",
+      "FL",
+      "GA",
+      "MS",
+      "NC",
+      "SC",
+      "VA",
+      "WA"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1.5,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "wet"
+    ],
+    "soilType": [
+      "sandy"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Tall yellow-green pitchers lure and drown insects in nutrient-poor bogs, with nodding yellow flowers held above in spring. Needs constantly wet, lean, acidic ground.",
+    "usdaSymbol": "SAFL4",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/sarracenia-flava.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Sarracenia_flava",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "sarracenia-purpurea",
+    "scientificName": "Sarracenia purpurea",
+    "commonNames": [
+      "Purple Pitcherplant"
+    ],
+    "family": "Sarraceniaceae",
+    "nativeStates": [
+      "AL",
+      "CT",
+      "DE",
+      "FL",
+      "GA",
+      "IL",
+      "IN",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "RI",
+      "SC",
+      "VA",
+      "VT",
+      "WA",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "wet"
+    ],
+    "soilType": [
+      "sandy"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "red",
+      "purple"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Squat, veined pitchers that catch rainwater to trap prey, topped by globe-like maroon flowers. The hardiest and most widespread native pitcherplant.",
+    "usdaSymbol": "SAPU4",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "L48",
+      "SPM"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/sarracenia-purpurea.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Sarracenia_purpurea",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "dionaea-muscipula",
+    "scientificName": "Dionaea muscipula",
+    "commonNames": [
+      "Venus Flytrap"
+    ],
+    "family": "Droseraceae",
+    "nativeStates": [
+      "FL",
+      "NC",
+      "SC",
+      "WA"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.3,
+      "max": 0.5
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "wet"
+    ],
+    "soilType": [
+      "sandy"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "The world-famous snap-trap, native only to a small corner of the Carolinas, thriving in wet, sterile sand and full sun. Buy nursery-propagated plants, as wild ones are imperiled by poaching.",
+    "usdaSymbol": "DIMU4",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/dionaea-muscipula.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Venus_flytrap",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "drosera-capillaris",
+    "scientificName": "Drosera capillaris",
+    "commonNames": [
+      "Pink Sundew"
+    ],
+    "family": "Droseraceae",
+    "nativeStates": [
+      "AL",
+      "FL",
+      "GA",
+      "LA",
+      "MS",
+      "NC",
+      "SC",
+      "TX",
+      "VA"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.1,
+      "max": 0.3
+    },
+    "spreadFeet": {
+      "min": 0.2,
+      "max": 0.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "wet"
+    ],
+    "soilType": [
+      "sandy"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "pink",
+      "white"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Tiny rosette of dew-tipped sticky leaves that glisten as they snare gnats. Carpets wet, open bog seeps and ditch banks across the coastal plain.",
+    "usdaSymbol": "DRCA2",
+    "nativeRegions": [
+      "L48",
+      "PR"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/drosera-capillaris.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Drosera_capillaris",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "andropogon-ternarius",
+    "scientificName": "Andropogon ternarius",
+    "commonNames": [
+      "Splitbeard Bluestem"
+    ],
+    "family": "Poaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "DE",
+      "FL",
+      "GA",
+      "KY",
+      "LA",
+      "MD",
+      "MO",
+      "MS",
+      "NC",
+      "NJ",
+      "OK",
+      "PA",
+      "SC",
+      "TN",
+      "TX",
+      "VA"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      9,
+      10,
+      11
+    ],
+    "bloomColors": [
+      "white",
+      "brown"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host"
+    ],
+    "deerResistant": true,
+    "notes": "Fine bunchgrass whose paired silvery seed tufts catch autumn light along dry roadsides. Excellent fall-to-winter texture and cover on poor ground.",
+    "usdaSymbol": "ANTE2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/andropogon-ternarius.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Andropogon_ternarius",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "andropogon-glomeratus",
+    "scientificName": "Andropogon glomeratus",
+    "commonNames": [
+      "Bushy Bluestem"
+    ],
+    "family": "Poaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "AZ",
+      "CA",
+      "FL",
+      "GA",
+      "LA",
+      "MA",
+      "MD",
+      "MS",
+      "NC",
+      "NJ",
+      "NY",
+      "PA",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "WV"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 5
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 3
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      9,
+      10,
+      11
+    ],
+    "bloomColors": [
+      "white",
+      "brown"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host"
+    ],
+    "deerResistant": true,
+    "notes": "Clumping grass that flushes coppery in fall and puffs out fluffy, cottony seed heads. Happiest in wet ditches, swales, and pond edges.",
+    "usdaSymbol": "ANGL2",
+    "nativeRegions": [
+      "L48",
+      "NAV",
+      "PR"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/andropogon-glomeratus.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Andropogon_glomeratus",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "tripsacum-dactyloides",
+    "scientificName": "Tripsacum dactyloides",
+    "commonNames": [
+      "Eastern Gamagrass"
+    ],
+    "family": "Poaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "FL",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MD",
+      "MO",
+      "MS",
+      "NC",
+      "NJ",
+      "NY",
+      "OK",
+      "PA",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "WV"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 6
+    },
+    "spreadFeet": {
+      "min": 3,
+      "max": 4
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "orange",
+      "brown"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": false,
+    "notes": "Bold, corn-relative bunchgrass forming arching green fountains, a larval host for skippers. Curious orange-anthered flower spikes and high-protein forage.",
+    "usdaSymbol": "TRDA3",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/tripsacum-dactyloides.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Tripsacum_dactyloides",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "aristida-stricta",
+    "scientificName": "Aristida stricta",
+    "commonNames": [
+      "Wiregrass"
+    ],
+    "family": "Poaceae",
+    "nativeStates": [
+      "FL",
+      "GA",
+      "NC",
+      "SC"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy"
+    ],
+    "bloomMonths": [
+      9,
+      10,
+      11
+    ],
+    "bloomColors": [
+      "brown",
+      "white"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host"
+    ],
+    "deerResistant": true,
+    "notes": "The fine, wiry groundcover grass of longleaf pine savannas, carrying the ground fire that keeps that ecosystem open. Foundational habitat for sandhill wildlife.",
+    "usdaSymbol": "ARST5",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/aristida-stricta.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Aristida_stricta",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "woodwardia-areolata",
+    "scientificName": "Woodwardia areolata",
+    "commonNames": [
+      "Netted Chain Fern"
+    ],
+    "family": "Blechnaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DE",
+      "FL",
+      "GA",
+      "IL",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "MO",
+      "MS",
+      "NC",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "WV"
+    ],
+    "generalAppearance": "fern",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [],
+    "bloomColors": [],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [],
+    "deerResistant": true,
+    "notes": "Glossy, netted-veined fronds that creep by rhizome through wet, acidic shade. Resembles sensitive fern but with finer, shinier foliage.",
+    "usdaSymbol": "WOAR",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/woodwardia-areolata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Lorinseria",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "thelypteris-kunthii",
+    "scientificName": "Thelypteris kunthii",
+    "commonNames": [
+      "Southern Shield Fern"
+    ],
+    "family": "Thelypteridaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "FL",
+      "GA",
+      "LA",
+      "MS",
+      "SC",
+      "TX"
+    ],
+    "generalAppearance": "fern",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 3
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [],
+    "bloomColors": [],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [],
+    "deerResistant": true,
+    "notes": "Vigorous, soft-textured fern that quickly fills shaded, moist beds with lush light-green fronds. One of the easiest and most reliable ferns for the Deep South.",
+    "usdaSymbol": "THKU",
+    "nativeRegions": [
+      "L48",
+      "PR",
+      "VI"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/thelypteris-kunthii.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Pelazoneuron_kunthii",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "osmunda-spectabilis",
+    "scientificName": "Osmunda spectabilis",
+    "commonNames": [
+      "Royal Fern"
+    ],
+    "family": "Osmundaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DE",
+      "FL",
+      "GA",
+      "IL",
+      "IN",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "fern",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 5
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 3
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [],
+    "bloomColors": [],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [],
+    "deerResistant": true,
+    "notes": "Stately 'flowering fern' with locust-like leaflets tipped by cinnamon fertile clusters. Thrives standing in bog, pond, and stream margins.",
+    "usdaSymbol": "OSSP3",
+    "nativeRegions": [
+      "CAN",
+      "L48",
+      "SPM"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/osmunda-spectabilis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Osmunda_spectabilis",
+    "imageCredit": "Wikimedia"
   }
 ]

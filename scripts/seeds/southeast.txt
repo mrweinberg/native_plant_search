@@ -78,3 +78,45 @@ Iris virginica | Virginia Iris
 Pontederia cordata | Pickerelweed
 Chamaecrista fasciculata | Partridge Pea
 Salvia lyrata | Lyreleaf Sage
+
+# Batch 5 — wildflowers, carnivores, grasses, ferns
+Asclepias humistrata | Sandhill Milkweed
+Asclepias incarnata | Swamp Milkweed
+Lobelia cardinalis | Cardinal Flower
+Lilium michauxii | Carolina Lily
+Lilium catesbaei | Pine Lily
+Zephyranthes atamasca | Atamasco Lily
+Hymenocallis caroliniana | Carolina Spiderlily
+Silphium asteriscus | Starry Rosinweed
+Vernonia angustifolia | Tall Ironweed
+Conoclinium coelestinum | Blue Mistflower
+Helianthus debilis | Beach Sunflower
+Coreopsis tinctoria | Plains Coreopsis
+Echinacea pallida | Pale Purple Coneflower
+Liatris elegans | Pinkscale Blazing Star
+Chrysopsis mariana | Maryland Goldenaster
+Penstemon australis | Eustis Lake Beardtongue
+Mimosa strigillosa | Sunshine Mimosa
+Senna marilandica | Maryland Senna
+Lupinus diffusus | Sky-blue Lupine
+Sagittaria latifolia | Broadleaf Arrowhead
+Rhexia virginica | Virginia Meadow Beauty
+Solidago sempervirens | Seaside Goldenrod
+Solidago rugosa | Wrinkleleaf Goldenrod
+Chrysogonum virginianum | Green and Gold
+Phlox subulata | Moss Phlox
+Tradescantia virginiana | Virginia Spiderwort
+Packera aurea | Golden Ragwort
+Symphyotrichum carolinianum | Climbing Aster
+Sarracenia flava | Yellow Pitcherplant
+Sarracenia purpurea | Purple Pitcherplant
+Dionaea muscipula | Venus Flytrap
+Drosera capillaris | Pink Sundew
+Schizachyrium scoparium | Little Bluestem
+Andropogon ternarius | Splitbeard Bluestem
+Andropogon glomeratus | Bushy Bluestem
+Tripsacum dactyloides | Eastern Gamagrass
+Aristida stricta | Wiregrass
+Woodwardia areolata | Netted Chain Fern
+Thelypteris kunthii | Southern Shield Fern
+Osmunda spectabilis | Royal Fern
