@@ -120,3 +120,38 @@ Aristida stricta | Wiregrass
 Woodwardia areolata | Netted Chain Fern
 Thelypteris kunthii | Southern Shield Fern
 Osmunda spectabilis | Royal Fern
+
+# Batch 6 — rounding out trees, shrubs, vines, woodland & meadow forbs
+Magnolia macrophylla | Bigleaf Magnolia
+Stewartia malacodendron | Silky Camellia
+Franklinia alatamaha | Franklin Tree
+Quercus lyrata | Overcup Oak
+Quercus nigra | Water Oak
+Gordonia lasianthus | Loblolly Bay
+Symplocos tinctoria | Horsesugar
+Rhododendron calendulaceum | Flame Azalea
+Rhododendron viscosum | Swamp Azalea
+Euonymus americanus | Strawberry Bush
+Hypericum frondosum | Golden St. Johnswort
+Diervilla sessilifolia | Southern Bush Honeysuckle
+Spiraea tomentosa | Steeplebush
+Sideroxylon lanuginosum | Gum Bumelia
+Decumaria barbara | Climbing Hydrangea
+Aristolochia tomentosa | Woolly Pipevine
+Clematis crispa | Swamp Leatherflower
+Hexastylis arifolia | Heartleaf Ginger
+Phlox carolina | Carolina Phlox
+Helianthus atrorubens | Purpledisk Sunflower
+Coreopsis major | Greater Tickseed
+Baptisia tinctoria | Yellow Wild Indigo
+Thermopsis villosa | Carolina Lupine
+Iris cristata | Dwarf Crested Iris
+Iris fulva | Copper Iris
+Hibiscus laevis | Halberdleaf Rosemallow
+Lobelia puberula | Downy Lobelia
+Pycnanthemum incanum | Hoary Mountain Mint
+Salvia azurea | Azure Blue Sage
+Marshallia obovata | Barbara's Buttons
+Helenium flexuosum | Purplehead Sneezeweed
+Saccharum giganteum | Sugarcane Plumegrass
+Carex cherokeensis | Cherokee Sedge
