@@ -1,7 +1,16 @@
 <script setup>
+import { computed } from 'vue'
 import { RouterLink, RouterView } from 'vue-router'
 import { useFavorites } from './composables/useFavorites.js'
+import { useLocation, US_STATES } from './composables/useLocation.js'
 const { count: favCount } = useFavorites()
+const { location, locationName, setLocation } = useLocation()
+
+const tagline = computed(() =>
+  locationName.value
+    ? `Plan a ${locationName.value} native garden that blooms all season`
+    : 'Plan a native garden that blooms all season',
+)
 </script>
 
 <template>
@@ -11,7 +20,19 @@ const { count: favCount } = useFavorites()
         <span class="brand-mark">❧</span>
         Bedfellow
       </RouterLink>
-      <span class="tagline">Plan an Ohio native garden that blooms all season</span>
+      <span class="tagline">{{ tagline }}</span>
+      <label class="loc" :class="{ set: location }">
+        <span class="loc-pin" aria-hidden="true">📍</span>
+        <select
+          class="loc-select"
+          :value="location || ''"
+          aria-label="Set your state"
+          @change="setLocation($event.target.value || null)"
+        >
+          <option value="">All states</option>
+          <option v-for="[code, name] in US_STATES" :key="code" :value="code">{{ name }}</option>
+        </select>
+      </label>
       <span class="spacer"></span>
       <RouterLink :to="{ name: 'favorites' }" class="nav-link" active-class="nav-link-active">
         <span aria-hidden="true">★</span> Favorites
@@ -42,6 +63,28 @@ const { count: favCount } = useFavorites()
 }
 .brand-mark { color: #a7d6a7; margin-right: 6px; }
 .tagline { color: #c9c0a4; font-size: 13px; }
+.loc {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  background: rgba(255, 255, 255, 0.06);
+  border-radius: 999px;
+  padding: 3px 10px 3px 8px;
+  align-self: center;
+}
+.loc.set { background: var(--accent); }
+.loc-pin { font-size: 12px; }
+.loc-select {
+  background: transparent;
+  border: none;
+  color: #f1ebd9;
+  font-size: 13px;
+  font-weight: 500;
+  cursor: pointer;
+  padding-right: 2px;
+}
+.loc-select:focus { outline: none; }
+.loc-select option { color: #1a1a1a; }
 .spacer { flex: 1; }
 .nav-link {
   color: #f1ebd9;

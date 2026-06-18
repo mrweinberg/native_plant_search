@@ -58,6 +58,16 @@ npm run build    # build to dist/
 npm run preview  # serve dist/ locally
 ```
 
+### Seed pipeline (adding plants region by region)
+
+The dataset grows one region at a time. A seed file at `scripts/seeds/<region>.txt` lists garden-worthy natives (`Scientific Name | Common Name`, one per line). The pipeline turns that list into review-ready records:
+
+1. `node scripts/scaffold-records.mjs <region>` — mints skeleton records (kebab `id` + empty curated fields, flagged `_needsReview`), deduping by id and scientific name so a species native to several regions is added once. Prints the new ids.
+2. `node scripts/enrich-usda.mjs <new ids…>` — fills `usdaSymbol`, `nativeStates`, `nativeRegions`.
+3. `node scripts/enrich-images.mjs` — downloads bundled thumbnails for any record missing one.
+4. **Curate** the botanical/garden fields (notes, bloom, light, moisture, height…) and drop `_needsReview`.
+5. `node scripts/validate-records.mjs` — gates the batch: fails if any record still has `_needsReview`, a missing required field, no `nativeStates`, or no `imageFile`. Review the diff, then commit.
+
 ### Data enrichment scripts
 
 These are one-shot Node scripts run manually to mutate `src/data/plants.json` in place. They are not part of the build.

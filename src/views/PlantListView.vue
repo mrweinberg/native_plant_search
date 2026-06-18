@@ -1,11 +1,12 @@
 <script setup>
-import { computed, ref, watch } from 'vue'
+import { computed, ref, watch, onMounted } from 'vue'
 import { useRoute, useRouter } from 'vue-router'
 import SearchBar from '../components/SearchBar.vue'
 import FilterPanel from '../components/FilterPanel.vue'
 import PlantCard from '../components/PlantCard.vue'
 import BloomCalendar from '../components/BloomCalendar.vue'
 import { usePlantFilters, MONTH_LABELS } from '../composables/usePlantFilters.js'
+import { useLocation } from '../composables/useLocation.js'
 
 const {
   query,
@@ -82,6 +83,22 @@ function setViewMode(v) {
   else q.view = v
   router.replace({ query: q })
 }
+
+// The home-state chip (App.vue) drives the existing nativeStates filter: write
+// it into the route query so the filter engine does the work. Applied on mount
+// only when the user hasn't already chosen states, and re-applied whenever the
+// chip changes so it stays authoritative for state selection.
+const { location } = useLocation()
+function syncLocationToFilter() {
+  const q = { ...route.query }
+  if (location.value) q.nativeStates = location.value
+  else delete q.nativeStates
+  router.replace({ query: q })
+}
+onMounted(() => {
+  if (location.value && !route.query.nativeStates) syncLocationToFilter()
+})
+watch(location, syncLocationToFilter)
 
 const drawerOpen = ref(false)
 watch(drawerOpen, (open) => {

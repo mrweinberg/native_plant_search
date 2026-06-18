@@ -6,8 +6,10 @@ import BloomCalendar from '../components/BloomCalendar.vue'
 import FavoriteButton from '../components/FavoriteButton.vue'
 import { allPlants, MONTH_LABELS } from '../composables/usePlantFilters.js'
 import { useFavorites } from '../composables/useFavorites.js'
+import { useLocation } from '../composables/useLocation.js'
 
 const { favorites, favoriteSet, clear } = useFavorites()
+const { location } = useLocation()
 
 const plants = computed(() =>
   favorites.value
@@ -58,9 +60,13 @@ const suggestions = computed(() => {
   if (gapMonths.size === 0 || plants.value.length === 0) return []
   const { light, moist } = profile.value
   const have = favoriteSet.value
+  const loc = location.value
   const scored = []
   for (const p of allPlants) {
     if (have.has(p.id)) continue
+    // With a home state set, only suggest plants native there — a national
+    // catalog would otherwise recommend a plant that won't grow in your garden.
+    if (loc && !(p.nativeStates || []).includes(loc)) continue
     const fills = (p.bloomMonths || []).filter((m) => gapMonths.has(m))
     if (!fills.length) continue
     const lOverlap = [...lightSet(p)].filter((x) => light.has(x)).length

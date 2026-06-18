@@ -27011,5 +27011,605 @@
     "imageFile": "plants/diarrhena-americana.jpg",
     "imageSource": "https://en.wikipedia.org/wiki/Diarrhena_americana",
     "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "stokesia-laevis",
+    "scientificName": "Stokesia laevis",
+    "commonNames": [
+      "Stokes' Aster"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AL",
+      "FL",
+      "GA",
+      "LA",
+      "MS"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "blue",
+      "purple",
+      "white"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Southeastern aster with large lavender-blue fringed flowers in early summer. Tolerant of poor, sandy soils and a reliable cut flower.",
+    "usdaSymbol": "STLA6",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/stokesia-laevis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Stokesia_laevis",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "callicarpa-americana",
+    "scientificName": "Callicarpa americana",
+    "commonNames": [
+      "American Beautyberry"
+    ],
+    "family": "Lamiaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "FL",
+      "GA",
+      "LA",
+      "MS",
+      "NC",
+      "OK",
+      "SC",
+      "TN",
+      "TX",
+      "VA"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 6
+    },
+    "spreadFeet": {
+      "min": 3,
+      "max": 6
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "pink",
+      "purple"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "mammals"
+    ],
+    "deerResistant": false,
+    "notes": "Grown for its show-stopping clusters of magenta berries that ring the stems in fall and feed songbirds. Berries make a folk jelly.",
+    "usdaSymbol": "CAAM2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/callicarpa-americana.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Callicarpa_americana",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "spigelia-marilandica",
+    "scientificName": "Spigelia marilandica",
+    "commonNames": [
+      "Indian Pink"
+    ],
+    "family": "Loganiaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "FL",
+      "GA",
+      "IL",
+      "KY",
+      "LA",
+      "MO",
+      "MS",
+      "NC",
+      "OK",
+      "SC",
+      "TN",
+      "TX"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "red",
+      "yellow"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "hummingbirds",
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Woodland gem with upright red tubular flowers flaring to a yellow star inside. A hummingbird magnet for part-shade beds.",
+    "usdaSymbol": "SPMA3",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/spigelia-marilandica.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Spigelia_marilandica",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "hibiscus-coccineus",
+    "scientificName": "Hibiscus coccineus",
+    "commonNames": [
+      "Scarlet Rosemallow"
+    ],
+    "family": "Malvaceae",
+    "nativeStates": [
+      "AL",
+      "FL",
+      "GA",
+      "LA",
+      "NC",
+      "SC",
+      "TX",
+      "VA"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 4,
+      "max": 8
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 3
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "red"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds",
+      "butterflies"
+    ],
+    "deerResistant": false,
+    "notes": "Statuesque swamp mallow with dinner-plate scarlet flowers all summer. Thrives in wet soils and pond edges where few perennials bloom so boldly.",
+    "usdaSymbol": "HICO2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/hibiscus-coccineus.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Hibiscus_coccineus",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "salvia-coccinea",
+    "scientificName": "Salvia coccinea",
+    "commonNames": [
+      "Scarlet Sage"
+    ],
+    "family": "Lamiaceae",
+    "nativeStates": [
+      "AL",
+      "FL",
+      "GA",
+      "HI",
+      "LA",
+      "TX"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "bloomColors": [
+      "red"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "hummingbirds",
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Tropical sage blooms scarlet spikes from late spring to frost and reseeds freely. One of the longest-blooming nectar sources for hummingbirds.",
+    "usdaSymbol": "SACO5",
+    "nativeRegions": [
+      "L48",
+      "PR",
+      "VI"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/salvia-coccinea.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Salvia_coccinea",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "magnolia-grandiflora",
+    "scientificName": "Magnolia grandiflora",
+    "commonNames": [
+      "Southern Magnolia"
+    ],
+    "family": "Magnoliaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CA",
+      "FL",
+      "GA",
+      "LA",
+      "MD",
+      "MS",
+      "NC",
+      "NY",
+      "SC",
+      "TN",
+      "TX",
+      "VA"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 60,
+      "max": 80
+    },
+    "spreadFeet": {
+      "min": 30,
+      "max": 50
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "mammals"
+    ],
+    "deerResistant": false,
+    "notes": "The iconic evergreen of the South: glossy leaves and huge, lemon-scented white blooms. Beetle-pollinated, with cone-like fruit whose red seeds feed wildlife.",
+    "usdaSymbol": "MAGR4",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/magnolia-grandiflora.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Magnolia_grandiflora",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "coreopsis-gladiata",
+    "scientificName": "Coreopsis gladiata",
+    "commonNames": [
+      "Coastal Plain Tickseed"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AL",
+      "FL",
+      "GA",
+      "LA",
+      "MS",
+      "NC",
+      "SC",
+      "TX",
+      "VA"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      9,
+      10,
+      11
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "songbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Fall-blooming tickseed of wet pine savannas, carrying yellow daisies into November when most natives have finished. Good for damp, acidic spots.",
+    "usdaSymbol": "COGL2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/coreopsis-gladiata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Coreopsis_gladiata",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "asclepias-perennis",
+    "scientificName": "Asclepias perennis",
+    "commonNames": [
+      "Aquatic Milkweed"
+    ],
+    "family": "Apocynaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "FL",
+      "GA",
+      "IL",
+      "IN",
+      "KY",
+      "LA",
+      "MO",
+      "MS",
+      "SC",
+      "TN",
+      "TX"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "white",
+      "pink"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "monarch host",
+      "larval host",
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "The milkweed for wet ground: white-to-blush umbels over a long season and a monarch host plant where drier milkweeds won't grow. Often reblooms.",
+    "usdaSymbol": "ASPE",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/asclepias-perennis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Asclepias_perennis",
+    "imageCredit": "Wikimedia"
   }
 ]

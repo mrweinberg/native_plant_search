@@ -1,0 +1,16 @@
+# Southeast U.S. native standouts — garden-worthy species for the SE coastal
+# plain and Piedmont. One species per line: Scientific Name | Common Name
+# Sources: Lady Bird Johnson Wildflower Center, regional native plant societies.
+
+Stokesia laevis | Stokes' Aster
+Callicarpa americana | American Beautyberry
+Spigelia marilandica | Indian Pink
+Hibiscus coccineus | Scarlet Rosemallow
+Salvia coccinea | Scarlet Sage
+Magnolia grandiflora | Southern Magnolia
+Coreopsis gladiata | Coastal Plain Tickseed
+Asclepias perennis | Aquatic Milkweed
+
+# Already in the Ohio set — should be skipped as duplicates:
+Asclepias tuberosa | Butterfly Weed
+Echinacea purpurea | Purple Coneflower
