@@ -28295,5 +28295,649 @@
     "imageFile": "plants/sabal-minor.jpg",
     "imageSource": "https://en.wikipedia.org/wiki/Sabal_minor",
     "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "coreopsis-verticillata",
+    "scientificName": "Coreopsis verticillata",
+    "commonNames": [
+      "Threadleaf Tickseed"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "DC",
+      "IL",
+      "MA",
+      "MD",
+      "NC",
+      "NY",
+      "PA",
+      "SC",
+      "VA"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2.5
+    },
+    "spreadFeet": {
+      "min": 1.5,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Airy, threadleaf foliage smothered in small yellow daisies for months. Drought-proof once established and slowly colonizes to form a soft mound.",
+    "usdaSymbol": "COVE5",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/coreopsis-verticillata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Anacis_verticillata",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "amsonia-hubrichtii",
+    "scientificName": "Amsonia hubrichtii",
+    "commonNames": [
+      "Arkansas Bluestar"
+    ],
+    "family": "Apocynaceae",
+    "nativeStates": [
+      "AR"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 3
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "blue"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Arkansas bluestar pairs powder-blue spring flowers with feathery needle-fine leaves that turn brilliant gold in fall. Named Perennial Plant of the Year for that three-season show.",
+    "usdaSymbol": "AMHU",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/amsonia-hubrichtii.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Amsonia_hubrichtii",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "yucca-filamentosa",
+    "scientificName": "Yucca filamentosa",
+    "commonNames": [
+      "Adam's Needle"
+    ],
+    "family": "Asparagaceae",
+    "nativeStates": [
+      "AL",
+      "CT",
+      "DE",
+      "FL",
+      "GA",
+      "IL",
+      "KY",
+      "MA",
+      "MD",
+      "MO",
+      "MS",
+      "NC",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "SC",
+      "TN",
+      "VA",
+      "WV"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 8
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 3
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky",
+      "loam"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Evergreen rosette of stiff sword leaves edged in curling threads, sending up towering panicles of creamy bells. Pollinated exclusively by the yucca moth.",
+    "usdaSymbol": "YUFI",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/yucca-filamentosa.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Yucca_filamentosa",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "monarda-punctata",
+    "scientificName": "Monarda punctata",
+    "commonNames": [
+      "Spotted Beebalm"
+    ],
+    "family": "Lamiaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "DE",
+      "FL",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "LA",
+      "MA",
+      "MD",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "NJ",
+      "NM",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "WI"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "yellow",
+      "purple",
+      "pink"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Spotted beebalm stacks tiers of purple-dotted yellow flowers above showy pink bracts. A magnet for native bees and predatory wasps, and unfazed by dry sand.",
+    "usdaSymbol": "MOPU",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/monarda-punctata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Monarda_punctata",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "solidago-odora",
+    "scientificName": "Solidago odora",
+    "commonNames": [
+      "Sweet Goldenrod"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DE",
+      "FL",
+      "GA",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "MS",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "SC",
+      "TN",
+      "TX",
+      "VA"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 1.5,
+      "max": 2.5
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      8,
+      9,
+      10
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "songbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Sweet goldenrod's crushed leaves smell of anise and brew a pleasant herbal tea. Arching sprays of yellow feed late-season pollinators on poor, dry soil.",
+    "usdaSymbol": "SOOD",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/solidago-odora.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Solidago_odora",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "pityopsis-graminifolia",
+    "scientificName": "Pityopsis graminifolia",
+    "commonNames": [
+      "Narrowleaf Silkgrass"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "FL",
+      "GA",
+      "KY",
+      "LA",
+      "MD",
+      "MS",
+      "NC",
+      "SC",
+      "TN",
+      "TX",
+      "VA"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      8,
+      9,
+      10
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Silkgrass forms silvery, silk-haired grasslike tufts, then crowns them with yellow asters in fall. One of the best natives for dry, sterile sand.",
+    "usdaSymbol": "PIGR4",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/pityopsis-graminifolia.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Pityopsis_graminifolia",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "crinum-americanum",
+    "scientificName": "Crinum americanum",
+    "commonNames": [
+      "Swamp Lily"
+    ],
+    "family": "Amaryllidaceae",
+    "nativeStates": [
+      "FL",
+      "LA",
+      "MS",
+      "TX"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds"
+    ],
+    "deerResistant": false,
+    "notes": "Swamp lily lofts fragrant, spidery white blooms over standing water and wet ditches all summer. Its long-tubed flowers are worked by night-flying sphinx moths.",
+    "usdaSymbol": "CRAM2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/crinum-americanum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Crinum_americanum",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "gaillardia-pulchella",
+    "scientificName": "Gaillardia pulchella",
+    "commonNames": [
+      "Firewheel"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "AZ",
+      "CA",
+      "CO",
+      "FL",
+      "GA",
+      "HI",
+      "IA",
+      "ID",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "NE",
+      "NJ",
+      "NM",
+      "NV",
+      "NY",
+      "OH",
+      "OK",
+      "OR",
+      "PA",
+      "SC",
+      "SD",
+      "TN",
+      "TX",
+      "UT",
+      "VA",
+      "WA",
+      "WI"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "annual",
+    "heightFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "bloomColors": [
+      "red",
+      "yellow",
+      "orange"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Firewheel spins out red-and-yellow pinwheel daisies from spring to frost on the hottest, driest sites. A free-seeding annual that paints sandy roadsides across the South.",
+    "usdaSymbol": "GAPU",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/gaillardia-pulchella.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Gaillardia_pulchella",
+    "imageCredit": "Wikimedia"
   }
 ]

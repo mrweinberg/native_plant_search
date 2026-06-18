@@ -28,3 +28,15 @@ Baptisia alba | White Wild Indigo
 Chionanthus virginicus | Fringe Tree
 Sabal minor | Dwarf Palmetto
 Chasmanthium latifolium | River Oats
+
+# Batch 3
+Coreopsis verticillata | Threadleaf Tickseed
+Amsonia hubrichtii | Arkansas Bluestar
+Yucca filamentosa | Adam's Needle
+Monarda punctata | Spotted Beebalm
+Solidago odora | Sweet Goldenrod
+Pityopsis graminifolia | Narrowleaf Silkgrass
+Crinum americanum | Swamp Lily
+Lilium superbum | Turk's Cap Lily
+Eragrostis spectabilis | Purple Lovegrass
+Gaillardia pulchella | Firewheel
