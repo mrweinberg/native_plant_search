@@ -1,0 +1,48 @@
+# California floristic province native standouts — oak woodland, chaparral,
+# and coastal scrub. One species per line: Scientific Name | Common Name
+# Sources: Calscape (CNPS), Las Pilitas, Theodore Payne Foundation.
+
+# Trees
+Quercus agrifolia | Coast Live Oak
+Quercus lobata | Valley Oak
+Aesculus californica | California Buckeye
+Cercis occidentalis | Western Redbud
+Umbellularia californica | California Bay
+Arbutus menziesii | Pacific Madrone
+Sequoia sempervirens | Coast Redwood
+Heteromeles arbutifolia | Toyon
+
+# Shrubs
+Ceanothus thyrsiflorus | Blueblossom
+Arctostaphylos manzanita | Common Manzanita
+Fremontodendron californicum | California Flannelbush
+Ribes sanguineum | Red Flowering Currant
+Ribes speciosum | Fuchsia-flowered Gooseberry
+Romneya coulteri | Matilija Poppy
+Salvia clevelandii | Cleveland Sage
+Salvia apiana | White Sage
+Salvia spathacea | Hummingbird Sage
+Diplacus aurantiacus | Sticky Monkeyflower
+Eriogonum fasciculatum | California Buckwheat
+Frangula californica | California Coffeeberry
+Carpenteria californica | Bush Anemone
+Baccharis pilularis | Coyote Brush
+Trichostema lanatum | Woolly Bluecurls
+
+# Forbs
+Eschscholzia californica | California Poppy
+Penstemon heterophyllus | Foothill Penstemon
+Epilobium canum | California Fuchsia
+Sisyrinchium bellum | Western Blue-eyed Grass
+Iris douglasiana | Douglas Iris
+Erigeron glaucus | Seaside Daisy
+Clarkia amoena | Farewell-to-Spring
+Lupinus succulentus | Arroyo Lupine
+Asclepias fascicularis | Narrowleaf Milkweed
+Aquilegia formosa | Western Columbine
+Monardella villosa | Coyote Mint
+
+# Grasses
+Stipa pulchra | Purple Needlegrass
+Muhlenbergia rigens | Deergrass
+Festuca californica | California Fescue
