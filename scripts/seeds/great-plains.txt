@@ -44,3 +44,41 @@ Prunus americana | American Plum
 Rhus trilobata | Skunkbush Sumac
 Shepherdia argentea | Silver Buffaloberry
 Symphoricarpos occidentalis | Western Snowberry
+
+# Batch 2 — rounding out grasses, prairie forbs, dryland shrubs
+Bouteloua hirsuta | Hairy Grama
+Calamovilfa longifolia | Prairie Sandreed
+Sporobolus cryptandrus | Sand Dropseed
+Hesperostipa spartea | Porcupine Grass
+Muhlenbergia cuspidata | Plains Muhly
+Elymus canadensis | Canada Wild Rye
+Carex inops | Sun Sedge
+Asclepias verticillata | Whorled Milkweed
+Asclepias pumila | Plains Milkweed
+Liatris aspera | Rough Blazing Star
+Solidago nemoralis | Gray Goldenrod
+Symphyotrichum ericoides | Heath Aster
+Symphyotrichum sericeum | Silky Aster
+Machaeranthera tanacetifolia | Tahoka Daisy
+Grindelia squarrosa | Curlycup Gumweed
+Helianthus pauciflorus | Stiff Sunflower
+Coreopsis grandiflora | Largeflower Tickseed
+Penstemon angustifolius | Narrowleaf Beardtongue
+Penstemon albidus | White Beardtongue
+Tradescantia occidentalis | Prairie Spiderwort
+Mirabilis multiflora | Colorado Four O'Clock
+Argemone polyanthemos | Crested Prickly Poppy
+Vernonia baldwinii | Western Ironweed
+Astragalus crassicarpus | Ground Plum
+Monarda pectinata | Plains Beebalm
+Lobelia spicata | Pale Spike Lobelia
+Zinnia grandiflora | Plains Zinnia
+Verbena stricta | Hoary Vervain
+Eustoma russellianum | Prairie Gentian
+Anemone canadensis | Canada Anemone
+Dalea villosa | Silky Prairie Clover
+Heliopsis helianthoides | False Sunflower
+Atriplex canescens | Fourwing Saltbush
+Artemisia frigida | Prairie Sagewort
+Krascheninnikovia lanata | Winterfat
+Ribes odoratum | Clove Currant
