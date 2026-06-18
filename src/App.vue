@@ -42,6 +42,11 @@ const tagline = computed(() =>
     <main>
       <RouterView />
     </main>
+    <footer class="app-footer">
+      <span>❧ Bedfellow</span>
+      <span class="dot">·</span>
+      <RouterLink :to="{ name: 'sources' }">Sources &amp; data</RouterLink>
+    </footer>
   </div>
 </template>
 
@@ -111,6 +116,19 @@ const tagline = computed(() =>
 }
 .nav-link-active .count { background: rgba(255, 255, 255, 0.85); color: var(--accent); }
 main { padding: 24px; max-width: 1280px; margin: 0 auto; }
+.app-footer {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 20px 24px 32px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  color: var(--ink-soft);
+  font-size: 13px;
+}
+.app-footer a { color: var(--ink-soft); }
+.app-footer a:hover { color: var(--accent); }
+.app-footer .dot { opacity: 0.5; }
 @media (max-width: 800px) {
   .app-header { padding: 10px 14px; flex-wrap: wrap; gap: 8px; }
   .brand { font-size: 16px; }
