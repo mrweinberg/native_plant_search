@@ -205,7 +205,7 @@ function fmtRange(r, unit) {
     </section>
 
     <section class="group companions" v-if="companions.length">
-      <h2>Companion plants</h2>
+      <h2>Plants that could thrive together</h2>
       <div class="companions-sub">Thrives in similar conditions</div>
       <div class="companions-row">
         <PlantCard v-for="c in companions" :key="c.id" :plant="c" />
