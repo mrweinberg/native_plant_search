@@ -1,0 +1,46 @@
+# Great Plains native standouts — tallgrass to shortgrass prairie, favoring
+# the mixed/shortgrass and western species least covered by the eastern set.
+# One species per line: Scientific Name | Common Name
+# Sources: Xerces Society, regional native plant societies, prairie nurseries.
+
+# Grasses
+Bouteloua gracilis | Blue Grama
+Bouteloua dactyloides | Buffalograss
+Bouteloua curtipendula | Sideoats Grama
+Hesperostipa comata | Needle and Thread
+Nassella viridula | Green Needlegrass
+Koeleria macrantha | Prairie Junegrass
+Pascopyrum smithii | Western Wheatgrass
+Sporobolus heterolepis | Prairie Dropseed
+
+# Forbs
+Liatris punctata | Dotted Blazing Star
+Liatris ligulistylis | Rocky Mountain Blazing Star
+Dalea purpurea | Purple Prairie Clover
+Dalea candida | White Prairie Clover
+Echinacea angustifolia | Narrowleaf Coneflower
+Ratibida columnifera | Mexican Hat
+Asclepias speciosa | Showy Milkweed
+Asclepias viridis | Green Antelopehorn
+Gaillardia aristata | Blanketflower
+Penstemon grandiflorus | Large Beardtongue
+Penstemon cobaea | Cobaea Beardtongue
+Oenothera macrocarpa | Missouri Evening Primrose
+Callirhoe involucrata | Purple Poppymallow
+Amorpha canescens | Leadplant
+Helianthus maximiliani | Maximilian Sunflower
+Sphaeralcea coccinea | Scarlet Globemallow
+Glandularia bipinnatifida | Prairie Verbena
+Baptisia bracteata | Cream Wild Indigo
+Pulsatilla patens | Pasque Flower
+Allium stellatum | Prairie Onion
+Solidago missouriensis | Missouri Goldenrod
+Symphyotrichum oblongifolium | Aromatic Aster
+Castilleja sessiliflora | Downy Paintbrush
+Yucca glauca | Soapweed Yucca
+
+# Shrubs
+Prunus americana | American Plum
+Rhus trilobata | Skunkbush Sumac
+Shepherdia argentea | Silver Buffaloberry
+Symphoricarpos occidentalis | Western Snowberry

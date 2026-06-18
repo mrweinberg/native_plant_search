@@ -36046,5 +36046,2727 @@
     "imageFile": "plants/carex-cherokeensis.jpg",
     "imageSource": "https://en.wikipedia.org/wiki/Carex_cherokeensis",
     "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "bouteloua-gracilis",
+    "scientificName": "Bouteloua gracilis",
+    "commonNames": [
+      "Blue Grama"
+    ],
+    "family": "Poaceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "CO",
+      "IA",
+      "KS",
+      "MN",
+      "MO",
+      "MT",
+      "ND",
+      "NE",
+      "NM",
+      "NV",
+      "OK",
+      "SD",
+      "TX",
+      "UT",
+      "WY"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "clay",
+      "rocky"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "brown",
+      "purple"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host"
+    ],
+    "deerResistant": true,
+    "notes": "Shortgrass-prairie staple with distinctive comb- or eyebrow-shaped seed heads held out sideways. Drought-iron, low, and an excellent no-water lawn alternative.",
+    "usdaSymbol": "BOGR2",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/bouteloua-gracilis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Bouteloua_gracilis",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "bouteloua-dactyloides",
+    "scientificName": "Bouteloua dactyloides",
+    "commonNames": [
+      "Buffalograss"
+    ],
+    "family": "Poaceae",
+    "nativeStates": [
+      "CO",
+      "IL",
+      "KS",
+      "MN",
+      "MO",
+      "MT",
+      "NE",
+      "NM",
+      "OK",
+      "SD",
+      "TX",
+      "WY"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.3,
+      "max": 0.8
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "brown"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host"
+    ],
+    "deerResistant": true,
+    "notes": "Fine, sod-forming shortgrass that carpeted the buffalo plains. Spreads by runners into a soft, mowable, drought-proof native lawn.",
+    "usdaSymbol": "BODA2",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/bouteloua-dactyloides.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Bouteloua_dactyloides",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "hesperostipa-comata",
+    "scientificName": "Hesperostipa comata",
+    "commonNames": [
+      "Needle and Thread"
+    ],
+    "family": "Poaceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "CO",
+      "ID",
+      "KS",
+      "MN",
+      "MT",
+      "ND",
+      "NE",
+      "NM",
+      "NV",
+      "OR",
+      "SD",
+      "TX",
+      "UT",
+      "WA",
+      "WY"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "brown",
+      "white"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Cool-season bunchgrass named for its long, twisting needle-like awns that shimmer in the light. An emblem of the northern mixed-grass prairie.",
+    "usdaSymbol": "HECO26",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/hesperostipa-comata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Hesperostipa_comata",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "nassella-viridula",
+    "scientificName": "Nassella viridula",
+    "commonNames": [
+      "Green Needlegrass"
+    ],
+    "family": "Poaceae",
+    "nativeStates": [
+      "CO",
+      "IA",
+      "MN",
+      "MT",
+      "ND",
+      "NE",
+      "SD",
+      "WA",
+      "WY"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Cool-season relative of needle-and-thread with finer awns and high forage value. Greens up early across the northern plains.",
+    "usdaSymbol": "NAVI4",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/nassella-viridula.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Nassella_viridula",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "koeleria-macrantha",
+    "scientificName": "Koeleria macrantha",
+    "commonNames": [
+      "Prairie Junegrass"
+    ],
+    "family": "Poaceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "CO",
+      "IA",
+      "ID",
+      "IL",
+      "IN",
+      "KS",
+      "MI",
+      "MN",
+      "MO",
+      "MT",
+      "ND",
+      "NE",
+      "NM",
+      "NV",
+      "OR",
+      "SD",
+      "TX",
+      "UT",
+      "WA",
+      "WI",
+      "WY"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "green",
+      "white"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "songbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Compact, cool-season bunchgrass with shimmering silvery-green flower spikes in early summer. Tidy enough for the front of a dry border.",
+    "usdaSymbol": "KOMA",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/koeleria-macrantha.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Koeleria_macrantha",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "pascopyrum-smithii",
+    "scientificName": "Pascopyrum smithii",
+    "commonNames": [
+      "Western Wheatgrass"
+    ],
+    "family": "Poaceae",
+    "nativeStates": [
+      "AZ",
+      "CO",
+      "IA",
+      "ID",
+      "KS",
+      "MN",
+      "MT",
+      "NE",
+      "NM",
+      "NV",
+      "OR",
+      "SD",
+      "TX",
+      "UT",
+      "WA",
+      "WY"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "clay",
+      "loam"
+    ],
+    "bloomMonths": [
+      6,
+      7
+    ],
+    "bloomColors": [
+      "green",
+      "blue"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host"
+    ],
+    "deerResistant": true,
+    "notes": "Blue-green, rhizomatous wheatgrass that knits heavy clay and gumbo soils. A backbone forage grass of the northern plains.",
+    "usdaSymbol": "PASM",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/pascopyrum-smithii.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Pascopyrum",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "liatris-punctata",
+    "scientificName": "Liatris punctata",
+    "commonNames": [
+      "Dotted Blazing Star"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AR",
+      "CO",
+      "IA",
+      "KS",
+      "MN",
+      "MO",
+      "MT",
+      "ND",
+      "NE",
+      "NM",
+      "OK",
+      "SD",
+      "TX",
+      "WY"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      8,
+      9,
+      10
+    ],
+    "bloomColors": [
+      "purple",
+      "pink"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "monarch nectar"
+    ],
+    "deerResistant": true,
+    "notes": "Shortgrass blazing star whose deep taproot lets it bloom rosy-purple straight through drought. A critical late nectar source for migrating monarchs.",
+    "usdaSymbol": "LIPU",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/liatris-punctata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Liatris_punctata",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "liatris-ligulistylis",
+    "scientificName": "Liatris ligulistylis",
+    "commonNames": [
+      "Rocky Mountain Blazing Star"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "CO",
+      "MN",
+      "ND",
+      "SD",
+      "WI"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      8,
+      9
+    ],
+    "bloomColors": [
+      "purple"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "monarch nectar"
+    ],
+    "deerResistant": true,
+    "notes": "Renowned as a monarch magnet above all other plants, its big rose-purple buttons seethe with butterflies in late summer. Prefers moister prairie soil.",
+    "usdaSymbol": "LILI",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/liatris-ligulistylis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Liatris_ligulistylis",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "dalea-purpurea",
+    "scientificName": "Dalea purpurea",
+    "commonNames": [
+      "Purple Prairie Clover"
+    ],
+    "family": "Fabaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CO",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "MT",
+      "ND",
+      "NE",
+      "NM",
+      "OH",
+      "OK",
+      "SD",
+      "TN",
+      "TX",
+      "WI",
+      "WY"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "purple"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": true,
+    "notes": "Thimble-shaped heads ringed by a moving halo of orange-tipped purple florets. A nitrogen-fixing prairie legume beloved by native bees.",
+    "usdaSymbol": "DAPU5",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/dalea-purpurea.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Dalea_purpurea",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "dalea-candida",
+    "scientificName": "Dalea candida",
+    "commonNames": [
+      "White Prairie Clover"
+    ],
+    "family": "Fabaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "AZ",
+      "CO",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MN",
+      "MO",
+      "MS",
+      "MT",
+      "ND",
+      "NE",
+      "NM",
+      "OK",
+      "SD",
+      "TN",
+      "TX",
+      "UT",
+      "WI",
+      "WY"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2.5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": true,
+    "notes": "The white-flowered counterpart to purple prairie clover, with cylindrical cream blooms. Deep-rooted, drought-proof, and a pollinator favorite.",
+    "usdaSymbol": "DACA7",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/dalea-candida.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Dalea_candida",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "echinacea-angustifolia",
+    "scientificName": "Echinacea angustifolia",
+    "commonNames": [
+      "Narrowleaf Coneflower"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "IA",
+      "KS",
+      "MN",
+      "MT",
+      "ND",
+      "NE",
+      "OK",
+      "SD",
+      "TX",
+      "WY"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "pink",
+      "purple"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "songbirds"
+    ],
+    "deerResistant": true,
+    "notes": "The true plains coneflower, shorter than its garden cousins with narrow, drooping pale-pink rays. Legendary in Plains Indian medicine and tough as nails.",
+    "usdaSymbol": "ECAN2",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/echinacea-angustifolia.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Echinacea_angustifolia",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "ratibida-columnifera",
+    "scientificName": "Ratibida columnifera",
+    "commonNames": [
+      "Mexican Hat"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "AZ",
+      "CA",
+      "CO",
+      "FL",
+      "IA",
+      "ID",
+      "IL",
+      "KS",
+      "LA",
+      "MN",
+      "MO",
+      "MT",
+      "NC",
+      "ND",
+      "NE",
+      "NM",
+      "OH",
+      "OK",
+      "SD",
+      "TX",
+      "UT",
+      "WI",
+      "WY"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "clay",
+      "rocky"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "yellow",
+      "red"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "songbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Whimsical sombrero-shaped flowers with a tall central cone and drooping yellow-to-mahogany rays. Blooms all summer and reseeds happily in lean soil.",
+    "usdaSymbol": "RACO3",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/ratibida-columnifera.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Ratibida_columnifera",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "asclepias-speciosa",
+    "scientificName": "Asclepias speciosa",
+    "commonNames": [
+      "Showy Milkweed"
+    ],
+    "family": "Apocynaceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "CO",
+      "IA",
+      "ID",
+      "KS",
+      "MN",
+      "MT",
+      "ND",
+      "NE",
+      "NM",
+      "NV",
+      "OK",
+      "OR",
+      "SD",
+      "TX",
+      "UT",
+      "WA",
+      "WY"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "pink"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "monarch host",
+      "larval host",
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "The West's answer to common milkweed, with velvety leaves and big star-studded pink flower balls. A premier monarch host that spreads by rhizome.",
+    "usdaSymbol": "ASSP",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/asclepias-speciosa.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Asclepias_speciosa",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "asclepias-viridis",
+    "scientificName": "Asclepias viridis",
+    "commonNames": [
+      "Green Antelopehorn"
+    ],
+    "family": "Apocynaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "FL",
+      "GA",
+      "IL",
+      "KS",
+      "KY",
+      "LA",
+      "MO",
+      "MS",
+      "NE",
+      "OH",
+      "OK",
+      "TN",
+      "TX"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "clay",
+      "rocky"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "green",
+      "purple"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "monarch host",
+      "larval host",
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Low, sprawling milkweed of the southern plains with showy green-and-purple flower clusters. An important early monarch host, even on overgrazed ground.",
+    "usdaSymbol": "ASVI2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/asclepias-viridis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Asclepias_viridis",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "gaillardia-aristata",
+    "scientificName": "Gaillardia aristata",
+    "commonNames": [
+      "Blanketflower"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "CA",
+      "CO",
+      "ID",
+      "MN",
+      "MT",
+      "ND",
+      "OR",
+      "SD",
+      "UT",
+      "WA",
+      "WY"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2.5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "red",
+      "yellow",
+      "orange"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "The perennial blanketflower, spinning out big red-and-gold daisies all summer. Parent of countless hybrids but tougher and longer-lived than any of them.",
+    "usdaSymbol": "GAAR",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/gaillardia-aristata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Gaillardia_aristata",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "penstemon-grandiflorus",
+    "scientificName": "Penstemon grandiflorus",
+    "commonNames": [
+      "Large Beardtongue"
+    ],
+    "family": "Plantaginaceae",
+    "nativeStates": [
+      "AK",
+      "AL",
+      "AR",
+      "AZ",
+      "CA",
+      "CO",
+      "CT",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "IA",
+      "ID",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "MT",
+      "NC",
+      "ND",
+      "NE",
+      "NH",
+      "NJ",
+      "NM",
+      "NV",
+      "NY",
+      "OH",
+      "OK",
+      "OR",
+      "PA",
+      "SC",
+      "SD",
+      "TN",
+      "TX",
+      "UT",
+      "VA",
+      "VT",
+      "WA",
+      "WI",
+      "WV",
+      "WY"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "pink",
+      "purple",
+      "blue"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Showiest of the prairie penstemons, with big lavender-blue bells up smooth, waxy blue-green stems. A bumblebee magnet on dry, sandy ground.",
+    "usdaSymbol": "PEGR7",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/penstemon-grandiflorus.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Penstemon_grandiflorus",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "penstemon-cobaea",
+    "scientificName": "Penstemon cobaea",
+    "commonNames": [
+      "Cobaea Beardtongue"
+    ],
+    "family": "Plantaginaceae",
+    "nativeStates": [
+      "AR",
+      "KS",
+      "MO",
+      "NE",
+      "OK",
+      "TX"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "loam",
+      "clay",
+      "rocky"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "purple",
+      "white",
+      "pink"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Oversized, foxglove-like flowers in pale purple veined within, on a stout southern-plains penstemon. Thrives in heavy, rocky, limy soils.",
+    "usdaSymbol": "PECO4",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/penstemon-cobaea.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Penstemon_cobaea",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "oenothera-macrocarpa",
+    "scientificName": "Oenothera macrocarpa",
+    "commonNames": [
+      "Missouri Evening Primrose"
+    ],
+    "family": "Onagraceae",
+    "nativeStates": [
+      "AR",
+      "CO",
+      "KS",
+      "MO",
+      "NE",
+      "OK",
+      "TN",
+      "TX"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Sprawling rock-garden gem unfurling huge, papery lemon cups at dusk, followed by winged seedpods. Built for hot, dry limestone soils.",
+    "usdaSymbol": "OEMA",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/oenothera-macrocarpa.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Oenothera_macrocarpa",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "callirhoe-involucrata",
+    "scientificName": "Callirhoe involucrata",
+    "commonNames": [
+      "Purple Poppymallow"
+    ],
+    "family": "Malvaceae",
+    "nativeStates": [
+      "CO",
+      "IL",
+      "KS",
+      "MO",
+      "NE",
+      "NM",
+      "OK",
+      "TX"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 3
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "purple",
+      "pink"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Trailing groundcover studded for months with chalice-shaped magenta flowers. A deep taproot makes it utterly drought-proof.",
+    "usdaSymbol": "CAIN2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/callirhoe-involucrata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Callirhoe_involucrata",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "amorpha-canescens",
+    "scientificName": "Amorpha canescens",
+    "commonNames": [
+      "Leadplant"
+    ],
+    "family": "Fabaceae",
+    "nativeStates": [
+      "AR",
+      "CO",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "MI",
+      "MN",
+      "MO",
+      "ND",
+      "NE",
+      "NM",
+      "OK",
+      "SD",
+      "TX",
+      "WI"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      6,
+      7
+    ],
+    "bloomColors": [
+      "purple"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": true,
+    "notes": "Silvery, felted foliage topped by spikes of tiny purple flowers lit with orange anthers. A deep-rooted legume that signals healthy, intact prairie.",
+    "usdaSymbol": "AMCA6",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/amorpha-canescens.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Amorpha_canescens",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "helianthus-maximiliani",
+    "scientificName": "Helianthus maximiliani",
+    "commonNames": [
+      "Maximilian Sunflower"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AR",
+      "CO",
+      "IA",
+      "IL",
+      "KS",
+      "MI",
+      "MN",
+      "MO",
+      "MT",
+      "ND",
+      "NE",
+      "NM",
+      "OK",
+      "SD",
+      "TN",
+      "TX",
+      "VA",
+      "WI"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 8
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      8,
+      9,
+      10
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "songbirds"
+    ],
+    "deerResistant": false,
+    "notes": "Towering late-season sunflower lining its tall stems with golden blooms top to bottom. A pollinator and songbird feast that can spread vigorously.",
+    "usdaSymbol": "HEMA2",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/helianthus-maximiliani.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Helianthus_maximiliani",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "sphaeralcea-coccinea",
+    "scientificName": "Sphaeralcea coccinea",
+    "commonNames": [
+      "Scarlet Globemallow"
+    ],
+    "family": "Malvaceae",
+    "nativeStates": [
+      "AZ",
+      "CO",
+      "ID",
+      "KS",
+      "MT",
+      "ND",
+      "NE",
+      "NM",
+      "OK",
+      "SD",
+      "TX",
+      "UT",
+      "WY"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "clay",
+      "rocky"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "orange",
+      "red"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Low, silvery-leaved mallow dotting the shortgrass plains with apricot-orange cups all summer. Spreads by rhizome and thrives on the driest, hardest ground.",
+    "usdaSymbol": "SPCO",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/sphaeralcea-coccinea.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Sphaeralcea_coccinea",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "glandularia-bipinnatifida",
+    "scientificName": "Glandularia bipinnatifida",
+    "commonNames": [
+      "Prairie Verbena"
+    ],
+    "family": "Verbenaceae",
+    "nativeStates": [
+      "AZ",
+      "CO",
+      "KS",
+      "NM",
+      "OK",
+      "TX"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "bloomColors": [
+      "purple",
+      "pink"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Ferny-leaved groundcover smothered in rounded clusters of rose-purple flowers nearly year-round. A tireless nectar source on hot, dry sites.",
+    "usdaSymbol": "GLBI2",
+    "nativeRegions": [
+      "L48",
+      "PR"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/glandularia-bipinnatifida.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Verbena_bipinnatifida",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "baptisia-bracteata",
+    "scientificName": "Baptisia bracteata",
+    "commonNames": [
+      "Cream Wild Indigo"
+    ],
+    "family": "Fabaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MN",
+      "MO",
+      "NE",
+      "OK",
+      "SC",
+      "TX",
+      "WI"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 3
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "white",
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": true,
+    "notes": "Low, wide wild indigo with arching sprays of creamy-yellow pea flowers held nearly horizontal in spring. Long-lived and deeply drought-rooted.",
+    "usdaSymbol": "BABR2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/baptisia-bracteata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Baptisia_bracteata",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "pulsatilla-patens",
+    "scientificName": "Pulsatilla patens",
+    "commonNames": [
+      "Pasque Flower"
+    ],
+    "family": "Ranunculaceae",
+    "nativeStates": [
+      "AK",
+      "CO",
+      "MN",
+      "MT",
+      "SD",
+      "WY"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.3,
+      "max": 0.8
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "purple",
+      "white"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "One of the very first prairie flowers of spring, opening silky lavender cups over hairy, ferny foliage, then trailing feathery seed plumes.",
+    "usdaSymbol": "PUPA5",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/pulsatilla-patens.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Pulsatilla_patens",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "allium-stellatum",
+    "scientificName": "Allium stellatum",
+    "commonNames": [
+      "Prairie Onion"
+    ],
+    "family": "Amaryllidaceae",
+    "nativeStates": [
+      "AR",
+      "IA",
+      "IL",
+      "KS",
+      "MN",
+      "MO",
+      "ND",
+      "OK",
+      "SD",
+      "TX",
+      "WI"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "pink"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Late-summer native onion topping grassy clumps with starry pink flower domes. Pollinator-rich, deer-proof, and at home on dry rocky glades.",
+    "usdaSymbol": "ALST",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/allium-stellatum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Allium_stellatum",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "solidago-missouriensis",
+    "scientificName": "Solidago missouriensis",
+    "commonNames": [
+      "Missouri Goldenrod"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AR",
+      "AZ",
+      "CO",
+      "IA",
+      "ID",
+      "IL",
+      "IN",
+      "KS",
+      "MN",
+      "MO",
+      "MT",
+      "ND",
+      "NE",
+      "NM",
+      "NV",
+      "OK",
+      "OR",
+      "SD",
+      "TN",
+      "TX",
+      "UT",
+      "WA",
+      "WI",
+      "WY"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "songbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Well-behaved, early goldenrod of the dry plains with arching golden plumes for late pollinators. Tougher and less aggressive than its eastern kin.",
+    "usdaSymbol": "SOMI2",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/solidago-missouriensis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Solidago_missouriensis",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "symphyotrichum-oblongifolium",
+    "scientificName": "Symphyotrichum oblongifolium",
+    "commonNames": [
+      "Aromatic Aster"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AR",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "MD",
+      "MN",
+      "MO",
+      "ND",
+      "NE",
+      "OH",
+      "OK",
+      "PA",
+      "SD",
+      "TN",
+      "TX",
+      "VA",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 3
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      9,
+      10,
+      11
+    ],
+    "bloomColors": [
+      "purple",
+      "blue"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Mounding aster whose balsam-scented foliage is buried under violet-blue daisies very late in the season. A drought-tough finale for pollinators before frost.",
+    "usdaSymbol": "SYOB",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/symphyotrichum-oblongifolium.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Symphyotrichum_oblongifolium",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "castilleja-sessiliflora",
+    "scientificName": "Castilleja sessiliflora",
+    "commonNames": [
+      "Downy Paintbrush"
+    ],
+    "family": "Orobanchaceae",
+    "nativeStates": [
+      "CO",
+      "IA",
+      "IL",
+      "KS",
+      "MN",
+      "MO",
+      "MT",
+      "ND",
+      "NE",
+      "NM",
+      "OK",
+      "SD",
+      "TX",
+      "WI",
+      "WY"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "pink",
+      "yellow",
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Soft, downy paintbrush of the shortgrass plains with pale pink-and-cream tubular bracts. Like its kin it is hemiparasitic, tapping the roots of neighboring grasses.",
+    "usdaSymbol": "CASE5",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/castilleja-sessiliflora.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Castilleja_sessiliflora",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "yucca-glauca",
+    "scientificName": "Yucca glauca",
+    "commonNames": [
+      "Soapweed Yucca"
+    ],
+    "family": "Asparagaceae",
+    "nativeStates": [
+      "CO",
+      "IA",
+      "KS",
+      "MO",
+      "MT",
+      "ND",
+      "NE",
+      "NM",
+      "OK",
+      "SD",
+      "TX",
+      "WY"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 3
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "white",
+      "green"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "The plains yucca, a low rosette of blue-green blades sending up a spike of greenish-white bells. Pollinated solely by the yucca moth and an icon of dry shortgrass country.",
+    "usdaSymbol": "YUGL",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/yucca-glauca.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Yucca_glauca",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "prunus-americana",
+    "scientificName": "Prunus americana",
+    "commonNames": [
+      "American Plum"
+    ],
+    "family": "Rosaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CO",
+      "CT",
+      "FL",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "MT",
+      "NC",
+      "NE",
+      "NJ",
+      "NM",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "SC",
+      "SD",
+      "TN",
+      "TX",
+      "UT",
+      "VA",
+      "WI",
+      "WV",
+      "WY"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 10,
+      "max": 20
+    },
+    "spreadFeet": {
+      "min": 10,
+      "max": 20
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "mammals"
+    ],
+    "deerResistant": false,
+    "notes": "Thicket-forming wild plum that clouds the early-spring prairie edge in fragrant white bloom, then bears tart red fruit for jelly and wildlife. Suckers into protective hedgerows.",
+    "usdaSymbol": "PRAM",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/prunus-americana.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Prunus_americana",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "rhus-trilobata",
+    "scientificName": "Rhus trilobata",
+    "commonNames": [
+      "Skunkbush Sumac"
+    ],
+    "family": "Anacardiaceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "CO",
+      "ID",
+      "KS",
+      "MT",
+      "ND",
+      "NE",
+      "NM",
+      "NV",
+      "OK",
+      "SD",
+      "TX",
+      "UT",
+      "WY"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 6
+    },
+    "spreadFeet": {
+      "min": 4,
+      "max": 8
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Aromatic, three-lobed-leaved sumac with fuzzy red berries and fiery fall color. Extremely drought- and cold-hardy for banks and windbreaks.",
+    "usdaSymbol": "RHTR",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/rhus-trilobata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Rhus_trilobata",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "shepherdia-argentea",
+    "scientificName": "Shepherdia argentea",
+    "commonNames": [
+      "Silver Buffaloberry"
+    ],
+    "family": "Elaeagnaceae",
+    "nativeStates": [
+      "CA",
+      "CO",
+      "MN",
+      "MT",
+      "ND",
+      "NE",
+      "NV",
+      "OR",
+      "SD",
+      "UT",
+      "WY"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 6,
+      "max": 15
+    },
+    "spreadFeet": {
+      "min": 6,
+      "max": 12
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Thorny, silver-leaved shrub bearing tart scarlet berries prized for jelly and by birds. A nitrogen-fixer that thrives on alkaline, saline, drought-stricken ground.",
+    "usdaSymbol": "SHAR",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/shepherdia-argentea.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Shepherdia_argentea",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "symphoricarpos-occidentalis",
+    "scientificName": "Symphoricarpos occidentalis",
+    "commonNames": [
+      "Western Snowberry"
+    ],
+    "family": "Caprifoliaceae",
+    "nativeStates": [
+      "CO",
+      "IA",
+      "ID",
+      "IL",
+      "KS",
+      "MN",
+      "MT",
+      "ND",
+      "NE",
+      "SD",
+      "WI",
+      "WY"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 3,
+      "max": 6
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "clay",
+      "rocky"
+    ],
+    "bloomMonths": [
+      6,
+      7
+    ],
+    "bloomColors": [
+      "pink",
+      "white"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Low, suckering shrub with pink bell flowers and clusters of waxy white berries that persist into winter for birds. Colonizes to hold prairie swales and slopes.",
+    "usdaSymbol": "SYOC",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/symphoricarpos-occidentalis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Symphoricarpos_occidentalis",
+    "imageCredit": "Wikimedia"
   }
 ]
