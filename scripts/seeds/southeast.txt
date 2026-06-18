@@ -14,3 +14,17 @@ Asclepias perennis | Aquatic Milkweed
 # Already in the Ohio set — should be skipped as duplicates:
 Asclepias tuberosa | Butterfly Weed
 Echinacea purpurea | Purple Coneflower
+
+# Batch 2
+Muhlenbergia capillaris | Pink Muhly Grass
+Ilex vomitoria | Yaupon Holly
+Itea virginica | Virginia Sweetspire
+Fothergilla gardenii | Dwarf Fothergilla
+Aesculus parviflora | Bottlebrush Buckeye
+Clethra alnifolia | Coastal Sweetpepperbush
+Rudbeckia maxima | Giant Coneflower
+Helianthus angustifolius | Swamp Sunflower
+Baptisia alba | White Wild Indigo
+Chionanthus virginicus | Fringe Tree
+Sabal minor | Dwarf Palmetto
+Chasmanthium latifolium | River Oats

@@ -39,8 +39,8 @@ const colorMap = {
         <div class="sci">{{ plant.scientificName }}</div>
       </div>
       <div class="meta">
-        <span class="badge">{{ plant.generalAppearance }}</span>
-        <span class="badge">{{ plant.heightFeet.min }}–{{ plant.heightFeet.max }} ft</span>
+        <span v-if="plant.generalAppearance" class="badge">{{ plant.generalAppearance }}</span>
+        <span v-if="plant.heightFeet" class="badge">{{ plant.heightFeet.min }}–{{ plant.heightFeet.max }} ft</span>
       </div>
       <div class="traits" v-if="plant.cutFlower || plant.culinaryUse || plant.spreadHabit === 'aggressive'">
         <span v-if="plant.cutFlower" class="trait trait-cut" title="Good for cut-flower arrangements">✂ Cut flower</span>

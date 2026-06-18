@@ -27611,5 +27611,689 @@
     "imageFile": "plants/asclepias-perennis.jpg",
     "imageSource": "https://en.wikipedia.org/wiki/Asclepias_perennis",
     "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "muhlenbergia-capillaris",
+    "scientificName": "Muhlenbergia capillaris",
+    "commonNames": [
+      "Pink Muhly Grass"
+    ],
+    "family": "Poaceae",
+    "nativeStates": [
+      "AL",
+      "FL",
+      "GA",
+      "KS",
+      "LA",
+      "MO",
+      "MS",
+      "NC",
+      "SC",
+      "TN",
+      "TX",
+      "VA"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 3
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      9,
+      10,
+      11
+    ],
+    "bloomColors": [
+      "pink",
+      "purple"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Pink muhly grass erupts into a haze of rosy-pink seed heads in fall, glowing when backlit. Tough, drought-tolerant, and unbothered by poor soils.",
+    "usdaSymbol": "MUCA2",
+    "nativeRegions": [
+      "L48",
+      "PR"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/muhlenbergia-capillaris.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Muhlenbergia_capillaris",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "ilex-vomitoria",
+    "scientificName": "Ilex vomitoria",
+    "commonNames": [
+      "Yaupon Holly"
+    ],
+    "family": "Aquifoliaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "FL",
+      "GA",
+      "LA",
+      "MS",
+      "NC",
+      "OK",
+      "SC",
+      "TN",
+      "TX",
+      "VA"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 10,
+      "max": 20
+    },
+    "spreadFeet": {
+      "min": 8,
+      "max": 12
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5
+    ],
+    "bloomColors": [
+      "white",
+      "green"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Tough evergreen holly with translucent red berries that persist into winter for birds. The only native plant containing caffeine — its leaves brew the traditional yaupon tea.",
+    "usdaSymbol": "ILVO",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/ilex-vomitoria.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Ilex_vomitoria",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "fothergilla-gardenii",
+    "scientificName": "Fothergilla gardenii",
+    "commonNames": [
+      "Dwarf Fothergilla"
+    ],
+    "family": "Hamamelidaceae",
+    "nativeStates": [
+      "GA",
+      "NC",
+      "SC"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 3
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Dwarf shrub with honey-scented white bottlebrush flowers in spring and spectacular orange-red-yellow foliage in fall. Wants moist, acidic soil.",
+    "usdaSymbol": "FOGA",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/fothergilla-gardenii.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Fothergilla_gardenii",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "aesculus-parviflora",
+    "scientificName": "Aesculus parviflora",
+    "commonNames": [
+      "Bottlebrush Buckeye"
+    ],
+    "family": "Sapindaceae",
+    "nativeStates": [
+      "AL",
+      "GA",
+      "IL",
+      "MA",
+      "MD",
+      "NC",
+      "NY",
+      "PA"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 8,
+      "max": 12
+    },
+    "spreadFeet": {
+      "min": 8,
+      "max": 15
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      6,
+      7
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "A suckering buckeye that lights up summer shade with foot-tall white flower spikes. One of the best native shrubs for dry shade under high canopy.",
+    "usdaSymbol": "AEPA2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/aesculus-parviflora.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Aesculus_parviflora",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "clethra-alnifolia",
+    "scientificName": "Clethra alnifolia",
+    "commonNames": [
+      "Coastal Sweetpepperbush"
+    ],
+    "family": "Clethraceae",
+    "nativeStates": [
+      "AL",
+      "CT",
+      "DE",
+      "FL",
+      "GA",
+      "IL",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MS",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "PA",
+      "RI",
+      "SC",
+      "TX",
+      "VA"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 8
+    },
+    "spreadFeet": {
+      "min": 4,
+      "max": 6
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      7,
+      8
+    ],
+    "bloomColors": [
+      "white",
+      "pink"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "hummingbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Summersweet perfumes mid-summer with spires of white-to-pink flowers that bees and butterflies swarm. Thrives in wet soil and shade where few shrubs bloom.",
+    "usdaSymbol": "CLAL3",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/clethra-alnifolia.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Clethra_alnifolia",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "rudbeckia-maxima",
+    "scientificName": "Rudbeckia maxima",
+    "commonNames": [
+      "Giant Coneflower"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AR",
+      "LA",
+      "TX"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 5,
+      "max": 7
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 3
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "songbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Giant coneflower towers to seven feet with paddle-shaped blue-green basal leaves and yellow daisies around tall black cones. Goldfinches strip the winter seed heads.",
+    "usdaSymbol": "RUMA3",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/rudbeckia-maxima.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Rudbeckia_maxima",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "helianthus-angustifolius",
+    "scientificName": "Helianthus angustifolius",
+    "commonNames": [
+      "Swamp Sunflower"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "DE",
+      "FL",
+      "GA",
+      "KY",
+      "LA",
+      "MD",
+      "MS",
+      "NC",
+      "NJ",
+      "NY",
+      "OK",
+      "SC",
+      "TN",
+      "TX",
+      "VA"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 5,
+      "max": 8
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      9,
+      10,
+      11
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "songbirds"
+    ],
+    "deerResistant": false,
+    "notes": "Swamp sunflower blankets itself in golden daisies in fall, a late-season feast for pollinators. Loves wet feet and will colonize damp ground.",
+    "usdaSymbol": "HEAN2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/helianthus-angustifolius.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Helianthus_angustifolius",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "chionanthus-virginicus",
+    "scientificName": "Chionanthus virginicus",
+    "commonNames": [
+      "Fringe Tree"
+    ],
+    "family": "Oleaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "IL",
+      "KY",
+      "LA",
+      "MD",
+      "MO",
+      "MS",
+      "NC",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "WV"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 12,
+      "max": 20
+    },
+    "spreadFeet": {
+      "min": 12,
+      "max": 20
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Fringe tree drips with clouds of fragrant, ribbon-like white flowers in late spring. Female trees bear blue fruit that birds devour.",
+    "usdaSymbol": "CHVI3",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/chionanthus-virginicus.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Chionanthus_virginicus",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "sabal-minor",
+    "scientificName": "Sabal minor",
+    "commonNames": [
+      "Dwarf Palmetto"
+    ],
+    "family": "Arecaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "FL",
+      "GA",
+      "LA",
+      "MS",
+      "NC",
+      "OK",
+      "SC",
+      "TX"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 6
+    },
+    "spreadFeet": {
+      "min": 4,
+      "max": 6
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Dwarf palmetto brings an evergreen, tropical fan-palm look to the South's hardiest native palm. Shade- and flood-tolerant, with black fruit for wildlife.",
+    "usdaSymbol": "SAMI8",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/sabal-minor.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Sabal_minor",
+    "imageCredit": "Wikimedia"
   }
 ]
