@@ -40,3 +40,41 @@ Crinum americanum | Swamp Lily
 Lilium superbum | Turk's Cap Lily
 Eragrostis spectabilis | Purple Lovegrass
 Gaillardia pulchella | Firewheel
+
+# Batch 4 — trees, shrubs, vines, forbs
+Quercus virginiana | Live Oak
+Quercus phellos | Willow Oak
+Magnolia virginiana | Sweetbay Magnolia
+Taxodium distichum | Bald Cypress
+Nyssa aquatica | Water Tupelo
+Persea borbonia | Redbay
+Pinus palustris | Longleaf Pine
+Oxydendrum arboreum | Sourwood
+Halesia carolina | Carolina Silverbell
+Aesculus pavia | Red Buckeye
+Diospyros virginiana | Common Persimmon
+Ilex opaca | American Holly
+Prunus caroliniana | Carolina Laurelcherry
+Crataegus marshallii | Parsley Hawthorn
+Hydrangea quercifolia | Oakleaf Hydrangea
+Rhododendron austrinum | Florida Flame Azalea
+Rhododendron canescens | Piedmont Azalea
+Kalmia latifolia | Mountain Laurel
+Illicium floridanum | Florida Anise
+Cyrilla racemiflora | Swamp Titi
+Morella cerifera | Wax Myrtle
+Vaccinium arboreum | Sparkleberry
+Viburnum nudum | Possumhaw Viburnum
+Calycanthus floridus | Carolina Allspice
+Aronia arbutifolia | Red Chokeberry
+Leucothoe axillaris | Coastal Doghobble
+Lyonia lucida | Fetterbush
+Gelsemium sempervirens | Carolina Jessamine
+Bignonia capreolata | Crossvine
+Lonicera sempervirens | Coral Honeysuckle
+Wisteria frutescens | American Wisteria
+Hibiscus moscheutos | Crimsoneyed Rosemallow
+Iris virginica | Virginia Iris
+Pontederia cordata | Pickerelweed
+Chamaecrista fasciculata | Partridge Pea
+Salvia lyrata | Lyreleaf Sage

@@ -28939,5 +28939,2188 @@
     "imageFile": "plants/gaillardia-pulchella.jpg",
     "imageSource": "https://en.wikipedia.org/wiki/Gaillardia_pulchella",
     "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "quercus-virginiana",
+    "scientificName": "Quercus virginiana",
+    "commonNames": [
+      "Live Oak"
+    ],
+    "family": "Fagaceae",
+    "nativeStates": [
+      "AL",
+      "CA",
+      "FL",
+      "GA",
+      "LA",
+      "MS",
+      "NC",
+      "SC",
+      "TX",
+      "VA"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 40,
+      "max": 80
+    },
+    "spreadFeet": {
+      "min": 60,
+      "max": 100
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "yellow",
+      "green"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "mammals",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "The grand spreading oak of the Deep South, evergreen and often draped in Spanish moss. Its acorns and vast canopy support more wildlife than almost any other tree.",
+    "usdaSymbol": "QUVI",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/quercus-virginiana.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Quercus_virginiana",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "quercus-phellos",
+    "scientificName": "Quercus phellos",
+    "commonNames": [
+      "Willow Oak"
+    ],
+    "family": "Fagaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "IL",
+      "KY",
+      "LA",
+      "MD",
+      "MO",
+      "MS",
+      "NC",
+      "NJ",
+      "NY",
+      "OK",
+      "PA",
+      "SC",
+      "TN",
+      "TX",
+      "VA"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 40,
+      "max": 75
+    },
+    "spreadFeet": {
+      "min": 25,
+      "max": 40
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "yellow",
+      "green"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "mammals"
+    ],
+    "deerResistant": false,
+    "notes": "A fast-growing oak with slender, willow-like leaves and a neat oval crown, prized as a street and shade tree. Heavy acorn crops feed ducks, jays, and squirrels.",
+    "usdaSymbol": "QUPH",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/quercus-phellos.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Quercus_phellos",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "magnolia-virginiana",
+    "scientificName": "Magnolia virginiana",
+    "commonNames": [
+      "Sweetbay Magnolia"
+    ],
+    "family": "Magnoliaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "LA",
+      "MD",
+      "MS",
+      "NC",
+      "NJ",
+      "NY",
+      "PA",
+      "SC",
+      "TN",
+      "TX",
+      "VA"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 10,
+      "max": 35
+    },
+    "spreadFeet": {
+      "min": 10,
+      "max": 20
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds"
+    ],
+    "deerResistant": false,
+    "notes": "Smaller, swamp-loving magnolia with lemon-scented creamy flowers and leaves that flash silver undersides in the breeze. Semi-evergreen and happy in wet soil.",
+    "usdaSymbol": "MAVI2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/magnolia-virginiana.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Magnolia_virginiana",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "taxodium-distichum",
+    "scientificName": "Taxodium distichum",
+    "commonNames": [
+      "Bald Cypress"
+    ],
+    "family": "Cupressaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MD",
+      "MO",
+      "MS",
+      "NC",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "SC",
+      "TN",
+      "TX",
+      "VA"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 50,
+      "max": 70
+    },
+    "spreadFeet": {
+      "min": 20,
+      "max": 30
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "The deciduous conifer of southern swamps, feathery green in summer and rusty-orange in fall before dropping its needles. Tolerates flooding, raising knobby 'knees.'",
+    "usdaSymbol": "TADI2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/taxodium-distichum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Taxodium_distichum",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "nyssa-aquatica",
+    "scientificName": "Nyssa aquatica",
+    "commonNames": [
+      "Water Tupelo"
+    ],
+    "family": "Nyssaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "FL",
+      "GA",
+      "IL",
+      "LA",
+      "MO",
+      "MS",
+      "NC",
+      "SC",
+      "TN",
+      "TX",
+      "VA"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 50,
+      "max": 80
+    },
+    "spreadFeet": {
+      "min": 20,
+      "max": 30
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "wet"
+    ],
+    "soilType": [
+      "clay",
+      "loam"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "green",
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "mammals"
+    ],
+    "deerResistant": false,
+    "notes": "Swamp giant with a swollen, buttressed base that stands in standing water. Its spring bloom yields the famously delicate tupelo honey.",
+    "usdaSymbol": "NYAQ2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/nyssa-aquatica.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Nyssa_aquatica",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "persea-borbonia",
+    "scientificName": "Persea borbonia",
+    "commonNames": [
+      "Redbay"
+    ],
+    "family": "Lauraceae",
+    "nativeStates": [
+      "AL",
+      "FL",
+      "GA",
+      "LA",
+      "MS",
+      "NC",
+      "SC",
+      "TX"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 20,
+      "max": 40
+    },
+    "spreadFeet": {
+      "min": 15,
+      "max": 25
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "white",
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Aromatic evergreen whose leaves can season a pot like true bay. A larval host for Palamedes and spicebush swallowtails, though now imperiled by laurel wilt disease.",
+    "usdaSymbol": "PEBO",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/persea-borbonia.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Tamala_borbonia",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "pinus-palustris",
+    "scientificName": "Pinus palustris",
+    "commonNames": [
+      "Longleaf Pine"
+    ],
+    "family": "Pinaceae",
+    "nativeStates": [
+      "AL",
+      "FL",
+      "GA",
+      "LA",
+      "MS",
+      "NC",
+      "SC",
+      "TX",
+      "VA"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 60,
+      "max": 100
+    },
+    "spreadFeet": {
+      "min": 30,
+      "max": 45
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "yellow",
+      "brown"
+    ],
+    "leafArrangement": "whorled",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Keystone of the Southeast's fire-dependent pine savannas, with foot-long needles and a grassy seedling stage. Its open groves shelter red-cockaded woodpeckers and gopher tortoises.",
+    "usdaSymbol": "PIPA2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/pinus-palustris.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Longleaf_pine",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "halesia-carolina",
+    "scientificName": "Halesia carolina",
+    "commonNames": [
+      "Carolina Silverbell"
+    ],
+    "family": "Styracaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "FL",
+      "GA",
+      "IL",
+      "NC",
+      "NY",
+      "PA",
+      "SC",
+      "TN",
+      "WV"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 20,
+      "max": 35
+    },
+    "spreadFeet": {
+      "min": 15,
+      "max": 25
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Understory tree that hangs rows of white bell flowers along its branches in spring. Lovely at woodland edges and beloved by early bees and hummingbirds.",
+    "usdaSymbol": "HACA3",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/halesia-carolina.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Halesia_carolina",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "aesculus-pavia",
+    "scientificName": "Aesculus pavia",
+    "commonNames": [
+      "Red Buckeye"
+    ],
+    "family": "Sapindaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "FL",
+      "GA",
+      "IL",
+      "KY",
+      "LA",
+      "MD",
+      "MO",
+      "MS",
+      "NC",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "SC",
+      "TN",
+      "TX",
+      "VA"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 10,
+      "max": 20
+    },
+    "spreadFeet": {
+      "min": 10,
+      "max": 20
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5
+    ],
+    "bloomColors": [
+      "red"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "hummingbirds",
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Small tree whose scarlet flower panicles are timed to greet returning ruby-throated hummingbirds in early spring. Leafs out early and often drops its leaves by late summer.",
+    "usdaSymbol": "AEPA",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/aesculus-pavia.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Aesculus_pavia",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "ilex-opaca",
+    "scientificName": "Ilex opaca",
+    "commonNames": [
+      "American Holly"
+    ],
+    "family": "Aquifoliaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "IL",
+      "IN",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "MI",
+      "MO",
+      "MS",
+      "NC",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "WV"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 15,
+      "max": 30
+    },
+    "spreadFeet": {
+      "min": 10,
+      "max": 20
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "white",
+      "green"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds"
+    ],
+    "deerResistant": true,
+    "notes": "The classic evergreen holly with spiny leaves and bright red winter berries on female trees. A staple of holiday greenery and a winter larder for songbirds.",
+    "usdaSymbol": "ILOP",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/ilex-opaca.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Ilex_opaca",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "prunus-caroliniana",
+    "scientificName": "Prunus caroliniana",
+    "commonNames": [
+      "Carolina Laurelcherry"
+    ],
+    "family": "Rosaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CA",
+      "FL",
+      "GA",
+      "LA",
+      "MS",
+      "NC",
+      "SC",
+      "TN",
+      "TX"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 15,
+      "max": 30
+    },
+    "spreadFeet": {
+      "min": 15,
+      "max": 20
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      2,
+      3,
+      4
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds"
+    ],
+    "deerResistant": false,
+    "notes": "Glossy evergreen with fragrant white flower spikes in late winter and black fruit for birds. A fast screen or hedge, though its foliage is toxic to livestock.",
+    "usdaSymbol": "PRCA",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/prunus-caroliniana.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Prunus_caroliniana",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "crataegus-marshallii",
+    "scientificName": "Crataegus marshallii",
+    "commonNames": [
+      "Parsley Hawthorn"
+    ],
+    "family": "Rosaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "FL",
+      "GA",
+      "LA",
+      "MO",
+      "MS",
+      "NC",
+      "OK",
+      "SC",
+      "TX",
+      "VA"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 12,
+      "max": 20
+    },
+    "spreadFeet": {
+      "min": 10,
+      "max": 20
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds"
+    ],
+    "deerResistant": false,
+    "notes": "Dainty hawthorn with lacy, parsley-like leaves, white spring flowers, and red haws. Mottled, exfoliating bark gives it year-round interest in small gardens.",
+    "usdaSymbol": "CRMA5",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/crataegus-marshallii.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Crataegus_marshallii",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "hydrangea-quercifolia",
+    "scientificName": "Hydrangea quercifolia",
+    "commonNames": [
+      "Oakleaf Hydrangea"
+    ],
+    "family": "Hydrangeaceae",
+    "nativeStates": [
+      "AL",
+      "FL",
+      "GA",
+      "IL",
+      "LA",
+      "MS",
+      "NC",
+      "SC",
+      "TN"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 4,
+      "max": 8
+    },
+    "spreadFeet": {
+      "min": 4,
+      "max": 8
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "white",
+      "pink"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": false,
+    "notes": "Bold native hydrangea with oak-shaped leaves, conical white blooms aging to rose, and wine-red fall color. Cinnamon, peeling bark carries the show into winter.",
+    "usdaSymbol": "HYQU3",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/hydrangea-quercifolia.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Hydrangea_quercifolia",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "rhododendron-austrinum",
+    "scientificName": "Rhododendron austrinum",
+    "commonNames": [
+      "Florida Flame Azalea"
+    ],
+    "family": "Ericaceae",
+    "nativeStates": [
+      "AL",
+      "FL",
+      "GA",
+      "MS"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 8,
+      "max": 12
+    },
+    "spreadFeet": {
+      "min": 6,
+      "max": 10
+    },
+    "lightRequirement": [
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "orange",
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Deciduous azalea that erupts in fragrant orange-and-gold trusses before its leaves expand. One of the most heat-tolerant native azaleas for the Deep South.",
+    "usdaSymbol": "RHAU",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/rhododendron-austrinum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Rhododendron_austrinum",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "rhododendron-canescens",
+    "scientificName": "Rhododendron canescens",
+    "commonNames": [
+      "Piedmont Azalea"
+    ],
+    "family": "Ericaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "FL",
+      "GA",
+      "LA",
+      "MS",
+      "NC",
+      "PA",
+      "SC",
+      "TN",
+      "TX"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 6,
+      "max": 15
+    },
+    "spreadFeet": {
+      "min": 6,
+      "max": 10
+    },
+    "lightRequirement": [
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "pink",
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "The most widespread wild azalea of the Southeast, wreathing damp woodlands in fragrant pink before leaf-out. Spreads to form drifts along stream banks.",
+    "usdaSymbol": "RHCA7",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/rhododendron-canescens.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Rhododendron_canescens",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "illicium-floridanum",
+    "scientificName": "Illicium floridanum",
+    "commonNames": [
+      "Florida Anise"
+    ],
+    "family": "Schisandraceae",
+    "nativeStates": [
+      "AL",
+      "FL",
+      "GA",
+      "LA",
+      "MS",
+      "SC"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 6,
+      "max": 10
+    },
+    "spreadFeet": {
+      "min": 6,
+      "max": 8
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "red"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Evergreen shrub with anise-scented foliage and curious star-shaped maroon flowers. Thrives in wet shade, where it makes a lush, deer-proof screen.",
+    "usdaSymbol": "ILFL",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/illicium-floridanum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Illicium_floridanum",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "cyrilla-racemiflora",
+    "scientificName": "Cyrilla racemiflora",
+    "commonNames": [
+      "Swamp Titi"
+    ],
+    "family": "Cyrillaceae",
+    "nativeStates": [
+      "AL",
+      "FL",
+      "GA",
+      "LA",
+      "MS",
+      "NC",
+      "SC",
+      "TX",
+      "VA"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 8,
+      "max": 15
+    },
+    "spreadFeet": {
+      "min": 6,
+      "max": 12
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Wetland shrub draped in long, drooping racemes of tiny white flowers that bees love. Glossy leaves blush red in fall and linger through mild winters.",
+    "usdaSymbol": "CYRA",
+    "nativeRegions": [
+      "L48",
+      "PR"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/cyrilla-racemiflora.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Cyrilla",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "morella-cerifera",
+    "scientificName": "Morella cerifera",
+    "commonNames": [
+      "Wax Myrtle"
+    ],
+    "family": "Myricaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "DE",
+      "FL",
+      "GA",
+      "HI",
+      "LA",
+      "MD",
+      "MS",
+      "NC",
+      "NJ",
+      "SC",
+      "TX",
+      "VA"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 6,
+      "max": 15
+    },
+    "spreadFeet": {
+      "min": 6,
+      "max": 12
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "green"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "songbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Fast, adaptable evergreen with aromatic leaves and waxy blue-gray berries, the original source of bayberry candle wax. Fixes nitrogen and makes an easy, salt-tolerant hedge.",
+    "usdaSymbol": "MOCE2",
+    "nativeRegions": [
+      "L48",
+      "PR"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/morella-cerifera.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Myrica_cerifera",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "vaccinium-arboreum",
+    "scientificName": "Vaccinium arboreum",
+    "commonNames": [
+      "Sparkleberry"
+    ],
+    "family": "Ericaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "FL",
+      "GA",
+      "IL",
+      "KY",
+      "LA",
+      "MO",
+      "MS",
+      "NC",
+      "OK",
+      "SC",
+      "TN",
+      "TX",
+      "VA"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 8,
+      "max": 15
+    },
+    "spreadFeet": {
+      "min": 6,
+      "max": 12
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Tree-like blueberry with sprays of white bells, glossy leaves, and shiny black fruit for birds. Striking mottled, peeling bark stands out in winter woods.",
+    "usdaSymbol": "VAAR",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/vaccinium-arboreum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Vaccinium_arboreum",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "viburnum-nudum",
+    "scientificName": "Viburnum nudum",
+    "commonNames": [
+      "Possumhaw Viburnum"
+    ],
+    "family": "Adoxaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DE",
+      "FL",
+      "GA",
+      "LA",
+      "MD",
+      "MS",
+      "NC",
+      "NJ",
+      "NY",
+      "PA",
+      "SC",
+      "TN",
+      "TX",
+      "VA"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 5,
+      "max": 12
+    },
+    "spreadFeet": {
+      "min": 5,
+      "max": 8
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "butterflies"
+    ],
+    "deerResistant": false,
+    "notes": "Glossy-leaved shrub for wet ground, with flat white flower clusters followed by berries that ripen pink to blue on the same cluster. Brilliant burgundy fall color.",
+    "usdaSymbol": "VINU",
+    "nativeRegions": [
+      "CAN",
+      "L48",
+      "SPM"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/viburnum-nudum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Viburnum_nudum",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "calycanthus-floridus",
+    "scientificName": "Calycanthus floridus",
+    "commonNames": [
+      "Carolina Allspice"
+    ],
+    "family": "Calycanthaceae",
+    "nativeStates": [
+      "AL",
+      "FL",
+      "GA",
+      "IL",
+      "KY",
+      "MA",
+      "MD",
+      "MS",
+      "NC",
+      "NJ",
+      "NY",
+      "PA",
+      "SC",
+      "TN",
+      "VA",
+      "WV"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 6,
+      "max": 10
+    },
+    "spreadFeet": {
+      "min": 6,
+      "max": 12
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "red",
+      "brown"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Old-garden favorite grown for strange maroon flowers that smell of fermented fruit, and for aromatic bark and leaves. Easygoing in sun or shade.",
+    "usdaSymbol": "CAFL22",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/calycanthus-floridus.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Calycanthus_floridus",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "aronia-arbutifolia",
+    "scientificName": "Aronia arbutifolia",
+    "commonNames": [
+      "Red Chokeberry"
+    ],
+    "family": "Rosaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DE",
+      "FL",
+      "GA",
+      "LA",
+      "MA",
+      "MD",
+      "MS",
+      "NC",
+      "NJ",
+      "NY",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "WV"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 6,
+      "max": 10
+    },
+    "spreadFeet": {
+      "min": 3,
+      "max": 5
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "white",
+      "pink"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Multi-season shrub with white spring flowers, glossy red fall berries that persist into winter, and fiery foliage. Tolerates wet or dry soils equally.",
+    "usdaSymbol": "ARAR7",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/aronia-arbutifolia.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Aronia_arbutifolia",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "leucothoe-axillaris",
+    "scientificName": "Leucothoe axillaris",
+    "commonNames": [
+      "Coastal Doghobble"
+    ],
+    "family": "Ericaceae",
+    "nativeStates": [
+      "AL",
+      "FL",
+      "GA",
+      "LA",
+      "MS",
+      "NC",
+      "SC",
+      "TN",
+      "VA"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 3,
+      "max": 6
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Low, arching evergreen with leathery leaves and chains of white urn flowers tucked along the stems. A graceful groundcover for moist, acidic shade.",
+    "usdaSymbol": "LEAX",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/leucothoe-axillaris.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Leucothoe_axillaris",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "lyonia-lucida",
+    "scientificName": "Lyonia lucida",
+    "commonNames": [
+      "Fetterbush"
+    ],
+    "family": "Ericaceae",
+    "nativeStates": [
+      "AL",
+      "FL",
+      "GA",
+      "LA",
+      "MS",
+      "NC",
+      "SC",
+      "VA"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 6
+    },
+    "spreadFeet": {
+      "min": 3,
+      "max": 5
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5
+    ],
+    "bloomColors": [
+      "pink",
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Glossy evergreen of pine flatwoods and bogs, lined in spring with clusters of pink urn-shaped flowers. Thrives in wet, sandy, acidic ground.",
+    "usdaSymbol": "LYLU3",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/lyonia-lucida.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Lyonia_lucida",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "gelsemium-sempervirens",
+    "scientificName": "Gelsemium sempervirens",
+    "commonNames": [
+      "Carolina Jessamine"
+    ],
+    "family": "Gelsemiaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "FL",
+      "GA",
+      "LA",
+      "MS",
+      "NC",
+      "SC",
+      "TN",
+      "TX",
+      "VA"
+    ],
+    "generalAppearance": "vine",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 10,
+      "max": 20
+    },
+    "spreadFeet": {
+      "min": 3,
+      "max": 6
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      2,
+      3,
+      4
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Evergreen twining vine that smothers fences in fragrant yellow trumpets at winter's end. Carefree and drought-tolerant, though all parts are poisonous.",
+    "usdaSymbol": "GESE",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/gelsemium-sempervirens.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Gelsemium_sempervirens",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "hibiscus-moscheutos",
+    "scientificName": "Hibiscus moscheutos",
+    "commonNames": [
+      "Crimsoneyed Rosemallow"
+    ],
+    "family": "Malvaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CA",
+      "CT",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "MI",
+      "MO",
+      "MS",
+      "NC",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 7
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "white",
+      "pink",
+      "red"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds",
+      "butterflies"
+    ],
+    "deerResistant": false,
+    "notes": "Hardy hibiscus with dinner-plate white-to-pink blooms, each marked by a crimson eye, all summer. A robust perennial for pond edges and wet meadows.",
+    "usdaSymbol": "HIMO",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/hibiscus-moscheutos.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Hibiscus_moscheutos",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "iris-virginica",
+    "scientificName": "Iris virginica",
+    "commonNames": [
+      "Virginia Iris"
+    ],
+    "family": "Iridaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "FL",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MD",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "NY",
+      "OH",
+      "PA",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "WI"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "blue",
+      "purple"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Southern blue flag for shallow water and boggy ground, with soft violet-blue falls veined in gold. Spreads into handsome clumps at the water's edge.",
+    "usdaSymbol": "IRVI",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/iris-virginica.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Iris_virginica",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "pontederia-cordata",
+    "scientificName": "Pontederia cordata",
+    "commonNames": [
+      "Pickerelweed"
+    ],
+    "family": "Pontederiaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CA",
+      "CT",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "VT",
+      "WI"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "bloomColors": [
+      "blue",
+      "purple"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Emergent aquatic that lines pond margins with glossy heart-shaped leaves and spikes of violet-blue flowers all summer. A magnet for bees and dragonflies.",
+    "usdaSymbol": "POCO14",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/pontederia-cordata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Pontederia_cordata",
+    "imageCredit": "Wikimedia"
   }
 ]
