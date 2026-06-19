@@ -55,7 +55,7 @@ const companions = computed(() => {
 const sciName = computed(() => plant.value?.scientificName || '')
 const imageFile = computed(() => plant.value?.imageFile || null)
 const { src: imageSrc } = usePlantImage(sciName, imageFile)
-const { photos: inatPhotos } = useInatGallery(sciName)
+const { photos: inatPhotos, loading: inatLoading } = useInatGallery(sciName)
 
 // Lightbox for the iNaturalist gallery. A plain click opens the modal; holding a
 // modifier (cmd/ctrl/shift/alt) or middle-clicking falls through to the anchor's
@@ -160,23 +160,29 @@ function fmtRange(r, unit) {
       <span v-if="plant.springEphemeral" class="trait trait-ephemeral">🌱 Spring ephemeral</span>
     </div>
 
-    <section class="group" v-if="inatPhotos.length">
+    <section class="group" v-if="inatLoading || inatPhotos.length">
       <h2>Photos</h2>
-      <div class="gallery">
-        <a
-          v-for="(photo, i) in inatPhotos"
-          :key="i"
-          :href="photo.full"
-          target="_blank"
-          rel="noopener"
-          class="gallery-item"
-          :title="photo.attribution"
-          @click="openLightbox(i, $event)"
-        >
-          <img :src="photo.thumb" :alt="`${plant.commonNames[0]} photo ${i + 1}`" loading="lazy" />
-        </a>
+      <div v-if="inatLoading" class="gallery-loading">
+        <span class="spinner" aria-hidden="true"></span>
+        <span>Loading photos…</span>
       </div>
-      <div class="gallery-credit">Photos via iNaturalist</div>
+      <template v-else>
+        <div class="gallery">
+          <a
+            v-for="(photo, i) in inatPhotos"
+            :key="i"
+            :href="photo.full"
+            target="_blank"
+            rel="noopener"
+            class="gallery-item"
+            :title="photo.attribution"
+            @click="openLightbox(i, $event)"
+          >
+            <img :src="photo.thumb" :alt="`${plant.commonNames[0]} photo ${i + 1}`" loading="lazy" />
+          </a>
+        </div>
+        <div class="gallery-credit">Photos via iNaturalist</div>
+      </template>
     </section>
 
     <section class="group">
@@ -422,6 +428,26 @@ dd { margin: 2px 0 0; font-size: 14px; }
 }
 .gallery-item:hover img { transform: scale(1.05); }
 .gallery-credit { font-size: 11px; color: var(--ink-soft); margin-top: 8px; }
+.gallery-loading {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  color: var(--ink-soft);
+  font-size: 13px;
+  padding: 16px 0;
+}
+.spinner {
+  width: 18px;
+  height: 18px;
+  border: 2px solid var(--border);
+  border-top-color: var(--accent);
+  border-radius: 50%;
+  animation: spin 0.7s linear infinite;
+}
+@keyframes spin { to { transform: rotate(360deg); } }
+@media (prefers-reduced-motion: reduce) {
+  .spinner { animation-duration: 2s; }
+}
 .lightbox {
   position: fixed;
   inset: 0;
