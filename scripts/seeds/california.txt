@@ -46,3 +46,41 @@ Monardella villosa | Coyote Mint
 Stipa pulchra | Purple Needlegrass
 Muhlenbergia rigens | Deergrass
 Festuca californica | California Fescue
+
+# Batch 2 — more oaks/conifers, chaparral shrubs, annual wildflowers, grasses
+Quercus douglasii | Blue Oak
+Quercus kelloggii | California Black Oak
+Platanus racemosa | California Sycamore
+Calocedrus decurrens | Incense Cedar
+Acer macrophyllum | Bigleaf Maple
+Cercocarpus betuloides | Birchleaf Mountain Mahogany
+Salvia mellifera | Black Sage
+Salvia leucophylla | Purple Sage
+Eriogonum giganteum | St. Catherine's Lace
+Prunus ilicifolia | Hollyleaf Cherry
+Garrya elliptica | Coast Silktassel
+Dendromecon rigida | Bush Poppy
+Adenostoma fasciculatum | Chamise
+Encelia californica | California Bush Sunflower
+Sambucus cerulea | Blue Elderberry
+Rosa californica | California Wild Rose
+Lupinus albifrons | Silver Bush Lupine
+Ribes aureum | Golden Currant
+Gambelia speciosa | Island Bush Snapdragon
+Keckiella cordifolia | Heartleaf Keckiella
+Achillea millefolium | Common Yarrow
+Artemisia californica | California Sagebrush
+Sidalcea malviflora | Checkerbloom
+Erythranthe cardinalis | Scarlet Monkeyflower
+Penstemon centranthifolius | Scarlet Bugler
+Salvia columbariae | Chia
+Layia platyglossa | Tidy Tips
+Nemophila menziesii | Baby Blue Eyes
+Gilia capitata | Globe Gilia
+Phacelia tanacetifolia | Lacy Phacelia
+Eriophyllum confertiflorum | Golden Yarrow
+Asclepias eriocarpa | Woollypod Milkweed
+Dudleya pulverulenta | Chalk Dudleya
+Leymus condensatus | Giant Wild Rye
+Festuca idahoensis | Idaho Fescue
+Carex pansa | Sand Dune Sedge

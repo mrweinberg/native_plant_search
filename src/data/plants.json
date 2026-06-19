@@ -43342,5 +43342,2462 @@
     "imageFile": "plants/festuca-californica.jpg",
     "imageSource": "https://en.wikipedia.org/wiki/Festuca_californica",
     "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "quercus-douglasii",
+    "scientificName": "Quercus douglasii",
+    "commonNames": [
+      "Blue Oak"
+    ],
+    "family": "Fagaceae",
+    "nativeStates": [
+      "CA"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 20,
+      "max": 50
+    },
+    "spreadFeet": {
+      "min": 20,
+      "max": 50
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "clay",
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "yellow",
+      "green"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "mammals",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Drought-master of California's hot foothills, with blue-gray leaves and a gnarled silhouette. Extremely slow-growing and intolerant of summer irrigation.",
+    "usdaSymbol": "QUDO",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/quercus-douglasii.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Quercus_douglasii",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "quercus-kelloggii",
+    "scientificName": "Quercus kelloggii",
+    "commonNames": [
+      "California Black Oak"
+    ],
+    "family": "Fagaceae",
+    "nativeStates": [
+      "CA",
+      "OR"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 30,
+      "max": 80
+    },
+    "spreadFeet": {
+      "min": 30,
+      "max": 60
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "loam",
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "yellow",
+      "red"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "mammals",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "The West's showiest deciduous oak, its big bristle-tipped leaves emerging pink and turning gold. Its acorns were a staple food for California's Indigenous peoples.",
+    "usdaSymbol": "QUKE",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/quercus-kelloggii.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Quercus_kelloggii",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "platanus-racemosa",
+    "scientificName": "Platanus racemosa",
+    "commonNames": [
+      "California Sycamore"
+    ],
+    "family": "Platanaceae",
+    "nativeStates": [
+      "CA"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 40,
+      "max": 80
+    },
+    "spreadFeet": {
+      "min": 30,
+      "max": 50
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "clay",
+      "sandy"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "red",
+      "brown"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Bold streamside tree with mottled white bark, big maple-like leaves, and sprawling, sculptural limbs. A larval host for the western tiger swallowtail along creeks.",
+    "usdaSymbol": "PLRA",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/platanus-racemosa.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Platanus_racemosa",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "calocedrus-decurrens",
+    "scientificName": "Calocedrus decurrens",
+    "commonNames": [
+      "Incense Cedar"
+    ],
+    "family": "Cupressaceae",
+    "nativeStates": [
+      "CA",
+      "NV",
+      "OR"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 40,
+      "max": 100
+    },
+    "spreadFeet": {
+      "min": 10,
+      "max": 25
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      2,
+      3
+    ],
+    "bloomColors": [
+      "yellow",
+      "brown"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Stately, columnar conifer with fragrant fanned foliage and cinnamon bark. Drought-tolerant once established and the traditional source of pencil wood.",
+    "usdaSymbol": "CADE27",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/calocedrus-decurrens.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Calocedrus_decurrens",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "acer-macrophyllum",
+    "scientificName": "Acer macrophyllum",
+    "commonNames": [
+      "Bigleaf Maple"
+    ],
+    "family": "Sapindaceae",
+    "nativeStates": [
+      "CA",
+      "OR",
+      "WA"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 30,
+      "max": 75
+    },
+    "spreadFeet": {
+      "min": 30,
+      "max": 50
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "sandy"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5
+    ],
+    "bloomColors": [
+      "yellow",
+      "green"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "The West's largest maple, with foot-wide leaves, fragrant pendulous spring flowers, and golden fall color. A moss-draped giant of coastal and riparian woods.",
+    "usdaSymbol": "ACMA3",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/acer-macrophyllum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Acer_macrophyllum",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "cercocarpus-betuloides",
+    "scientificName": "Cercocarpus betuloides",
+    "commonNames": [
+      "Birchleaf Mountain Mahogany"
+    ],
+    "family": "Rosaceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "OR",
+      "TX"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 6,
+      "max": 20
+    },
+    "spreadFeet": {
+      "min": 6,
+      "max": 15
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5
+    ],
+    "bloomColors": [
+      "white",
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "larval host"
+    ],
+    "deerResistant": true,
+    "notes": "Tough chaparral shrub with small wedge leaves and feathery, corkscrew-tailed seeds that shimmer in autumn light. A nitrogen-fixer for dry, rocky slopes.",
+    "usdaSymbol": "CEBE3",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/cercocarpus-betuloides.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Cercocarpus_betuloides",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "salvia-mellifera",
+    "scientificName": "Salvia mellifera",
+    "commonNames": [
+      "Black Sage"
+    ],
+    "family": "Lamiaceae",
+    "nativeStates": [
+      "CA"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 6
+    },
+    "spreadFeet": {
+      "min": 3,
+      "max": 8
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "clay",
+      "rocky"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "white",
+      "blue",
+      "purple"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "The most widespread California sage and a backbone of coastal sage scrub, its pale flower whorls yielding prized honey. Intensely aromatic and summer-deciduous in drought.",
+    "usdaSymbol": "SAME3",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/salvia-mellifera.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Salvia_mellifera",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "salvia-leucophylla",
+    "scientificName": "Salvia leucophylla",
+    "commonNames": [
+      "Purple Sage"
+    ],
+    "family": "Lamiaceae",
+    "nativeStates": [
+      "CA"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 6
+    },
+    "spreadFeet": {
+      "min": 4,
+      "max": 8
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "clay",
+      "rocky"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "purple",
+      "pink"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Silver-leaved coastal sage with tiered whorls of rose-purple flowers on arching stems. Wonderfully fragrant and a magnet for bees on dry slopes.",
+    "usdaSymbol": "SALE3",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/salvia-leucophylla.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Salvia_leucophylla",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "eriogonum-giganteum",
+    "scientificName": "Eriogonum giganteum",
+    "commonNames": [
+      "St. Catherine's Lace"
+    ],
+    "family": "Polygonaceae",
+    "nativeStates": [
+      "CA"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 8
+    },
+    "spreadFeet": {
+      "min": 4,
+      "max": 8
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "white",
+      "pink"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "songbirds"
+    ],
+    "deerResistant": true,
+    "notes": "The largest buckwheat, a silvery Channel Islands shrub crowned with huge lacy flower clusters that age white to rust. A long-lasting cut flower and pollinator powerhouse.",
+    "usdaSymbol": "ERGI2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/eriogonum-giganteum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Eriogonum_giganteum",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "prunus-ilicifolia",
+    "scientificName": "Prunus ilicifolia",
+    "commonNames": [
+      "Hollyleaf Cherry"
+    ],
+    "family": "Rosaceae",
+    "nativeStates": [
+      "CA"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 8,
+      "max": 25
+    },
+    "spreadFeet": {
+      "min": 8,
+      "max": 15
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "loam",
+      "clay",
+      "sandy"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Glossy, holly-like evergreen with fragrant white flower spikes and dark cherries used by Indigenous peoples. Shears into a handsome, drought-proof hedge.",
+    "usdaSymbol": "PRIL",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/prunus-ilicifolia.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Prunus_ilicifolia",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "garrya-elliptica",
+    "scientificName": "Garrya elliptica",
+    "commonNames": [
+      "Coast Silktassel"
+    ],
+    "family": "Garryaceae",
+    "nativeStates": [
+      "CA",
+      "OR"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 8,
+      "max": 15
+    },
+    "spreadFeet": {
+      "min": 8,
+      "max": 12
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "loam",
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      12,
+      1,
+      2
+    ],
+    "bloomColors": [
+      "green",
+      "yellow"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Evergreen shrub draped in winter with long, silvery catkins, most dramatic on male plants. Wavy-edged leaves and an easy tolerance of wind and coastal exposure.",
+    "usdaSymbol": "GAEL",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/garrya-elliptica.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Garrya_elliptica",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "dendromecon-rigida",
+    "scientificName": "Dendromecon rigida",
+    "commonNames": [
+      "Bush Poppy"
+    ],
+    "family": "Papaveraceae",
+    "nativeStates": [
+      "CA"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 8
+    },
+    "spreadFeet": {
+      "min": 3,
+      "max": 6
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Blue-gray-leaved chaparral shrub bearing bright golden poppies for weeks in spring. A fire-follower that demands sharp drainage and no summer water.",
+    "usdaSymbol": "DERI",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/dendromecon-rigida.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Dendromecon_rigida",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "adenostoma-fasciculatum",
+    "scientificName": "Adenostoma fasciculatum",
+    "commonNames": [
+      "Chamise"
+    ],
+    "family": "Rosaceae",
+    "nativeStates": [
+      "CA"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 4,
+      "max": 12
+    },
+    "spreadFeet": {
+      "min": 4,
+      "max": 10
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy",
+      "clay"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "whorled",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds"
+    ],
+    "deerResistant": true,
+    "notes": "The dominant shrub of California chaparral, with needle-like leaves and frothy cream flower clusters. Intensely drought- and fire-adapted, resprouting after burns.",
+    "usdaSymbol": "ADFA",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/adenostoma-fasciculatum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Adenostoma_fasciculatum",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "encelia-californica",
+    "scientificName": "Encelia californica",
+    "commonNames": [
+      "California Bush Sunflower"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "CA"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 5
+    },
+    "spreadFeet": {
+      "min": 3,
+      "max": 5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "clay",
+      "rocky"
+    ],
+    "bloomMonths": [
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Coastal-bluff shrub that mounds itself with cheerful brown-centered yellow daisies through spring. Fast, easy, and a reliable bloomer for dry gardens.",
+    "usdaSymbol": "ENCA",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/encelia-californica.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Encelia_californica",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "sambucus-cerulea",
+    "scientificName": "Sambucus cerulea",
+    "commonNames": [
+      "Blue Elderberry"
+    ],
+    "family": "Adoxaceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "CO",
+      "ID",
+      "MT",
+      "NM",
+      "NV",
+      "OR",
+      "UT",
+      "WA"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 10,
+      "max": 25
+    },
+    "spreadFeet": {
+      "min": 10,
+      "max": 20
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "clay",
+      "sandy"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "white",
+      "yellow"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "mammals"
+    ],
+    "deerResistant": false,
+    "notes": "Fast, adaptable western elderberry with flat creamy flower clusters and powder-blue berries for pies, syrup, and birds. A wildlife magnet from creekside to dry slope.",
+    "usdaSymbol": "SACE3",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/sambucus-cerulea.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Sambucus_cerulea",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "rosa-californica",
+    "scientificName": "Rosa californica",
+    "commonNames": [
+      "California Wild Rose"
+    ],
+    "family": "Rosaceae",
+    "nativeStates": [
+      "CA"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 8
+    },
+    "spreadFeet": {
+      "min": 4,
+      "max": 8
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "clay",
+      "sandy"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "pink"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Thicket-forming native rose with fragrant single pink blooms all summer and red hips for birds and tea. Tough and suckering for hedgerows and stream banks.",
+    "usdaSymbol": "ROCA2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/rosa-californica.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Rosa_californica",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "lupinus-albifrons",
+    "scientificName": "Lupinus albifrons",
+    "commonNames": [
+      "Silver Bush Lupine"
+    ],
+    "family": "Fabaceae",
+    "nativeStates": [
+      "CA",
+      "OR"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 5
+    },
+    "spreadFeet": {
+      "min": 3,
+      "max": 5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "purple",
+      "blue"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": true,
+    "notes": "Silvery, silk-leaved shrub lupine sending up spikes of fragrant violet-blue flowers in spring. A nitrogen-fixer and butterfly host that wants fast drainage and no summer water.",
+    "usdaSymbol": "LUAL4",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/lupinus-albifrons.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Lupinus_albifrons",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "ribes-aureum",
+    "scientificName": "Ribes aureum",
+    "commonNames": [
+      "Golden Currant"
+    ],
+    "family": "Grossulariaceae",
+    "nativeStates": [
+      "AR",
+      "AZ",
+      "CA",
+      "CO",
+      "ID",
+      "IL",
+      "KS",
+      "MO",
+      "MT",
+      "ND",
+      "NE",
+      "NM",
+      "NV",
+      "OK",
+      "OR",
+      "PA",
+      "SD",
+      "TX",
+      "UT",
+      "WA",
+      "WI",
+      "WY"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 8
+    },
+    "spreadFeet": {
+      "min": 3,
+      "max": 6
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "sandy",
+      "clay"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds",
+      "songbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Spring shrub hung with spicy clove-scented golden flowers, followed by edible amber-to-black berries. Adaptable, hummingbird-loved, and at home from streamside to dry slope.",
+    "usdaSymbol": "RIAU",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/ribes-aureum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Ribes_aureum",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "gambelia-speciosa",
+    "scientificName": "Gambelia speciosa",
+    "commonNames": [
+      "Island Bush Snapdragon"
+    ],
+    "family": "Plantaginaceae",
+    "nativeStates": [
+      "CA"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 3,
+      "max": 5
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky",
+      "loam"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "red"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds"
+    ],
+    "deerResistant": true,
+    "notes": "A Channel Islands shrub spangled for months with scarlet tubular snapdragon flowers that hummingbirds chase. Mounds or trails over walls and takes light shade.",
+    "usdaSymbol": "GASP10",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/gambelia-speciosa.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Gambelia_speciosa",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "keckiella-cordifolia",
+    "scientificName": "Keckiella cordifolia",
+    "commonNames": [
+      "Heartleaf Keckiella"
+    ],
+    "family": "Plantaginaceae",
+    "nativeStates": [
+      "CA"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 6
+    },
+    "spreadFeet": {
+      "min": 3,
+      "max": 6
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "red",
+      "orange"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds"
+    ],
+    "deerResistant": true,
+    "notes": "A scrambling, shrubby penstemon-relative with heart-shaped leaves and tubular red-orange summer flowers. A hummingbird favorite that climbs through chaparral shrubs.",
+    "usdaSymbol": "KECO",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/keckiella-cordifolia.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Keckiella_cordifolia",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "achillea-millefolium",
+    "scientificName": "Achillea millefolium",
+    "commonNames": [
+      "Common Yarrow"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AK",
+      "AL",
+      "AR",
+      "AZ",
+      "CA",
+      "CO",
+      "CT",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "HI",
+      "IA",
+      "ID",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "MT",
+      "NC",
+      "ND",
+      "NE",
+      "NH",
+      "NJ",
+      "NM",
+      "NV",
+      "NY",
+      "OH",
+      "OK",
+      "OR",
+      "PA",
+      "RI",
+      "SC",
+      "SD",
+      "TN",
+      "TX",
+      "UT",
+      "VA",
+      "VT",
+      "WA",
+      "WI",
+      "WV",
+      "WY"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "white",
+      "yellow",
+      "pink"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Ferny-leaved, flat-topped wildflower native across the continent, blooming for months and beloved by countless small pollinators. Tough, mowable, and a classic medicinal herb.",
+    "usdaSymbol": "ACMI2",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "GL",
+      "L48",
+      "SPM"
+    ],
+    "cutFlower": true,
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/achillea-millefolium.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Achillea_millefolium",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "artemisia-californica",
+    "scientificName": "Artemisia californica",
+    "commonNames": [
+      "California Sagebrush"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "CA"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 5
+    },
+    "spreadFeet": {
+      "min": 3,
+      "max": 6
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "clay",
+      "rocky"
+    ],
+    "bloomMonths": [
+      8,
+      9,
+      10,
+      11
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Soft, lacy, intensely fragrant gray foliage defines coastal sage scrub and perfumes the air after rain. Airy and tough, and vital habitat for the threatened California gnatcatcher.",
+    "usdaSymbol": "ARCA11",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/artemisia-californica.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Artemisia_californica",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "sidalcea-malviflora",
+    "scientificName": "Sidalcea malviflora",
+    "commonNames": [
+      "Checkerbloom"
+    ],
+    "family": "Malvaceae",
+    "nativeStates": [
+      "CA",
+      "OR"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "pink"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": true,
+    "notes": "Dainty native mallow opening spires of satiny pink cups over rounded leaves in spring. A larval host for west-coast checkerspot and painted lady butterflies.",
+    "usdaSymbol": "SIMA2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/sidalcea-malviflora.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Sidalcea_malviflora",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "erythranthe-cardinalis",
+    "scientificName": "Erythranthe cardinalis",
+    "commonNames": [
+      "Scarlet Monkeyflower"
+    ],
+    "family": "Phrymaceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "NV",
+      "OR"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "clay",
+      "sandy"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "red"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Streamside perennial blazing with tubular scarlet flowers all summer, a hummingbird magnet. Thrives in mud, seeps, and pond edges where most natives won't.",
+    "usdaSymbol": "ERCA23",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/erythranthe-cardinalis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Erythranthe_cardinalis",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "penstemon-centranthifolius",
+    "scientificName": "Penstemon centranthifolius",
+    "commonNames": [
+      "Scarlet Bugler"
+    ],
+    "family": "Plantaginaceae",
+    "nativeStates": [
+      "CA"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky",
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "red"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Slender wands of narrow, brilliant red tubular flowers rise from blue-gray foliage, built for hummingbird pollination. A chaparral gem for hot, fast-draining ground.",
+    "usdaSymbol": "PECE2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/penstemon-centranthifolius.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Penstemon_centranthifolius",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "salvia-columbariae",
+    "scientificName": "Salvia columbariae",
+    "commonNames": [
+      "Chia"
+    ],
+    "family": "Lamiaceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "NV",
+      "UT"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "annual",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky",
+      "clay"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "blue",
+      "purple"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds"
+    ],
+    "deerResistant": true,
+    "notes": "California's native chia, an annual sage with spiny-bracted blue flower balls stacked along the stem. Its nutritious seeds were a vital Indigenous food and reseed readily.",
+    "usdaSymbol": "SACO6",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/salvia-columbariae.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Salvia_columbariae",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "layia-platyglossa",
+    "scientificName": "Layia platyglossa",
+    "commonNames": [
+      "Tidy Tips"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "CA"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "annual",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "yellow",
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Cheerful spring annual whose yellow daisies are crisply tipped in white, carpeting grasslands and reseeding into drifts. An easy, classic California wildflower.",
+    "usdaSymbol": "LAPL",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/layia-platyglossa.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Layia_platyglossa",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "nemophila-menziesii",
+    "scientificName": "Nemophila menziesii",
+    "commonNames": [
+      "Baby Blue Eyes"
+    ],
+    "family": "Boraginaceae",
+    "nativeStates": [
+      "CA",
+      "OR",
+      "WA"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "annual",
+    "heightFeet": {
+      "min": 0.3,
+      "max": 0.8
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "dry"
+    ],
+    "soilType": [
+      "loam",
+      "sandy"
+    ],
+    "bloomMonths": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "bloomColors": [
+      "blue",
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Low, spreading annual scattering sky-blue, white-centered cups across cool spring ground. A beloved, easy reseeder for sun or light shade.",
+    "usdaSymbol": "NEME",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/nemophila-menziesii.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Nemophila_menziesii",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "gilia-capitata",
+    "scientificName": "Gilia capitata",
+    "commonNames": [
+      "Globe Gilia"
+    ],
+    "family": "Polemoniaceae",
+    "nativeStates": [
+      "CA",
+      "OR",
+      "WA"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "annual",
+    "heightFeet": {
+      "min": 1,
+      "max": 2.5
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "blue",
+      "purple"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Ferny-leaved annual lofting powder-blue pincushion flower globes on wiry stems. A magnet for native bees and an effortless self-sower.",
+    "usdaSymbol": "GICA5",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/gilia-capitata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Gilia_capitata",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "phacelia-tanacetifolia",
+    "scientificName": "Phacelia tanacetifolia",
+    "commonNames": [
+      "Lacy Phacelia"
+    ],
+    "family": "Boraginaceae",
+    "nativeStates": [
+      "CA",
+      "OR",
+      "WA"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "annual",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "purple",
+      "blue"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Ferny annual unrolling fiddlehead-like coils of lavender-blue flowers that rank among the very best bee plants. A fast cover crop and reseeding wildflower.",
+    "usdaSymbol": "PHTA",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/phacelia-tanacetifolia.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Phacelia_tanacetifolia",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "eriophyllum-confertiflorum",
+    "scientificName": "Eriophyllum confertiflorum",
+    "commonNames": [
+      "Golden Yarrow"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "CA"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky",
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Woolly gray-green subshrub topped with flat clusters of golden flower heads through spring and summer. Tough, low, and long-blooming on dry slopes.",
+    "usdaSymbol": "ERCO25",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/eriophyllum-confertiflorum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Eriophyllum_confertiflorum",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "asclepias-eriocarpa",
+    "scientificName": "Asclepias eriocarpa",
+    "commonNames": [
+      "Woollypod Milkweed"
+    ],
+    "family": "Apocynaceae",
+    "nativeStates": [
+      "CA"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "clay",
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "white",
+      "pink"
+    ],
+    "leafArrangement": "whorled",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "monarch host",
+      "larval host",
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Stout, woolly-leaved milkweed of dry California slopes and an important western monarch host. Cream-pink flower clusters give way to felted seedpods.",
+    "usdaSymbol": "ASER",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/asclepias-eriocarpa.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Asclepias_eriocarpa",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "dudleya-pulverulenta",
+    "scientificName": "Dudleya pulverulenta",
+    "commonNames": [
+      "Chalk Dudleya"
+    ],
+    "family": "Crassulaceae",
+    "nativeStates": [
+      "CA"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "red"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Dramatic rosette of broad, chalk-white succulent leaves sending up arching red flower stalks for hummingbirds. Clings to cliffs and demands perfect drainage, never summer water on the crown.",
+    "usdaSymbol": "DUPU",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/dudleya-pulverulenta.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Dudleya_pulverulenta",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "leymus-condensatus",
+    "scientificName": "Leymus condensatus",
+    "commonNames": [
+      "Giant Wild Rye"
+    ],
+    "family": "Poaceae",
+    "nativeStates": [
+      "CA",
+      "OR"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 4,
+      "max": 8
+    },
+    "spreadFeet": {
+      "min": 3,
+      "max": 6
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "clay",
+      "loam"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "green",
+      "blue"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host"
+    ],
+    "deerResistant": true,
+    "notes": "Bold, blue-tinged bunchgrass that towers with stiff flower spikes. A striking architectural grass, treasured in the form 'Canyon Prince,' that spreads to hold dry banks.",
+    "usdaSymbol": "LECO12",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/leymus-condensatus.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Leymus_condensatus",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "festuca-idahoensis",
+    "scientificName": "Festuca idahoensis",
+    "commonNames": [
+      "Idaho Fescue"
+    ],
+    "family": "Poaceae",
+    "nativeStates": [
+      "CA",
+      "CO",
+      "ID",
+      "MT",
+      "NM",
+      "NV",
+      "OR",
+      "UT",
+      "WA",
+      "WY"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "loam",
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "green",
+      "blue"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host"
+    ],
+    "deerResistant": true,
+    "notes": "Fine-textured, blue-green bunchgrass forming tidy tufts topped by airy seed heads. A cool-season backbone of western grasslands and an excellent meadow grass.",
+    "usdaSymbol": "FEID",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/festuca-idahoensis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Festuca_idahoensis",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "carex-pansa",
+    "scientificName": "Carex pansa",
+    "commonNames": [
+      "Sand Dune Sedge"
+    ],
+    "family": "Cyperaceae",
+    "nativeStates": [
+      "CA",
+      "OR",
+      "WA"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "brown"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "songbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Rhizomatous coastal sedge that knits into a soft, fine-bladed green carpet. One of the best native lawn substitutes for sun or part shade, tolerating foot traffic and low mowing.",
+    "usdaSymbol": "CAPA16",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/carex-pansa.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Carex_pansa",
+    "imageCredit": "Wikimedia"
   }
 ]
