@@ -162,9 +162,8 @@ function fmtRange(r, unit) {
 
     <section class="group" v-if="inatLoading || inatPhotos.length">
       <h2>Photos</h2>
-      <div v-if="inatLoading" class="gallery-loading">
-        <span class="spinner" aria-hidden="true"></span>
-        <span>Loading photos…</span>
+      <div v-if="inatLoading" class="gallery" aria-busy="true" aria-label="Loading photos">
+        <div v-for="n in 8" :key="n" class="gallery-item skeleton" aria-hidden="true"></div>
       </div>
       <template v-else>
         <div class="gallery">
@@ -428,25 +427,16 @@ dd { margin: 2px 0 0; font-size: 14px; }
 }
 .gallery-item:hover img { transform: scale(1.05); }
 .gallery-credit { font-size: 11px; color: var(--ink-soft); margin-top: 8px; }
-.gallery-loading {
-  display: flex;
-  align-items: center;
-  gap: 10px;
-  color: var(--ink-soft);
-  font-size: 13px;
-  padding: 16px 0;
+.skeleton {
+  background: #d6d6d6;
+  animation: skeleton-pulse 1.4s ease-in-out infinite;
 }
-.spinner {
-  width: 18px;
-  height: 18px;
-  border: 2px solid var(--border);
-  border-top-color: var(--accent);
-  border-radius: 50%;
-  animation: spin 0.7s linear infinite;
+@keyframes skeleton-pulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.4; }
 }
-@keyframes spin { to { transform: rotate(360deg); } }
 @media (prefers-reduced-motion: reduce) {
-  .spinner { animation-duration: 2s; }
+  .skeleton { animation: none; opacity: 0.7; }
 }
 .lightbox {
   position: fixed;
