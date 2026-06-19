@@ -139,7 +139,7 @@ function fmtRange(r, unit) {
 
 <template>
   <div v-if="plant" class="detail">
-    <a href="#" class="back" @click.prevent="goBack">← Back to results</a>
+    <a href="#" class="back" @click.prevent="goBack">← Back to search</a>
     <div class="header">
       <div class="image-wrap">
         <img v-if="imageSrc" :src="imageSrc" :alt="plant.commonNames[0]" />
@@ -277,7 +277,7 @@ function fmtRange(r, unit) {
     <p>Loading…</p>
   </div>
   <div v-else class="detail">
-    <RouterLink to="/" class="back">← Back to results</RouterLink>
+    <RouterLink to="/" class="back">← Back to search</RouterLink>
     <p>Plant not found.</p>
   </div>
 
