@@ -144,7 +144,7 @@ function labelFor(group, val) {
   padding: 14px 16px;
   position: sticky;
   top: 16px;
-  max-height: calc(100vh - 100px);
+  max-height: calc(100vh - 20px);
   overflow-y: auto;
 }
 .filter-head {

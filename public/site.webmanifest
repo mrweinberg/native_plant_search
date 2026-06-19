@@ -1,0 +1,17 @@
+{
+  "name": "Bedfellow",
+  "short_name": "Bedfellow",
+  "description": "Plan a native garden that blooms all season. Search North American native plants by region and growing conditions.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f5f0",
+  "theme_color": "#1f3320",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

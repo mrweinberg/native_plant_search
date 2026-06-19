@@ -1,11 +1,11 @@
-import { createRouter, createWebHashHistory } from 'vue-router'
+import { createRouter, createWebHistory } from 'vue-router'
 import PlantListView from './views/PlantListView.vue'
 import PlantDetailView from './views/PlantDetailView.vue'
 import FavoritesView from './views/FavoritesView.vue'
 import SourcesView from './views/SourcesView.vue'
 
 export default createRouter({
-  history: createWebHashHistory(),
+  history: createWebHistory(import.meta.env.BASE_URL),
   routes: [
     { path: '/', name: 'list', component: PlantListView },
     { path: '/favorites', name: 'favorites', component: FavoritesView },

@@ -1,7 +1,8 @@
 <script setup>
-import { computed, ref, watch, onUnmounted } from 'vue'
+import { computed, ref, watch, watchEffect, onUnmounted } from 'vue'
 import { useRoute, useRouter, RouterLink } from 'vue-router'
 import { allPlants, plantsLoaded, MONTH_LABELS } from '../composables/usePlantFilters.js'
+import { setHead } from '../composables/useHead.js'
 import { usePlantImage } from '../composables/usePlantImage.js'
 import { useInatGallery } from '../composables/useInatGallery.js'
 import FavoriteButton from '../components/FavoriteButton.vue'
@@ -52,6 +53,21 @@ const companions = computed(() => {
   })
   return scored.slice(0, 6).map((s) => s.plant)
 })
+// Plant-specific page metadata for SEO and link sharing.
+watchEffect(() => {
+  const p = plant.value
+  if (!p) return
+  setHead({
+    title: `${p.commonNames[0]} (${p.scientificName})`,
+    description:
+      p.notes ||
+      `${p.commonNames[0]} (${p.scientificName}), a native ${p.generalAppearance || 'plant'} for ${(p.lightRequirement || []).join('/') || 'the garden'}.`,
+    path: `/plant/${p.id}`,
+    image: p.imageFile ? `https://bedfellow.org/${p.imageFile}` : undefined,
+    type: 'article',
+  })
+})
+
 const sciName = computed(() => plant.value?.scientificName || '')
 const imageFile = computed(() => plant.value?.imageFile || null)
 const { src: imageSrc } = usePlantImage(sciName, imageFile)

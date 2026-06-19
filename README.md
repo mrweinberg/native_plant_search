@@ -7,7 +7,7 @@ Live data is bundled at build time, so the site is a static SPA with no backend.
 ## Stack
 
 - **Vue 3** with `<script setup>` Composition API
-- **Vue Router 4** in hash-history mode (works on static hosts without server rewrites)
+- **Vue Router 4** in HTML5 history mode (clean URLs for SEO; a `404.html` SPA fallback handles deep links on GitHub Pages)
 - **Vite 5** for dev server and build
 - No CSS framework — custom variables in `src/styles.css`
 - No state library — filter state lives in the URL query string; favorites in `localStorage`
@@ -80,7 +80,15 @@ Run them with `node scripts/<name>.mjs`. Each prints how many records it updated
 
 ## Deployment
 
-`npm run build` produces a static `dist/`. The Vite config uses `base: './'` and the router uses hash history, so the output drops onto GitHub Pages without rewrites or a custom base path.
+`npm run build` produces a static `dist/`, served at **bedfellow.org** (custom apex domain) via GitHub Pages. The Vite config uses `base: '/'` and the router uses HTML5 history mode for clean, indexable URLs. Deep links survive hard refreshes through a `public/404.html` SPA fallback (rafgraph/spa-github-pages technique) paired with a decode script in `index.html`.
+
+SEO/discoverability artifacts:
+
+- `public/CNAME` — custom domain
+- `public/robots.txt` — allows crawling, points to the sitemap
+- `sitemap.xml` — generated at build time (a Vite plugin in `vite.config.js`) with one URL per plant plus the home/favorites/sources pages
+- `public/site.webmanifest`, theme color, Open Graph/Twitter tags, and WebSite JSON-LD in `index.html`
+- `src/composables/useHead.js` — sets per-route `<title>`, description, canonical, and Open Graph tags (plant detail pages get plant-specific metadata)
 
 ## Sources
 

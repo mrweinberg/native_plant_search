@@ -1,10 +1,31 @@
 <script setup>
 import { computed } from 'vue'
-import { RouterLink, RouterView } from 'vue-router'
+import { RouterLink, RouterView, useRouter } from 'vue-router'
 import { useFavorites } from './composables/useFavorites.js'
 import { useLocation, US_STATES } from './composables/useLocation.js'
+import { setHead } from './composables/useHead.js'
 const { count: favCount } = useFavorites()
 const { location, locationName, setLocation } = useLocation()
+
+// Keep document head in sync per route. Plant detail pages set their own
+// (plant-specific) head; the others use these static defaults.
+const router = useRouter()
+const ROUTE_HEAD = {
+  favorites: {
+    title: 'Favorites',
+    description: 'Your saved native plants, with a bloom-coverage timeline and companion planting beds.',
+    path: '/favorites',
+  },
+  sources: {
+    title: 'Sources & data',
+    description: 'The data sources behind Bedfellow: USDA PLANTS, GBIF, Wikimedia, iNaturalist, and regional native-plant authorities.',
+    path: '/sources',
+  },
+}
+router.afterEach((to) => {
+  if (to.name === 'detail') return
+  setHead(ROUTE_HEAD[to.name] || { path: '/' })
+})
 
 const tagline = computed(() =>
   locationName.value
