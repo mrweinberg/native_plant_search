@@ -1,0 +1,53 @@
+# Pacific Northwest native standouts — Cascadia conifer forest, westside
+# woodland, and Willamette Valley prairie. Scientific Name | Common Name
+# Sources: Oregon Flora, WA Native Plant Society, Xerces, native nurseries.
+
+# Trees
+Pseudotsuga menziesii | Douglas Fir
+Tsuga heterophylla | Western Hemlock
+Thuja plicata | Western Redcedar
+Picea sitchensis | Sitka Spruce
+Acer circinatum | Vine Maple
+Cornus nuttallii | Pacific Dogwood
+Quercus garryana | Oregon White Oak
+Pinus ponderosa | Ponderosa Pine
+Frangula purshiana | Cascara
+
+# Shrubs
+Gaultheria shallon | Salal
+Mahonia aquifolium | Tall Oregon Grape
+Mahonia nervosa | Cascade Oregon Grape
+Vaccinium ovatum | Evergreen Huckleberry
+Rubus spectabilis | Salmonberry
+Rubus parviflorus | Thimbleberry
+Holodiscus discolor | Oceanspray
+Philadelphus lewisii | Mock Orange
+Physocarpus capitatus | Pacific Ninebark
+Symphoricarpos albus | Common Snowberry
+Oemleria cerasiformis | Indian Plum
+Amelanchier alnifolia | Saskatoon Serviceberry
+Rhododendron macrophyllum | Pacific Rhododendron
+Sambucus racemosa | Red Elderberry
+Rosa nutkana | Nootka Rose
+
+# Forbs
+Camassia quamash | Common Camas
+Camassia leichtlinii | Great Camas
+Trillium ovatum | Western Trillium
+Iris tenax | Oregon Iris
+Dicentra formosa | Pacific Bleeding Heart
+Tellima grandiflora | Fringecup
+Asarum caudatum | Wild Ginger
+Lupinus polyphyllus | Bigleaf Lupine
+Eriophyllum lanatum | Oregon Sunshine
+Penstemon serrulatus | Cascade Penstemon
+Erythronium oregonum | Oregon Fawn Lily
+
+# Ferns
+Polystichum munitum | Western Sword Fern
+Struthiopteris spicant | Deer Fern
+Adiantum aleuticum | Western Maidenhair Fern
+
+# Grasses
+Deschampsia cespitosa | Tufted Hairgrass
+Carex obnupta | Slough Sedge
