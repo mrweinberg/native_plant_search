@@ -52,9 +52,24 @@ const sources = [
         note: 'Regional pollinator-plant lists informing wildlife value and species selection.',
       },
       {
-        name: 'Regional native plant societies & nurseries',
+        name: 'Calscape — California Native Plant Society',
+        url: 'https://calscape.org',
+        note: 'The authoritative California native-plant database, guiding the California floristic-province selections and their growing conditions.',
+      },
+      {
+        name: 'Oregon Flora',
+        url: 'https://www.oregonflora.org',
+        note: 'Distribution and species information for the Pacific Northwest.',
+      },
+      {
+        name: 'Arizona-Sonora Desert Museum',
+        url: 'https://www.desertmuseum.org',
+        note: 'Reference for the Sonoran, Mojave, and Chihuahuan desert species and their cultivation.',
+      },
+      {
+        name: 'State native plant societies & specialist nurseries',
         url: null,
-        note: 'State native plant societies and specialist prairie/woodland nurseries, consulted for regional species lists and growing conditions.',
+        note: 'Native plant societies (California, Washington, Colorado, and others) and specialist regional nurseries, consulted for species lists and growing conditions across each region.',
       },
     ],
   },
@@ -68,9 +83,11 @@ const sources = [
     <p class="intro">
       Bedfellow's catalog of {{ allPlants.length || 'native' }} plants is built in two layers.
       Native range, scientific names, and photographs are pulled from the public
-      databases below; growing conditions, bloom times, and descriptions are then
-      hand-curated from horticultural references. Treat the data as a planning
-      aid — always confirm hardiness and behavior for your own site.
+      databases below. Growing conditions, bloom times, and plant descriptions are
+      then editorially written with AI assistance, drawing on the horticultural
+      references below, and checked for completeness — but they can contain errors.
+      Treat the data as a planning aid, and always confirm a plant's range,
+      hardiness, and behavior for your own site before planting.
     </p>
 
     <section v-for="group in sources" :key="group.title" class="group">
