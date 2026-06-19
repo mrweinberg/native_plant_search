@@ -59808,5 +59808,334 @@
     "imageFile": "plants/festuca-roemeri.jpg",
     "imageSource": "https://en.wikipedia.org/wiki/Festuca_idahoensis",
     "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "quercus-gambelii",
+    "scientificName": "Quercus gambelii",
+    "commonNames": [
+      "Gambel Oak"
+    ],
+    "family": "Fagaceae",
+    "nativeStates": [
+      "AZ",
+      "CO",
+      "NM",
+      "NV",
+      "TX",
+      "UT"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 15,
+      "max": 30
+    },
+    "spreadFeet": {
+      "min": 15,
+      "max": 30
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "yellow",
+      "green"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "mammals",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "The common scrub oak of the southern Rockies and Colorado Plateau, forming thickets that blaze orange in fall. Its acorns feed deer, turkeys, and bears, and it resprouts vigorously after fire.",
+    "usdaSymbol": "QUGA",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/quercus-gambelii.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Quercus_gambelii",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "echinacea-paradoxa",
+    "scientificName": "Echinacea paradoxa",
+    "commonNames": [
+      "Yellow Coneflower"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AR",
+      "MO",
+      "OK"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "songbirds"
+    ],
+    "deerResistant": true,
+    "notes": "The 'paradox' coneflower, the only Echinacea with yellow rather than purple rays, drooping golden petals around a dark cone. A tough Ozark glade native and a pollinator favorite.",
+    "usdaSymbol": "ECPA2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/echinacea-paradoxa.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Echinacea_paradoxa",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "vernonia-lettermannii",
+    "scientificName": "Vernonia lettermannii",
+    "commonNames": [
+      "Threadleaf Ironweed"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AR",
+      "OK"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 3
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "rocky",
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      8,
+      9,
+      10
+    ],
+    "bloomColors": [
+      "purple"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "A fine, threadleaf ironweed forming a soft mound topped with clusters of vivid violet flowers in late summer. The compact, mildew-free 'Iron Butterfly' selection comes from this Ozark species.",
+    "usdaSymbol": "VELE",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/vernonia-lettermannii.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Vernonia_lettermannii",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "conradina-verticillata",
+    "scientificName": "Conradina verticillata",
+    "commonNames": [
+      "Cumberland Rosemary"
+    ],
+    "family": "Lamiaceae",
+    "nativeStates": [
+      "TN"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 3
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "purple",
+      "pink"
+    ],
+    "leafArrangement": "whorled",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "A rare, federally threatened, rosemary-scented evergreen of Cumberland riverbanks, forming low mats studded with lavender flowers. A fragrant, drought-tough groundcover for hot, sandy sites.",
+    "usdaSymbol": "COVE4",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/conradina-verticillata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Conradina_verticillata",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "liatris-microcephala",
+    "scientificName": "Liatris microcephala",
+    "commonNames": [
+      "Smallhead Blazing Star"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AL",
+      "GA",
+      "TN"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      8,
+      9
+    ],
+    "bloomColors": [
+      "purple",
+      "pink"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "monarch nectar"
+    ],
+    "deerResistant": true,
+    "notes": "A delicate, fine-leaved blazing star with slender wands of rosy-purple flowers in late summer over grassy foliage. A tidy, drought-tolerant native and a magnet for butterflies.",
+    "usdaSymbol": "LIMI7",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/liatris-microcephala.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Liatris_microcephala",
+    "imageCredit": "Wikimedia"
   }
 ]

@@ -1,0 +1,10 @@
+# Cross-region gap fills — iconic, widely-grown natives missing from the set.
+# Scientific Name | Common Name
+Quercus gambelii | Gambel Oak
+Quercus macrocarpa | Bur Oak
+Cephalanthus occidentalis | Buttonbush
+Penstemon digitalis | Foxglove Beardtongue
+Echinacea paradoxa | Yellow Coneflower
+Vernonia lettermannii | Threadleaf Ironweed
+Conradina verticillata | Cumberland Rosemary
+Liatris microcephala | Smallhead Blazing Star
