@@ -2778,7 +2778,7 @@
     "commonNames": [
       "Blackhaw Viburnum"
     ],
-    "family": "Adoxaceae",
+    "family": "Viburnaceae",
     "nativeStates": [
       "AL",
       "AR",
@@ -6614,7 +6614,7 @@
     "commonNames": [
       "American Elderberry"
     ],
-    "family": "Adoxaceae",
+    "family": "Viburnaceae",
     "nativeStates": [
       "AL",
       "AR",
@@ -9302,7 +9302,7 @@
     "commonNames": [
       "Arrowwood Viburnum"
     ],
-    "family": "Adoxaceae",
+    "family": "Viburnaceae",
     "generalAppearance": "shrub",
     "lifespan": "perennial",
     "heightFeet": {
@@ -9393,7 +9393,7 @@
     "commonNames": [
       "Mapleleaf Viburnum"
     ],
-    "family": "Adoxaceae",
+    "family": "Viburnaceae",
     "generalAppearance": "shrub",
     "lifespan": "perennial",
     "heightFeet": {
@@ -17386,7 +17386,7 @@
   },
   {
     "id": "gymnocladus-dioica",
-    "scientificName": "Gymnocladus dioica",
+    "scientificName": "Gymnocladus dioicus",
     "commonNames": [
       "Kentucky Coffee Tree"
     ],
@@ -19905,7 +19905,7 @@
       "Glade Fern",
       "Narrow-leaved Glade Fern"
     ],
-    "family": "Athyriaceae",
+    "family": "Diplaziopsidaceae",
     "nativeStates": [
       "AL",
       "AR",
@@ -30366,7 +30366,7 @@
     "commonNames": [
       "Possumhaw Viburnum"
     ],
-    "family": "Adoxaceae",
+    "family": "Viburnaceae",
     "nativeStates": [
       "AL",
       "AR",
@@ -31381,8 +31381,9 @@
   },
   {
     "id": "hymenocallis-caroliniana",
-    "scientificName": "Hymenocallis caroliniana",
+    "scientificName": "Hymenocallis occidentalis",
     "commonNames": [
+      "Woodland Spider Lily",
       "Carolina Spiderlily"
     ],
     "family": "Amaryllidaceae",
@@ -31391,11 +31392,17 @@
       "AR",
       "FL",
       "GA",
+      "IL",
+      "IN",
+      "KY",
       "LA",
+      "MO",
       "MS",
       "NC",
+      "OK",
       "SC",
-      "TN"
+      "TN",
+      "TX"
     ],
     "generalAppearance": "forb",
     "lifespan": "perennial",
@@ -34621,7 +34628,7 @@
     "commonNames": [
       "Southern Bush Honeysuckle"
     ],
-    "family": "Diervillaceae",
+    "family": "Caprifoliaceae",
     "nativeStates": [
       "GA",
       "NC",
@@ -44212,7 +44219,7 @@
     "commonNames": [
       "Blue Elderberry"
     ],
-    "family": "Adoxaceae",
+    "family": "Viburnaceae",
     "nativeStates": [
       "AZ",
       "CA",
@@ -45157,7 +45164,7 @@
     "commonNames": [
       "Baby Blue Eyes"
     ],
-    "family": "Boraginaceae",
+    "family": "Hydrophyllaceae",
     "nativeStates": [
       "CA",
       "OR",
@@ -45289,7 +45296,7 @@
     "commonNames": [
       "Lacy Phacelia"
     ],
-    "family": "Boraginaceae",
+    "family": "Hydrophyllaceae",
     "nativeStates": [
       "CA",
       "OR",
@@ -56607,7 +56614,7 @@
     "commonNames": [
       "Desert Bluebells"
     ],
-    "family": "Boraginaceae",
+    "family": "Hydrophyllaceae",
     "nativeStates": [
       "AZ",
       "CA"
