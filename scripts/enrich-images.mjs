@@ -20,6 +20,7 @@ const UA = 'native-plant-search/0.1 (https://github.com/; max.renaud.weinberg@gm
 // name returns nothing.
 const NAME_SYNONYMS = {
   'Eutrochium altissimum': 'Eupatorium altissimum',
+  'Forestiera neomexicana': 'Forestiera pubescens',
 }
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms))

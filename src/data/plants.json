@@ -54351,5 +54351,2674 @@
     "imageFile": "plants/festuca-arizonica.jpg",
     "imageSource": "https://en.wikipedia.org/wiki/Festuca_arizonica",
     "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "prosopis-glandulosa",
+    "scientificName": "Prosopis glandulosa",
+    "commonNames": [
+      "Honey Mesquite"
+    ],
+    "family": "Fabaceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "LA",
+      "NM",
+      "NV",
+      "OK",
+      "TX",
+      "UT"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 15,
+      "max": 30
+    },
+    "spreadFeet": {
+      "min": 15,
+      "max": 35
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "mammals",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "A wide-spreading desert tree with weeping branches, fragrant cream catkins, and sweet pods long ground into meal. A nitrogen-fixer whose deep roots tap groundwater across the southern plains and deserts.",
+    "usdaSymbol": "PRGL2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/prosopis-glandulosa.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Neltuma_glandulosa",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "parkinsonia-microphylla",
+    "scientificName": "Parkinsonia microphylla",
+    "commonNames": [
+      "Foothill Palo Verde"
+    ],
+    "family": "Fabaceae",
+    "nativeStates": [
+      "AZ",
+      "CA"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 15,
+      "max": 25
+    },
+    "spreadFeet": {
+      "min": 15,
+      "max": 25
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "A slow, yellow-green-barked desert tree of rocky slopes, paler-flowered than its blue cousin and an essential nurse plant for young saguaros. Supremely drought-adapted.",
+    "usdaSymbol": "PAMI5",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/parkinsonia-microphylla.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Parkinsonia_microphylla",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "vachellia-constricta",
+    "scientificName": "Vachellia constricta",
+    "commonNames": [
+      "Whitethorn Acacia"
+    ],
+    "family": "Fabaceae",
+    "nativeStates": [
+      "AZ",
+      "NM",
+      "TX"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 8,
+      "max": 18
+    },
+    "spreadFeet": {
+      "min": 8,
+      "max": 15
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky",
+      "clay"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "A thorny desert legume with fragrant golden flower puffs after summer rains and ferny foliage. A nitrogen-fixer that anchors washes and provides cover and forage.",
+    "usdaSymbol": "VACO9",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/vachellia-constricta.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Vachellia_constricta",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "quercus-arizonica",
+    "scientificName": "Quercus arizonica",
+    "commonNames": [
+      "Arizona White Oak"
+    ],
+    "family": "Fagaceae",
+    "nativeStates": [
+      "AZ",
+      "NM",
+      "TX"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 20,
+      "max": 60
+    },
+    "spreadFeet": {
+      "min": 20,
+      "max": 50
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "yellow",
+      "green"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "mammals",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "A sturdy evergreen oak of the Southwest's sky islands, with thick, leathery blue-green leaves and acorns that feed wildlife. A keystone of the region's oak-pine woodlands.",
+    "usdaSymbol": "QUAR",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/quercus-arizonica.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Quercus_arizonica",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "juniperus-deppeana",
+    "scientificName": "Juniperus deppeana",
+    "commonNames": [
+      "Alligator Juniper"
+    ],
+    "family": "Cupressaceae",
+    "nativeStates": [
+      "AZ",
+      "NM",
+      "TX"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 20,
+      "max": 50
+    },
+    "spreadFeet": {
+      "min": 15,
+      "max": 30
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "yellow",
+      "brown"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Instantly known for its checkered, alligator-skin bark, this rugged juniper of dry mountain slopes bears blue berry-cones for wildlife and resprouts after fire. Long-lived and picturesque.",
+    "usdaSymbol": "JUDE2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/juniperus-deppeana.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Juniperus_deppeana",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "cupressus-arizonica",
+    "scientificName": "Cupressus arizonica",
+    "commonNames": [
+      "Arizona Cypress"
+    ],
+    "family": "Cupressaceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "NM",
+      "TX"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 30,
+      "max": 50
+    },
+    "spreadFeet": {
+      "min": 15,
+      "max": 25
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      2,
+      3
+    ],
+    "bloomColors": [
+      "yellow",
+      "brown"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "A fast, conical conifer with silvery blue-green scale-like foliage and shaggy bark, native to canyon slopes of the Southwest. Drought- and heat-tough, and a popular windbreak and screen.",
+    "usdaSymbol": "CUAR",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/cupressus-arizonica.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Hesperocyparis_arizonica",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "forestiera-neomexicana",
+    "scientificName": "Forestiera neomexicana",
+    "commonNames": [
+      "New Mexico Olive"
+    ],
+    "family": "Oleaceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "NM",
+      "TX"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 10,
+      "max": 18
+    },
+    "spreadFeet": {
+      "min": 8,
+      "max": 15
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "yellow",
+      "green"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds"
+    ],
+    "deerResistant": true,
+    "notes": "An adaptable, olive-relative shrub with early yellow-green flowers and blue-black fruit that birds love. Tough, multi-trunked, and easily shaped into a small tree or hedge.",
+    "usdaSymbol": "FONE",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/forestiera-neomexicana.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Forestiera_pubescens",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "robinia-neomexicana",
+    "scientificName": "Robinia neomexicana",
+    "commonNames": [
+      "New Mexico Locust"
+    ],
+    "family": "Fabaceae",
+    "nativeStates": [
+      "AZ",
+      "CO",
+      "NM",
+      "TX",
+      "UT"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 10,
+      "max": 25
+    },
+    "spreadFeet": {
+      "min": 10,
+      "max": 20
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "pink",
+      "purple"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds",
+      "songbirds",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "A thorny southwestern locust draped with fragrant rose-pink pea-flower clusters in early summer. A nitrogen-fixer that suckers into thickets and feeds hummingbirds and bees.",
+    "usdaSymbol": "RONE",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/robinia-neomexicana.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Robinia_neomexicana",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "yucca-brevifolia",
+    "scientificName": "Yucca brevifolia",
+    "commonNames": [
+      "Joshua Tree"
+    ],
+    "family": "Asparagaceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "NV",
+      "UT"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 15,
+      "max": 40
+    },
+    "spreadFeet": {
+      "min": 10,
+      "max": 20
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5
+    ],
+    "bloomColors": [
+      "white",
+      "green"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "The surreal, branching giant yucca that defines the Mojave Desert, raising clusters of creamy bells atop spiky arms. Pollinated solely by the yucca moth and slow-growing over centuries.",
+    "usdaSymbol": "YUBR",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/yucca-brevifolia.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Yucca_brevifolia",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "echinocereus-triglochidiatus",
+    "scientificName": "Echinocereus triglochidiatus",
+    "commonNames": [
+      "Claretcup Cactus"
+    ],
+    "family": "Cactaceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "CO",
+      "NM",
+      "NV",
+      "UT"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "red",
+      "orange"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds"
+    ],
+    "deerResistant": true,
+    "notes": "A mounding hedgehog cactus that lights up rocky slopes with brilliant scarlet, waxy cups, one of the few cacti pollinated by hummingbirds. Forms dense clumps of hundreds of stems with age.",
+    "usdaSymbol": "ECTR",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/echinocereus-triglochidiatus.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Echinocereus_triglochidiatus",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "opuntia-basilaris",
+    "scientificName": "Opuntia basilaris",
+    "commonNames": [
+      "Beavertail Prickly Pear"
+    ],
+    "family": "Cactaceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "NV",
+      "UT"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5
+    ],
+    "bloomColors": [
+      "pink",
+      "purple"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "A low prickly pear with blue-gray, beavertail-shaped pads that erupt in vivid magenta flowers in spring. Beware the tiny barbed glochids that replace the usual spines.",
+    "usdaSymbol": "OPBA2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/opuntia-basilaris.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Opuntia_basilaris",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "cylindropuntia-fulgida",
+    "scientificName": "Cylindropuntia fulgida",
+    "commonNames": [
+      "Jumping Cholla"
+    ],
+    "family": "Cactaceae",
+    "nativeStates": [
+      "AZ"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 12
+    },
+    "spreadFeet": {
+      "min": 4,
+      "max": 8
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "pink",
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "A tree-like cholla whose dense, barbed joints detach at the slightest brush, seeming to 'jump,' and chain into hanging fruit. A formidable, sculptural Sonoran giant that shelters cactus wrens.",
+    "usdaSymbol": "CYFU10",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/cylindropuntia-fulgida.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Cylindropuntia_fulgida",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "agave-palmeri",
+    "scientificName": "Agave palmeri",
+    "commonNames": [
+      "Palmer's Agave"
+    ],
+    "family": "Asparagaceae",
+    "nativeStates": [
+      "AZ",
+      "NM"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 3,
+      "max": 5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "yellow",
+      "green"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "A large gray-green rosette that, after years, sends up a towering flower stalk whose nectar sustains migrating lesser long-nosed bats. A keystone agave of the sky-island grasslands.",
+    "usdaSymbol": "AGPA3",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/agave-palmeri.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Agave_palmeri",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "yucca-baccata",
+    "scientificName": "Yucca baccata",
+    "commonNames": [
+      "Banana Yucca"
+    ],
+    "family": "Asparagaceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "CO",
+      "NM",
+      "NV",
+      "TX",
+      "UT"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 5
+    },
+    "spreadFeet": {
+      "min": 3,
+      "max": 5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "white",
+      "purple"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "A stout, blue-green-bladed yucca bearing thick, banana-like fleshy fruit that was an important Indigenous food. Its fibers wove cordage and sandals, and the yucca moth pollinates its waxy bells.",
+    "usdaSymbol": "YUBA",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/yucca-baccata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Yucca_baccata",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "yucca-schidigera",
+    "scientificName": "Yucca schidigera",
+    "commonNames": [
+      "Mojave Yucca"
+    ],
+    "family": "Asparagaceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "NV"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 15
+    },
+    "spreadFeet": {
+      "min": 4,
+      "max": 6
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5
+    ],
+    "bloomColors": [
+      "white",
+      "purple"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "A trunk-forming Mojave yucca with stiff, yellow-green blades edged in curling fibers and dense clusters of creamy bells. Tough, long-lived, and a desert habitat plant.",
+    "usdaSymbol": "YUSC2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/yucca-schidigera.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Yucca_schidigera",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "ferocactus-cylindraceus",
+    "scientificName": "Ferocactus cylindraceus",
+    "commonNames": [
+      "California Barrel Cactus"
+    ],
+    "family": "Cactaceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "NV",
+      "UT"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 6
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "yellow",
+      "orange"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds"
+    ],
+    "deerResistant": true,
+    "notes": "A ribbed cylinder armored in hooked red-and-yellow spines, crowned each spring by a ring of yellow-to-orange flowers. A long-lived sentinel of Mojave and Sonoran rocky slopes.",
+    "usdaSymbol": "FECY",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/ferocactus-cylindraceus.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Ferocactus_cylindraceus",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "agave-americana",
+    "scientificName": "Agave americana",
+    "commonNames": [
+      "Century Plant"
+    ],
+    "family": "Asparagaceae",
+    "nativeStates": [
+      "CA",
+      "FL",
+      "TX"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 6
+    },
+    "spreadFeet": {
+      "min": 6,
+      "max": 10
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky",
+      "loam"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "A massive blue-gray rosette of fierce, spine-tipped leaves that, after decades, throws up a twenty-foot flowering mast and dies, leaving offsets. Bold, dramatic, and bat- and bird-pollinated.",
+    "usdaSymbol": "AGAM",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/agave-americana.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Agave_americana",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "opuntia-santa-rita",
+    "scientificName": "Opuntia santa-rita",
+    "commonNames": [
+      "Santa Rita Prickly Pear"
+    ],
+    "family": "Cactaceae",
+    "nativeStates": [
+      "AZ"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 6
+    },
+    "spreadFeet": {
+      "min": 4,
+      "max": 6
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds"
+    ],
+    "deerResistant": true,
+    "notes": "A prickly pear prized for rounded pads that flush purple and blue in cold or drought, set off by yellow flowers and red fruit. A living sculpture for hot, dry gardens.",
+    "usdaSymbol": "OPSA",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/opuntia-santa-rita.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Opuntia_gosseliniana",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "tecoma-stans",
+    "scientificName": "Tecoma stans",
+    "commonNames": [
+      "Yellow Bells"
+    ],
+    "family": "Bignoniaceae",
+    "nativeStates": [
+      "AZ",
+      "FL",
+      "HI",
+      "NM",
+      "TX"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 9
+    },
+    "spreadFeet": {
+      "min": 3,
+      "max": 6
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky",
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "A fast, lush desert shrub hung with clusters of golden trumpet flowers from spring to frost that hummingbirds and bees adore. Heat-loving and free-blooming wherever winters are mild.",
+    "usdaSymbol": "TEST",
+    "nativeRegions": [
+      "L48",
+      "PR",
+      "VI"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/tecoma-stans.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Tecoma_stans",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "anisacanthus-quadrifidus",
+    "scientificName": "Anisacanthus quadrifidus",
+    "commonNames": [
+      "Flame Acanthus"
+    ],
+    "family": "Acanthaceae",
+    "nativeStates": [
+      "TX"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "bloomColors": [
+      "red",
+      "orange"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": true,
+    "notes": "An airy, fine-leaved shrub that flames with slender red-orange tubular flowers through the hottest months, a magnet for hummingbirds. A larval host and a tough late-season nectar plant.",
+    "usdaSymbol": "ANQU2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/anisacanthus-quadrifidus.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Anisacanthus_quadrifidus",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "salvia-dorrii",
+    "scientificName": "Salvia dorrii",
+    "commonNames": [
+      "Desert Sage"
+    ],
+    "family": "Lamiaceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "ID",
+      "NV",
+      "OR",
+      "UT",
+      "WA"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 3
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "blue",
+      "purple"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "A compact, silvery desert sage that mounds itself in spikes of violet-blue flowers wrapped in purple bracts. Intensely aromatic and built for the driest, rockiest Great Basin slopes.",
+    "usdaSymbol": "SADO4",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/salvia-dorrii.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Salvia_dorrii",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "aloysia-gratissima",
+    "scientificName": "Aloysia gratissima",
+    "commonNames": [
+      "Whitebrush"
+    ],
+    "family": "Verbenaceae",
+    "nativeStates": [
+      "TX"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 4,
+      "max": 8
+    },
+    "spreadFeet": {
+      "min": 4,
+      "max": 8
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy",
+      "clay"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "A wispy desert shrub that after each rain perfumes the air with vanilla-scented white flower spikes swarming with bees and butterflies. An outstanding, drought-proof pollinator plant.",
+    "usdaSymbol": "ALGR2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/aloysia-gratissima.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Aloysia_gratissima",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "hyptis-emoryi",
+    "scientificName": "Hyptis emoryi",
+    "commonNames": [
+      "Desert Lavender"
+    ],
+    "family": "Lamiaceae",
+    "nativeStates": [
+      "AZ",
+      "CA"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 10
+    },
+    "spreadFeet": {
+      "min": 3,
+      "max": 8
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      11,
+      12
+    ],
+    "bloomColors": [
+      "purple"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "A tall, gray, lavender-scented desert shrub that blooms small violet flowers through the cool season. A vital winter nectar source for bees and hummingbirds in the Sonoran wash.",
+    "usdaSymbol": "HYEM",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/hyptis-emoryi.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Condea_emoryi",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "dalea-frutescens",
+    "scientificName": "Dalea frutescens",
+    "commonNames": [
+      "Black Dalea"
+    ],
+    "family": "Fabaceae",
+    "nativeStates": [
+      "NM",
+      "OK",
+      "TX"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy",
+      "clay"
+    ],
+    "bloomMonths": [
+      8,
+      9,
+      10
+    ],
+    "bloomColors": [
+      "purple"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": true,
+    "notes": "A fine-textured desert legume that covers itself in rich purple flower spikes in fall, alive with bees. A nitrogen-fixer and butterfly host that thrives on rocky, alkaline ground.",
+    "usdaSymbol": "DAFR2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/dalea-frutescens.jpg",
+    "imageSource": "https://www.inaturalist.org/taxa/161602",
+    "imageCredit": "iNaturalist"
+  },
+  {
+    "id": "dalea-greggii",
+    "scientificName": "Dalea greggii",
+    "commonNames": [
+      "Trailing Indigo Bush"
+    ],
+    "family": "Fabaceae",
+    "nativeStates": [
+      "AZ",
+      "TX"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 3,
+      "max": 6
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy",
+      "clay"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5
+    ],
+    "bloomColors": [
+      "purple"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "A low, silvery, trailing groundcover legume dotted with small purple flowers in spring. A fast, fine-textured nitrogen-fixer for covering hot, dry banks and slopes.",
+    "usdaSymbol": "DAGR2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/dalea-greggii.jpg",
+    "imageSource": "https://www.inaturalist.org/taxa/161605",
+    "imageCredit": "iNaturalist"
+  },
+  {
+    "id": "mahonia-trifoliolata",
+    "scientificName": "Mahonia trifoliolata",
+    "commonNames": [
+      "Agarita"
+    ],
+    "family": "Berberidaceae",
+    "nativeStates": [
+      "TX"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 6
+    },
+    "spreadFeet": {
+      "min": 3,
+      "max": 6
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy",
+      "clay"
+    ],
+    "bloomMonths": [
+      2,
+      3
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds"
+    ],
+    "deerResistant": true,
+    "notes": "A spiny, blue-gray evergreen with holly-like leaflets, fragrant yellow late-winter flowers, and tart red berries gathered for jelly. Impenetrable cover for birds and tough on dry, limy soils.",
+    "usdaSymbol": "MATR3",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/mahonia-trifoliolata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Berberis_trifoliolata",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "vauquelinia-californica",
+    "scientificName": "Vauquelinia californica",
+    "commonNames": [
+      "Arizona Rosewood"
+    ],
+    "family": "Rosaceae",
+    "nativeStates": [
+      "AZ"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 8,
+      "max": 20
+    },
+    "spreadFeet": {
+      "min": 6,
+      "max": 12
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "A handsome, leathery-leaved evergreen of desert mountains, with flat clusters of creamy flowers and a narrow, upright form. A refined, drought-tough screen or small tree.",
+    "usdaSymbol": "VACA5",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/vauquelinia-californica.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Vauquelinia_californica",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "rhus-ovata",
+    "scientificName": "Rhus ovata",
+    "commonNames": [
+      "Sugar Bush"
+    ],
+    "family": "Anacardiaceae",
+    "nativeStates": [
+      "AZ",
+      "CA"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 6,
+      "max": 15
+    },
+    "spreadFeet": {
+      "min": 8,
+      "max": 15
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5
+    ],
+    "bloomColors": [
+      "white",
+      "pink"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "A rounded, glossy-leaved evergreen of chaparral and desert foothills with pinkish flower buds and tart reddish fruit once used for a sweet drink. A tough, fire-resistant screen.",
+    "usdaSymbol": "RHOV",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/rhus-ovata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Rhus_ovata",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "ericameria-laricifolia",
+    "scientificName": "Ericameria laricifolia",
+    "commonNames": [
+      "Turpentine Bush"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "NM",
+      "NV",
+      "TX",
+      "UT"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 3
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      9,
+      10,
+      11
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "A tidy, rounded evergreen with needle-fine, resin-scented foliage that bursts into golden daisies in fall, feeding late pollinators. Neat, fragrant, and unbothered by heat or drought.",
+    "usdaSymbol": "ERLA12",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/ericameria-laricifolia.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Ericameria_laricifolia",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "bouvardia-ternifolia",
+    "scientificName": "Bouvardia ternifolia",
+    "commonNames": [
+      "Firecracker Bush"
+    ],
+    "family": "Rubiaceae",
+    "nativeStates": [
+      "AZ",
+      "NM",
+      "TX"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 3
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "rocky",
+      "loam"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "bloomColors": [
+      "red"
+    ],
+    "leafArrangement": "whorled",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "A small shrub spangled through summer and fall with clusters of brilliant scarlet tubular flowers built for hummingbirds. A sky-island and desert-mountain gem for part shade.",
+    "usdaSymbol": "BOTE2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/bouvardia-ternifolia.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Bouvardia_ternifolia",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "atriplex-lentiformis",
+    "scientificName": "Atriplex lentiformis",
+    "commonNames": [
+      "Quailbush"
+    ],
+    "family": "Amaranthaceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "NV",
+      "UT"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 10
+    },
+    "spreadFeet": {
+      "min": 6,
+      "max": 12
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "clay",
+      "rocky"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "yellow",
+      "brown"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "mammals"
+    ],
+    "deerResistant": false,
+    "notes": "A big, silvery, salt-loving evergreen shrub that forms dense thickets of cover and seed for quail and other birds. Thrives in saline, alkaline, and seasonally wet desert flats.",
+    "usdaSymbol": "ATLE",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/atriplex-lentiformis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Atriplex_lentiformis",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "ambrosia-dumosa",
+    "scientificName": "Ambrosia dumosa",
+    "commonNames": [
+      "White Bursage"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "NV",
+      "UT"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5
+    ],
+    "bloomColors": [
+      "yellow",
+      "green"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "A low, gray, intricately branched shrub that, with creosote, dominates vast stretches of the warm deserts. An unshowy but essential nurse plant and soil-stabilizer of the open flats.",
+    "usdaSymbol": "AMDU2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/ambrosia-dumosa.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Ambrosia_dumosa",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "penstemon-pseudospectabilis",
+    "scientificName": "Penstemon pseudospectabilis",
+    "commonNames": [
+      "Desert Penstemon"
+    ],
+    "family": "Plantaginaceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "NM"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5
+    ],
+    "bloomColors": [
+      "pink"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Tall, branching wands of rose-pink trumpets rise from clasping blue-gray leaves in spring, drawing hummingbirds across the desert. A showy, heat-loving penstemon for gravelly ground.",
+    "usdaSymbol": "PEPS",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/penstemon-pseudospectabilis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Penstemon_pseudospectabilis",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "psilostrophe-cooperi",
+    "scientificName": "Psilostrophe cooperi",
+    "commonNames": [
+      "Paperflower"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "NV",
+      "UT"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "A tidy desert mound covered much of the year in small golden daisies whose rays dry to papery tan and persist on the plant. Cheerful, long-blooming, and thoroughly drought-proof.",
+    "usdaSymbol": "PSCO2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/psilostrophe-cooperi.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Psilostrophe_cooperi",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "lupinus-sparsiflorus",
+    "scientificName": "Lupinus sparsiflorus",
+    "commonNames": [
+      "Desert Lupine"
+    ],
+    "family": "Fabaceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "NV",
+      "UT"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "annual",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "bloomColors": [
+      "blue",
+      "purple"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": true,
+    "notes": "A slender winter annual whose blue-purple flower spikes carpet the Sonoran Desert after good rains, often beside golden poppies. A nitrogen-fixer that reseeds for the next wet year.",
+    "usdaSymbol": "LUSP2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/lupinus-sparsiflorus.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Lupinus_sparsiflorus",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "phacelia-campanularia",
+    "scientificName": "Phacelia campanularia",
+    "commonNames": [
+      "Desert Bluebells"
+    ],
+    "family": "Boraginaceae",
+    "nativeStates": [
+      "AZ",
+      "CA"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "annual",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      2,
+      3,
+      4
+    ],
+    "bloomColors": [
+      "blue"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "A desert annual scattering deep gentian-blue bells over rounded, dark leaves in early spring. One of the truest blues of the Mojave bloom and a quick, easy reseeder.",
+    "usdaSymbol": "PHCA3",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/phacelia-campanularia.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Phacelia_campanularia",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "zinnia-acerosa",
+    "scientificName": "Zinnia acerosa",
+    "commonNames": [
+      "Desert Zinnia"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AZ",
+      "NM",
+      "TX"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.3,
+      "max": 0.8
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy",
+      "clay"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "bloomColors": [
+      "white",
+      "yellow"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "A low, tough perennial zinnia forming tidy mounds dotted for months with small creamy-white daisies. An unfussy, heat- and drought-defying groundcover for the hottest gardens.",
+    "usdaSymbol": "ZIAC",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/zinnia-acerosa.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Zinnia_acerosa",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "calylophus-hartwegii",
+    "scientificName": "Calylophus hartwegii",
+    "commonNames": [
+      "Sundrops"
+    ],
+    "family": "Onagraceae",
+    "nativeStates": [
+      "AZ",
+      "NM",
+      "TX"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky",
+      "clay"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "A low, spreading evening-primrose relative that opens a long succession of silky yellow cups aging to apricot, from spring into fall. Drought-tough and free-flowering on lean soil.",
+    "usdaSymbol": "CAHA14",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/calylophus-hartwegii.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Oenothera_hartwegii",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "pleuraphis-jamesii",
+    "scientificName": "Pleuraphis jamesii",
+    "commonNames": [
+      "Galleta"
+    ],
+    "family": "Poaceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "CO",
+      "NM",
+      "NV",
+      "UT"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "clay",
+      "rocky"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds"
+    ],
+    "deerResistant": true,
+    "notes": "A wiry, rhizomatous warm-season grass that holds the soil across the driest shortgrass and desert grasslands, greening up fast after rain. Tough, important forage and erosion control.",
+    "usdaSymbol": "PLJA",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/pleuraphis-jamesii.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Hilaria_jamesii",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "muhlenbergia-porteri",
+    "scientificName": "Muhlenbergia porteri",
+    "commonNames": [
+      "Bush Muhly"
+    ],
+    "family": "Poaceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "NM",
+      "NV",
+      "TX"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 3
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      8,
+      9,
+      10
+    ],
+    "bloomColors": [
+      "purple"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds"
+    ],
+    "deerResistant": true,
+    "notes": "A delicate, intricately branched bunchgrass that forms an airy purple haze in flower, often sheltering within desert shrubs. Nutritious forage and a beautiful, fine-textured accent.",
+    "usdaSymbol": "MUPO2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/muhlenbergia-porteri.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Muhlenbergia_porteri",
+    "imageCredit": "Wikimedia"
   }
 ]

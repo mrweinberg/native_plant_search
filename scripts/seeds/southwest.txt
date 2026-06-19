@@ -51,3 +51,45 @@ Glandularia gooddingii | Goodding's Verbena
 Sporobolus airoides | Alkali Sacaton
 Muhlenbergia lindheimeri | Lindheimer's Muhly
 Aristida purpurea | Purple Threeawn
+
+# Batch 2 — Mojave, more Sonoran/Chihuahuan trees, cacti, shrubs, wildflowers
+Prosopis glandulosa | Honey Mesquite
+Parkinsonia microphylla | Foothill Palo Verde
+Vachellia constricta | Whitethorn Acacia
+Quercus arizonica | Arizona White Oak
+Juniperus deppeana | Alligator Juniper
+Cupressus arizonica | Arizona Cypress
+Forestiera neomexicana | New Mexico Olive
+Robinia neomexicana | New Mexico Locust
+Yucca brevifolia | Joshua Tree
+Echinocereus triglochidiatus | Claretcup Cactus
+Opuntia basilaris | Beavertail Prickly Pear
+Cylindropuntia fulgida | Jumping Cholla
+Agave palmeri | Palmer's Agave
+Yucca baccata | Banana Yucca
+Yucca schidigera | Mojave Yucca
+Ferocactus cylindraceus | California Barrel Cactus
+Agave americana | Century Plant
+Opuntia santa-rita | Santa Rita Prickly Pear
+Tecoma stans | Yellow Bells
+Anisacanthus quadrifidus | Flame Acanthus
+Salvia dorrii | Desert Sage
+Aloysia gratissima | Whitebrush
+Hyptis emoryi | Desert Lavender
+Dalea frutescens | Black Dalea
+Dalea greggii | Trailing Indigo Bush
+Mahonia trifoliolata | Agarita
+Vauquelinia californica | Arizona Rosewood
+Rhus ovata | Sugar Bush
+Ericameria laricifolia | Turpentine Bush
+Bouvardia ternifolia | Firecracker Bush
+Atriplex lentiformis | Quailbush
+Ambrosia dumosa | White Bursage
+Penstemon pseudospectabilis | Desert Penstemon
+Psilostrophe cooperi | Paperflower
+Lupinus sparsiflorus | Desert Lupine
+Phacelia campanularia | Desert Bluebells
+Zinnia acerosa | Desert Zinnia
+Calylophus hartwegii | Sundrops
+Pleuraphis jamesii | Galleta
+Muhlenbergia porteri | Bush Muhly
