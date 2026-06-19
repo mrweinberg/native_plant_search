@@ -51,3 +51,46 @@ Adiantum aleuticum | Western Maidenhair Fern
 # Grasses
 Deschampsia cespitosa | Tufted Hairgrass
 Carex obnupta | Slough Sedge
+
+# Batch 2 — more conifers, broadleaf trees, woodland & alpine forbs, ferns
+Abies grandis | Grand Fir
+Abies procera | Noble Fir
+Pinus monticola | Western White Pine
+Larix occidentalis | Western Larch
+Alnus rubra | Red Alder
+Populus trichocarpa | Black Cottonwood
+Taxus brevifolia | Pacific Yew
+Crataegus douglasii | Black Hawthorn
+Chamaecyparis nootkatensis | Alaska Yellow Cedar
+Cornus sericea | Red-osier Dogwood
+Lonicera involucrata | Twinberry Honeysuckle
+Vaccinium parvifolium | Red Huckleberry
+Vaccinium membranaceum | Black Huckleberry
+Spiraea douglasii | Douglas Spirea
+Ceanothus sanguineus | Redstem Ceanothus
+Morella californica | Pacific Wax Myrtle
+Rosa gymnocarpa | Baldhip Rose
+Rubus leucodermis | Blackcap Raspberry
+Rhododendron occidentale | Western Azalea
+Arctostaphylos uva-ursi | Kinnikinnick
+Paxistima myrsinites | Oregon Boxleaf
+Cornus unalaschkensis | Western Bunchberry
+Menziesia ferruginea | Fool's Huckleberry
+Anaphalis margaritacea | Pearly Everlasting
+Symphyotrichum subspicatum | Douglas Aster
+Sedum spathulifolium | Broadleaf Stonecrop
+Fragaria chiloensis | Coastal Strawberry
+Maianthemum dilatatum | False Lily of the Valley
+Achlys triphylla | Vanilla Leaf
+Vancouveria hexandra | Inside-out Flower
+Lilium columbianum | Columbia Lily
+Fritillaria affinis | Chocolate Lily
+Erythronium grandiflorum | Glacier Lily
+Penstemon rupicola | Cliff Penstemon
+Castilleja hispida | Harsh Paintbrush
+Collinsia grandiflora | Giant Blue-eyed Mary
+Sedum oreganum | Oregon Stonecrop
+Heuchera micrantha | Crevice Alumroot
+Polypodium glycyrrhiza | Licorice Fern
+Dryopteris expansa | Spreading Wood Fern
+Festuca roemeri | Roemer's Fescue

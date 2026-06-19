@@ -57020,5 +57020,2793 @@
     "imageFile": "plants/muhlenbergia-porteri.jpg",
     "imageSource": "https://en.wikipedia.org/wiki/Muhlenbergia_porteri",
     "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "abies-grandis",
+    "scientificName": "Abies grandis",
+    "commonNames": [
+      "Grand Fir"
+    ],
+    "family": "Pinaceae",
+    "nativeStates": [
+      "CA",
+      "ID",
+      "MT",
+      "OR",
+      "WA"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 100,
+      "max": 200
+    },
+    "spreadFeet": {
+      "min": 20,
+      "max": 30
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "sandy"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "yellow",
+      "green"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "A fast, towering lowland fir with flat, glossy needles in neat rows that release a bright citrus scent when crushed. A stately conifer for moist Northwest valleys.",
+    "usdaSymbol": "ABGR",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/abies-grandis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Abies_grandis",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "abies-procera",
+    "scientificName": "Abies procera",
+    "commonNames": [
+      "Noble Fir"
+    ],
+    "family": "Pinaceae",
+    "nativeStates": [
+      "CA",
+      "OR",
+      "WA"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 100,
+      "max": 200
+    },
+    "spreadFeet": {
+      "min": 15,
+      "max": 30
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "red",
+      "brown"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "The largest of the true firs, a high-elevation conifer with stiff blue-green needles and huge upright cones. Prized as a premium Christmas tree and timber, but it needs cool mountain air.",
+    "usdaSymbol": "ABPR",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/abies-procera.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Abies_procera",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "pinus-monticola",
+    "scientificName": "Pinus monticola",
+    "commonNames": [
+      "Western White Pine"
+    ],
+    "family": "Pinaceae",
+    "nativeStates": [
+      "CA",
+      "ID",
+      "MT",
+      "NV",
+      "OR",
+      "WA"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 60,
+      "max": 150
+    },
+    "spreadFeet": {
+      "min": 20,
+      "max": 30
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "dry"
+    ],
+    "soilType": [
+      "loam",
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "whorled",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Idaho's state tree, a graceful five-needled pine with long banana-curved cones and soft blue-green foliage. A fast, tall conifer of mountain forests, though challenged by blister rust.",
+    "usdaSymbol": "PIMO3",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/pinus-monticola.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Western_white_pine",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "larix-occidentalis",
+    "scientificName": "Larix occidentalis",
+    "commonNames": [
+      "Western Larch"
+    ],
+    "family": "Pinaceae",
+    "nativeStates": [
+      "ID",
+      "MT",
+      "OR",
+      "WA"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 80,
+      "max": 160
+    },
+    "spreadFeet": {
+      "min": 15,
+      "max": 30
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist",
+      "dry"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "yellow",
+      "red"
+    ],
+    "leafArrangement": "whorled",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "A deciduous conifer that turns whole mountainsides gold before dropping its soft needles each fall. Thick-barked and remarkably fire-resistant, a giant of the inland Northwest forests.",
+    "usdaSymbol": "LAOC",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/larix-occidentalis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Western_larch",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "alnus-rubra",
+    "scientificName": "Alnus rubra",
+    "commonNames": [
+      "Red Alder"
+    ],
+    "family": "Betulaceae",
+    "nativeStates": [
+      "AK",
+      "CA",
+      "ID",
+      "OR",
+      "WA"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 30,
+      "max": 80
+    },
+    "spreadFeet": {
+      "min": 20,
+      "max": 40
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "clay",
+      "sandy"
+    ],
+    "bloomMonths": [
+      2,
+      3,
+      4
+    ],
+    "bloomColors": [
+      "yellow",
+      "brown"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "larval host"
+    ],
+    "deerResistant": true,
+    "notes": "A fast pioneer tree of streambanks and clearings with smooth gray bark and dangling catkins. A nitrogen-fixer that enriches the soil and feeds siskins and redpolls with its tiny cone seeds.",
+    "usdaSymbol": "ALRU2",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/alnus-rubra.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Alnus_rubra",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "populus-trichocarpa",
+    "scientificName": "Populus trichocarpa",
+    "commonNames": [
+      "Black Cottonwood"
+    ],
+    "family": "Salicaceae",
+    "nativeStates": [
+      "AK",
+      "CA",
+      "ID",
+      "MT",
+      "NV",
+      "OR",
+      "WA"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 60,
+      "max": 150
+    },
+    "spreadFeet": {
+      "min": 30,
+      "max": 50
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "sandy",
+      "clay"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "red",
+      "brown"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "mammals",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "The towering cottonwood of western rivers, balsam-scented at leaf-out and shedding drifts of cottony seed in summer. The tallest western hardwood and vital riparian habitat.",
+    "usdaSymbol": "POTR15",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/populus-trichocarpa.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Populus_trichocarpa",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "taxus-brevifolia",
+    "scientificName": "Taxus brevifolia",
+    "commonNames": [
+      "Pacific Yew"
+    ],
+    "family": "Taxaceae",
+    "nativeStates": [
+      "CA",
+      "ID",
+      "MT",
+      "OR",
+      "WA"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 15,
+      "max": 40
+    },
+    "spreadFeet": {
+      "min": 10,
+      "max": 20
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "sandy"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "green",
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "A slow, shade-loving understory conifer with flat needles, peeling purple bark, and red berry-like arils for birds. The original source of the cancer drug taxol, though its foliage and seeds are toxic.",
+    "usdaSymbol": "TABR2",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/taxus-brevifolia.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Taxus_brevifolia",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "crataegus-douglasii",
+    "scientificName": "Crataegus douglasii",
+    "commonNames": [
+      "Black Hawthorn"
+    ],
+    "family": "Rosaceae",
+    "nativeStates": [
+      "CA",
+      "ID",
+      "MI",
+      "MN",
+      "MT",
+      "OR",
+      "UT",
+      "WA",
+      "WY"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 10,
+      "max": 30
+    },
+    "spreadFeet": {
+      "min": 10,
+      "max": 20
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "mammals",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "A thorny, thicket-forming hawthorn with flat white flower clusters and dark, edible haws. Impenetrable cover and abundant food for nesting and foraging birds along moist edges.",
+    "usdaSymbol": "CRDO2",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/crataegus-douglasii.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Crataegus_douglasii",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "chamaecyparis-nootkatensis",
+    "scientificName": "Chamaecyparis nootkatensis",
+    "commonNames": [
+      "Alaska Yellow Cedar"
+    ],
+    "family": "Cupressaceae",
+    "nativeStates": [
+      "AK",
+      "OR",
+      "WA"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 40,
+      "max": 90
+    },
+    "spreadFeet": {
+      "min": 15,
+      "max": 25
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "yellow",
+      "brown"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "A graceful, weeping conifer of cold, wet mountain slopes, with drooping sprays of blue-green foliage and aromatic, rot-resistant yellow wood. Long-lived and elegant in the landscape.",
+    "usdaSymbol": "CHNO",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/chamaecyparis-nootkatensis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Callitropsis_nootkatensis",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "lonicera-involucrata",
+    "scientificName": "Lonicera involucrata",
+    "commonNames": [
+      "Twinberry Honeysuckle"
+    ],
+    "family": "Caprifoliaceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "CO",
+      "ID",
+      "MT",
+      "NM",
+      "NV",
+      "OR",
+      "UT",
+      "WA",
+      "WY"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 10
+    },
+    "spreadFeet": {
+      "min": 4,
+      "max": 8
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds",
+      "songbirds"
+    ],
+    "deerResistant": true,
+    "notes": "A moisture-loving shrub bearing paired yellow tubular flowers for hummingbirds, then shiny black twin berries cupped in showy maroon bracts that birds relish. Vigorous in wet ground.",
+    "usdaSymbol": "LOIN5",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/lonicera-involucrata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Lonicera_involucrata",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "vaccinium-parvifolium",
+    "scientificName": "Vaccinium parvifolium",
+    "commonNames": [
+      "Red Huckleberry"
+    ],
+    "family": "Ericaceae",
+    "nativeStates": [
+      "AK",
+      "CA",
+      "OR",
+      "WA"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 4,
+      "max": 12
+    },
+    "spreadFeet": {
+      "min": 3,
+      "max": 6
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "sandy"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "green",
+      "pink"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "An airy, green-twigged huckleberry of conifer forests, often growing from rotting stumps, hung with translucent bright-red berries beloved by birds and people. Delicate and graceful in shade.",
+    "usdaSymbol": "VAPA",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/vaccinium-parvifolium.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Vaccinium_parvifolium",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "vaccinium-membranaceum",
+    "scientificName": "Vaccinium membranaceum",
+    "commonNames": [
+      "Black Huckleberry"
+    ],
+    "family": "Ericaceae",
+    "nativeStates": [
+      "CA",
+      "ID",
+      "MI",
+      "MT",
+      "OR",
+      "WA",
+      "WY"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 5
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "pink",
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "The famous mountain huckleberry, producing large, sweet purple-black berries treasured by people and bears alike. Thrives in cool, high forests and burns, with rich red fall color.",
+    "usdaSymbol": "VAME",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/vaccinium-membranaceum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Vaccinium_membranaceum",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "spiraea-douglasii",
+    "scientificName": "Spiraea douglasii",
+    "commonNames": [
+      "Douglas Spirea"
+    ],
+    "family": "Rosaceae",
+    "nativeStates": [
+      "AK",
+      "CA",
+      "ID",
+      "MT",
+      "OR",
+      "WA"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 7
+    },
+    "spreadFeet": {
+      "min": 3,
+      "max": 6
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "pink"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "A suckering wetland shrub topped in summer with fuzzy pink flower spires (hardhack) that bees and butterflies swarm. Excellent for soggy ground, rain gardens, and stabilizing banks.",
+    "usdaSymbol": "SPDO",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/spiraea-douglasii.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Spiraea_douglasii",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "ceanothus-sanguineus",
+    "scientificName": "Ceanothus sanguineus",
+    "commonNames": [
+      "Redstem Ceanothus"
+    ],
+    "family": "Rhamnaceae",
+    "nativeStates": [
+      "CA",
+      "ID",
+      "MI",
+      "MT",
+      "OR",
+      "WA"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 4,
+      "max": 10
+    },
+    "spreadFeet": {
+      "min": 4,
+      "max": 8
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": true,
+    "notes": "A deciduous, red-stemmed wild lilac that froths with fragrant white flower clusters in early summer. A nitrogen-fixing fire-follower beloved by butterflies and native bees on dry forest edges.",
+    "usdaSymbol": "CESA",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/ceanothus-sanguineus.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Ceanothus_sanguineus",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "morella-californica",
+    "scientificName": "Morella californica",
+    "commonNames": [
+      "Pacific Wax Myrtle"
+    ],
+    "family": "Myricaceae",
+    "nativeStates": [
+      "CA",
+      "OR",
+      "WA"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 8,
+      "max": 20
+    },
+    "spreadFeet": {
+      "min": 8,
+      "max": 15
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "green"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "songbirds"
+    ],
+    "deerResistant": true,
+    "notes": "A glossy, aromatic evergreen of the coast with purple waxy berries for birds. Fast, salt-tolerant, and a nitrogen-fixer, making an excellent screen or hedge in mild Northwest gardens.",
+    "usdaSymbol": "MOCA6",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/morella-californica.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Myrica_californica",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "rosa-gymnocarpa",
+    "scientificName": "Rosa gymnocarpa",
+    "commonNames": [
+      "Baldhip Rose"
+    ],
+    "family": "Rosaceae",
+    "nativeStates": [
+      "CA",
+      "ID",
+      "OR",
+      "WA"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 5
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade",
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "sandy"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "pink"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds"
+    ],
+    "deerResistant": true,
+    "notes": "A delicate, slender-stemmed little woodland rose with small single pink blooms and narrow red hips. The most shade-tolerant native rose, at home beneath conifers.",
+    "usdaSymbol": "ROGY",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/rosa-gymnocarpa.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Rosa_gymnocarpa",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "rubus-leucodermis",
+    "scientificName": "Rubus leucodermis",
+    "commonNames": [
+      "Blackcap Raspberry"
+    ],
+    "family": "Rosaceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "ID",
+      "MT",
+      "NV",
+      "OR",
+      "UT",
+      "WA"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 8
+    },
+    "spreadFeet": {
+      "min": 4,
+      "max": 8
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "dry"
+    ],
+    "soilType": [
+      "loam",
+      "sandy"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "white",
+      "pink"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "The native black raspberry, with arching blue-white canes and sweet, dusky purple-black fruit prized for fresh eating and jam. A vigorous, thorny thicket-former of clearings and edges.",
+    "usdaSymbol": "RULE",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/rubus-leucodermis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Rubus_leucodermis",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "rhododendron-occidentale",
+    "scientificName": "Rhododendron occidentale",
+    "commonNames": [
+      "Western Azalea"
+    ],
+    "family": "Ericaceae",
+    "nativeStates": [
+      "CA",
+      "OR"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 10
+    },
+    "spreadFeet": {
+      "min": 4,
+      "max": 8
+    },
+    "lightRequirement": [
+      "part shade",
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "sandy"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "white",
+      "pink"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "The West's only deciduous native azalea, perfuming streamsides with showy white-to-pink, yellow-blotched flowers in early summer. Spectacular but wanting cool, moist, acidic roots.",
+    "usdaSymbol": "RHOC",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/rhododendron-occidentale.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Rhododendron_occidentale",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "arctostaphylos-uva-ursi",
+    "scientificName": "Arctostaphylos uva-ursi",
+    "commonNames": [
+      "Kinnikinnick"
+    ],
+    "family": "Ericaceae",
+    "nativeStates": [
+      "AK",
+      "CA",
+      "CO",
+      "CT",
+      "ID",
+      "IL",
+      "IN",
+      "MA",
+      "ME",
+      "MI",
+      "MN",
+      "MT",
+      "ND",
+      "NH",
+      "NJ",
+      "NM",
+      "NY",
+      "OR",
+      "PA",
+      "RI",
+      "SD",
+      "UT",
+      "VT",
+      "WA",
+      "WI",
+      "WY"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.3,
+      "max": 1
+    },
+    "spreadFeet": {
+      "min": 3,
+      "max": 6
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky",
+      "loam"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5
+    ],
+    "bloomColors": [
+      "white",
+      "pink"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "A tough, mat-forming evergreen groundcover (bearberry) with glossy leaves, pink urn flowers, and red berries for wildlife. Superb for covering hot, dry, sandy banks and slopes.",
+    "usdaSymbol": "ARUV",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "GL",
+      "L48",
+      "SPM"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/arctostaphylos-uva-ursi.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Arctostaphylos_uva-ursi",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "paxistima-myrsinites",
+    "scientificName": "Paxistima myrsinites",
+    "commonNames": [
+      "Oregon Boxleaf"
+    ],
+    "family": "Celastraceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "CO",
+      "ID",
+      "MT",
+      "NM",
+      "OR",
+      "UT",
+      "WA",
+      "WY"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 3
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade",
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "red",
+      "brown"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "A low, fine-textured evergreen with tiny glossy boxwood-like leaves and inconspicuous maroon flowers. A tidy, drought-tolerant native substitute for boxwood in sun or shade.",
+    "usdaSymbol": "PAMY",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/paxistima-myrsinites.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Paxistima_myrsinites",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "cornus-unalaschkensis",
+    "scientificName": "Cornus unalaschkensis",
+    "commonNames": [
+      "Western Bunchberry"
+    ],
+    "family": "Cornaceae",
+    "nativeStates": [
+      "AK",
+      "ID",
+      "OR",
+      "WA"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.3,
+      "max": 0.6
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "whorled",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds"
+    ],
+    "deerResistant": true,
+    "notes": "A creeping woodland groundcover dogwood that carpets cool conifer shade with whorled leaves, white flower bracts, and clusters of red berries. Spreads slowly into a lush mat.",
+    "usdaSymbol": "COUN",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/cornus-unalaschkensis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Cornus_%C3%97_unalaschkensis",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "menziesia-ferruginea",
+    "scientificName": "Menziesia ferruginea",
+    "commonNames": [
+      "Fool's Huckleberry"
+    ],
+    "family": "Ericaceae",
+    "nativeStates": [
+      "AK",
+      "CA",
+      "ID",
+      "MT",
+      "OR",
+      "WA"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 8
+    },
+    "spreadFeet": {
+      "min": 3,
+      "max": 6
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "sandy"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "orange",
+      "pink"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds"
+    ],
+    "deerResistant": true,
+    "notes": "A huckleberry look-alike (hence 'fool's') of moist mountain forests, with clusters of small salmon-pink urn flowers and sticky, skunky-scented foliage that colors well in fall. For cool, acidic shade.",
+    "usdaSymbol": "MEFE",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/menziesia-ferruginea.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Rhododendron_menziesii",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "anaphalis-margaritacea",
+    "scientificName": "Anaphalis margaritacea",
+    "commonNames": [
+      "Pearly Everlasting"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AK",
+      "AZ",
+      "CA",
+      "CO",
+      "CT",
+      "ID",
+      "MA",
+      "ME",
+      "MI",
+      "MN",
+      "MT",
+      "NH",
+      "NJ",
+      "NM",
+      "NY",
+      "OR",
+      "PA",
+      "SD",
+      "UT",
+      "VT",
+      "WA",
+      "WI",
+      "WV",
+      "WY"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky",
+      "loam"
+    ],
+    "bloomMonths": [
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": true,
+    "notes": "Clusters of papery, pearl-white flower heads top silvery stems all summer and dry beautifully for arrangements. A tough pioneer of dry, disturbed ground and a host plant for painted lady butterflies.",
+    "usdaSymbol": "ANMA",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "L48",
+      "SPM"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/anaphalis-margaritacea.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Anaphalis_margaritacea",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "symphyotrichum-subspicatum",
+    "scientificName": "Symphyotrichum subspicatum",
+    "commonNames": [
+      "Douglas Aster"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AK",
+      "CA",
+      "ID",
+      "MT",
+      "OR",
+      "WA"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "clay",
+      "sandy"
+    ],
+    "bloomMonths": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "bloomColors": [
+      "purple",
+      "blue"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "A sprawling, late-blooming aster studding moist meadows and coastlines with violet-blue, gold-centered daisies. A vital fall nectar source that thrives from bog edges to beach bluffs.",
+    "usdaSymbol": "SYSU4",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/symphyotrichum-subspicatum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Symphyotrichum_subspicatum",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "sedum-spathulifolium",
+    "scientificName": "Sedum spathulifolium",
+    "commonNames": [
+      "Broadleaf Stonecrop"
+    ],
+    "family": "Crassulaceae",
+    "nativeStates": [
+      "CA",
+      "OR",
+      "WA"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.2,
+      "max": 0.6
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "A charming evergreen succulent forming silvery-blue rosettes, often blushed pink, topped with bright yellow star flowers. A carefree mat for rock gardens, walls, and green roofs.",
+    "usdaSymbol": "SESP",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/sedum-spathulifolium.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Sedum_spathulifolium",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "fragaria-chiloensis",
+    "scientificName": "Fragaria chiloensis",
+    "commonNames": [
+      "Coastal Strawberry"
+    ],
+    "family": "Rosaceae",
+    "nativeStates": [
+      "AK",
+      "CA",
+      "HI",
+      "OR",
+      "WA"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.3,
+      "max": 0.8
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds"
+    ],
+    "deerResistant": true,
+    "notes": "A glossy-leaved, evergreen wild strawberry of coastal bluffs and dunes, with white flowers, small sweet berries, and runners that knit a tough groundcover. An ancestor of the cultivated strawberry.",
+    "usdaSymbol": "FRCH",
+    "nativeRegions": [
+      "CAN",
+      "HI",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/fragaria-chiloensis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Fragaria_chiloensis",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "maianthemum-dilatatum",
+    "scientificName": "Maianthemum dilatatum",
+    "commonNames": [
+      "False Lily of the Valley"
+    ],
+    "family": "Asparagaceae",
+    "nativeStates": [
+      "AK",
+      "CA",
+      "OR",
+      "WA"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.3,
+      "max": 1
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds"
+    ],
+    "deerResistant": true,
+    "notes": "A lush groundcover for damp shade, carpeting the forest floor with glossy heart-shaped leaves and fluffy spikes of white flowers, then speckled red berries. Spreads vigorously by rhizome.",
+    "usdaSymbol": "MADI",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/maianthemum-dilatatum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Maianthemum_dilatatum",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "achlys-triphylla",
+    "scientificName": "Achlys triphylla",
+    "commonNames": [
+      "Vanilla Leaf"
+    ],
+    "family": "Berberidaceae",
+    "nativeStates": [
+      "CA",
+      "OR",
+      "WA"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Distinctive three-part fan-shaped leaves carpet cool conifer shade, sending up slender white flower spikes in spring. The dried foliage smells of vanilla and was hung as an insect repellent.",
+    "usdaSymbol": "ACTR",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/achlys-triphylla.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Achlys_triphylla",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "vancouveria-hexandra",
+    "scientificName": "Vancouveria hexandra",
+    "commonNames": [
+      "Inside-out Flower"
+    ],
+    "family": "Berberidaceae",
+    "nativeStates": [
+      "CA",
+      "OR",
+      "WA"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Delicate, duck-foot-shaped leaflets and sprays of tiny white flowers whose swept-back petals look turned inside out. An airy, spreading groundcover for moist woodland shade.",
+    "usdaSymbol": "VAHE",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/vancouveria-hexandra.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Vancouveria_hexandra",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "lilium-columbianum",
+    "scientificName": "Lilium columbianum",
+    "commonNames": [
+      "Columbia Lily"
+    ],
+    "family": "Liliaceae",
+    "nativeStates": [
+      "CA",
+      "ID",
+      "OR",
+      "WA"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "dry"
+    ],
+    "soilType": [
+      "loam",
+      "sandy"
+    ],
+    "bloomMonths": [
+      6,
+      7
+    ],
+    "bloomColors": [
+      "orange",
+      "yellow"
+    ],
+    "leafArrangement": "whorled",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds",
+      "butterflies"
+    ],
+    "deerResistant": false,
+    "notes": "The Northwest's wild tiger lily, nodding whorls of recurved orange flowers spotted maroon over meadows and forest edges. A striking native lily that draws swallowtails and hummingbirds.",
+    "usdaSymbol": "LICO",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/lilium-columbianum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Lilium_columbianum",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "fritillaria-affinis",
+    "scientificName": "Fritillaria affinis",
+    "commonNames": [
+      "Chocolate Lily"
+    ],
+    "family": "Liliaceae",
+    "nativeStates": [
+      "CA",
+      "ID",
+      "OR",
+      "WA"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "dry"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5
+    ],
+    "bloomColors": [
+      "brown",
+      "green"
+    ],
+    "leafArrangement": "whorled",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Nodding, mottled brown-and-green bells dangle over grassy meadows in spring, then vanish by summer. A subtle, intriguing native lily of bluffs and oak woodlands.",
+    "usdaSymbol": "FRAF2",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": true,
+    "imageFile": "plants/fritillaria-affinis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Fritillaria_affinis",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "erythronium-grandiflorum",
+    "scientificName": "Erythronium grandiflorum",
+    "commonNames": [
+      "Glacier Lily"
+    ],
+    "family": "Liliaceae",
+    "nativeStates": [
+      "CA",
+      "CO",
+      "ID",
+      "MT",
+      "OR",
+      "UT",
+      "WA",
+      "WY"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": false,
+    "notes": "Bright golden, swept-back flowers carpet mountain meadows at the very edge of melting snow, then go dormant. An early-spring ephemeral whose bulbs feed bears and ground squirrels.",
+    "usdaSymbol": "ERGR9",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": true,
+    "imageFile": "plants/erythronium-grandiflorum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Erythronium_grandiflorum",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "penstemon-rupicola",
+    "scientificName": "Penstemon rupicola",
+    "commonNames": [
+      "Cliff Penstemon"
+    ],
+    "family": "Plantaginaceae",
+    "nativeStates": [
+      "CA",
+      "OR",
+      "WA"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.3,
+      "max": 0.8
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "pink",
+      "red"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds"
+    ],
+    "deerResistant": true,
+    "notes": "A low, mat-forming penstemon clinging to cliffs and rock crevices, smothered in deep rose-pink trumpets in early summer. A jewel for rock gardens and crevice plantings.",
+    "usdaSymbol": "PERU",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/penstemon-rupicola.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Penstemon_rupicola",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "castilleja-hispida",
+    "scientificName": "Castilleja hispida",
+    "commonNames": [
+      "Harsh Paintbrush"
+    ],
+    "family": "Orobanchaceae",
+    "nativeStates": [
+      "ID",
+      "MT",
+      "OR",
+      "WA"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "red",
+      "orange"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Brushy spikes tipped with flame-red bracts color Northwest prairies and bluffs in spring. Like other paintbrushes it's hemiparasitic, tapping the roots of grasses and lupines nearby.",
+    "usdaSymbol": "CAHI9",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/castilleja-hispida.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Castilleja_hispida",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "collinsia-grandiflora",
+    "scientificName": "Collinsia grandiflora",
+    "commonNames": [
+      "Giant Blue-eyed Mary"
+    ],
+    "family": "Plantaginaceae",
+    "nativeStates": [
+      "CA",
+      "ID",
+      "OR",
+      "WA"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "annual",
+    "heightFeet": {
+      "min": 0.3,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 0.3,
+      "max": 0.8
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "blue",
+      "purple"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "A dainty spring annual with bicolored flowers, white-to-violet above and deep blue below, scattered across rocky slopes and balds. An easy, charming reseeder for the spring meadow.",
+    "usdaSymbol": "COGR2",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/collinsia-grandiflora.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Collinsia_grandiflora",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "sedum-oreganum",
+    "scientificName": "Sedum oreganum",
+    "commonNames": [
+      "Oregon Stonecrop"
+    ],
+    "family": "Crassulaceae",
+    "nativeStates": [
+      "OR",
+      "WA"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.2,
+      "max": 0.5
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "A glossy, plump-leaved evergreen succulent that reddens in sun and lifts bright yellow star flowers in summer. A tough, spreading mat for rock crevices, walls, and green roofs.",
+    "usdaSymbol": "SEOR",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/sedum-oreganum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Sedum_oreganum",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "heuchera-micrantha",
+    "scientificName": "Heuchera micrantha",
+    "commonNames": [
+      "Crevice Alumroot"
+    ],
+    "family": "Saxifragaceae",
+    "nativeStates": [
+      "CA",
+      "OR",
+      "WA"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "loam"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Lobed, marbled evergreen leaves form neat mounds beneath airy clouds of tiny white flowers on wiry stems. A rugged native coral bells for shaded rock gardens and the parent of many hybrids.",
+    "usdaSymbol": "HEMI7",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/heuchera-micrantha.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Heuchera_micrantha",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "polypodium-glycyrrhiza",
+    "scientificName": "Polypodium glycyrrhiza",
+    "commonNames": [
+      "Licorice Fern"
+    ],
+    "family": "Polypodiaceae",
+    "nativeStates": [
+      "AK",
+      "CA",
+      "OR",
+      "WA"
+    ],
+    "generalAppearance": "fern",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [],
+    "bloomColors": [],
+    "leafArrangement": "basal",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [],
+    "deerResistant": true,
+    "notes": "A winter-green fern that often grows on mossy logs and bigleaf maple trunks, going summer-dormant. Its sweet, licorice-flavored rhizomes were chewed by Indigenous peoples.",
+    "usdaSymbol": "POGL8",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/polypodium-glycyrrhiza.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Polypodium_glycyrrhiza",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "dryopteris-expansa",
+    "scientificName": "Dryopteris expansa",
+    "commonNames": [
+      "Spreading Wood Fern"
+    ],
+    "family": "Dryopteridaceae",
+    "nativeStates": [
+      "AK",
+      "CA",
+      "ID",
+      "MI",
+      "MN",
+      "MT",
+      "OR",
+      "WA",
+      "WI"
+    ],
+    "generalAppearance": "fern",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 3
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [],
+    "bloomColors": [],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [],
+    "deerResistant": true,
+    "notes": "A lacy, finely cut wood fern forming graceful shuttlecock clumps in cool, moist conifer forests. An elegant, easy native for shaded woodland beds and stream edges.",
+    "usdaSymbol": "DREX2",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "GL",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/dryopteris-expansa.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Dryopteris_expansa",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "festuca-roemeri",
+    "scientificName": "Festuca roemeri",
+    "commonNames": [
+      "Roemer's Fescue"
+    ],
+    "family": "Poaceae",
+    "nativeStates": [
+      "CA",
+      "OR",
+      "WA"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "green",
+      "purple"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host"
+    ],
+    "deerResistant": true,
+    "notes": "A fine-textured, blue-green bunchgrass that anchors the Northwest's prairies and oak savannas. A tidy, drought-tolerant cool-season grass for meadows and well-drained gardens.",
+    "usdaSymbol": "FERO",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/festuca-roemeri.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Festuca_idahoensis",
+    "imageCredit": "Wikimedia"
   }
 ]
