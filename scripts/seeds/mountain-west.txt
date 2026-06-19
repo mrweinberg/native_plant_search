@@ -1,0 +1,51 @@
+# Mountain West / Rocky Mountain native standouts — montane forest, sagebrush
+# steppe, and alpine meadow. Scientific Name | Common Name
+# Sources: Colorado Native Plant Society, Great Basin / High Country nurseries.
+
+# Trees
+Populus tremuloides | Quaking Aspen
+Pinus contorta | Lodgepole Pine
+Pinus flexilis | Limber Pine
+Picea pungens | Colorado Blue Spruce
+Abies concolor | White Fir
+Acer grandidentatum | Bigtooth Maple
+Juniperus scopulorum | Rocky Mountain Juniper
+Cercocarpus ledifolius | Curl-leaf Mountain Mahogany
+
+# Shrubs
+Purshia tridentata | Antelope Bitterbrush
+Artemisia tridentata | Big Sagebrush
+Chrysothamnus viscidiflorus | Yellow Rabbitbrush
+Ribes cereum | Wax Currant
+Jamesia americana | Cliffbush
+Cercocarpus montanus | Alderleaf Mountain Mahogany
+Ceanothus velutinus | Snowbrush
+Rosa woodsii | Woods' Rose
+Symphoricarpos oreophilus | Mountain Snowberry
+Shepherdia canadensis | Russet Buffaloberry
+Mahonia repens | Creeping Oregon Grape
+Physocarpus monogynus | Mountain Ninebark
+
+# Forbs
+Aquilegia coerulea | Colorado Blue Columbine
+Penstemon strictus | Rocky Mountain Penstemon
+Penstemon palmeri | Palmer's Penstemon
+Penstemon barbatus | Beardlip Penstemon
+Eriogonum umbellatum | Sulphur Buckwheat
+Geranium viscosissimum | Sticky Geranium
+Linum lewisii | Blue Flax
+Mertensia ciliata | Mountain Bluebells
+Erigeron speciosus | Aspen Fleabane
+Lupinus argenteus | Silvery Lupine
+Iris missouriensis | Rocky Mountain Iris
+Oenothera caespitosa | Tufted Evening Primrose
+Campanula rotundifolia | Harebell
+Balsamorhiza sagittata | Arrowleaf Balsamroot
+Erysimum capitatum | Western Wallflower
+Heterotheca villosa | Hairy False Goldenaster
+Castilleja miniata | Scarlet Paintbrush
+
+# Grasses
+Leymus cinereus | Great Basin Wild Rye
+Achnatherum hymenoides | Indian Ricegrass
+Festuca arizonica | Arizona Fescue

@@ -51288,5 +51288,3068 @@
     "imageFile": "plants/carex-obnupta.jpg",
     "imageSource": "https://en.wikipedia.org/wiki/Carex_obnupta",
     "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "populus-tremuloides",
+    "scientificName": "Populus tremuloides",
+    "commonNames": [
+      "Quaking Aspen"
+    ],
+    "family": "Salicaceae",
+    "nativeStates": [
+      "AK",
+      "AZ",
+      "CA",
+      "CO",
+      "CT",
+      "IA",
+      "ID",
+      "IL",
+      "IN",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MT",
+      "ND",
+      "NE",
+      "NH",
+      "NJ",
+      "NM",
+      "NV",
+      "NY",
+      "OH",
+      "OR",
+      "PA",
+      "RI",
+      "SD",
+      "TX",
+      "UT",
+      "VT",
+      "WA",
+      "WI",
+      "WV",
+      "WY"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 20,
+      "max": 50
+    },
+    "spreadFeet": {
+      "min": 10,
+      "max": 20
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "sandy",
+      "clay"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "mammals",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "The most widespread tree in North America, famed for white bark and fluttering leaves that turn the mountainsides gold in fall. A single clonal grove can be among the largest organisms on Earth.",
+    "usdaSymbol": "POTR5",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "L48",
+      "SPM"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/populus-tremuloides.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Populus_tremuloides",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "pinus-contorta",
+    "scientificName": "Pinus contorta",
+    "commonNames": [
+      "Lodgepole Pine"
+    ],
+    "family": "Pinaceae",
+    "nativeStates": [
+      "AK",
+      "CA",
+      "CO",
+      "ID",
+      "MT",
+      "NV",
+      "OR",
+      "UT",
+      "WA",
+      "WY"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 40,
+      "max": 80
+    },
+    "spreadFeet": {
+      "min": 10,
+      "max": 20
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "yellow",
+      "red"
+    ],
+    "leafArrangement": "whorled",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "A slim, straight-trunked pine forming dense fire-adapted forests across the high country, its cones often sealed with resin until heat opens them. A pioneer after burns.",
+    "usdaSymbol": "PICO",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/pinus-contorta.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Pinus_contorta",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "pinus-flexilis",
+    "scientificName": "Pinus flexilis",
+    "commonNames": [
+      "Limber Pine"
+    ],
+    "family": "Pinaceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "CO",
+      "ID",
+      "MT",
+      "NM",
+      "NV",
+      "UT",
+      "WY"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 20,
+      "max": 50
+    },
+    "spreadFeet": {
+      "min": 15,
+      "max": 30
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      6,
+      7
+    ],
+    "bloomColors": [
+      "yellow",
+      "red"
+    ],
+    "leafArrangement": "whorled",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "A gnarled, wind-sculpted pine of exposed ridges with branches so pliable they can be tied in a knot. Its large seeds feed nutcrackers and bears at treeline.",
+    "usdaSymbol": "PIFL2",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/pinus-flexilis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Pinus_flexilis",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "picea-pungens",
+    "scientificName": "Picea pungens",
+    "commonNames": [
+      "Colorado Blue Spruce"
+    ],
+    "family": "Pinaceae",
+    "nativeStates": [
+      "AZ",
+      "CO",
+      "IL",
+      "MI",
+      "NM",
+      "NY",
+      "PA",
+      "UT",
+      "WY"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 30,
+      "max": 65
+    },
+    "spreadFeet": {
+      "min": 10,
+      "max": 20
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist",
+      "dry"
+    ],
+    "soilType": [
+      "loam",
+      "sandy",
+      "clay"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "brown",
+      "red"
+    ],
+    "leafArrangement": "whorled",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Colorado's state tree, a stiff, conical spruce prized for powder-blue, sharply pointed needles. Native to cool mountain streamsides but planted far beyond its range.",
+    "usdaSymbol": "PIPU",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/picea-pungens.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Blue_spruce",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "abies-concolor",
+    "scientificName": "Abies concolor",
+    "commonNames": [
+      "White Fir"
+    ],
+    "family": "Pinaceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "CO",
+      "ID",
+      "MI",
+      "NM",
+      "NV",
+      "NY",
+      "OR",
+      "UT"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 40,
+      "max": 100
+    },
+    "spreadFeet": {
+      "min": 15,
+      "max": 30
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "brown",
+      "red"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "A stately fir with soft, blue-green, citrus-scented needles and a symmetrical spire. The most heat- and drought-tolerant of the true firs and a favorite for its color and form.",
+    "usdaSymbol": "ABCO",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/abies-concolor.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Abies_concolor",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "acer-grandidentatum",
+    "scientificName": "Acer grandidentatum",
+    "commonNames": [
+      "Bigtooth Maple"
+    ],
+    "family": "Sapindaceae",
+    "nativeStates": [
+      "AZ",
+      "ID",
+      "NM",
+      "TX",
+      "UT",
+      "WY"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 20,
+      "max": 40
+    },
+    "spreadFeet": {
+      "min": 15,
+      "max": 30
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "dry"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "yellow",
+      "green"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds"
+    ],
+    "deerResistant": true,
+    "notes": "The West's answer to the sugar maple, lighting canyon slopes with flame-red and orange fall color. A tough, drought-tolerant small tree for the interior mountains.",
+    "usdaSymbol": "ACGR3",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/acer-grandidentatum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Acer_grandidentatum",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "juniperus-scopulorum",
+    "scientificName": "Juniperus scopulorum",
+    "commonNames": [
+      "Rocky Mountain Juniper"
+    ],
+    "family": "Cupressaceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "CO",
+      "ID",
+      "MT",
+      "ND",
+      "NE",
+      "NM",
+      "NV",
+      "OR",
+      "SD",
+      "TX",
+      "UT",
+      "WA",
+      "WY"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 15,
+      "max": 40
+    },
+    "spreadFeet": {
+      "min": 8,
+      "max": 15
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy",
+      "clay"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "yellow",
+      "brown"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "A narrow, blue-green-foliaged juniper of dry foothills and bluffs, with frosted berry-like cones that feed waxwings and robins in winter. Extremely drought- and cold-hardy.",
+    "usdaSymbol": "JUSC2",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/juniperus-scopulorum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Juniperus_scopulorum",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "cercocarpus-ledifolius",
+    "scientificName": "Cercocarpus ledifolius",
+    "commonNames": [
+      "Curl-leaf Mountain Mahogany"
+    ],
+    "family": "Rosaceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "CO",
+      "ID",
+      "MT",
+      "NV",
+      "OR",
+      "UT",
+      "WA",
+      "WY"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 10,
+      "max": 25
+    },
+    "spreadFeet": {
+      "min": 8,
+      "max": 15
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "yellow",
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "mammals",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "A slow, dense, evergreen small tree of dry rocky slopes, with leathery curled leaves and feathery corkscrew seed tails. A nitrogen-fixer and vital winter browse, with ironhard wood.",
+    "usdaSymbol": "CELE3",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/cercocarpus-ledifolius.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Cercocarpus_ledifolius",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "purshia-tridentata",
+    "scientificName": "Purshia tridentata",
+    "commonNames": [
+      "Antelope Bitterbrush"
+    ],
+    "family": "Rosaceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "CO",
+      "ID",
+      "MT",
+      "NM",
+      "NV",
+      "OR",
+      "UT",
+      "WA",
+      "WY"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 8
+    },
+    "spreadFeet": {
+      "min": 4,
+      "max": 8
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky",
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "mammals",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "A sagebrush-country shrub covered in small fragrant yellow flowers in spring, then nutritious seeds. A nitrogen-fixer and one of the most important browse plants for deer and antelope.",
+    "usdaSymbol": "PUTR2",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/purshia-tridentata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Purshia_tridentata",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "artemisia-tridentata",
+    "scientificName": "Artemisia tridentata",
+    "commonNames": [
+      "Big Sagebrush"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "CO",
+      "ID",
+      "MT",
+      "NM",
+      "NV",
+      "OR",
+      "UT",
+      "WA",
+      "WY"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 8
+    },
+    "spreadFeet": {
+      "min": 3,
+      "max": 8
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "clay",
+      "rocky"
+    ],
+    "bloomMonths": [
+      8,
+      9,
+      10
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "The defining shrub of the Intermountain West, perfuming millions of acres with its silvery, three-toothed evergreen leaves. Essential habitat for sage-grouse, pygmy rabbits, and pronghorn.",
+    "usdaSymbol": "ARTR2",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/artemisia-tridentata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Artemisia_tridentata",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "chrysothamnus-viscidiflorus",
+    "scientificName": "Chrysothamnus viscidiflorus",
+    "commonNames": [
+      "Yellow Rabbitbrush"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "CO",
+      "ID",
+      "MT",
+      "NM",
+      "NV",
+      "OR",
+      "UT",
+      "WA",
+      "WY"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "clay",
+      "rocky"
+    ],
+    "bloomMonths": [
+      8,
+      9,
+      10
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "A low, green-stemmed shrub that erupts in golden flower clusters in late summer, feeding migrating butterflies and bees when the steppe is otherwise spent. Tough and drought-proof.",
+    "usdaSymbol": "CHVI8",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/chrysothamnus-viscidiflorus.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Chrysothamnus_viscidiflorus",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "ribes-cereum",
+    "scientificName": "Ribes cereum",
+    "commonNames": [
+      "Wax Currant"
+    ],
+    "family": "Grossulariaceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "CO",
+      "ID",
+      "MT",
+      "NE",
+      "NM",
+      "NV",
+      "OR",
+      "SD",
+      "UT",
+      "WA",
+      "WY"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 5
+    },
+    "spreadFeet": {
+      "min": 3,
+      "max": 5
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "white",
+      "pink"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds",
+      "songbirds"
+    ],
+    "deerResistant": true,
+    "notes": "A compact, aromatic currant of dry mountain slopes with tubular pinkish-white flowers for hummingbirds and translucent red berries for birds. Thrives on hot, rocky exposures.",
+    "usdaSymbol": "RICE",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/ribes-cereum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Ribes_cereum",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "jamesia-americana",
+    "scientificName": "Jamesia americana",
+    "commonNames": [
+      "Cliffbush"
+    ],
+    "family": "Hydrangeaceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "CO",
+      "NM",
+      "NV",
+      "UT",
+      "WY"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 6
+    },
+    "spreadFeet": {
+      "min": 3,
+      "max": 5
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "rocky",
+      "loam"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "white",
+      "pink"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "A rock-loving mountain shrub with clusters of waxy, fragrant white-to-pink flowers and rich russet fall color. Clings to cliffs and crevices in the Rockies.",
+    "usdaSymbol": "JAAM",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/jamesia-americana.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Jamesia_americana",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "cercocarpus-montanus",
+    "scientificName": "Cercocarpus montanus",
+    "commonNames": [
+      "Alderleaf Mountain Mahogany"
+    ],
+    "family": "Rosaceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "CO",
+      "NE",
+      "NM",
+      "SD",
+      "TX",
+      "UT",
+      "WY"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 4,
+      "max": 12
+    },
+    "spreadFeet": {
+      "min": 5,
+      "max": 10
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy",
+      "clay"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "yellow",
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "mammals",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "A tough foothill shrub with small wedge-shaped leaves and feathery, spiraling seed plumes that shimmer in autumn. A nitrogen-fixer and important browse for dry, rocky slopes.",
+    "usdaSymbol": "CEMO2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/cercocarpus-montanus.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Cercocarpus_montanus",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "ceanothus-velutinus",
+    "scientificName": "Ceanothus velutinus",
+    "commonNames": [
+      "Snowbrush"
+    ],
+    "family": "Rhamnaceae",
+    "nativeStates": [
+      "CA",
+      "CO",
+      "ID",
+      "MT",
+      "NV",
+      "OR",
+      "UT",
+      "WA",
+      "WY"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 8
+    },
+    "spreadFeet": {
+      "min": 4,
+      "max": 8
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky",
+      "loam"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": true,
+    "notes": "A glossy, aromatic evergreen ceanothus that foams with white flower clusters after mountain snowmelt. A nitrogen-fixing fire-follower that bees and butterflies swarm.",
+    "usdaSymbol": "CEVE",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/ceanothus-velutinus.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Ceanothus_velutinus",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "rosa-woodsii",
+    "scientificName": "Rosa woodsii",
+    "commonNames": [
+      "Woods' Rose"
+    ],
+    "family": "Rosaceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "CO",
+      "ID",
+      "MN",
+      "MO",
+      "MT",
+      "ND",
+      "NE",
+      "NM",
+      "NV",
+      "OR",
+      "SD",
+      "UT",
+      "WA",
+      "WY"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 6
+    },
+    "spreadFeet": {
+      "min": 3,
+      "max": 6
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "sandy",
+      "clay"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "pink"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "The common wild rose of the interior West, with fragrant pink blooms and bright hips that feed birds and make tea. A hardy, suckering thicket-former for hedgerows and stream banks.",
+    "usdaSymbol": "ROWO",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/rosa-woodsii.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Rosa_woodsii",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "symphoricarpos-oreophilus",
+    "scientificName": "Symphoricarpos oreophilus",
+    "commonNames": [
+      "Mountain Snowberry"
+    ],
+    "family": "Caprifoliaceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "CO",
+      "ID",
+      "MT",
+      "NM",
+      "NV",
+      "OR",
+      "UT",
+      "WA",
+      "WY"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 5
+    },
+    "spreadFeet": {
+      "min": 3,
+      "max": 5
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "rocky",
+      "loam",
+      "sandy"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "pink",
+      "white"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds",
+      "songbirds"
+    ],
+    "deerResistant": true,
+    "notes": "A graceful mountain shrub with pink tubular flowers for hummingbirds and waxy white winter berries for birds. Adaptable and suckering, good for naturalizing dry slopes.",
+    "usdaSymbol": "SYOR2",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/symphoricarpos-oreophilus.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Symphoricarpos_oreophilus",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "shepherdia-canadensis",
+    "scientificName": "Shepherdia canadensis",
+    "commonNames": [
+      "Russet Buffaloberry"
+    ],
+    "family": "Elaeagnaceae",
+    "nativeStates": [
+      "AK",
+      "CO",
+      "ID",
+      "MI",
+      "MN",
+      "MT",
+      "NM",
+      "NV",
+      "NY",
+      "OH",
+      "OR",
+      "SD",
+      "UT",
+      "VT",
+      "WA",
+      "WI",
+      "WY"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 8
+    },
+    "spreadFeet": {
+      "min": 4,
+      "max": 8
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "yellow",
+      "brown"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "A hardy, silver-flecked shrub bearing tart red berries that are a key food for bears and birds. A nitrogen-fixer for cold, dry, rocky mountain soils.",
+    "usdaSymbol": "SHCA",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/shepherdia-canadensis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Shepherdia_canadensis",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "mahonia-repens",
+    "scientificName": "Mahonia repens",
+    "commonNames": [
+      "Creeping Oregon Grape"
+    ],
+    "family": "Berberidaceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "CO",
+      "ID",
+      "MT",
+      "NE",
+      "NM",
+      "NV",
+      "OR",
+      "SD",
+      "TX",
+      "UT",
+      "WA",
+      "WY"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade",
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds"
+    ],
+    "deerResistant": true,
+    "notes": "A low, spreading evergreen groundcover with holly-like leaves that bronze in winter, golden spring flowers, and blue berries. Tough in dry shade across the mountain West.",
+    "usdaSymbol": "MARE11",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/mahonia-repens.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Berberis_repens",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "physocarpus-monogynus",
+    "scientificName": "Physocarpus monogynus",
+    "commonNames": [
+      "Mountain Ninebark"
+    ],
+    "family": "Rosaceae",
+    "nativeStates": [
+      "CO",
+      "NM",
+      "SD",
+      "WY"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 5
+    },
+    "spreadFeet": {
+      "min": 3,
+      "max": 5
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "rocky",
+      "loam"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "white",
+      "pink"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds"
+    ],
+    "deerResistant": true,
+    "notes": "A compact, mounding shrub of rocky mountain slopes with rounded white-pink flower clusters, reddish seedheads, and peeling bark. Reliable fall color and easy in lean soil.",
+    "usdaSymbol": "PHMO4",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/physocarpus-monogynus.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Physocarpus_monogynus",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "aquilegia-coerulea",
+    "scientificName": "Aquilegia coerulea",
+    "commonNames": [
+      "Colorado Blue Columbine"
+    ],
+    "family": "Ranunculaceae",
+    "nativeStates": [
+      "AZ",
+      "CO",
+      "ID",
+      "MT",
+      "NM",
+      "NV",
+      "UT",
+      "WY"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2.5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "part shade",
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "blue",
+      "white"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Colorado's state flower, lifting large, long-spurred blue-and-white blooms over ferny foliage in mountain meadows and aspen groves. Pollinated by hawkmoths and hummingbirds.",
+    "usdaSymbol": "AQCO",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/aquilegia-coerulea.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Aquilegia_coerulea",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "penstemon-strictus",
+    "scientificName": "Penstemon strictus",
+    "commonNames": [
+      "Rocky Mountain Penstemon"
+    ],
+    "family": "Plantaginaceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "CO",
+      "NM",
+      "UT",
+      "WY"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky",
+      "loam"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "blue",
+      "purple"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "One of the easiest and most reliable penstemons, with spires of deep blue-violet bells over glossy foliage. Tough, long-lived, and a bumblebee magnet for dry gardens.",
+    "usdaSymbol": "PEST2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/penstemon-strictus.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Penstemon_strictus",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "penstemon-palmeri",
+    "scientificName": "Penstemon palmeri",
+    "commonNames": [
+      "Palmer's Penstemon"
+    ],
+    "family": "Plantaginaceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "CO",
+      "ID",
+      "NM",
+      "NV",
+      "UT"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "pink",
+      "white"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "A tall, dramatic penstemon and one of the few that's truly fragrant, with big inflated pink bells up gray-green stems. Thrives on hot, gravelly, alkaline ground.",
+    "usdaSymbol": "PEPA8",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/penstemon-palmeri.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Penstemon_palmeri",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "penstemon-barbatus",
+    "scientificName": "Penstemon barbatus",
+    "commonNames": [
+      "Beardlip Penstemon"
+    ],
+    "family": "Plantaginaceae",
+    "nativeStates": [
+      "AZ",
+      "CO",
+      "NM",
+      "TX",
+      "UT"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky",
+      "loam"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "red"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Slender wands of scarlet tubular flowers with a bearded lower lip bloom into summer, built for hummingbird pollination. A brilliant, drought-tough mountain wildflower.",
+    "usdaSymbol": "PEBA2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/penstemon-barbatus.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Penstemon_barbatus",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "eriogonum-umbellatum",
+    "scientificName": "Eriogonum umbellatum",
+    "commonNames": [
+      "Sulphur Buckwheat"
+    ],
+    "family": "Polygonaceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "CO",
+      "ID",
+      "MT",
+      "NV",
+      "OR",
+      "UT",
+      "WA",
+      "WY"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "yellow",
+      "red"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": true,
+    "notes": "A low evergreen mat of spoon-shaped leaves topped by sulfur-yellow flower umbels that age to rust. An exceptional pollinator and butterfly-host plant for hot, dry, rocky sites.",
+    "usdaSymbol": "ERUM",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/eriogonum-umbellatum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Eriogonum_umbellatum",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "geranium-viscosissimum",
+    "scientificName": "Geranium viscosissimum",
+    "commonNames": [
+      "Sticky Geranium"
+    ],
+    "family": "Geraniaceae",
+    "nativeStates": [
+      "CA",
+      "CO",
+      "ID",
+      "MT",
+      "NV",
+      "OR",
+      "SD",
+      "UT",
+      "WA",
+      "WY"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2.5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "dry"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "pink",
+      "purple"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "A meadow and aspen-grove geranium with rich rose-purple, dark-veined flowers over deeply cut leaves. Long-blooming and a favorite of native bees.",
+    "usdaSymbol": "GEVI2",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/geranium-viscosissimum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Geranium_viscosissimum",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "linum-lewisii",
+    "scientificName": "Linum lewisii",
+    "commonNames": [
+      "Blue Flax"
+    ],
+    "family": "Linaceae",
+    "nativeStates": [
+      "AK",
+      "AZ",
+      "CA",
+      "CO",
+      "IA",
+      "ID",
+      "KS",
+      "MN",
+      "MT",
+      "ND",
+      "NE",
+      "NM",
+      "NV",
+      "OK",
+      "OR",
+      "SD",
+      "TX",
+      "UT",
+      "WA",
+      "WY"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2.5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky",
+      "loam"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "blue"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Airy stems open a fresh succession of sky-blue, five-petaled flowers each morning through early summer. An effortless, drought-proof reseeder for sunny western gardens.",
+    "usdaSymbol": "LILE10",
+    "nativeRegions": [
+      "AK",
+      "CAN"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/linum-lewisii.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Linum_lewisii",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "mertensia-ciliata",
+    "scientificName": "Mertensia ciliata",
+    "commonNames": [
+      "Mountain Bluebells"
+    ],
+    "family": "Boraginaceae",
+    "nativeStates": [
+      "CA",
+      "CO",
+      "ID",
+      "MT",
+      "NV",
+      "OR",
+      "UT",
+      "WY"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "part shade",
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "blue",
+      "pink"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Clusters of nodding, bell-shaped flowers open pink and turn sky-blue along mountain streams and seeps. A lush, cool-loving perennial for moist shade and bog gardens.",
+    "usdaSymbol": "MECI3",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/mertensia-ciliata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Mertensia_ciliata",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "erigeron-speciosus",
+    "scientificName": "Erigeron speciosus",
+    "commonNames": [
+      "Aspen Fleabane"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AZ",
+      "CO",
+      "ID",
+      "MT",
+      "NM",
+      "NV",
+      "OR",
+      "SD",
+      "UT",
+      "WA",
+      "WY"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2.5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "dry"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "purple",
+      "blue"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Showy lavender-blue daisies with golden centers cover this bushy fleabane through summer in aspen meadows. Easy, floriferous, and beloved by a wide range of pollinators.",
+    "usdaSymbol": "ERSP4",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/erigeron-speciosus.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Erigeron_speciosus",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "lupinus-argenteus",
+    "scientificName": "Lupinus argenteus",
+    "commonNames": [
+      "Silvery Lupine"
+    ],
+    "family": "Fabaceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "CO",
+      "ID",
+      "MT",
+      "NE",
+      "NM",
+      "NV",
+      "OR",
+      "SD",
+      "UT",
+      "WA",
+      "WY"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky",
+      "loam"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "purple",
+      "blue"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": true,
+    "notes": "Silvery, silk-haired foliage sets off spikes of blue-purple pea flowers across the mountain West. A nitrogen-fixing meadow lupine and host plant for blue butterflies.",
+    "usdaSymbol": "LUAR3",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/lupinus-argenteus.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Lupinus_argenteus",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "iris-missouriensis",
+    "scientificName": "Iris missouriensis",
+    "commonNames": [
+      "Rocky Mountain Iris"
+    ],
+    "family": "Iridaceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "CO",
+      "ID",
+      "MT",
+      "NM",
+      "NV",
+      "OR",
+      "SD",
+      "UT",
+      "WA",
+      "WY"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "blue",
+      "purple"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "The wild blue flag of western mountain meadows, opening pale lavender-blue flowers veined in violet where snowmelt lingers. Spreads into colonies in seasonally wet ground.",
+    "usdaSymbol": "IRMI",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/iris-missouriensis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Iris_missouriensis",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "oenothera-caespitosa",
+    "scientificName": "Oenothera caespitosa",
+    "commonNames": [
+      "Tufted Evening Primrose"
+    ],
+    "family": "Onagraceae",
+    "nativeStates": [
+      "AK",
+      "AL",
+      "AR",
+      "AZ",
+      "CA",
+      "CO",
+      "CT",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "HI",
+      "IA",
+      "ID",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "MT",
+      "NC",
+      "ND",
+      "NE",
+      "NH",
+      "NJ",
+      "NM",
+      "NV",
+      "NY",
+      "OH",
+      "OK",
+      "OR",
+      "PA",
+      "RI",
+      "SC",
+      "SD",
+      "TN",
+      "TX",
+      "UT",
+      "VA",
+      "VT",
+      "WA",
+      "WI",
+      "WV",
+      "WY"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky",
+      "clay"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "white",
+      "pink"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Huge, fragrant white cups open at dusk from a low rosette and fade to pink by morning, drawing hawkmoths. A tough, stemless wildflower for hot, dry, gravelly ground.",
+    "usdaSymbol": "OECA10",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/oenothera-caespitosa.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Oenothera_cespitosa",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "campanula-rotundifolia",
+    "scientificName": "Campanula rotundifolia",
+    "commonNames": [
+      "Harebell"
+    ],
+    "family": "Campanulaceae",
+    "nativeStates": [
+      "AK",
+      "AZ",
+      "CA",
+      "CO",
+      "CT",
+      "ID",
+      "IN",
+      "MA",
+      "ME",
+      "MI",
+      "MN",
+      "MT",
+      "ND",
+      "NE",
+      "NH",
+      "NM",
+      "NY",
+      "OR",
+      "PA",
+      "SD",
+      "TX",
+      "UT",
+      "VT",
+      "WA",
+      "WI",
+      "WV",
+      "WY"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "blue",
+      "purple"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Dainty, nodding blue bells dance on thread-fine stems all summer across rocky slopes and meadows. A delicate, wide-ranging wildflower, the bluebell of Scotland, that tucks into crevices.",
+    "usdaSymbol": "CARO2",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "GL",
+      "L48",
+      "SPM"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/campanula-rotundifolia.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Campanula_rotundifolia",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "balsamorhiza-sagittata",
+    "scientificName": "Balsamorhiza sagittata",
+    "commonNames": [
+      "Arrowleaf Balsamroot"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "CA",
+      "CO",
+      "ID",
+      "MT",
+      "NV",
+      "OR",
+      "UT",
+      "WA",
+      "WY"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2.5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky",
+      "clay"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "mammals"
+    ],
+    "deerResistant": false,
+    "notes": "Bold yellow sunflowers rise over big silvery arrowhead leaves, gilding entire hillsides of the sagebrush steppe in spring. A deep taproot makes it drought-proof and long-lived.",
+    "usdaSymbol": "BASA3",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": true,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/balsamorhiza-sagittata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Balsamorhiza_sagittata",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "erysimum-capitatum",
+    "scientificName": "Erysimum capitatum",
+    "commonNames": [
+      "Western Wallflower"
+    ],
+    "family": "Brassicaceae",
+    "nativeStates": [
+      "AK",
+      "AR",
+      "AZ",
+      "CA",
+      "CO",
+      "ID",
+      "IL",
+      "MO",
+      "MT",
+      "NM",
+      "NV",
+      "OH",
+      "OK",
+      "OR",
+      "TN",
+      "TX",
+      "UT",
+      "WA",
+      "WY"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky",
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "yellow",
+      "orange"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Clusters of fragrant orange-to-yellow four-petaled flowers crown leafy stems in spring, lighting up rocky slopes and roadsides. An easy, cheerful reseeder for dry ground.",
+    "usdaSymbol": "ERCA14",
+    "nativeRegions": [
+      "AK",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/erysimum-capitatum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Erysimum_capitatum",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "heterotheca-villosa",
+    "scientificName": "Heterotheca villosa",
+    "commonNames": [
+      "Hairy False Goldenaster"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "CO",
+      "ID",
+      "IL",
+      "MN",
+      "MT",
+      "ND",
+      "NE",
+      "NM",
+      "NV",
+      "OR",
+      "SD",
+      "TX",
+      "UT",
+      "WA",
+      "WY"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky",
+      "clay"
+    ],
+    "bloomMonths": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "A low, gray-hairy sprawler that covers itself in small golden daisies from midsummer to frost on the harshest dry, gravelly ground. An unfussy, long-blooming pollinator plant.",
+    "usdaSymbol": "HEVI4",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/heterotheca-villosa.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Heterotheca_villosa",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "castilleja-miniata",
+    "scientificName": "Castilleja miniata",
+    "commonNames": [
+      "Scarlet Paintbrush"
+    ],
+    "family": "Orobanchaceae",
+    "nativeStates": [
+      "AK",
+      "AZ",
+      "CA",
+      "CO",
+      "ID",
+      "MT",
+      "NM",
+      "NV",
+      "OR",
+      "UT",
+      "WA",
+      "WY"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2.5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "red",
+      "orange"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds"
+    ],
+    "deerResistant": true,
+    "notes": "The brilliant scarlet paintbrush of mountain meadows, its color coming from flame-tipped bracts rather than the hidden flowers. Hemiparasitic, drawing nutrients from neighboring plants' roots.",
+    "usdaSymbol": "CAMI12",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/castilleja-miniata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Castilleja_miniata",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "leymus-cinereus",
+    "scientificName": "Leymus cinereus",
+    "commonNames": [
+      "Great Basin Wild Rye"
+    ],
+    "family": "Poaceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "CO",
+      "ID",
+      "MT",
+      "NV",
+      "OR",
+      "UT",
+      "WA",
+      "WY"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 8
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "clay",
+      "loam"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds"
+    ],
+    "deerResistant": true,
+    "notes": "A towering, blue-green bunchgrass of valley bottoms and swales, with stiff wheat-like flower spikes. Bold structure and important cover and forage in the sagebrush country.",
+    "usdaSymbol": "LECI4",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/leymus-cinereus.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Leymus_cinereus",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "achnatherum-hymenoides",
+    "scientificName": "Achnatherum hymenoides",
+    "commonNames": [
+      "Indian Ricegrass"
+    ],
+    "family": "Poaceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "CO",
+      "ID",
+      "MT",
+      "NE",
+      "NM",
+      "NV",
+      "OR",
+      "UT",
+      "WA",
+      "WY"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2.5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds"
+    ],
+    "deerResistant": true,
+    "notes": "A delicate, airy bunchgrass whose open, beaded flower clouds shimmer over the driest sands. Its nutritious seeds were an important Indigenous grain, and it stabilizes desert dunes.",
+    "usdaSymbol": "ACHY",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": true,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/achnatherum-hymenoides.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Eriocoma_hymenoides",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "festuca-arizonica",
+    "scientificName": "Festuca arizonica",
+    "commonNames": [
+      "Arizona Fescue"
+    ],
+    "family": "Poaceae",
+    "nativeStates": [
+      "AZ",
+      "CO",
+      "NM"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2.5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "green"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host"
+    ],
+    "deerResistant": true,
+    "notes": "A fine-textured, blue-green bunchgrass of southwestern mountain meadows and ponderosa parklands, forming neat tufts. A drought-tolerant cool-season grass for high, dry sites.",
+    "usdaSymbol": "FEAR2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/festuca-arizonica.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Festuca_arizonica",
+    "imageCredit": "Wikimedia"
   }
 ]
