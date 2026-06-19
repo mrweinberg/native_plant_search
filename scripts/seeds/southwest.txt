@@ -1,0 +1,53 @@
+# Desert Southwest native standouts — Sonoran, Chihuahuan, and Mojave deserts
+# plus the sky-island woodlands. One species per line: Scientific Name | Common Name
+# Sources: Arizona-Sonora Desert Museum, Mountain States nursery, Lady Bird Johnson WC.
+
+# Trees
+Prosopis velutina | Velvet Mesquite
+Parkinsonia florida | Blue Palo Verde
+Olneya tesota | Desert Ironwood
+Chilopsis linearis | Desert Willow
+Senegalia greggii | Catclaw Acacia
+Dermatophyllum secundiflorum | Texas Mountain Laurel
+Quercus emoryi | Emory Oak
+Pinus edulis | Pinyon Pine
+
+# Cacti & succulents
+Carnegiea gigantea | Saguaro
+Ferocactus wislizeni | Fishhook Barrel Cactus
+Opuntia engelmannii | Engelmann's Prickly Pear
+Cylindropuntia bigelovii | Teddybear Cholla
+Echinocereus engelmannii | Engelmann's Hedgehog Cactus
+Agave parryi | Parry's Agave
+Yucca elata | Soaptree Yucca
+Dasylirion wheeleri | Desert Spoon
+Hesperaloe parviflora | Red Yucca
+Fouquieria splendens | Ocotillo
+
+# Shrubs
+Larrea tridentata | Creosote Bush
+Encelia farinosa | Brittlebush
+Simmondsia chinensis | Jojoba
+Calliandra eriophylla | Fairy Duster
+Justicia californica | Chuparosa
+Leucophyllum frutescens | Texas Sage
+Ericameria nauseosa | Rubber Rabbitbrush
+Salvia greggii | Autumn Sage
+Baileya multiradiata | Desert Marigold
+Fallugia paradoxa | Apache Plume
+Chrysactinia mexicana | Damianita
+Nolina microcarpa | Sacahuista
+
+# Forbs
+Penstemon parryi | Parry's Penstemon
+Penstemon eatonii | Firecracker Penstemon
+Sphaeralcea ambigua | Desert Globemallow
+Melampodium leucanthum | Blackfoot Daisy
+Berlandiera lyrata | Chocolate Flower
+Datura wrightii | Sacred Datura
+Glandularia gooddingii | Goodding's Verbena
+
+# Grasses
+Sporobolus airoides | Alkali Sacaton
+Muhlenbergia lindheimeri | Lindheimer's Muhly
+Aristida purpurea | Purple Threeawn
