@@ -1,5 +1,5 @@
 <script setup>
-import { computed } from 'vue'
+import { computed, ref, watch, onUnmounted } from 'vue'
 import { useRoute, useRouter, RouterLink } from 'vue-router'
 import { allPlants, plantsLoaded, MONTH_LABELS } from '../composables/usePlantFilters.js'
 import { usePlantImage } from '../composables/usePlantImage.js'
@@ -56,6 +56,45 @@ const sciName = computed(() => plant.value?.scientificName || '')
 const imageFile = computed(() => plant.value?.imageFile || null)
 const { src: imageSrc } = usePlantImage(sciName, imageFile)
 const { photos: inatPhotos } = useInatGallery(sciName)
+
+// Lightbox for the iNaturalist gallery. A plain click opens the modal; holding a
+// modifier (cmd/ctrl/shift/alt) or middle-clicking falls through to the anchor's
+// target="_blank", so "open in new tab/window" still works as expected per OS.
+const lightboxIndex = ref(null)
+const lightboxPhoto = computed(() =>
+  lightboxIndex.value != null ? inatPhotos.value[lightboxIndex.value] : null,
+)
+function openLightbox(i, e) {
+  if (e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return
+  e.preventDefault()
+  lightboxIndex.value = i
+}
+function closeLightbox() {
+  lightboxIndex.value = null
+}
+function stepPhoto(delta) {
+  const n = inatPhotos.value.length
+  if (lightboxIndex.value == null || !n) return
+  lightboxIndex.value = (lightboxIndex.value + delta + n) % n
+}
+function onLightboxKey(e) {
+  if (e.key === 'Escape') closeLightbox()
+  else if (e.key === 'ArrowLeft') stepPhoto(-1)
+  else if (e.key === 'ArrowRight') stepPhoto(1)
+}
+watch(lightboxIndex, (v) => {
+  if (v != null) {
+    window.addEventListener('keydown', onLightboxKey)
+    document.body.style.overflow = 'hidden'
+  } else {
+    window.removeEventListener('keydown', onLightboxKey)
+    document.body.style.overflow = ''
+  }
+})
+onUnmounted(() => {
+  window.removeEventListener('keydown', onLightboxKey)
+  document.body.style.overflow = ''
+})
 const wikiUrl = computed(() =>
   sciName.value
     ? `https://en.wikipedia.org/wiki/${encodeURIComponent(sciName.value.replace(/ /g, '_'))}`
@@ -132,6 +171,7 @@ function fmtRange(r, unit) {
           rel="noopener"
           class="gallery-item"
           :title="photo.attribution"
+          @click="openLightbox(i, $event)"
         >
           <img :src="photo.thumb" :alt="`${plant.commonNames[0]} photo ${i + 1}`" loading="lazy" />
         </a>
@@ -219,6 +259,40 @@ function fmtRange(r, unit) {
     <RouterLink to="/" class="back">← Back to results</RouterLink>
     <p>Plant not found.</p>
   </div>
+
+  <Teleport to="body">
+    <div
+      v-if="lightboxPhoto"
+      class="lightbox"
+      role="dialog"
+      aria-modal="true"
+      aria-label="Photo viewer"
+      @click="closeLightbox"
+    >
+      <button class="lb-close" type="button" aria-label="Close" @click="closeLightbox">✕</button>
+      <button
+        v-if="inatPhotos.length > 1"
+        class="lb-nav lb-prev"
+        type="button"
+        aria-label="Previous photo"
+        @click.stop="stepPhoto(-1)"
+      >‹</button>
+      <figure class="lb-figure" @click.stop>
+        <img :src="lightboxPhoto.full" :alt="plant && plant.commonNames[0]" />
+        <figcaption class="lb-caption">
+          <span v-if="lightboxPhoto.attribution">{{ lightboxPhoto.attribution }} · </span>
+          <a :href="lightboxPhoto.full" target="_blank" rel="noopener">Open original ↗</a>
+        </figcaption>
+      </figure>
+      <button
+        v-if="inatPhotos.length > 1"
+        class="lb-nav lb-next"
+        type="button"
+        aria-label="Next photo"
+        @click.stop="stepPhoto(1)"
+      >›</button>
+    </div>
+  </Teleport>
 </template>
 
 <style scoped>
@@ -230,7 +304,26 @@ function fmtRange(r, unit) {
   max-width: 860px;
   margin: 0 auto;
 }
-.back { font-size: 13px; }
+.back {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--accent);
+  background: var(--accent-soft);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 7px 14px;
+  text-decoration: none;
+  transition: background 0.12s, color 0.12s, border-color 0.12s;
+}
+.back:hover {
+  background: var(--accent);
+  color: #fff;
+  border-color: var(--accent);
+  text-decoration: none;
+}
 .header {
   display: grid;
   grid-template-columns: 140px 1fr;
@@ -329,6 +422,76 @@ dd { margin: 2px 0 0; font-size: 14px; }
 }
 .gallery-item:hover img { transform: scale(1.05); }
 .gallery-credit { font-size: 11px; color: var(--ink-soft); margin-top: 8px; }
+.lightbox {
+  position: fixed;
+  inset: 0;
+  z-index: 100;
+  background: rgba(0, 0, 0, 0.85);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 24px;
+}
+.lb-figure {
+  margin: 0;
+  max-width: 92vw;
+  max-height: 90vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+}
+.lb-figure img {
+  max-width: 92vw;
+  max-height: 80vh;
+  object-fit: contain;
+  border-radius: 6px;
+  box-shadow: 0 8px 40px rgba(0, 0, 0, 0.5);
+}
+.lb-caption {
+  color: rgba(255, 255, 255, 0.85);
+  font-size: 12px;
+  text-align: center;
+  max-width: 92vw;
+}
+.lb-caption a { color: #fff; text-decoration: underline; }
+.lb-close,
+.lb-nav {
+  position: absolute;
+  background: rgba(255, 255, 255, 0.12);
+  border: none;
+  color: #fff;
+  cursor: pointer;
+  border-radius: 999px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: background 0.12s;
+}
+.lb-close:hover,
+.lb-nav:hover { background: rgba(255, 255, 255, 0.28); }
+.lb-close {
+  top: 16px;
+  right: 16px;
+  width: 40px;
+  height: 40px;
+  font-size: 18px;
+}
+.lb-nav {
+  top: 50%;
+  transform: translateY(-50%);
+  width: 48px;
+  height: 48px;
+  font-size: 30px;
+  line-height: 1;
+}
+.lb-prev { left: 16px; }
+.lb-next { right: 16px; }
+@media (max-width: 800px) {
+  .lb-nav { width: 40px; height: 40px; font-size: 24px; }
+  .lb-prev { left: 8px; }
+  .lb-next { right: 8px; }
+}
 .traits-row { display: flex; flex-wrap: wrap; gap: 6px; margin: 14px 0 4px; }
 .trait {
   font-size: 12px;
