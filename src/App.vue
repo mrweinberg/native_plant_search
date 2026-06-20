@@ -2,10 +2,11 @@
 import { computed } from 'vue'
 import { RouterLink, RouterView, useRouter } from 'vue-router'
 import { useFavorites } from './composables/useFavorites.js'
-import { useLocation, US_STATES } from './composables/useLocation.js'
+import { useLocation } from './composables/useLocation.js'
 import { setHead } from './composables/useHead.js'
+import LocationPicker from './components/LocationPicker.vue'
 const { count: favCount } = useFavorites()
-const { location, locationName, setLocation } = useLocation()
+const { locationName } = useLocation()
 
 // Keep document head in sync per route. Plant detail pages set their own
 // (plant-specific) head; the others use these static defaults.
@@ -42,19 +43,15 @@ const tagline = computed(() =>
         Bedfellow
       </RouterLink>
       <span class="tagline">{{ tagline }}</span>
-      <label class="loc" :class="{ set: location }">
-        <span class="loc-pin" aria-hidden="true">📍</span>
-        <select
-          class="loc-select"
-          :value="location || ''"
-          aria-label="Set your state"
-          @change="setLocation($event.target.value || null)"
-        >
-          <option value="">All states</option>
-          <option v-for="[code, name] in US_STATES" :key="code" :value="code">{{ name }}</option>
-        </select>
-      </label>
+      <LocationPicker />
       <span class="spacer"></span>
+      <a
+        class="support"
+        href="https://ko-fi.com/maxweinberg"
+        target="_blank"
+        rel="noopener"
+        title="Support Bedfellow on Ko-fi"
+      >☕ Support</a>
       <RouterLink :to="{ name: 'favorites' }" class="nav-link" active-class="nav-link-active">
         <span aria-hidden="true">★</span> Favorites
         <span v-if="favCount" class="count">{{ favCount }}</span>
@@ -89,29 +86,22 @@ const tagline = computed(() =>
 }
 .brand-mark { color: #a7d6a7; margin-right: 6px; }
 .tagline { color: #c9c0a4; font-size: 13px; }
-.loc {
+.spacer { flex: 1; }
+.support {
+  align-self: center;
+  color: #2a1f0a;
+  background: #e8c34a;
+  font-size: 14px;
+  font-weight: 600;
+  padding: 6px 12px;
+  border-radius: 999px;
+  text-decoration: none;
   display: inline-flex;
   align-items: center;
   gap: 4px;
-  background: rgba(255, 255, 255, 0.06);
-  border-radius: 999px;
-  padding: 3px 10px 3px 8px;
-  align-self: center;
+  transition: background 0.12s, transform 0.08s;
 }
-.loc.set { background: var(--accent); }
-.loc-pin { font-size: 12px; }
-.loc-select {
-  background: transparent;
-  border: none;
-  color: #f1ebd9;
-  font-size: 13px;
-  font-weight: 500;
-  cursor: pointer;
-  padding-right: 2px;
-}
-.loc-select:focus { outline: none; }
-.loc-select option { color: #1a1a1a; }
-.spacer { flex: 1; }
+.support:hover { background: #f0cf5e; transform: translateY(-1px); text-decoration: none; }
 .nav-link {
   color: #f1ebd9;
   text-decoration: none;
