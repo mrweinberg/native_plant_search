@@ -9,13 +9,34 @@ import { useFavorites } from '../composables/useFavorites.js'
 import { useLocation } from '../composables/useLocation.js'
 
 const { favorites, favoriteSet, clear } = useFavorites()
-const { location } = useLocation()
+const { location, locationName } = useLocation()
 
 const plants = computed(() =>
   favorites.value
     .map((id) => allPlants.value.find((p) => p.id === id))
     .filter(Boolean),
 )
+
+// Printable plant / shopping list: a clean, alphabetized table the browser can
+// print or "Save as PDF" — the free version of what competitors paywall.
+const printPlants = computed(() =>
+  [...plants.value].sort((a, b) => a.commonNames[0].localeCompare(b.commonNames[0])),
+)
+const printDate = computed(() =>
+  new Date().toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' }),
+)
+function printList() {
+  window.print()
+}
+function fmtMonths(p) {
+  return p.bloomMonths?.length ? p.bloomMonths.map((m) => MONTH_LABELS[m]).join(', ') : '—'
+}
+function fmtHeight(p) {
+  return p.heightFeet ? `${p.heightFeet.min}–${p.heightFeet.max} ft` : '—'
+}
+function fmtList(arr) {
+  return arr && arr.length ? arr.join(', ') : '—'
+}
 
 const viewMode = ref('grid')
 
@@ -129,12 +150,10 @@ function confirmClear() {
           {{ plants.length }} saved plant{{ plants.length === 1 ? '' : 's' }}
         </p>
       </div>
-      <button
-        v-if="plants.length"
-        type="button"
-        class="clear"
-        @click="confirmClear"
-      >Clear all</button>
+      <div v-if="plants.length" class="head-actions">
+        <button type="button" class="action-btn" @click="printList">🖨 Print list</button>
+        <button type="button" class="action-btn" @click="confirmClear">Clear all</button>
+      </div>
     </div>
 
     <section v-if="plants.length" class="coverage" aria-label="Bloom coverage summary">
@@ -238,6 +257,42 @@ function confirmClear() {
         <RouterLink to="/">Browse plants →</RouterLink>
       </p>
     </div>
+
+    <section v-if="plants.length" class="print-sheet">
+      <div class="ps-head">
+        <h2>Native Plant List<span v-if="locationName"> — {{ locationName }}</span></h2>
+        <p>{{ plants.length }} plant{{ plants.length === 1 ? '' : 's' }} · {{ printDate }} · bedfellow.org</p>
+      </div>
+      <table class="ps-table">
+        <thead>
+          <tr>
+            <th class="ps-check">✓</th>
+            <th>Plant</th>
+            <th>Type</th>
+            <th>Mature size</th>
+            <th>Light</th>
+            <th>Soil moisture</th>
+            <th>Bloom</th>
+            <th class="ps-qty">Qty</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr v-for="p in printPlants" :key="p.id">
+            <td class="ps-check">☐</td>
+            <td>
+              <span class="ps-name">{{ p.commonNames[0] }}</span><br />
+              <span class="ps-sci">{{ p.scientificName }}</span>
+            </td>
+            <td class="cap">{{ p.generalAppearance || '—' }}</td>
+            <td>{{ fmtHeight(p) }}</td>
+            <td class="cap">{{ fmtList(p.lightRequirement) }}</td>
+            <td class="cap">{{ fmtList(p.soilMoisture) }}</td>
+            <td>{{ fmtMonths(p) }}</td>
+            <td class="ps-qty"></td>
+          </tr>
+        </tbody>
+      </table>
+    </section>
   </div>
 </template>
 
@@ -252,7 +307,8 @@ function confirmClear() {
 }
 h1 { margin: 0 0 4px; font-size: 24px; }
 .muted { color: var(--ink-soft); font-size: 14px; margin: 0; }
-.clear {
+.head-actions { display: flex; gap: 8px; flex-shrink: 0; }
+.action-btn {
   background: none;
   border: 1px solid var(--border);
   border-radius: 6px;
@@ -261,7 +317,7 @@ h1 { margin: 0 0 4px; font-size: 24px; }
   font-size: 13px;
   cursor: pointer;
 }
-.clear:hover { color: var(--accent); border-color: var(--accent); }
+.action-btn:hover { color: var(--accent); border-color: var(--accent); }
 
 .coverage {
   background: var(--card);
@@ -465,4 +521,27 @@ h1 { margin: 0 0 4px; font-size: 24px; }
   color: var(--ink-soft);
 }
 .empty p { margin: 6px 0; }
+
+.print-sheet { display: none; }
+@media print {
+  .favorites > *:not(.print-sheet) { display: none !important; }
+  .print-sheet { display: block; }
+  .ps-head h2 { font-size: 18px; margin: 0 0 2px; color: #111; }
+  .ps-head p { font-size: 11px; color: #555; margin: 0 0 12px; }
+  .ps-table { width: 100%; border-collapse: collapse; font-size: 11px; color: #111; }
+  .ps-table th,
+  .ps-table td { border: 1px solid #bbb; padding: 5px 7px; text-align: left; vertical-align: top; }
+  .ps-table th {
+    background: #eee;
+    font-size: 9.5px;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+  }
+  .ps-name { font-weight: 700; }
+  .ps-sci { font-style: italic; color: #555; font-size: 10px; }
+  .ps-check { width: 16px; text-align: center; font-size: 13px; }
+  .ps-qty { width: 38px; }
+  .print-sheet .cap { text-transform: capitalize; }
+  .ps-table tr { page-break-inside: avoid; }
+}
 </style>

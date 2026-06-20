@@ -29,3 +29,12 @@ button {
   font: inherit;
   cursor: pointer;
 }
+
+/* Printing: drop the app chrome so a printed/saved page is just its content
+   (e.g. the Favorites plant/shopping list). */
+@media print {
+  .app-header,
+  .app-footer { display: none !important; }
+  main { padding: 0 !important; max-width: none !important; }
+  html, body, #app { background: #fff; }
+}
