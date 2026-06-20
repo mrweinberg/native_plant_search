@@ -37,6 +37,7 @@ const groups = [
   { key: 'leafRetention', title: 'Leaf retention' },
   { key: 'nativeStates', title: 'Native to state' },
   { key: 'wildlifeValue', title: 'Wildlife value' },
+  { key: 'landscapeUses', title: 'Landscape use' },
   { key: 'family', title: 'Plant family' },
 ]
 

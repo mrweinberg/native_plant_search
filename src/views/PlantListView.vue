@@ -50,6 +50,7 @@ const GROUP_TITLES = {
   leafRetention: 'Foliage',
   nativeStates: 'State',
   wildlifeValue: 'Wildlife',
+  landscapeUses: 'Use',
   family: 'Family',
 }
 

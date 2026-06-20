@@ -215,6 +215,7 @@ function fmtRange(r, unit) {
       <dl class="facts">
         <div><dt>Height</dt><dd>{{ fmtRange(plant.heightFeet, 'ft') }}</dd></div>
         <div><dt>Spread</dt><dd>{{ fmtRange(plant.spreadFeet, 'ft') }}</dd></div>
+        <div v-if="plant.spreadFeet"><dt>Spacing</dt><dd>{{ fmtRange(plant.spreadFeet, 'ft') }} apart</dd></div>
       </dl>
     </section>
 
@@ -262,6 +263,12 @@ function fmtRange(r, unit) {
         <div><dt>Deer-resistant</dt><dd>{{ plant.deerResistant ? 'Yes' : 'No' }}</dd></div>
         <div><dt>Cut flower</dt><dd>{{ plant.cutFlower ? 'Yes' : 'No' }}</dd></div>
         <div><dt>Edible / culinary</dt><dd>{{ plant.culinaryUse ? 'Yes' : 'No' }}</dd></div>
+        <div class="wide" v-if="plant.landscapeUses?.length">
+          <dt>Landscape uses</dt>
+          <dd class="use-tags">
+            <span v-for="u in plant.landscapeUses" :key="u" class="use-tag">{{ u }}</span>
+          </dd>
+        </div>
       </dl>
     </section>
 
@@ -422,6 +429,15 @@ dt {
 }
 dd { margin: 2px 0 0; font-size: 14px; }
 .cap { text-transform: capitalize; }
+.use-tags { display: flex; flex-wrap: wrap; gap: 4px; margin-top: 4px; }
+.use-tag {
+  background: var(--accent-soft);
+  color: var(--accent);
+  border-radius: 4px;
+  padding: 1px 8px;
+  font-size: 12px;
+}
+.use-tag::first-letter { text-transform: uppercase; }
 .gallery {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));

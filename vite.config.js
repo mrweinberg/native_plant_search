@@ -65,12 +65,14 @@ function plantContent(p) {
   add('Type', p.generalAppearance)
   add('Lifespan', p.lifespan)
   if (p.heightFeet) add('Height', `${p.heightFeet.min}–${p.heightFeet.max} ft`)
+  if (p.spreadFeet) add('Spacing', `${p.spreadFeet.min}–${p.spreadFeet.max} ft apart`)
   add('Light', (p.lightRequirement || []).join(', '))
   add('Soil moisture', (p.soilMoisture || []).join(', '))
   add('Soil pH', (p.soilPh || []).join(', '))
   if (p.bloomMonths?.length) add('Bloom', p.bloomMonths.map((m) => MONTHS[m]).join(', '))
   add('Bloom colors', (p.bloomColors || []).join(', '))
   add('Wildlife value', (p.wildlifeValue || []).join(', '))
+  add('Landscape uses', (p.landscapeUses || []).join(', '))
   add('Native states', (p.nativeStates || []).join(', '))
   const alt = p.commonNames.length > 1
     ? `<p>Also known as: ${e(p.commonNames.slice(1).join(', '))}</p>` : ''
