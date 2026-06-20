@@ -51,6 +51,53 @@ function setMeta(html, attr, key, value) {
   return html.replace('</head>', `    <meta ${attr}="${key}" content="${value}" />\n  </head>`)
 }
 
+const MONTHS = ['', 'January', 'February', 'March', 'April', 'May', 'June', 'July',
+  'August', 'September', 'October', 'November', 'December']
+
+// Static body content for a plant page: real name, description, and key facts
+// baked into the HTML so crawlers (and no-JS visitors) get the content without
+// running the app. Vue replaces #app on mount, so this is purely a fallback.
+function plantContent(p) {
+  const e = escapeHtml
+  const rows = []
+  const add = (label, val) => { if (val) rows.push(`<dt>${label}</dt><dd>${e(val)}</dd>`) }
+  add('Family', p.family)
+  add('Type', p.generalAppearance)
+  add('Lifespan', p.lifespan)
+  if (p.heightFeet) add('Height', `${p.heightFeet.min}–${p.heightFeet.max} ft`)
+  add('Light', (p.lightRequirement || []).join(', '))
+  add('Soil moisture', (p.soilMoisture || []).join(', '))
+  add('Soil pH', (p.soilPh || []).join(', '))
+  if (p.bloomMonths?.length) add('Bloom', p.bloomMonths.map((m) => MONTHS[m]).join(', '))
+  add('Bloom colors', (p.bloomColors || []).join(', '))
+  add('Wildlife value', (p.wildlifeValue || []).join(', '))
+  add('Native states', (p.nativeStates || []).join(', '))
+  const alt = p.commonNames.length > 1
+    ? `<p>Also known as: ${e(p.commonNames.slice(1).join(', '))}</p>` : ''
+  const notes = p.notes ? `<p>${e(p.notes)}</p>` : ''
+  return (
+    `<main><p><a href="/">&larr; Bedfellow</a></p>` +
+    `<h1>${e(p.commonNames[0])}</h1>` +
+    `<p><em>${e(p.scientificName)}</em></p>` +
+    alt + notes +
+    (rows.length ? `<dl>${rows.join('')}</dl>` : '') +
+    `</main>`
+  )
+}
+
+// BreadcrumbList structured data (Home > plant) — a Google-supported rich result.
+function breadcrumb(p) {
+  const data = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Bedfellow', item: `${SITE}/` },
+      { '@type': 'ListItem', position: 2, name: p.commonNames[0], item: `${SITE}/plant/${p.id}` },
+    ],
+  }
+  return `<script type="application/ld+json">${JSON.stringify(data)}</script>`
+}
+
 // Bake per-route metadata into static HTML so social scrapers and non-JS
 // crawlers get correct preview cards and titles. The built dist/index.html is
 // the template (correct hashed asset refs + default tags); we clone it per route
@@ -67,7 +114,7 @@ function prerender() {
       const template = readFileSync(join(dist, 'index.html'), 'utf8')
       const plants = JSON.parse(readFileSync(join(root, 'src/data/plants.json'), 'utf8'))
 
-      const render = ({ title, description, path, image, type = 'website' }) => {
+      const render = ({ title, description, path, image, type = 'website', content, headExtra }) => {
         const t = escapeHtml(title)
         const d = escapeHtml(String(description).replace(/\s+/g, ' ').trim().slice(0, 200))
         const url = `${SITE}${path}`
@@ -84,6 +131,8 @@ function prerender() {
         html = setMeta(html, 'name', 'twitter:title', t)
         html = setMeta(html, 'name', 'twitter:description', d)
         html = setMeta(html, 'name', 'twitter:image', img)
+        if (headExtra) html = html.replace('</head>', `    ${headExtra}\n  </head>`)
+        if (content) html = html.replace(/<div id="app">\s*<\/div>/, `<div id="app">${content}</div>`)
         return html
       }
 
@@ -104,6 +153,8 @@ function prerender() {
             path: `/plant/${p.id}`,
             image: p.imageFile ? `${SITE}/${p.imageFile}` : DEFAULT_IMAGE,
             type: 'article',
+            content: plantContent(p),
+            headExtra: breadcrumb(p),
           }),
         )
       }
