@@ -1,12 +1,15 @@
 <script setup>
 import { computed, ref, watch, onMounted } from 'vue'
-import { useRoute, useRouter } from 'vue-router'
+import { useRoute, useRouter, RouterLink } from 'vue-router'
 import SearchBar from '../components/SearchBar.vue'
 import FilterPanel from '../components/FilterPanel.vue'
 import PlantCard from '../components/PlantCard.vue'
 import BloomCalendar from '../components/BloomCalendar.vue'
 import { usePlantFilters, plantsLoaded, MONTH_LABELS } from '../composables/usePlantFilters.js'
 import { useLocation } from '../composables/useLocation.js'
+import { useFavorites } from '../composables/useFavorites.js'
+
+const { count: favCount } = useFavorites()
 
 const {
   query,
@@ -132,51 +135,56 @@ watch(() => route.fullPath, () => { drawerOpen.value = false })
       @clear="clearAll"
     />
     <div class="results">
-      <div class="mobile-bar">
-        <button class="filters-btn" type="button" @click="drawerOpen = true">
-          ☰ Filters
-          <span v-if="activeFilterCount" class="count">{{ activeFilterCount }}</span>
-        </button>
-      </div>
-      <SearchBar :model-value="query" @update:model-value="setSearch" />
-      <div v-if="activeChips.length" class="active-chips">
-        <button
-          v-for="(c, i) in activeChips"
-          :key="i"
-          type="button"
-          class="active-chip"
-          @click="c.remove()"
-          :title="`Remove ${c.label}`"
-        >{{ c.label }} <span class="x">✕</span></button>
-        <button type="button" class="clear-chip" @click="clearAll">Clear all</button>
-      </div>
-      <div class="result-bar">
-        <span>{{ sortedPlants.length }} plants</span>
-        <span v-if="activeFilterCount > 0" class="muted">
-          · {{ activeFilterCount }} filter{{ activeFilterCount === 1 ? '' : 's' }} active
-        </span>
-        <span class="spacer"></span>
-        <label class="sort">
-          Sort
-          <select :value="sortBy" @change="setSortBy($event.target.value)">
-            <option value="common">Common name (A–Z)</option>
-            <option value="scientific">Scientific name (A–Z)</option>
-            <option value="heightAsc">Height (shortest first)</option>
-            <option value="heightDesc">Height (tallest first)</option>
-            <option value="bloomStart">Bloom (earliest first)</option>
-          </select>
-        </label>
-        <div class="view-toggle" role="tablist">
-          <button
-            type="button"
-            :class="{ active: viewMode === 'grid' }"
-            @click="setViewMode('grid')"
-          >Grid</button>
-          <button
-            type="button"
-            :class="{ active: viewMode === 'calendar' }"
-            @click="setViewMode('calendar')"
-          >Calendar</button>
+      <div class="toolbar">
+        <div class="toolbar-row">
+          <button class="filters-btn" type="button" @click="drawerOpen = true">
+            ☰ Filters
+            <span v-if="activeFilterCount" class="count">{{ activeFilterCount }}</span>
+          </button>
+          <SearchBar :model-value="query" @update:model-value="setSearch" />
+          <label class="sort">
+            Sort
+            <select :value="sortBy" @change="setSortBy($event.target.value)">
+              <option value="common">Common name (A–Z)</option>
+              <option value="scientific">Scientific name (A–Z)</option>
+              <option value="heightAsc">Height (shortest first)</option>
+              <option value="heightDesc">Height (tallest first)</option>
+              <option value="bloomStart">Bloom (earliest first)</option>
+            </select>
+          </label>
+          <div class="view-toggle" role="tablist">
+            <button
+              type="button"
+              :class="{ active: viewMode === 'grid' }"
+              @click="setViewMode('grid')"
+            >Grid</button>
+            <button
+              type="button"
+              :class="{ active: viewMode === 'calendar' }"
+              @click="setViewMode('calendar')"
+            >Calendar</button>
+          </div>
+          <RouterLink :to="{ name: 'favorites' }" class="tb-fav">
+            <span class="star" aria-hidden="true">★</span>
+            <span class="tb-fav-label">Favorites</span>
+            <span v-if="favCount" class="count">{{ favCount }}</span>
+          </RouterLink>
+        </div>
+        <div class="toolbar-meta">
+          <span class="result-count">
+            {{ sortedPlants.length }} plants<span v-if="activeFilterCount > 0" class="muted"> · {{ activeFilterCount }} filter{{ activeFilterCount === 1 ? '' : 's' }} active</span>
+          </span>
+          <template v-if="activeChips.length">
+            <button
+              v-for="(c, i) in activeChips"
+              :key="i"
+              type="button"
+              class="active-chip"
+              @click="c.remove()"
+              :title="`Remove ${c.label}`"
+            >{{ c.label }} <span class="x">✕</span></button>
+            <button type="button" class="clear-chip" @click="clearAll">Clear all</button>
+          </template>
         </div>
       </div>
       <template v-if="viewMode === 'grid'">
@@ -202,11 +210,11 @@ watch(() => route.fullPath, () => { drawerOpen.value = false })
   position: relative;
 }
 .drawer-backdrop { display: none; }
-.mobile-bar { display: none; }
+.filters-btn { display: none; }
 @media (max-width: 800px) {
   .layout { grid-template-columns: 1fr; }
-  .mobile-bar { display: flex; margin-bottom: 10px; }
   .filters-btn {
+    display: inline-flex;
     background: var(--card);
     border: 1px solid var(--border);
     border-radius: 8px;
@@ -255,17 +263,61 @@ watch(() => route.fullPath, () => { drawerOpen.value = false })
     pointer-events: auto;
   }
 }
-.result-bar {
+.toolbar {
+  position: sticky;
+  top: 0;
+  z-index: 15;
+  background: var(--bg);
+  padding: 12px 0 10px;
+  margin-bottom: 14px;
+  border-bottom: 1px solid var(--border);
+}
+.toolbar-row {
   display: flex;
   align-items: center;
-  gap: 12px;
-  margin-bottom: 12px;
-  color: var(--ink-soft);
-  font-size: 14px;
+  gap: 10px;
   flex-wrap: wrap;
 }
+.toolbar :deep(.search-bar) {
+  flex: 1 1 240px;
+  margin-bottom: 0;
+  min-width: 0;
+}
+.tb-fav {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 6px 12px;
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--ink);
+  text-decoration: none;
+  white-space: nowrap;
+}
+.tb-fav:hover { border-color: var(--accent); color: var(--accent); text-decoration: none; }
+.tb-fav .star { color: #e0a512; font-size: 13px; }
+.tb-fav .count {
+  background: var(--accent);
+  color: #fff;
+  font-size: 11px;
+  font-weight: 700;
+  border-radius: 999px;
+  padding: 1px 7px;
+}
+.toolbar-meta {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-top: 9px;
+  font-size: 13px;
+  color: var(--ink-soft);
+}
+.result-count { white-space: nowrap; margin-right: 4px; }
 .muted { color: var(--ink-soft); }
-.spacer { flex: 1; }
 .sort { display: flex; align-items: center; gap: 6px; font-size: 13px; }
 .sort select {
   font: inherit;
@@ -299,7 +351,7 @@ watch(() => route.fullPath, () => { drawerOpen.value = false })
 }
 @media (max-width: 800px) {
   .grid { grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); gap: 12px; }
-  .spacer { flex-basis: 100%; height: 0; }
+  .tb-fav-label { display: none; }
 }
 .empty {
   background: var(--card);
@@ -315,18 +367,6 @@ watch(() => route.fullPath, () => { drawerOpen.value = false })
   color: var(--accent);
   margin-left: 6px;
   text-decoration: underline;
-}
-.active-chips {
-  position: sticky;
-  top: 0;
-  z-index: 5;
-  background: var(--bg, var(--card));
-  display: flex;
-  flex-wrap: wrap;
-  gap: 6px;
-  padding: 8px 0;
-  margin-bottom: 4px;
-  border-bottom: 1px solid var(--border);
 }
 .active-chip {
   background: var(--accent-soft);
