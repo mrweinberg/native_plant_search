@@ -172,7 +172,7 @@ function fmtRange(r, unit) {
     <div class="traits-row" v-if="plant.cutFlower || plant.culinaryUse || plant.deerResistant || plant.springEphemeral">
       <span v-if="plant.cutFlower" class="trait trait-cut">✂ Cut flower</span>
       <span v-if="plant.culinaryUse" class="trait trait-edible">🍴 Edible</span>
-      <span v-if="plant.deerResistant" class="trait trait-deer">🦌 Deer-resistant</span>
+      <span v-if="plant.deerResistant" class="trait trait-deer" title="A guide, not a guarantee — hungry deer will browse almost anything">🦌 Deer-resistant</span>
       <span v-if="plant.springEphemeral" class="trait trait-ephemeral">🌱 Spring ephemeral</span>
     </div>
 
@@ -270,6 +270,9 @@ function fmtRange(r, unit) {
           </dd>
         </div>
       </dl>
+      <p v-if="plant.deerResistant" class="deer-caveat">
+        Deer resistance is a guide, not a guarantee — no plant is deer-proof, and hungry deer will sample almost anything.
+      </p>
     </section>
 
     <section class="group companions" v-if="companions.length">
@@ -438,6 +441,7 @@ dd { margin: 2px 0 0; font-size: 14px; }
   font-size: 12px;
 }
 .use-tag::first-letter { text-transform: uppercase; }
+.deer-caveat { font-size: 12px; color: var(--ink-soft); font-style: italic; margin: 10px 0 0; }
 .gallery {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));

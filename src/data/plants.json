@@ -504,7 +504,7 @@
     "leafRetention": "deciduous",
     "wildlifeValue": [
       "pollinators",
-      "monarch nectar"
+      "butterflies"
     ],
     "deerResistant": true,
     "notes": "Tall purple spikes bloom top-down. Great for cut flowers.",
@@ -1018,7 +1018,7 @@
     "leafRetention": "deciduous",
     "wildlifeValue": [
       "pollinators",
-      "monarch nectar"
+      "butterflies"
     ],
     "deerResistant": true,
     "notes": "Key fall nectar source for monarch migration.",
@@ -1109,7 +1109,7 @@
     "leafRetention": "deciduous",
     "wildlifeValue": [
       "pollinators",
-      "host plant"
+      "larval host"
     ],
     "deerResistant": true,
     "notes": "Long-lived, shrub-like with a deep taproot. Nitrogen fixer.",
@@ -1298,7 +1298,7 @@
     "leafRetention": "deciduous",
     "wildlifeValue": [
       "pollinators",
-      "swallowtail nectar"
+      "butterflies"
     ],
     "deerResistant": true,
     "notes": "Tall back-of-border with vanilla-scented flowers.",
@@ -1866,7 +1866,7 @@
     "leafArrangement": "basal",
     "leafRetention": "deciduous",
     "wildlifeValue": [
-      "host plant"
+      "larval host"
     ],
     "deerResistant": true,
     "notes": "Heart-shaped leaves form dense groundcover; ground-level flowers.",
@@ -2072,7 +2072,7 @@
     "wildlifeValue": [
       "pollinators",
       "songbirds",
-      "host plant"
+      "larval host"
     ],
     "deerResistant": false,
     "notes": "Brilliant fall color. Tolerates wet feet.",
@@ -2370,7 +2370,7 @@
     "leafArrangement": "alternate",
     "leafRetention": "deciduous",
     "wildlifeValue": [
-      "host plant",
+      "larval host",
       "songbirds",
       "mammals"
     ],
@@ -2475,7 +2475,7 @@
     "leafRetention": "deciduous",
     "wildlifeValue": [
       "songbirds",
-      "host plant"
+      "larval host"
     ],
     "deerResistant": false,
     "notes": "Sinewy gray bark; tolerates shade and seasonal flooding.",
@@ -2772,7 +2772,7 @@
     "leafArrangement": "alternate",
     "leafRetention": "deciduous",
     "wildlifeValue": [
-      "host plant",
+      "larval host",
       "songbirds",
       "pollinators"
     ],
@@ -3071,7 +3071,7 @@
     "leafArrangement": "alternate",
     "leafRetention": "deciduous",
     "wildlifeValue": [
-      "host plant",
+      "larval host",
       "songbirds"
     ],
     "deerResistant": true,
@@ -3185,7 +3185,7 @@
     "leafArrangement": "alternate",
     "leafRetention": "deciduous",
     "wildlifeValue": [
-      "host plant",
+      "larval host",
       "songbirds"
     ],
     "deerResistant": true,
@@ -3292,7 +3292,7 @@
     "leafArrangement": "alternate",
     "leafRetention": "deciduous",
     "wildlifeValue": [
-      "host plant",
+      "larval host",
       "songbirds"
     ],
     "deerResistant": true,
@@ -3406,7 +3406,7 @@
     "leafArrangement": "alternate",
     "leafRetention": "deciduous",
     "wildlifeValue": [
-      "host plant",
+      "larval host",
       "songbirds"
     ],
     "deerResistant": true,
@@ -3510,7 +3510,7 @@
     "leafArrangement": "alternate",
     "leafRetention": "deciduous",
     "wildlifeValue": [
-      "host plant",
+      "larval host",
       "songbirds"
     ],
     "deerResistant": true,
@@ -3594,7 +3594,7 @@
     "leafArrangement": "alternate",
     "leafRetention": "deciduous",
     "wildlifeValue": [
-      "host plant",
+      "larval host",
       "songbirds"
     ],
     "deerResistant": true,
@@ -3689,7 +3689,7 @@
     "leafArrangement": "alternate",
     "leafRetention": "semi-evergreen",
     "wildlifeValue": [
-      "host plant"
+      "larval host"
     ],
     "deerResistant": true,
     "notes": "Lawn-alternative for dry shade. Spreads by short rhizomes.",
@@ -3787,7 +3787,7 @@
     "leafArrangement": "basal",
     "leafRetention": "evergreen",
     "wildlifeValue": [
-      "host plant"
+      "larval host"
     ],
     "deerResistant": true,
     "notes": "Evergreen leathery fronds; tolerates dry shade once established.",
@@ -4361,7 +4361,7 @@
     "leafRetention": "deciduous",
     "wildlifeValue": [
       "songbirds",
-      "host plant"
+      "larval host"
     ],
     "deerResistant": false,
     "notes": "Vigorous climbing vine; brilliant scarlet fall color.",
@@ -4649,7 +4649,7 @@
     "leafRetention": "deciduous",
     "wildlifeValue": [
       "pollinators",
-      "host plant"
+      "larval host"
     ],
     "deerResistant": true,
     "notes": "Host for Gulf fritillary. Spectacular intricate flowers.",
@@ -5506,7 +5506,7 @@
     "leafRetention": "deciduous",
     "wildlifeValue": [
       "pollinators",
-      "host plant"
+      "larval host"
     ],
     "deerResistant": true,
     "notes": "Host for black swallowtail. Yellow umbels in late spring.",
@@ -5600,7 +5600,7 @@
     "leafRetention": "deciduous",
     "wildlifeValue": [
       "pollinators",
-      "host plant"
+      "larval host"
     ],
     "deerResistant": true,
     "notes": "Host plant for Baltimore checkerspot butterfly.",
@@ -7420,7 +7420,7 @@
     "leafRetention": "deciduous",
     "wildlifeValue": [
       "pollinators",
-      "host plant"
+      "larval host"
     ],
     "deerResistant": false,
     "notes": "Tallest eastern hardwood. Tulip-shaped greenish-yellow flowers.",
@@ -7616,7 +7616,7 @@
     "leafArrangement": "alternate",
     "leafRetention": "deciduous",
     "wildlifeValue": [
-      "host plant",
+      "larval host",
       "songbirds"
     ],
     "deerResistant": false,
@@ -7718,7 +7718,7 @@
     "leafRetention": "deciduous",
     "wildlifeValue": [
       "songbirds",
-      "host plant"
+      "larval host"
     ],
     "deerResistant": false,
     "notes": "Massive shade tree with white mottled bark; floodplain native.",
@@ -7814,7 +7814,7 @@
     "leafArrangement": "alternate",
     "leafRetention": "deciduous",
     "wildlifeValue": [
-      "host plant",
+      "larval host",
       "mammals"
     ],
     "deerResistant": true,
@@ -7917,7 +7917,7 @@
     "wildlifeValue": [
       "pollinators",
       "songbirds",
-      "host plant"
+      "larval host"
     ],
     "deerResistant": true,
     "notes": "Mitten-shaped leaves; spectacular orange-red fall color. Host for spicebush swallowtail.",
@@ -36679,8 +36679,7 @@
     "leafArrangement": "alternate",
     "leafRetention": "deciduous",
     "wildlifeValue": [
-      "larval host",
-      "host plant"
+      "larval host"
     ],
     "deerResistant": true,
     "notes": "Vigorous twiner with big heart-shaped leaves and curious woolly 'Dutchman's pipe' flowers. A vital larval host for pipevine swallowtail butterflies.",
@@ -38365,8 +38364,7 @@
     "leafRetention": "deciduous",
     "wildlifeValue": [
       "pollinators",
-      "butterflies",
-      "monarch nectar"
+      "butterflies"
     ],
     "deerResistant": true,
     "notes": "Shortgrass blazing star whose deep taproot lets it bloom rosy-purple straight through drought. A critical late nectar source for migrating monarchs.",
@@ -38436,8 +38434,7 @@
     "leafRetention": "deciduous",
     "wildlifeValue": [
       "pollinators",
-      "butterflies",
-      "monarch nectar"
+      "butterflies"
     ],
     "deerResistant": true,
     "notes": "Renowned as a monarch magnet above all other plants, its big rose-purple buttons seethe with butterflies in late summer. Prefers moister prairie soil.",
@@ -63274,8 +63271,7 @@
     "leafRetention": "deciduous",
     "wildlifeValue": [
       "pollinators",
-      "butterflies",
-      "monarch nectar"
+      "butterflies"
     ],
     "deerResistant": true,
     "notes": "A delicate, fine-leaved blazing star with slender wands of rosy-purple flowers in late summer over grassy foliage. A tidy, drought-tolerant native and a magnet for butterflies.",

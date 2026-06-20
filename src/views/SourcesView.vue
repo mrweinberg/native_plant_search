@@ -83,11 +83,13 @@ const sources = [
     <p class="intro">
       Bedfellow's catalog of {{ allPlants.length || 'native' }} plants is built in two layers.
       Native range, scientific names, and photographs are pulled from the public
-      databases below. Growing conditions, bloom times, and plant descriptions are
-      then editorially written with AI assistance, drawing on the horticultural
-      references below, and checked for completeness — but they can contain errors.
-      Treat the data as a planning aid, and always confirm a plant's range,
-      hardiness, and behavior for your own site before planting.
+      databases below. Growing conditions, bloom times, wildlife value, deer
+      resistance, and plant descriptions are then editorially written with AI
+      assistance, drawing on the horticultural references below, and checked for
+      completeness — but they can contain errors. Deer resistance especially is a
+      rough guide: no plant is deer-proof. Treat the data as a planning aid, and
+      always confirm a plant's range, hardiness, and behavior for your own site
+      before planting.
     </p>
 
     <section v-for="group in sources" :key="group.title" class="group">
