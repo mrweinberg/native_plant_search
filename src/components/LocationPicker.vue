@@ -9,6 +9,28 @@ const search = ref('')
 const rootEl = ref(null)
 const inputEl = ref(null)
 
+// First-run nudge: gently point new users at the picker (no geolocation). Shows
+// only when no state is set and the user hasn't engaged with the picker before.
+const NUDGE_KEY = 'nps:locNudgeSeen'
+function readSeen() {
+  try {
+    return localStorage.getItem(NUDGE_KEY) === '1'
+  } catch {
+    return true
+  }
+}
+const nudgeSeen = ref(readSeen())
+function dismissNudge() {
+  if (nudgeSeen.value) return
+  nudgeSeen.value = true
+  try {
+    localStorage.setItem(NUDGE_KEY, '1')
+  } catch {
+    // ignore disabled storage
+  }
+}
+const showNudge = computed(() => !location.value && !nudgeSeen.value && !open.value)
+
 const visible = computed(() => {
   const q = search.value.trim().toLowerCase()
   if (!q) return US_STATES
@@ -19,12 +41,14 @@ const visible = computed(() => {
 
 function toggle() {
   open.value = !open.value
+  if (open.value) dismissNudge()
 }
 function close() {
   open.value = false
 }
 function choose(code) {
   setLocation(code)
+  dismissNudge()
   close()
 }
 function onDocClick(e) {
@@ -58,7 +82,7 @@ onBeforeUnmount(() => {
     <button
       type="button"
       class="lp-trigger"
-      :class="{ set: location }"
+      :class="{ set: location, nudging: showNudge }"
       :aria-expanded="open"
       aria-haspopup="listbox"
       @click="toggle"
@@ -67,6 +91,13 @@ onBeforeUnmount(() => {
       <span class="lp-label">{{ location ? stateName(location) : 'All states' }}</span>
       <span class="lp-caret" aria-hidden="true">▾</span>
     </button>
+
+    <div v-if="showNudge" class="lp-nudge" role="status">
+      <button type="button" class="lp-nudge-body" @click="toggle">
+        Set your state to see what's native to you
+      </button>
+      <button type="button" class="lp-nudge-x" aria-label="Dismiss" @click="dismissNudge">✕</button>
+    </div>
     <div v-if="open" class="lp-panel" role="listbox" aria-label="Set your state">
       <div class="lp-search">
         <input
@@ -118,8 +149,75 @@ onBeforeUnmount(() => {
 }
 .lp-trigger:hover { background: rgba(255, 255, 255, 0.14); }
 .lp-trigger.set { background: var(--accent); }
+.lp-trigger.nudging { animation: lp-pulse 2s ease-in-out infinite; }
+@keyframes lp-pulse {
+  0%, 100% { box-shadow: 0 0 0 0 rgba(232, 195, 74, 0); }
+  50% { box-shadow: 0 0 0 4px rgba(232, 195, 74, 0.4); }
+}
+@media (prefers-reduced-motion: reduce) {
+  .lp-trigger.nudging { animation: none; }
+}
 .lp-pin { font-size: 12px; }
 .lp-caret { font-size: 10px; opacity: 0.8; }
+
+.lp-nudge {
+  position: absolute;
+  top: calc(100% + 9px);
+  left: 0;
+  z-index: 19;
+  display: flex;
+  align-items: center;
+  gap: 2px;
+  background: var(--card);
+  color: var(--ink);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  box-shadow: 0 8px 22px rgba(0, 0, 0, 0.22);
+  padding: 1px 2px 1px 2px;
+  white-space: nowrap;
+  animation: lp-fade 0.3s ease;
+}
+@keyframes lp-fade {
+  from { opacity: 0; transform: translateY(-3px); }
+  to { opacity: 1; transform: none; }
+}
+.lp-nudge::before {
+  content: '';
+  position: absolute;
+  top: -5px;
+  left: 16px;
+  width: 9px;
+  height: 9px;
+  background: var(--card);
+  border-left: 1px solid var(--border);
+  border-top: 1px solid var(--border);
+  transform: rotate(45deg);
+}
+.lp-nudge-body {
+  background: none;
+  border: none;
+  font: inherit;
+  font-size: 12.5px;
+  color: var(--ink);
+  cursor: pointer;
+  padding: 6px 6px;
+  border-radius: 5px;
+}
+.lp-nudge-body:hover { color: var(--accent); }
+.lp-nudge-x {
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: var(--ink-soft);
+  font-size: 11px;
+  padding: 6px 8px;
+  border-radius: 5px;
+  line-height: 1;
+}
+.lp-nudge-x:hover { color: var(--ink); background: var(--accent-soft); }
+@media (max-width: 800px) {
+  .lp-nudge { white-space: normal; max-width: 210px; }
+}
 
 .lp-panel {
   position: absolute;
