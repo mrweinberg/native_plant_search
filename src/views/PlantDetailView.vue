@@ -1,7 +1,7 @@
 <script setup>
 import { computed, ref, watch, watchEffect, onUnmounted } from 'vue'
 import { useRoute, useRouter, RouterLink } from 'vue-router'
-import { allPlants, plantsLoaded, MONTH_LABELS } from '../composables/usePlantFilters.js'
+import { allPlants, plantsLoaded } from '../composables/usePlantFilters.js'
 import { setHead } from '../composables/useHead.js'
 import { usePlantImage } from '../composables/usePlantImage.js'
 import { useInatGallery } from '../composables/useInatGallery.js'
@@ -9,7 +9,6 @@ import FavoriteButton from '../components/FavoriteButton.vue'
 import PlantCard from '../components/PlantCard.vue'
 import TraitPills from '../components/TraitPills.vue'
 import BloomStrip from '../components/BloomStrip.vue'
-import HeightBar from '../components/HeightBar.vue'
 import RangeMap from '../components/RangeMap.vue'
 
 const route = useRoute()
@@ -141,10 +140,6 @@ function fmtList(v) {
   if (Array.isArray(v)) return v.length ? v.join(', ') : '—'
   return String(v)
 }
-function fmtMonths(months) {
-  if (!months?.length) return '—'
-  return months.map((m) => MONTH_LABELS[m]).join(', ')
-}
 function fmtRange(r, unit) {
   if (!r) return '—'
   return `${r.min}–${r.max} ${unit}`
@@ -185,17 +180,6 @@ function fmtRange(r, unit) {
 
     <TraitPills :plant="plant" />
 
-    <div class="visuals">
-      <div class="viz">
-        <h2>Bloom time</h2>
-        <BloomStrip :plant="plant" />
-      </div>
-      <div class="viz">
-        <h2>Mature height</h2>
-        <HeightBar :plant="plant" />
-      </div>
-    </div>
-
     <section class="group" v-if="inatLoading || inatPhotos.length">
       <h2>Photos</h2>
       <div v-if="inatLoading" class="gallery" aria-busy="true" aria-label="Loading photos">
@@ -225,7 +209,6 @@ function fmtRange(r, unit) {
       <dl class="facts">
         <div><dt>Family</dt><dd>{{ plant.family }}</dd></div>
         <div><dt>Type</dt><dd class="cap">{{ plant.generalAppearance }}</dd></div>
-        <div><dt>Lifespan</dt><dd class="cap">{{ plant.lifespan }}</dd></div>
         <div v-if="plant.usdaSymbol"><dt>USDA symbol</dt><dd>{{ plant.usdaSymbol }}</dd></div>
       </dl>
     </section>
@@ -242,8 +225,6 @@ function fmtRange(r, unit) {
     <section class="group">
       <h2>Growing conditions</h2>
       <dl class="facts">
-        <div><dt>Light</dt><dd class="cap">{{ fmtList(plant.lightRequirement) }}</dd></div>
-        <div><dt>Soil moisture</dt><dd class="cap">{{ fmtList(plant.soilMoisture) }}</dd></div>
         <div><dt>Soil type</dt><dd class="cap">{{ fmtList(plant.soilType) }}</dd></div>
         <div><dt>Soil pH</dt><dd class="cap">{{ fmtList(plant.soilPh) }}</dd></div>
         <div><dt>Spread habit</dt><dd class="cap">{{ plant.spreadHabit || '—' }}</dd></div>
@@ -252,28 +233,21 @@ function fmtRange(r, unit) {
 
     <section class="group">
       <h2>Bloom</h2>
-      <dl class="facts">
-        <div><dt>Bloom months</dt><dd>{{ fmtMonths(plant.bloomMonths) }}</dd></div>
-        <div><dt>Bloom colors</dt><dd class="cap">{{ fmtList(plant.bloomColors) }}</dd></div>
-      </dl>
+      <BloomStrip :plant="plant" />
     </section>
 
     <section class="group">
       <h2>Foliage</h2>
       <dl class="facts">
         <div><dt>Leaf arrangement</dt><dd class="cap">{{ plant.leafArrangement }}</dd></div>
-        <div><dt>Leaf retention</dt><dd class="cap">{{ plant.leafRetention }}</dd></div>
       </dl>
     </section>
 
     <section class="group">
       <h2>Native range</h2>
       <RangeMap v-if="plant.nativeStates?.length" :plant="plant" />
-      <dl class="facts">
-        <div v-if="plant.nativeRegions?.length">
-          <dt>USDA regions</dt><dd>{{ fmtList(plant.nativeRegions) }}</dd>
-        </div>
-        <div class="wide"><dt>States</dt><dd>{{ fmtList(plant.nativeStates) }}</dd></div>
+      <dl v-else class="facts">
+        <div class="wide"><dt>USDA regions</dt><dd>{{ fmtList(plant.nativeRegions) }}</dd></div>
       </dl>
     </section>
 
@@ -282,9 +256,6 @@ function fmtRange(r, unit) {
       <dl class="facts">
         <div><dt>Wildlife value</dt><dd class="cap">{{ fmtList(plant.wildlifeValue) }}</dd></div>
         <div v-if="plant.caterpillarHosts"><dt>Caterpillar hosts</dt><dd>~{{ plant.caterpillarHosts }} species</dd></div>
-        <div><dt>Deer-resistant</dt><dd>{{ plant.deerResistant ? 'Yes' : 'No' }}</dd></div>
-        <div><dt>Cut flower</dt><dd>{{ plant.cutFlower ? 'Yes' : 'No' }}</dd></div>
-        <div><dt>Edible / culinary</dt><dd>{{ plant.culinaryUse ? 'Yes' : 'No' }}</dd></div>
         <div class="wide" v-if="plant.landscapeUses?.length">
           <dt>Landscape uses</dt>
           <dd class="use-tags">
@@ -468,21 +439,6 @@ dd { margin: 2px 0 0; font-size: 14px; }
 .use-tag::first-letter { text-transform: uppercase; }
 .deer-caveat { font-size: 12px; color: var(--ink-soft); font-style: italic; margin: 10px 0 0; }
 .host-note { font-size: 12px; color: var(--ink-soft); font-style: italic; margin: 10px 0 0; }
-.visuals {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
-  gap: 20px 28px;
-  margin-top: 20px;
-}
-.viz h2 {
-  font-size: 13px;
-  text-transform: uppercase;
-  letter-spacing: 0.06em;
-  color: var(--accent);
-  margin: 0 0 10px;
-  padding-bottom: 6px;
-  border-bottom: 1px solid var(--border);
-}
 .gallery {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));

@@ -6,13 +6,19 @@ const props = defineProps({ plant: { type: Object, required: true } })
 
 const months = Array.from({ length: 12 }, (_, i) => i + 1)
 const bloomSet = computed(() => new Set(props.plant.bloomMonths || []))
+
+// Filled cells show the whole bloom palette as crisp vertical bands, so the
+// chart itself conveys the colors (no separate, mismatched legend). The data has
+// no per-month color, so every active month gets the same banded fill.
 const fill = computed(() => {
-  const c = props.plant.bloomColors?.[0]
-  return BLOOM_COLOR_HEX[c] || 'var(--accent)'
+  const cols = (props.plant.bloomColors || []).map((c) => BLOOM_COLOR_HEX[c] || 'var(--accent)')
+  if (!cols.length) return 'var(--accent)'
+  if (cols.length === 1) return cols[0]
+  const step = 100 / cols.length
+  const stops = cols.map((c, i) => `${c} ${i * step}% ${(i + 1) * step}%`).join(', ')
+  return `linear-gradient(90deg, ${stops})`
 })
-const swatches = computed(() =>
-  (props.plant.bloomColors || []).map((c) => ({ name: c, hex: BLOOM_COLOR_HEX[c] || '#ccc' })),
-)
+const colorCaption = computed(() => (props.plant.bloomColors || []).join(', '))
 const season = (m) =>
   m >= 3 && m <= 5 ? 'season-spring' : m >= 6 && m <= 8 ? 'season-summer' : m >= 9 && m <= 11 ? 'season-fall' : ''
 </script>
@@ -32,13 +38,10 @@ const season = (m) =>
         <div class="m-label">{{ MONTH_LABELS[m].slice(0, 1) }}</div>
       </div>
     </div>
-    <div class="swatches" v-if="swatches.length">
-      <span v-for="s in swatches" :key="s.name" class="sw" :title="s.name">
-        <span class="dot" :style="{ background: s.hex, borderColor: s.name === 'white' ? '#bbb' : 'transparent' }"></span>
-        <span class="cap">{{ s.name }}</span>
-      </span>
-    </div>
-    <p v-if="!bloomSet.size" class="none">No bloom-time data recorded.</p>
+    <p v-if="bloomSet.size && colorCaption" class="caption">
+      <span class="cap-label">Colors:</span> <span class="cap-val">{{ colorCaption }}</span>
+    </p>
+    <p v-else-if="!bloomSet.size" class="caption none">No bloom-time data recorded.</p>
   </div>
 </template>
 
@@ -56,11 +59,7 @@ const season = (m) =>
 .season-spring { background: rgba(126, 163, 107, 0.08); }
 .season-summer { background: rgba(233, 200, 74, 0.10); }
 .season-fall { background: rgba(224, 139, 58, 0.10); }
-.bar {
-  height: 22px;
-  border-radius: 3px;
-  background: transparent;
-}
+.bar { height: 22px; border-radius: 3px; background: transparent; }
 .bar.on { box-shadow: inset 0 0 0 1px rgba(0, 0, 0, 0.1); }
 .m-label {
   text-align: center;
@@ -69,9 +68,8 @@ const season = (m) =>
   text-transform: uppercase;
   color: var(--ink-soft);
 }
-.swatches { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 8px; }
-.sw { display: inline-flex; align-items: center; gap: 5px; font-size: 12px; color: var(--ink-soft); }
-.dot { width: 13px; height: 13px; border-radius: 50%; border: 1px solid transparent; display: inline-block; }
-.cap { text-transform: capitalize; }
-.none { font-size: 13px; color: var(--ink-soft); font-style: italic; margin: 8px 0 0; }
+.caption { font-size: 12.5px; color: var(--ink-soft); margin: 8px 0 0; }
+.cap-label { text-transform: uppercase; letter-spacing: 0.05em; font-size: 11px; font-weight: 600; }
+.cap-val { text-transform: capitalize; }
+.caption.none { font-style: italic; }
 </style>

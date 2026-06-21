@@ -27,22 +27,30 @@ const RETENTION = {
   'semi-evergreen': { icon: 'leaf-semi', label: 'Semi-evergreen' },
 }
 
-// Categorical pills (one accent style), de-duplicated and order-preserved.
-const conditionPills = computed(() => {
-  const p = props.plant
+function mapValues(values, table) {
   const out = []
   const seen = new Set()
-  const push = (entry) => {
-    if (entry && !seen.has(entry.label)) { seen.add(entry.label); out.push(entry) }
+  for (const v of values || []) {
+    const e = table[v]
+    if (e && !seen.has(e.label)) { seen.add(e.label); out.push(e) }
   }
-  for (const v of p.lightRequirement || []) push(LIGHT[v])
-  for (const v of p.soilMoisture || []) push(MOISTURE[v])
-  push(LIFESPAN[p.lifespan])
-  push(RETENTION[p.leafRetention])
   return out
+}
+
+// Each entry is a labeled group of value pills (condition styling).
+const groups = computed(() => {
+  const p = props.plant
+  const g = []
+  const light = mapValues(p.lightRequirement, LIGHT)
+  if (light.length) g.push({ label: 'Light', pills: light })
+  const moist = mapValues(p.soilMoisture, MOISTURE)
+  if (moist.length) g.push({ label: 'Soil moisture', pills: moist })
+  const cycle = mapValues([p.lifespan, p.leafRetention], { ...LIFESPAN, ...RETENTION })
+  if (cycle.length) g.push({ label: 'Life cycle', pills: cycle })
+  return g
 })
 
-// Boolean badges with their own color classes (reuse detail-page .trait* styling).
+// Boolean feature badges (own color classes).
 const badges = computed(() => {
   const p = props.plant
   const list = []
@@ -56,18 +64,42 @@ const badges = computed(() => {
 </script>
 
 <template>
-  <div class="pills" v-if="conditionPills.length || badges.length">
-    <span v-for="c in conditionPills" :key="c.label" class="pill pill-cond" :title="c.label">
-      <TraitIcon :name="c.icon" />{{ c.label }}
-    </span>
-    <span v-for="b in badges" :key="b.label" class="pill" :class="b.cls" :title="b.title">
-      <TraitIcon :name="b.icon" />{{ b.label }}
-    </span>
+  <div class="trait-groups" v-if="groups.length || badges.length">
+    <div v-for="grp in groups" :key="grp.label" class="grp">
+      <span class="grp-label">{{ grp.label }}</span>
+      <span class="grp-pills">
+        <span v-for="c in grp.pills" :key="c.label" class="pill pill-cond" :title="c.label">
+          <TraitIcon :name="c.icon" />{{ c.label }}
+        </span>
+      </span>
+    </div>
+    <div v-if="badges.length" class="grp">
+      <span class="grp-label">Features</span>
+      <span class="grp-pills">
+        <span v-for="b in badges" :key="b.label" class="pill" :class="b.cls" :title="b.title">
+          <TraitIcon :name="b.icon" />{{ b.label }}
+        </span>
+      </span>
+    </div>
   </div>
 </template>
 
 <style scoped>
-.pills { display: flex; flex-wrap: wrap; gap: 6px; margin: 16px 0 4px; }
+.trait-groups {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px 22px;
+  margin: 16px 0 4px;
+}
+.grp { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
+.grp-label {
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--ink-soft);
+  font-weight: 600;
+}
+.grp-pills { display: inline-flex; flex-wrap: wrap; gap: 6px; }
 .pill {
   display: inline-flex;
   align-items: center;
