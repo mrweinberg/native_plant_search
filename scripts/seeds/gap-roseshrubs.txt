@@ -1,0 +1,27 @@
+Prunus gracilis | Oklahoma Plum
+Prunus nigra | Canada Plum
+Prunus umbellata | Flatwoods Plum
+Salix amygdaloides | Peachleaf Willow
+Salix arctica | Arctic Willow
+Salix bebbiana | Bebb Willow
+Salix caroliniana | Coastal Plain Willow
+Salix humilis | Prairie Willow
+Betula pumila | Bog Birch
+Malus angustifolia | Southern Crabapple
+Alnus incana | Speckled Alder
+Alnus rhombifolia | White Alder
+Alnus serrulata | Hazel Alder
+Crataegus flava | Yellow Hawthorn
+Crataegus opaca | Mayhaw
+Crataegus spathulata | Littlehip Hawthorn
+Rubus idaeus | American Red Raspberry
+Rosa blanda | Smooth Rose
+Rosa palustris | Swamp Rose
+Rosa virginiana | Virginia Rose
+Amelanchier stolonifera | Running Serviceberry
+Amelanchier utahensis | Utah Serviceberry
+Spiraea betulifolia | Birchleaf Spirea
+Spiraea latifolia | Broadleaf Meadowsweet
+Spiraea splendens | Rosy Spirea
+Sorbus scopulina | Greene's Mountain Ash
+Physocarpus malvaceus | Mallow Ninebark
