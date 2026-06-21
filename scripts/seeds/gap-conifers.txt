@@ -1,0 +1,32 @@
+Pinus attenuata | Knobcone Pine
+Pinus cembroides | Mexican Pinyon
+Pinus clausa | Sand Pine
+Pinus coulteri | Coulter Pine
+Pinus echinata | Shortleaf Pine
+Pinus elliottii | Slash Pine
+Pinus engelmannii | Apache Pine
+Pinus glabra | Spruce Pine
+Pinus lambertiana | Sugar Pine
+Pinus pungens | Table Mountain Pine
+Pinus radiata | Monterey Pine
+Pinus resinosa | Red Pine
+Pinus rigida | Pitch Pine
+Pinus serotina | Pond Pine
+Pinus strobiformis | Southwestern White Pine
+Pinus taeda | Loblolly Pine
+Picea engelmannii | Engelmann Spruce
+Picea glauca | White Spruce
+Picea rubens | Red Spruce
+Larix laricina | Tamarack
+Abies balsamea | Balsam Fir
+Abies lasiocarpa | Subalpine Fir
+Tsuga mertensiana | Mountain Hemlock
+Pseudotsuga macrocarpa | Bigcone Douglas-fir
+Juniperus communis | Common Juniper
+Juniperus horizontalis | Creeping Juniper
+Juniperus monosperma | One-seed Juniper
+Juniperus occidentalis | Western Juniper
+Juniperus osteosperma | Utah Juniper
+Juniperus pinchotii | Redberry Juniper
+Taxodium ascendens | Pond Cypress
+Taxodium mucronatum | Montezuma Cypress

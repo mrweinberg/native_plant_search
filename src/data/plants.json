@@ -71797,5 +71797,2509 @@
     ],
     "caterpillarHosts": 149,
     "keystone": true
+  },
+  {
+    "id": "pinus-attenuata",
+    "scientificName": "Pinus attenuata",
+    "commonNames": [
+      "Knobcone Pine"
+    ],
+    "family": "Pinaceae",
+    "nativeStates": [
+      "CA",
+      "OR"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 20,
+      "max": 50
+    },
+    "spreadFeet": {
+      "min": 15,
+      "max": 25
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "yellow",
+      "brown",
+      "green"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "mammals",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Knobcone pine is a fire-dependent western pine whose tightly sealed cones cling for decades and open only in a blaze. A pioneer of poor, rocky, fire-prone slopes from Oregon to Baja.",
+    "usdaSymbol": "PIAT",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/pinus-attenuata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Knobcone_pine",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen"
+    ],
+    "caterpillarHosts": 201,
+    "keystone": true
+  },
+  {
+    "id": "pinus-cembroides",
+    "scientificName": "Pinus cembroides",
+    "commonNames": [
+      "Mexican Pinyon"
+    ],
+    "family": "Pinaceae",
+    "nativeStates": [
+      "AZ",
+      "NM",
+      "TX"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 15,
+      "max": 30
+    },
+    "spreadFeet": {
+      "min": 15,
+      "max": 25
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "yellow",
+      "brown",
+      "green"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "mammals",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Mexican pinyon is a compact, drought-hardy pine of Southwestern highlands bearing large, sweet, edible pine nuts. Slow and long-lived, ideal for low-water gardens on lean soils.",
+    "usdaSymbol": "PICE",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/pinus-cembroides.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Pinus_cembroides",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "hedge or screen"
+    ],
+    "caterpillarHosts": 201,
+    "keystone": true
+  },
+  {
+    "id": "pinus-clausa",
+    "scientificName": "Pinus clausa",
+    "commonNames": [
+      "Sand Pine"
+    ],
+    "family": "Pinaceae",
+    "nativeStates": [
+      "AL",
+      "FL"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 15,
+      "max": 40
+    },
+    "spreadFeet": {
+      "min": 10,
+      "max": 25
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy"
+    ],
+    "bloomMonths": [
+      2,
+      3
+    ],
+    "bloomColors": [
+      "yellow",
+      "brown",
+      "green"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "mammals",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Sand pine thrives on the deepest, driest white sands of Florida scrub where almost nothing else grows. A fast, short-lived pine central to the rare and fire-shaped scrub ecosystem.",
+    "usdaSymbol": "PICL",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/pinus-clausa.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Pinus_clausa",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen"
+    ],
+    "caterpillarHosts": 201,
+    "keystone": true
+  },
+  {
+    "id": "pinus-coulteri",
+    "scientificName": "Pinus coulteri",
+    "commonNames": [
+      "Coulter Pine"
+    ],
+    "family": "Pinaceae",
+    "nativeStates": [
+      "CA"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 30,
+      "max": 80
+    },
+    "spreadFeet": {
+      "min": 20,
+      "max": 40
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "yellow",
+      "brown",
+      "green"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "mammals",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Coulter pine produces the heaviest cones of any pine — spiny, ten-pound 'widow-makers' — on dry California mountain slopes. A bold, drought-tough specimen for large dry gardens.",
+    "usdaSymbol": "PICO3",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/pinus-coulteri.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Coulter_pine",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen"
+    ],
+    "caterpillarHosts": 201,
+    "keystone": true
+  },
+  {
+    "id": "pinus-echinata",
+    "scientificName": "Pinus echinata",
+    "commonNames": [
+      "Shortleaf Pine"
+    ],
+    "family": "Pinaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "FL",
+      "GA",
+      "IL",
+      "KY",
+      "LA",
+      "MD",
+      "MO",
+      "MS",
+      "NC",
+      "NJ",
+      "NY",
+      "OK",
+      "PA",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "WV"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 50,
+      "max": 90
+    },
+    "spreadFeet": {
+      "min": 25,
+      "max": 35
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "yellow",
+      "brown",
+      "green"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "mammals",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Shortleaf pine is the most widespread Southern yellow pine, valued for timber and able to resprout after fire. A fast, adaptable evergreen for dry upland soils across the Southeast.",
+    "usdaSymbol": "PIEC2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/pinus-echinata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Pinus_echinata",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen"
+    ],
+    "caterpillarHosts": 201,
+    "keystone": true
+  },
+  {
+    "id": "pinus-elliottii",
+    "scientificName": "Pinus elliottii",
+    "commonNames": [
+      "Slash Pine"
+    ],
+    "family": "Pinaceae",
+    "nativeStates": [
+      "AL",
+      "FL",
+      "GA",
+      "LA",
+      "MS",
+      "SC",
+      "TX"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 60,
+      "max": 100
+    },
+    "spreadFeet": {
+      "min": 30,
+      "max": 45
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet",
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      1,
+      2
+    ],
+    "bloomColors": [
+      "yellow",
+      "brown",
+      "green"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "mammals",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Slash pine is a fast-growing Southeastern pine of flatwoods and pond margins, tolerant of wet feet and salt air. A major timber and wildlife pine, with seeds eaten by many birds.",
+    "usdaSymbol": "PIEL",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/pinus-elliottii.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Pinus_elliottii",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "rain garden"
+    ],
+    "caterpillarHosts": 201,
+    "keystone": true
+  },
+  {
+    "id": "pinus-engelmannii",
+    "scientificName": "Pinus engelmannii",
+    "commonNames": [
+      "Apache Pine"
+    ],
+    "family": "Pinaceae",
+    "nativeStates": [
+      "AZ"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 50,
+      "max": 80
+    },
+    "spreadFeet": {
+      "min": 25,
+      "max": 40
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "rocky",
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "yellow",
+      "brown",
+      "green"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "mammals",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Apache pine is a long-needled pine of Southwestern 'sky island' mountains, its drooping foot-long needles giving a striking, almost tropical look. Fire-adapted and drought-hardy at elevation.",
+    "usdaSymbol": "PIEN2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/pinus-engelmannii.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Pinus_engelmannii",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen"
+    ],
+    "caterpillarHosts": 201,
+    "keystone": true
+  },
+  {
+    "id": "pinus-glabra",
+    "scientificName": "Pinus glabra",
+    "commonNames": [
+      "Spruce Pine"
+    ],
+    "family": "Pinaceae",
+    "nativeStates": [
+      "AL",
+      "FL",
+      "GA",
+      "LA",
+      "MS",
+      "SC"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 60,
+      "max": 90
+    },
+    "spreadFeet": {
+      "min": 25,
+      "max": 40
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "clay",
+      "sandy"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "yellow",
+      "brown",
+      "green"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "mammals",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Spruce pine is an unusual shade-tolerant Southern pine of moist bottomlands, with soft needles and smooth bark unlike its rugged kin. A graceful evergreen for partly shaded, damp sites.",
+    "usdaSymbol": "PIGL2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/pinus-glabra.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Pinus_glabra",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "rain garden"
+    ],
+    "caterpillarHosts": 201,
+    "keystone": true
+  },
+  {
+    "id": "pinus-lambertiana",
+    "scientificName": "Pinus lambertiana",
+    "commonNames": [
+      "Sugar Pine"
+    ],
+    "family": "Pinaceae",
+    "nativeStates": [
+      "CA",
+      "NV",
+      "OR"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 100,
+      "max": 180
+    },
+    "spreadFeet": {
+      "min": 30,
+      "max": 50
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist",
+      "dry"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "yellow",
+      "brown",
+      "green"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "mammals",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Sugar pine is the tallest and largest of all pines, towering over western mountain forests with cones up to two feet long. A magnificent, long-lived giant for spacious cool-climate sites.",
+    "usdaSymbol": "PILA",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/pinus-lambertiana.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Pinus_lambertiana",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen"
+    ],
+    "caterpillarHosts": 201,
+    "keystone": true
+  },
+  {
+    "id": "pinus-pungens",
+    "scientificName": "Pinus pungens",
+    "commonNames": [
+      "Table Mountain Pine"
+    ],
+    "family": "Pinaceae",
+    "nativeStates": [
+      "GA",
+      "MD",
+      "NC",
+      "PA",
+      "SC",
+      "TN",
+      "VA",
+      "WV"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 20,
+      "max": 40
+    },
+    "spreadFeet": {
+      "min": 15,
+      "max": 30
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "yellow",
+      "brown",
+      "green"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "mammals",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Table Mountain pine is a rugged, fire-dependent pine of dry Appalachian ridgetops, armed with stout-spined cones that persist for years. Tolerant of the poorest rocky, acidic ground.",
+    "usdaSymbol": "PIPU5",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/pinus-pungens.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Table_mountain_pine",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen"
+    ],
+    "caterpillarHosts": 201,
+    "keystone": true
+  },
+  {
+    "id": "pinus-radiata",
+    "scientificName": "Pinus radiata",
+    "commonNames": [
+      "Monterey Pine"
+    ],
+    "family": "Pinaceae",
+    "nativeStates": [
+      "CA"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 50,
+      "max": 100
+    },
+    "spreadFeet": {
+      "min": 25,
+      "max": 40
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist",
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "yellow",
+      "brown",
+      "green"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "mammals",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Monterey pine is a fast-growing pine native to a few fog-bathed stretches of the California coast, though planted worldwide for timber. Best near the coast where summers stay cool and moist.",
+    "usdaSymbol": "PIRA2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/pinus-radiata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Pinus_radiata",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen"
+    ],
+    "caterpillarHosts": 201,
+    "keystone": true
+  },
+  {
+    "id": "pinus-resinosa",
+    "scientificName": "Pinus resinosa",
+    "commonNames": [
+      "Red Pine"
+    ],
+    "family": "Pinaceae",
+    "nativeStates": [
+      "CT",
+      "IL",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "NH",
+      "NY",
+      "PA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 50,
+      "max": 80
+    },
+    "spreadFeet": {
+      "min": 20,
+      "max": 30
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "yellow",
+      "brown",
+      "green"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "mammals",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Red pine is a clean, straight-trunked northern pine with reddish plated bark and long paired needles. Cold-hardy and tolerant of dry, sandy soils across the upper Midwest and Northeast.",
+    "usdaSymbol": "PIRE",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/pinus-resinosa.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Pinus_resinosa",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen"
+    ],
+    "caterpillarHosts": 201,
+    "keystone": true
+  },
+  {
+    "id": "pinus-rigida",
+    "scientificName": "Pinus rigida",
+    "commonNames": [
+      "Pitch Pine"
+    ],
+    "family": "Pinaceae",
+    "nativeStates": [
+      "CT",
+      "GA",
+      "KY",
+      "MA",
+      "MD",
+      "ME",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "RI",
+      "TN",
+      "VA",
+      "VT",
+      "WV"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 40,
+      "max": 60
+    },
+    "spreadFeet": {
+      "min": 25,
+      "max": 40
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "wet"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "yellow",
+      "brown",
+      "green"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "mammals",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Pitch pine is the tough, irregular pine of Northeastern barrens and bogs, uniquely able to resprout from its trunk after fire. Thrives on the poorest sand, gravel, and rock.",
+    "usdaSymbol": "PIRI",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/pinus-rigida.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Pinus_rigida",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "rain garden"
+    ],
+    "caterpillarHosts": 201,
+    "keystone": true
+  },
+  {
+    "id": "pinus-serotina",
+    "scientificName": "Pinus serotina",
+    "commonNames": [
+      "Pond Pine"
+    ],
+    "family": "Pinaceae",
+    "nativeStates": [
+      "FL",
+      "GA",
+      "MD",
+      "NC",
+      "NJ",
+      "SC",
+      "VA"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 40,
+      "max": 70
+    },
+    "spreadFeet": {
+      "min": 20,
+      "max": 35
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "wet",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "yellow",
+      "brown",
+      "green"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "mammals",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Pond pine is a fire- and flood-adapted pine of Southeastern pocosins and wet flatwoods, with closed cones that open after fire and sprouts that flush from the trunk. A specialist of saturated, acidic ground.",
+    "usdaSymbol": "PISE7",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/pinus-serotina.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Pinus_serotina",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "rain garden"
+    ],
+    "caterpillarHosts": 201,
+    "keystone": true
+  },
+  {
+    "id": "pinus-strobiformis",
+    "scientificName": "Pinus strobiformis",
+    "commonNames": [
+      "Southwestern White Pine"
+    ],
+    "family": "Pinaceae",
+    "nativeStates": [
+      "AZ",
+      "CO",
+      "NM",
+      "TX"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 50,
+      "max": 80
+    },
+    "spreadFeet": {
+      "min": 20,
+      "max": 35
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "rocky",
+      "loam"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "yellow",
+      "brown",
+      "green"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "mammals",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Southwestern white pine is a soft, five-needled pine of Southwestern mountains, bearing large wingless seeds prized by nutcrackers and jays. A handsome, drought-tolerant high-country pine.",
+    "usdaSymbol": "PIST3",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/pinus-strobiformis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Pinus_strobiformis",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen"
+    ],
+    "caterpillarHosts": 201,
+    "keystone": true
+  },
+  {
+    "id": "pinus-taeda",
+    "scientificName": "Pinus taeda",
+    "commonNames": [
+      "Loblolly Pine"
+    ],
+    "family": "Pinaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "DE",
+      "FL",
+      "GA",
+      "KY",
+      "LA",
+      "MD",
+      "MS",
+      "NC",
+      "NJ",
+      "OK",
+      "SC",
+      "TN",
+      "TX",
+      "VA"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 60,
+      "max": 100
+    },
+    "spreadFeet": {
+      "min": 30,
+      "max": 45
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist",
+      "dry",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "clay",
+      "sandy"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "yellow",
+      "brown",
+      "green"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "mammals",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Loblolly pine is the fast-growing workhorse pine of the Southeast, dominating old fields and timberland alike. Adaptable to wet or dry soils, it pours out seed for birds and small mammals.",
+    "usdaSymbol": "PITA",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/pinus-taeda.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Pinus_taeda",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "rain garden"
+    ],
+    "caterpillarHosts": 201,
+    "keystone": true
+  },
+  {
+    "id": "picea-engelmannii",
+    "scientificName": "Picea engelmannii",
+    "commonNames": [
+      "Engelmann Spruce"
+    ],
+    "family": "Pinaceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "CO",
+      "ID",
+      "MT",
+      "NM",
+      "NV",
+      "OR",
+      "UT",
+      "WA",
+      "WY"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 80,
+      "max": 120
+    },
+    "spreadFeet": {
+      "min": 15,
+      "max": 25
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "yellow",
+      "brown",
+      "green"
+    ],
+    "leafArrangement": "whorled",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "mammals",
+      "larval host"
+    ],
+    "deerResistant": true,
+    "notes": "Engelmann spruce is the tall, spire-like spruce of high western mountains, forming dark subalpine forests near treeline. Cold-loving and best in cool, moist climates at elevation.",
+    "usdaSymbol": "PIEN",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/picea-engelmannii.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Picea_engelmannii",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen"
+    ],
+    "caterpillarHosts": 150,
+    "keystone": true
+  },
+  {
+    "id": "picea-glauca",
+    "scientificName": "Picea glauca",
+    "commonNames": [
+      "White Spruce"
+    ],
+    "family": "Pinaceae",
+    "nativeStates": [
+      "AK",
+      "IL",
+      "MA",
+      "ME",
+      "MI",
+      "MN",
+      "MT",
+      "NH",
+      "NY",
+      "PA",
+      "SD",
+      "VT",
+      "WI"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 40,
+      "max": 70
+    },
+    "spreadFeet": {
+      "min": 10,
+      "max": 20
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist",
+      "dry"
+    ],
+    "soilType": [
+      "loam",
+      "sandy"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "yellow",
+      "brown",
+      "green"
+    ],
+    "leafArrangement": "whorled",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "mammals",
+      "larval host"
+    ],
+    "deerResistant": true,
+    "notes": "White spruce is a hardy, adaptable northern spruce forming the backbone of the boreal forest, with dense conical form and short blue-green needles. Tolerant of cold, wind, and varied soils.",
+    "usdaSymbol": "PIGL",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "L48",
+      "SPM"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/picea-glauca.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Picea_glauca",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen"
+    ],
+    "caterpillarHosts": 150,
+    "keystone": true
+  },
+  {
+    "id": "picea-rubens",
+    "scientificName": "Picea rubens",
+    "commonNames": [
+      "Red Spruce"
+    ],
+    "family": "Pinaceae",
+    "nativeStates": [
+      "CT",
+      "MA",
+      "MD",
+      "ME",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "PA",
+      "TN",
+      "VA",
+      "VT",
+      "WV"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 60,
+      "max": 90
+    },
+    "spreadFeet": {
+      "min": 15,
+      "max": 25
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "yellow",
+      "brown",
+      "green"
+    ],
+    "leafArrangement": "whorled",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "mammals",
+      "larval host"
+    ],
+    "deerResistant": true,
+    "notes": "Red spruce is the fragrant spruce of cool Appalachian highlands and northern forests, shade-tolerant when young and slow to mature. A signature tree of high-elevation spruce-fir habitat.",
+    "usdaSymbol": "PIRU",
+    "nativeRegions": [
+      "CAN",
+      "L48",
+      "SPM"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/picea-rubens.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Picea_rubens",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen"
+    ],
+    "caterpillarHosts": 150,
+    "keystone": true
+  },
+  {
+    "id": "larix-laricina",
+    "scientificName": "Larix laricina",
+    "commonNames": [
+      "Tamarack"
+    ],
+    "family": "Pinaceae",
+    "nativeStates": [
+      "AK",
+      "CT",
+      "IL",
+      "IN",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 40,
+      "max": 80
+    },
+    "spreadFeet": {
+      "min": 15,
+      "max": 30
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "wet",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "sandy"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "yellow",
+      "brown",
+      "green"
+    ],
+    "leafArrangement": "whorled",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "mammals",
+      "larval host"
+    ],
+    "deerResistant": true,
+    "notes": "Tamarack is North America's deciduous conifer, its soft needles flushing bright green in spring and turning glowing gold before dropping in fall. A bog and muskeg tree for cold, wet, acidic ground.",
+    "usdaSymbol": "LALA",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "L48",
+      "SPM"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/larix-laricina.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Larix_laricina",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "rain garden"
+    ],
+    "caterpillarHosts": 121,
+    "keystone": true
+  },
+  {
+    "id": "abies-balsamea",
+    "scientificName": "Abies balsamea",
+    "commonNames": [
+      "Balsam Fir"
+    ],
+    "family": "Pinaceae",
+    "nativeStates": [
+      "CT",
+      "IA",
+      "MA",
+      "ME",
+      "MI",
+      "MN",
+      "NH",
+      "NY",
+      "PA",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 45,
+      "max": 75
+    },
+    "spreadFeet": {
+      "min": 20,
+      "max": 25
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "sandy"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "yellow",
+      "brown",
+      "green"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "mammals",
+      "larval host"
+    ],
+    "deerResistant": true,
+    "notes": "Balsam fir is the classic fragrant Christmas-tree fir of the northern forest, with flat aromatic needles and upright purple cones. Needs cool, moist, acidic conditions; not a heat-lover.",
+    "usdaSymbol": "ABBA",
+    "nativeRegions": [
+      "CAN",
+      "L48",
+      "SPM"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/abies-balsamea.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Abies_balsamea",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "rain garden"
+    ],
+    "caterpillarHosts": 117,
+    "keystone": true
+  },
+  {
+    "id": "abies-lasiocarpa",
+    "scientificName": "Abies lasiocarpa",
+    "commonNames": [
+      "Subalpine Fir"
+    ],
+    "family": "Pinaceae",
+    "nativeStates": [
+      "AK",
+      "AZ",
+      "CA",
+      "CO",
+      "ID",
+      "MT",
+      "NM",
+      "NV",
+      "OR",
+      "UT",
+      "WA",
+      "WY"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 50,
+      "max": 90
+    },
+    "spreadFeet": {
+      "min": 15,
+      "max": 25
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "yellow",
+      "brown",
+      "green"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "mammals",
+      "larval host"
+    ],
+    "deerResistant": true,
+    "notes": "Subalpine fir is the narrow, steeple-crowned fir of high western mountains, shedding snow with its tight spire. A cold-climate specimen for elevation and cool, moist sites.",
+    "usdaSymbol": "ABLA",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/abies-lasiocarpa.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Abies_lasiocarpa",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen"
+    ],
+    "caterpillarHosts": 117,
+    "keystone": true
+  },
+  {
+    "id": "tsuga-mertensiana",
+    "scientificName": "Tsuga mertensiana",
+    "commonNames": [
+      "Mountain Hemlock"
+    ],
+    "family": "Pinaceae",
+    "nativeStates": [
+      "AK",
+      "CA",
+      "ID",
+      "NV",
+      "OR",
+      "WA"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 50,
+      "max": 100
+    },
+    "spreadFeet": {
+      "min": 20,
+      "max": 35
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "yellow",
+      "brown",
+      "green"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "mammals",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Mountain hemlock is a graceful, blue-green hemlock of snowy western high country, with nodding leaders and soft, plush foliage. A cool-climate evergreen for moist, well-drained mountain sites.",
+    "usdaSymbol": "TSME",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/tsuga-mertensiana.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Tsuga_mertensiana",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen"
+    ],
+    "caterpillarHosts": 92,
+    "keystone": false
+  },
+  {
+    "id": "pseudotsuga-macrocarpa",
+    "scientificName": "Pseudotsuga macrocarpa",
+    "commonNames": [
+      "Bigcone Douglas-fir"
+    ],
+    "family": "Pinaceae",
+    "nativeStates": [
+      "CA"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 30,
+      "max": 80
+    },
+    "spreadFeet": {
+      "min": 20,
+      "max": 40
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "yellow",
+      "brown",
+      "green"
+    ],
+    "leafArrangement": "whorled",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "mammals",
+      "larval host"
+    ],
+    "deerResistant": true,
+    "notes": "Bigcone Douglas-fir is a drought-hardy southern California endemic with the largest cones of any Douglas-fir, clinging to dry chaparral mountainsides. A tough, fire-resistant evergreen for hot, dry slopes.",
+    "usdaSymbol": "PSMA",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/pseudotsuga-macrocarpa.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Pseudotsuga_macrocarpa",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen"
+    ],
+    "caterpillarHosts": 76,
+    "keystone": false
+  },
+  {
+    "id": "juniperus-communis",
+    "scientificName": "Juniperus communis",
+    "commonNames": [
+      "Common Juniper"
+    ],
+    "family": "Cupressaceae",
+    "nativeStates": [
+      "AK",
+      "AZ",
+      "CA",
+      "CO",
+      "CT",
+      "ID",
+      "IL",
+      "IN",
+      "MA",
+      "ME",
+      "MI",
+      "MN",
+      "MT",
+      "NC",
+      "ND",
+      "NE",
+      "NH",
+      "NM",
+      "NV",
+      "NY",
+      "OH",
+      "OR",
+      "PA",
+      "RI",
+      "SD",
+      "UT",
+      "VA",
+      "VT",
+      "WA",
+      "WI",
+      "WY"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 15
+    },
+    "spreadFeet": {
+      "min": 6,
+      "max": 12
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "yellow",
+      "brown",
+      "green"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "mammals",
+      "larval host"
+    ],
+    "deerResistant": true,
+    "notes": "Common juniper is the widest-ranging conifer on Earth, a low spreading shrub of rocky, open ground whose aromatic blue berries flavor gin. Tough, deer-resistant, and superb for dry slopes.",
+    "usdaSymbol": "JUCO6",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "GL",
+      "L48",
+      "SPM"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/juniperus-communis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Juniperus_communis",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "hedge or screen",
+      "erosion control"
+    ],
+    "caterpillarHosts": 42,
+    "keystone": false
+  },
+  {
+    "id": "juniperus-horizontalis",
+    "scientificName": "Juniperus horizontalis",
+    "commonNames": [
+      "Creeping Juniper"
+    ],
+    "family": "Cupressaceae",
+    "nativeStates": [
+      "AK",
+      "IL",
+      "ME",
+      "MI",
+      "MN",
+      "MT",
+      "ND",
+      "NY",
+      "SD",
+      "WI",
+      "WY"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 6,
+      "max": 8
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky",
+      "loam"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "yellow",
+      "brown",
+      "green"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "mammals",
+      "larval host"
+    ],
+    "deerResistant": true,
+    "notes": "Creeping juniper is a hardy, mat-forming evergreen groundcover that hugs the ground over rock, sand, and slopes, often bronzing in winter. A go-to deer-resistant cover for hot, dry, exposed sites.",
+    "usdaSymbol": "JUHO2",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "L48",
+      "SPM"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline",
+      "acidic"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/juniperus-horizontalis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Juniperus_horizontalis",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "foundation",
+      "groundcover",
+      "container",
+      "erosion control"
+    ],
+    "caterpillarHosts": 42,
+    "keystone": false
+  },
+  {
+    "id": "juniperus-monosperma",
+    "scientificName": "Juniperus monosperma",
+    "commonNames": [
+      "One-seed Juniper"
+    ],
+    "family": "Cupressaceae",
+    "nativeStates": [
+      "AZ",
+      "CO",
+      "NM",
+      "OK",
+      "TX"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 10,
+      "max": 30
+    },
+    "spreadFeet": {
+      "min": 10,
+      "max": 20
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "yellow",
+      "brown",
+      "green"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "mammals",
+      "larval host"
+    ],
+    "deerResistant": true,
+    "notes": "One-seed juniper is a rugged, often multi-trunked juniper of Southwestern high desert and grassland, immensely drought-tough. Its berries feed wintering birds across the arid Southwest.",
+    "usdaSymbol": "JUMO",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/juniperus-monosperma.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Juniperus_monosperma",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "hedge or screen"
+    ],
+    "caterpillarHosts": 42,
+    "keystone": false
+  },
+  {
+    "id": "juniperus-occidentalis",
+    "scientificName": "Juniperus occidentalis",
+    "commonNames": [
+      "Western Juniper"
+    ],
+    "family": "Cupressaceae",
+    "nativeStates": [
+      "CA",
+      "ID",
+      "NV",
+      "OR",
+      "WA"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 15,
+      "max": 50
+    },
+    "spreadFeet": {
+      "min": 10,
+      "max": 25
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "yellow",
+      "brown",
+      "green"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "mammals",
+      "larval host"
+    ],
+    "deerResistant": true,
+    "notes": "Western juniper is the gnarled, ancient-looking juniper of the Great Basin and eastern Cascades, some specimens centuries old. A picturesque, drought-proof evergreen for harsh dry country.",
+    "usdaSymbol": "JUOC",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/juniperus-occidentalis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Juniperus_occidentalis",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen"
+    ],
+    "caterpillarHosts": 42,
+    "keystone": false
+  },
+  {
+    "id": "juniperus-osteosperma",
+    "scientificName": "Juniperus osteosperma",
+    "commonNames": [
+      "Utah Juniper"
+    ],
+    "family": "Cupressaceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "CO",
+      "ID",
+      "MT",
+      "NM",
+      "NV",
+      "UT",
+      "WY"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 10,
+      "max": 30
+    },
+    "spreadFeet": {
+      "min": 10,
+      "max": 20
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "yellow",
+      "brown",
+      "green"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "mammals",
+      "larval host"
+    ],
+    "deerResistant": true,
+    "notes": "Utah juniper is the dominant juniper of the Intermountain West's pinyon-juniper woodlands, squat and broad on dry rocky ground. Critical winter forage and cover for desert wildlife.",
+    "usdaSymbol": "JUOS",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/juniperus-osteosperma.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Juniperus_osteosperma",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "hedge or screen"
+    ],
+    "caterpillarHosts": 42,
+    "keystone": false
+  },
+  {
+    "id": "juniperus-pinchotii",
+    "scientificName": "Juniperus pinchotii",
+    "commonNames": [
+      "Redberry Juniper"
+    ],
+    "family": "Cupressaceae",
+    "nativeStates": [
+      "NM",
+      "OK",
+      "TX"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 10,
+      "max": 20
+    },
+    "spreadFeet": {
+      "min": 10,
+      "max": 18
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "yellow",
+      "brown",
+      "green"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "mammals",
+      "larval host"
+    ],
+    "deerResistant": true,
+    "notes": "Redberry juniper is a Southwestern juniper distinctive for its coral-red berries, forming thickets on dry limestone and caprock. A drought-hardy, bird-feeding shrub for hot, lean soils.",
+    "usdaSymbol": "JUPI",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/juniperus-pinchotii.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Juniperus_pinchotii",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "hedge or screen",
+      "erosion control"
+    ],
+    "caterpillarHosts": 42,
+    "keystone": false
+  },
+  {
+    "id": "taxodium-ascendens",
+    "scientificName": "Taxodium ascendens",
+    "commonNames": [
+      "Pond Cypress"
+    ],
+    "family": "Cupressaceae",
+    "nativeStates": [
+      "AL",
+      "FL",
+      "GA",
+      "LA",
+      "MS",
+      "NC",
+      "NY",
+      "SC"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 50,
+      "max": 70
+    },
+    "spreadFeet": {
+      "min": 15,
+      "max": 25
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "wet",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "yellow",
+      "brown",
+      "green"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": false,
+    "notes": "Pond cypress is the slender, upright cousin of bald cypress, with feathery ascending foliage and a love of acidic ponds and pocosins. Turns rusty bronze in fall before dropping its needles.",
+    "usdaSymbol": "TAAS",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/taxodium-ascendens.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Taxodium_ascendens",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "rain garden"
+    ],
+    "caterpillarHosts": 16,
+    "keystone": false
+  },
+  {
+    "id": "taxodium-mucronatum",
+    "scientificName": "Taxodium mucronatum",
+    "commonNames": [
+      "Montezuma Cypress"
+    ],
+    "family": "Cupressaceae",
+    "nativeStates": [
+      "TX"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 60,
+      "max": 100
+    },
+    "spreadFeet": {
+      "min": 40,
+      "max": 70
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "wet",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "clay",
+      "sandy"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "yellow",
+      "brown",
+      "green"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": false,
+    "notes": "Montezuma cypress is a massive, fast-growing riparian cypress of the Rio Grande and south, nearly evergreen in mild climates. A grand shade tree for streamsides and large wet gardens.",
+    "usdaSymbol": "TAMU",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/taxodium-mucronatum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Taxodium_mucronatum",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "rain garden"
+    ],
+    "caterpillarHosts": 16,
+    "keystone": false
   }
 ]
