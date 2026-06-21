@@ -78,6 +78,7 @@ export function usePlantFilters() {
   const cutFlowerOnly = computed(() => route.query.cut === '1')
   const culinaryOnly = computed(() => route.query.edible === '1')
   const springEphemeralOnly = computed(() => route.query.ephemeral === '1')
+  const keystoneOnly = computed(() => route.query.keystone === '1')
   const sortBy = computed(() => String(route.query.sort || 'common'))
 
   const selected = computed(() => {
@@ -128,6 +129,9 @@ export function usePlantFilters() {
   function setSpringEphemeralOnly(val) {
     setQuery({ ephemeral: val ? '1' : undefined })
   }
+  function setKeystoneOnly(val) {
+    setQuery({ keystone: val ? '1' : undefined })
+  }
   function setSortBy(val) {
     setQuery({ sort: val && val !== 'common' ? val : undefined })
   }
@@ -170,6 +174,7 @@ export function usePlantFilters() {
       if (cutFlowerOnly.value && !p.cutFlower) return false
       if (culinaryOnly.value && !p.culinaryUse) return false
       if (springEphemeralOnly.value && !p.springEphemeral) return false
+      if (keystoneOnly.value && !p.keystone) return false
       return true
     })
   })
@@ -208,6 +213,7 @@ export function usePlantFilters() {
     if (cutFlowerOnly.value) n++
     if (culinaryOnly.value) n++
     if (springEphemeralOnly.value) n++
+    if (keystoneOnly.value) n++
     return n
   })
 
@@ -220,6 +226,7 @@ export function usePlantFilters() {
     cutFlowerOnly,
     culinaryOnly,
     springEphemeralOnly,
+    keystoneOnly,
     sortBy,
     filteredPlants,
     sortedPlants,
@@ -233,6 +240,7 @@ export function usePlantFilters() {
     setCutFlowerOnly,
     setCulinaryOnly,
     setSpringEphemeralOnly,
+    setKeystoneOnly,
     setSortBy,
     clearAll,
   }

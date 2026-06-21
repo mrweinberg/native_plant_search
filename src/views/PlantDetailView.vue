@@ -69,6 +69,7 @@ watchEffect(() => {
 })
 
 const sciName = computed(() => plant.value?.scientificName || '')
+const genus = computed(() => sciName.value.split(' ')[0] || '')
 const imageFile = computed(() => plant.value?.imageFile || null)
 const { src: imageSrc } = usePlantImage(sciName, imageFile)
 const { photos: inatPhotos, loading: inatLoading } = useInatGallery(sciName)
@@ -169,7 +170,8 @@ function fmtRange(r, unit) {
     </div>
     <p class="notes" v-if="plant.notes">{{ plant.notes }}</p>
 
-    <div class="traits-row" v-if="plant.cutFlower || plant.culinaryUse || plant.deerResistant || plant.springEphemeral">
+    <div class="traits-row" v-if="plant.keystone || plant.cutFlower || plant.culinaryUse || plant.deerResistant || plant.springEphemeral">
+      <span v-if="plant.keystone" class="trait trait-keystone" title="Its genus hosts an outsized number of native caterpillar species — a Tallamy 'keystone' plant">🐛 Keystone plant</span>
       <span v-if="plant.cutFlower" class="trait trait-cut">✂ Cut flower</span>
       <span v-if="plant.culinaryUse" class="trait trait-edible">🍴 Edible</span>
       <span v-if="plant.deerResistant" class="trait trait-deer" title="A guide, not a guarantee — hungry deer will browse almost anything">🦌 Deer-resistant</span>
@@ -260,6 +262,7 @@ function fmtRange(r, unit) {
       <h2>Wildlife &amp; uses</h2>
       <dl class="facts">
         <div><dt>Wildlife value</dt><dd class="cap">{{ fmtList(plant.wildlifeValue) }}</dd></div>
+        <div v-if="plant.caterpillarHosts"><dt>Caterpillar hosts</dt><dd>~{{ plant.caterpillarHosts }} species</dd></div>
         <div><dt>Deer-resistant</dt><dd>{{ plant.deerResistant ? 'Yes' : 'No' }}</dd></div>
         <div><dt>Cut flower</dt><dd>{{ plant.cutFlower ? 'Yes' : 'No' }}</dd></div>
         <div><dt>Edible / culinary</dt><dd>{{ plant.culinaryUse ? 'Yes' : 'No' }}</dd></div>
@@ -270,6 +273,9 @@ function fmtRange(r, unit) {
           </dd>
         </div>
       </dl>
+      <p v-if="plant.caterpillarHosts" class="host-note">
+        Genus-level estimate ({{ genus }}) of native butterfly &amp; moth species hosted as caterpillars, per Tallamy / NWF — the food base for songbirds, and the basis of "keystone" plants.
+      </p>
       <p v-if="plant.deerResistant" class="deer-caveat">
         Deer resistance is a guide, not a guarantee — no plant is deer-proof, and hungry deer will sample almost anything.
       </p>
@@ -442,6 +448,8 @@ dd { margin: 2px 0 0; font-size: 14px; }
 }
 .use-tag::first-letter { text-transform: uppercase; }
 .deer-caveat { font-size: 12px; color: var(--ink-soft); font-style: italic; margin: 10px 0 0; }
+.host-note { font-size: 12px; color: var(--ink-soft); font-style: italic; margin: 10px 0 0; }
+.trait-keystone { color: #2f6b2f; border-color: #a9d2a9; background: #e1f0e1; }
 .gallery {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));

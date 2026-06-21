@@ -72,6 +72,7 @@ function plantContent(p) {
   if (p.bloomMonths?.length) add('Bloom', p.bloomMonths.map((m) => MONTHS[m]).join(', '))
   add('Bloom colors', (p.bloomColors || []).join(', '))
   add('Wildlife value', (p.wildlifeValue || []).join(', '))
+  if (p.caterpillarHosts) add('Caterpillar hosts', `~${p.caterpillarHosts} butterfly & moth species`)
   add('Landscape uses', (p.landscapeUses || []).join(', '))
   add('Native states', (p.nativeStates || []).join(', '))
   const alt = p.commonNames.length > 1

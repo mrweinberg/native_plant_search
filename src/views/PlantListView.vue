@@ -20,6 +20,7 @@ const {
   cutFlowerOnly,
   culinaryOnly,
   springEphemeralOnly,
+  keystoneOnly,
   sortBy,
   sortedPlants,
   activeFilterCount,
@@ -31,6 +32,7 @@ const {
   setCutFlowerOnly,
   setCulinaryOnly,
   setSpringEphemeralOnly,
+  setKeystoneOnly,
   setSortBy,
   clearFilter,
   clearAll,
@@ -75,6 +77,7 @@ const activeChips = computed(() => {
   if (cutFlowerOnly.value) chips.push({ label: 'Cut flower', remove: () => setCutFlowerOnly(false) })
   if (culinaryOnly.value) chips.push({ label: 'Edible', remove: () => setCulinaryOnly(false) })
   if (springEphemeralOnly.value) chips.push({ label: 'Spring ephemeral', remove: () => setSpringEphemeralOnly(false) })
+  if (keystoneOnly.value) chips.push({ label: 'Keystone plants', remove: () => setKeystoneOnly(false) })
   return chips
 })
 
@@ -125,6 +128,7 @@ watch(() => route.fullPath, () => { drawerOpen.value = false })
       :cut-flower-only="cutFlowerOnly"
       :culinary-only="culinaryOnly"
       :spring-ephemeral-only="springEphemeralOnly"
+      :keystone-only="keystoneOnly"
       @toggle="(k, v) => toggleFilter(k, v)"
       @height-max="setHeightMax"
       @height-min="setHeightMin"
@@ -132,6 +136,7 @@ watch(() => route.fullPath, () => { drawerOpen.value = false })
       @cut-flower-only="setCutFlowerOnly"
       @culinary-only="setCulinaryOnly"
       @spring-ephemeral-only="setSpringEphemeralOnly"
+      @keystone-only="setKeystoneOnly"
       @clear-group="clearFilter"
       @clear="clearAll"
     />

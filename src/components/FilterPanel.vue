@@ -14,11 +14,12 @@ const props = defineProps({
   cutFlowerOnly: { type: Boolean, default: false },
   culinaryOnly: { type: Boolean, default: false },
   springEphemeralOnly: { type: Boolean, default: false },
+  keystoneOnly: { type: Boolean, default: false },
   open: { type: Boolean, default: false },
 })
 const emit = defineEmits([
   'toggle', 'heightMax', 'heightMin', 'deerOnly', 'cutFlowerOnly', 'culinaryOnly',
-  'springEphemeralOnly', 'clear', 'clearGroup', 'close',
+  'springEphemeralOnly', 'keystoneOnly', 'clear', 'clearGroup', 'close',
 ])
 
 const options = computed(() => getFilterOptions())
@@ -111,6 +112,14 @@ function labelFor(group, val) {
           @change="emit('springEphemeralOnly', $event.target.checked)"
         />
         Spring ephemerals only
+      </label>
+      <label class="toggle" title="Genera that host an outsized number of native caterpillar species (Tallamy / NWF)">
+        <input
+          type="checkbox"
+          :checked="keystoneOnly"
+          @change="emit('keystoneOnly', $event.target.checked)"
+        />
+        🐛 Keystone plants only
       </label>
     </section>
 

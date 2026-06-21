@@ -52,6 +52,11 @@ const sources = [
         note: 'Regional pollinator-plant lists informing wildlife value and species selection.',
       },
       {
+        name: 'Doug Tallamy / NWF Native Plant Finder',
+        url: 'https://nativeplantfinder.nwf.org',
+        note: 'Caterpillar host-plant counts by genus — how many native butterfly and moth species each genus supports — used for the caterpillar-host figures and the "keystone plant" designation. Genus-level national estimates.',
+      },
+      {
         name: 'Calscape — California Native Plant Society',
         url: 'https://calscape.org',
         note: 'The authoritative California native-plant database, guiding the California floristic-province selections and their growing conditions.',
