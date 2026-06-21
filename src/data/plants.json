@@ -63720,5 +63720,3313 @@
       "border",
       "container"
     ]
+  },
+  {
+    "id": "salix-discolor",
+    "scientificName": "Salix discolor",
+    "commonNames": [
+      "Pussy Willow"
+    ],
+    "family": "Salicaceae",
+    "nativeStates": [
+      "CT",
+      "IA",
+      "IL",
+      "IN",
+      "MA",
+      "ME",
+      "MI",
+      "MN",
+      "ND",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "RI",
+      "SD",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 6,
+      "max": 20
+    },
+    "spreadFeet": {
+      "min": 4,
+      "max": 12
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "clay",
+      "sandy"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "yellow",
+      "green"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Silvery furry catkins emerge in late winter, a prized cut stem and one of the earliest pollen sources for native bees. A multi-stemmed wetland shrub for moist soils and pond edges.",
+    "usdaSymbol": "SADI",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/salix-discolor.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Salix_discolor",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "hedge or screen",
+      "rain garden"
+    ],
+    "caterpillarHosts": 455,
+    "keystone": true
+  },
+  {
+    "id": "salix-exigua",
+    "scientificName": "Salix exigua",
+    "commonNames": [
+      "Sandbar Willow"
+    ],
+    "family": "Salicaceae",
+    "nativeStates": [
+      "AR",
+      "AZ",
+      "CA",
+      "CO",
+      "ID",
+      "IL",
+      "IN",
+      "KY",
+      "LA",
+      "MI",
+      "MT",
+      "NE",
+      "NM",
+      "NV",
+      "OH",
+      "OK",
+      "OR",
+      "SD",
+      "TX",
+      "UT",
+      "WA",
+      "WI",
+      "WY"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 4,
+      "max": 15
+    },
+    "spreadFeet": {
+      "min": 6,
+      "max": 20
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "yellow",
+      "green"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "A thicket-forming streambank willow with narrow silvery leaves, spreading by root suckers to bind soil. Excellent for erosion control and streambank restoration across the West and Great Plains.",
+    "usdaSymbol": "SAEX9",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/salix-exigua.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Salix_exigua",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "hedge or screen",
+      "rain garden",
+      "erosion control"
+    ],
+    "caterpillarHosts": 455,
+    "keystone": true
+  },
+  {
+    "id": "salix-scouleriana",
+    "scientificName": "Salix scouleriana",
+    "commonNames": [
+      "Scouler's Willow"
+    ],
+    "family": "Salicaceae",
+    "nativeStates": [
+      "AK",
+      "AZ",
+      "CA",
+      "CO",
+      "ID",
+      "MT",
+      "NM",
+      "NV",
+      "OR",
+      "SD",
+      "UT",
+      "WA",
+      "WY"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 6,
+      "max": 30
+    },
+    "spreadFeet": {
+      "min": 8,
+      "max": 20
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5
+    ],
+    "bloomColors": [
+      "yellow",
+      "green"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "An upland willow of western forests, more drought-tolerant than most, often colonizing after fire. Early catkins feed emerging bees and butterflies; foliage supports abundant caterpillars.",
+    "usdaSymbol": "SASC",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/salix-scouleriana.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Salix_scouleriana",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "hedge or screen"
+    ],
+    "caterpillarHosts": 455,
+    "keystone": true
+  },
+  {
+    "id": "salix-lucida",
+    "scientificName": "Salix lucida",
+    "commonNames": [
+      "Shining Willow"
+    ],
+    "family": "Salicaceae",
+    "nativeStates": [
+      "AK",
+      "AZ",
+      "CA",
+      "CO",
+      "CT",
+      "IA",
+      "ID",
+      "IL",
+      "IN",
+      "MA",
+      "ME",
+      "MI",
+      "MN",
+      "MT",
+      "NH",
+      "NJ",
+      "NM",
+      "NV",
+      "NY",
+      "OH",
+      "OR",
+      "PA",
+      "UT",
+      "VT",
+      "WA",
+      "WI",
+      "WY"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 10,
+      "max": 25
+    },
+    "spreadFeet": {
+      "min": 8,
+      "max": 18
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "sandy"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "yellow",
+      "green"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Named for its glossy, lustrous leaves, this wetland willow forms a handsome large shrub or small tree along streams and marsh edges in the North and East.",
+    "usdaSymbol": "SALU",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "L48",
+      "SPM"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/salix-lucida.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Salix_lucida",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "hedge or screen",
+      "rain garden"
+    ],
+    "caterpillarHosts": 455,
+    "keystone": true
+  },
+  {
+    "id": "salix-lasiolepis",
+    "scientificName": "Salix lasiolepis",
+    "commonNames": [
+      "Arroyo Willow"
+    ],
+    "family": "Salicaceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "ID",
+      "NV",
+      "OR",
+      "TX",
+      "UT",
+      "WA"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 10,
+      "max": 30
+    },
+    "spreadFeet": {
+      "min": 10,
+      "max": 20
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "sandy",
+      "clay"
+    ],
+    "bloomMonths": [
+      2,
+      3,
+      4
+    ],
+    "bloomColors": [
+      "yellow",
+      "green"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "The common riparian willow of California and the Southwest, anchoring arroyos and creek banks. Among the very first plants to bloom, fueling early-season pollinators.",
+    "usdaSymbol": "SALA6",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/salix-lasiolepis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Salix_lasiolepis",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "hedge or screen",
+      "rain garden"
+    ],
+    "caterpillarHosts": 455,
+    "keystone": true
+  },
+  {
+    "id": "betula-papyrifera",
+    "scientificName": "Betula papyrifera",
+    "commonNames": [
+      "Paper Birch"
+    ],
+    "family": "Betulaceae",
+    "nativeStates": [
+      "AK",
+      "CO",
+      "CT",
+      "IA",
+      "ID",
+      "IL",
+      "IN",
+      "MA",
+      "ME",
+      "MI",
+      "MN",
+      "MT",
+      "ND",
+      "NE",
+      "NH",
+      "NY",
+      "PA",
+      "SD",
+      "VA",
+      "VT",
+      "WA",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 40,
+      "max": 70
+    },
+    "spreadFeet": {
+      "min": 20,
+      "max": 40
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "yellow",
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "pollinators"
+    ],
+    "deerResistant": false,
+    "notes": "The iconic white-barked paper birch, its peeling chalky bark a year-round feature. Best in cool climates with moist soil; catkins and seeds feed redpolls and siskins, foliage feeds hundreds of caterpillars.",
+    "usdaSymbol": "BEPA",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "L48",
+      "SPM"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/betula-papyrifera.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Betula_papyrifera",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen"
+    ],
+    "caterpillarHosts": 411,
+    "keystone": true
+  },
+  {
+    "id": "betula-alleghaniensis",
+    "scientificName": "Betula alleghaniensis",
+    "commonNames": [
+      "Yellow Birch"
+    ],
+    "family": "Betulaceae",
+    "nativeStates": [
+      "CT",
+      "GA",
+      "IN",
+      "KY",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "RI",
+      "TN",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 50,
+      "max": 75
+    },
+    "spreadFeet": {
+      "min": 25,
+      "max": 45
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "yellow",
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "A long-lived northern hardwood with shining bronze-gold curling bark and wintergreen-scented twigs. Prefers cool, moist, rich soils and tolerates more shade than other birches.",
+    "usdaSymbol": "BEAL2",
+    "nativeRegions": [
+      "CAN",
+      "L48",
+      "SPM"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/betula-alleghaniensis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Betula_alleghaniensis",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "rain garden"
+    ],
+    "caterpillarHosts": 411,
+    "keystone": true
+  },
+  {
+    "id": "betula-lenta",
+    "scientificName": "Betula lenta",
+    "commonNames": [
+      "Sweet Birch"
+    ],
+    "family": "Betulaceae",
+    "nativeStates": [
+      "AL",
+      "CT",
+      "GA",
+      "KY",
+      "MA",
+      "MD",
+      "ME",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "RI",
+      "TN",
+      "VA",
+      "VT",
+      "WV"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 40,
+      "max": 60
+    },
+    "spreadFeet": {
+      "min": 35,
+      "max": 45
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "yellow",
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Sweet birch has dark cherry-like bark and aromatic wintergreen twigs that were once the source of birch beer. Glowing yellow fall color and adaptability to drier upland sites set it apart.",
+    "usdaSymbol": "BELE",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/betula-lenta.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Betula_lenta",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen"
+    ],
+    "caterpillarHosts": 411,
+    "keystone": true
+  },
+  {
+    "id": "betula-populifolia",
+    "scientificName": "Betula populifolia",
+    "commonNames": [
+      "Gray Birch"
+    ],
+    "family": "Betulaceae",
+    "nativeStates": [
+      "CT",
+      "IL",
+      "MA",
+      "ME",
+      "MI",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "RI",
+      "VA",
+      "VT"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 20,
+      "max": 40
+    },
+    "spreadFeet": {
+      "min": 10,
+      "max": 20
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky",
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "yellow",
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "A fast, short-lived pioneer birch that thrives on poor sandy and disturbed soils where little else will grow. Slender chalky-gray trunks often lean and cluster, with fluttering aspen-like leaves.",
+    "usdaSymbol": "BEPO",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/betula-populifolia.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Betula_populifolia",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "rain garden"
+    ],
+    "caterpillarHosts": 411,
+    "keystone": true
+  },
+  {
+    "id": "betula-occidentalis",
+    "scientificName": "Betula occidentalis",
+    "commonNames": [
+      "Water Birch"
+    ],
+    "family": "Betulaceae",
+    "nativeStates": [
+      "AK",
+      "AZ",
+      "CA",
+      "CO",
+      "ID",
+      "MT",
+      "NE",
+      "NM",
+      "NV",
+      "OR",
+      "SD",
+      "UT",
+      "WA",
+      "WY"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 15,
+      "max": 25
+    },
+    "spreadFeet": {
+      "min": 12,
+      "max": 20
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "yellow",
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Water birch is a multi-stemmed western shrub or small tree of mountain streamsides, with shiny reddish-bronze, non-peeling bark. Valuable for riparian plantings in the Rockies and Great Basin.",
+    "usdaSymbol": "BEOC2",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/betula-occidentalis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Betula_occidentalis",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "hedge or screen",
+      "rain garden"
+    ],
+    "caterpillarHosts": 411,
+    "keystone": true
+  },
+  {
+    "id": "populus-grandidentata",
+    "scientificName": "Populus grandidentata",
+    "commonNames": [
+      "Bigtooth Aspen"
+    ],
+    "family": "Salicaceae",
+    "nativeStates": [
+      "CT",
+      "IA",
+      "IL",
+      "IN",
+      "KY",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "RI",
+      "TN",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 40,
+      "max": 70
+    },
+    "spreadFeet": {
+      "min": 20,
+      "max": 30
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      4
+    ],
+    "bloomColors": [
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": false,
+    "notes": "Bigtooth aspen spreads into golden-leaved groves by root suckers, a fast pioneer on sandy, disturbed ground. Coarse-toothed leaves flutter on flattened stalks and turn clear gold in fall.",
+    "usdaSymbol": "POGR4",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/populus-grandidentata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Populus_grandidentata",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "erosion control"
+    ],
+    "caterpillarHosts": 367,
+    "keystone": true
+  },
+  {
+    "id": "populus-fremontii",
+    "scientificName": "Populus fremontii",
+    "commonNames": [
+      "Fremont Cottonwood"
+    ],
+    "family": "Salicaceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "CO",
+      "NM",
+      "NV",
+      "TX",
+      "UT"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 40,
+      "max": 80
+    },
+    "spreadFeet": {
+      "min": 30,
+      "max": 50
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      2,
+      3,
+      4
+    ],
+    "bloomColors": [
+      "green",
+      "brown",
+      "red"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": false,
+    "notes": "The great shade tree of Southwestern desert rivers, Fremont cottonwood marks the line of permanent water. Its broad canopy and golden fall foliage anchor cottonwood-willow riparian habitat prized by wildlife.",
+    "usdaSymbol": "POFR2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/populus-fremontii.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Populus_fremontii",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "rain garden"
+    ],
+    "caterpillarHosts": 367,
+    "keystone": true
+  },
+  {
+    "id": "populus-angustifolia",
+    "scientificName": "Populus angustifolia",
+    "commonNames": [
+      "Narrowleaf Cottonwood"
+    ],
+    "family": "Salicaceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "CO",
+      "ID",
+      "MT",
+      "NM",
+      "NV",
+      "SD",
+      "UT",
+      "WY"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 30,
+      "max": 60
+    },
+    "spreadFeet": {
+      "min": 20,
+      "max": 35
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5
+    ],
+    "bloomColors": [
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": false,
+    "notes": "Narrowleaf cottonwood reads almost like a willow, with slender pale-green leaves lining mountain streams across the interior West. A key riparian tree at higher elevations than Fremont cottonwood.",
+    "usdaSymbol": "POAN3",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/populus-angustifolia.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Populus_angustifolia",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "rain garden"
+    ],
+    "caterpillarHosts": 367,
+    "keystone": true
+  },
+  {
+    "id": "populus-balsamifera",
+    "scientificName": "Populus balsamifera",
+    "commonNames": [
+      "Balsam Poplar"
+    ],
+    "family": "Salicaceae",
+    "nativeStates": [
+      "AK",
+      "CO",
+      "CT",
+      "ID",
+      "MA",
+      "ME",
+      "MI",
+      "MN",
+      "MT",
+      "NH",
+      "NY",
+      "PA",
+      "SD",
+      "VT",
+      "WI",
+      "WY"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 50,
+      "max": 80
+    },
+    "spreadFeet": {
+      "min": 25,
+      "max": 40
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "sandy",
+      "clay"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": false,
+    "notes": "The northernmost American hardwood, balsam poplar fills spring air with the sweet balsam scent of its resinous, sticky buds. A fast, cold-hardy riparian tree of the boreal North.",
+    "usdaSymbol": "POBA2",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/populus-balsamifera.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Populus_balsamifera",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "rain garden",
+      "erosion control"
+    ],
+    "caterpillarHosts": 367,
+    "keystone": true
+  },
+  {
+    "id": "prunus-pumila",
+    "scientificName": "Prunus pumila",
+    "commonNames": [
+      "Sand Cherry"
+    ],
+    "family": "Rosaceae",
+    "nativeStates": [
+      "CO",
+      "IL",
+      "IN",
+      "KS",
+      "MA",
+      "ME",
+      "MI",
+      "MN",
+      "NE",
+      "NH",
+      "NY",
+      "PA",
+      "SD",
+      "VT",
+      "WI"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 6
+    },
+    "spreadFeet": {
+      "min": 3,
+      "max": 6
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      5
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "A low, sprawling cherry of dunes, shores, and rocky barrens, smothered in white bloom each spring. Tough, salt- and drought-tolerant groundcover with edible dark cherries.",
+    "usdaSymbol": "PRPU3",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/prunus-pumila.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Prunus_pumila",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "hedge or screen",
+      "foundation",
+      "erosion control"
+    ],
+    "caterpillarHosts": 456,
+    "keystone": true
+  },
+  {
+    "id": "prunus-pensylvanica",
+    "scientificName": "Prunus pensylvanica",
+    "commonNames": [
+      "Pin Cherry"
+    ],
+    "family": "Rosaceae",
+    "nativeStates": [
+      "CO",
+      "CT",
+      "IL",
+      "IN",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MT",
+      "NC",
+      "NH",
+      "NY",
+      "PA",
+      "RI",
+      "SD",
+      "TN",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 15,
+      "max": 30
+    },
+    "spreadFeet": {
+      "min": 15,
+      "max": 25
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Pin cherry is a fast, short-lived pioneer that floods burned and cleared land with white bloom, then bright red cherries beloved by birds. Its quick shade nurses the next forest.",
+    "usdaSymbol": "PRPE2",
+    "nativeRegions": [
+      "CAN",
+      "L48",
+      "SPM"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/prunus-pensylvanica.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Prunus_pensylvanica",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "hedge or screen"
+    ],
+    "caterpillarHosts": 456,
+    "keystone": true
+  },
+  {
+    "id": "prunus-angustifolia",
+    "scientificName": "Prunus angustifolia",
+    "commonNames": [
+      "Chickasaw Plum"
+    ],
+    "family": "Rosaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "FL",
+      "GA",
+      "IL",
+      "KS",
+      "LA",
+      "MO",
+      "MS",
+      "NC",
+      "OK",
+      "SC",
+      "TN",
+      "TX",
+      "VA"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 6,
+      "max": 20
+    },
+    "spreadFeet": {
+      "min": 8,
+      "max": 20
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "butterflies",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": false,
+    "notes": "Chickasaw plum forms suckering thickets that foam white in earliest spring before the leaves, then ripen sweet red-and-yellow plums. A classic wildlife thicket and edible hedgerow of the South and Plains.",
+    "usdaSymbol": "PRAN3",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic",
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/prunus-angustifolia.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Prunus_angustifolia",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "hedge or screen",
+      "erosion control"
+    ],
+    "caterpillarHosts": 456,
+    "keystone": true
+  },
+  {
+    "id": "prunus-emarginata",
+    "scientificName": "Prunus emarginata",
+    "commonNames": [
+      "Bitter Cherry"
+    ],
+    "family": "Rosaceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "ID",
+      "MT",
+      "NV",
+      "OR",
+      "WA"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 15,
+      "max": 50
+    },
+    "spreadFeet": {
+      "min": 12,
+      "max": 25
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "dry"
+    ],
+    "soilType": [
+      "loam",
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Bitter cherry is a slender western cherry of foothills and forest openings, clouded with fragrant white flowers and hung with small bitter-red fruit that birds devour. An important larval host in the West.",
+    "usdaSymbol": "PREM",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/prunus-emarginata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Prunus_emarginata",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen"
+    ],
+    "caterpillarHosts": 456,
+    "keystone": true
+  },
+  {
+    "id": "prunus-maritima",
+    "scientificName": "Prunus maritima",
+    "commonNames": [
+      "Beach Plum"
+    ],
+    "family": "Rosaceae",
+    "nativeStates": [
+      "CT",
+      "DE",
+      "MA",
+      "MD",
+      "ME",
+      "NH",
+      "NJ",
+      "NY",
+      "RI"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 8
+    },
+    "spreadFeet": {
+      "min": 4,
+      "max": 8
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy"
+    ],
+    "bloomMonths": [
+      5
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Beach plum is the salt- and sand-tolerant shrub of Atlantic dunes, blanketed in white bloom then heavy with purple plums famous for jam. Among the toughest natives for seaside gardens.",
+    "usdaSymbol": "PRMA2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/prunus-maritima.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Prunus_maritima",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "hedge or screen",
+      "foundation"
+    ],
+    "caterpillarHosts": 456,
+    "keystone": true
+  },
+  {
+    "id": "prunus-mexicana",
+    "scientificName": "Prunus mexicana",
+    "commonNames": [
+      "Mexican Plum"
+    ],
+    "family": "Rosaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "IL",
+      "KS",
+      "KY",
+      "LA",
+      "MO",
+      "MS",
+      "OH",
+      "OK",
+      "TX"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 15,
+      "max": 25
+    },
+    "spreadFeet": {
+      "min": 15,
+      "max": 25
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "clay",
+      "sandy"
+    ],
+    "bloomMonths": [
+      3
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "butterflies",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": false,
+    "notes": "Unlike its suckering kin, Mexican plum grows as a single-trunked small tree, making it a tidy specimen for small yards. Fragrant white spring bloom, ripe purple plums, and good drought tolerance.",
+    "usdaSymbol": "PRME",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/prunus-mexicana.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Prunus_mexicana",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "hedge or screen"
+    ],
+    "caterpillarHosts": 456,
+    "keystone": true
+  },
+  {
+    "id": "prunus-subcordata",
+    "scientificName": "Prunus subcordata",
+    "commonNames": [
+      "Klamath Plum"
+    ],
+    "family": "Rosaceae",
+    "nativeStates": [
+      "CA",
+      "OR"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 6,
+      "max": 20
+    },
+    "spreadFeet": {
+      "min": 8,
+      "max": 18
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "rocky",
+      "clay"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "The only native plum of California and southern Oregon, Klamath plum forms thorny thickets bright with white bloom and edible red-purple plums long gathered for jelly.",
+    "usdaSymbol": "PRSU2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/prunus-subcordata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Prunus_subcordata",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "hedge or screen",
+      "erosion control"
+    ],
+    "caterpillarHosts": 456,
+    "keystone": true
+  },
+  {
+    "id": "crataegus-crus-galli",
+    "scientificName": "Crataegus crus-galli",
+    "commonNames": [
+      "Cockspur Hawthorn"
+    ],
+    "family": "Rosaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DE",
+      "FL",
+      "GA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "MI",
+      "MO",
+      "MS",
+      "NC",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 15,
+      "max": 30
+    },
+    "spreadFeet": {
+      "min": 20,
+      "max": 35
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "clay",
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      5
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Cockspur hawthorn spreads in stiff horizontal tiers armed with long thorns, making an impenetrable wildlife hedge. White spring flowers give way to red haws that hold into winter for birds.",
+    "usdaSymbol": "CRCR2",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline",
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/crataegus-crus-galli.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Crataegus_crus-galli",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "hedge or screen"
+    ],
+    "caterpillarHosts": 168,
+    "keystone": true
+  },
+  {
+    "id": "crataegus-viridis",
+    "scientificName": "Crataegus viridis",
+    "commonNames": [
+      "Green Hawthorn"
+    ],
+    "family": "Rosaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "FL",
+      "GA",
+      "IL",
+      "LA",
+      "MO",
+      "MS",
+      "NC",
+      "OK",
+      "SC",
+      "TN",
+      "TX",
+      "VA"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 20,
+      "max": 35
+    },
+    "spreadFeet": {
+      "min": 20,
+      "max": 35
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet",
+      "dry"
+    ],
+    "soilType": [
+      "loam",
+      "clay",
+      "sandy"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Green hawthorn tolerates wet ground and city conditions, carrying clusters of white bloom and a heavy crop of glossy red fruit that persists through winter for cedar waxwings and robins.",
+    "usdaSymbol": "CRVI2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline",
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/crataegus-viridis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Crataegus_viridis",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "rain garden"
+    ],
+    "caterpillarHosts": 168,
+    "keystone": true
+  },
+  {
+    "id": "crataegus-phaenopyrum",
+    "scientificName": "Crataegus phaenopyrum",
+    "commonNames": [
+      "Washington Hawthorn"
+    ],
+    "family": "Rosaceae",
+    "nativeStates": [
+      "IL",
+      "MO",
+      "NC",
+      "NY",
+      "OH",
+      "OR",
+      "PA",
+      "TN",
+      "VA"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 20,
+      "max": 30
+    },
+    "spreadFeet": {
+      "min": 15,
+      "max": 25
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "clay",
+      "sandy"
+    ],
+    "bloomMonths": [
+      6
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Washington hawthorn blooms late, after most trees have leafed out, then sets shining scarlet haws against fiery orange-red fall foliage. A favorite small specimen and screening tree.",
+    "usdaSymbol": "CRPH",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline",
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/crataegus-phaenopyrum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Crataegus_phaenopyrum",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "hedge or screen"
+    ],
+    "caterpillarHosts": 168,
+    "keystone": true
+  },
+  {
+    "id": "crataegus-mollis",
+    "scientificName": "Crataegus mollis",
+    "commonNames": [
+      "Downy Hawthorn"
+    ],
+    "family": "Rosaceae",
+    "nativeStates": [
+      "AR",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NE",
+      "NY",
+      "OH",
+      "OK",
+      "TN",
+      "TX",
+      "WI"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 20,
+      "max": 40
+    },
+    "spreadFeet": {
+      "min": 20,
+      "max": 35
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist",
+      "dry"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Downy hawthorn is the largest of the Midwestern hawthorns, with soft fuzzy leaves, broad clusters of white bloom, and unusually large red fruit relished by wildlife.",
+    "usdaSymbol": "CRMO2",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/crataegus-mollis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Crataegus_mollis",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen"
+    ],
+    "caterpillarHosts": 168,
+    "keystone": true
+  },
+  {
+    "id": "amelanchier-canadensis",
+    "scientificName": "Amelanchier canadensis",
+    "commonNames": [
+      "Shadblow Serviceberry"
+    ],
+    "family": "Rosaceae",
+    "nativeStates": [
+      "CT",
+      "DE",
+      "GA",
+      "IN",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "VA"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 6,
+      "max": 25
+    },
+    "spreadFeet": {
+      "min": 6,
+      "max": 15
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Shadblow serviceberry blooms in a haze of white as the shad run upriver, then ripens sweet blue-purple berries in June. A suckering, multi-stemmed shrub for moist sites with fine orange fall color.",
+    "usdaSymbol": "AMCA4",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/amelanchier-canadensis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Amelanchier_canadensis",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "hedge or screen",
+      "rain garden",
+      "erosion control"
+    ],
+    "caterpillarHosts": 124,
+    "keystone": true
+  },
+  {
+    "id": "amelanchier-laevis",
+    "scientificName": "Amelanchier laevis",
+    "commonNames": [
+      "Allegheny Serviceberry"
+    ],
+    "family": "Rosaceae",
+    "nativeStates": [
+      "CT",
+      "GA",
+      "IL",
+      "IN",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "PA",
+      "TN",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 15,
+      "max": 25
+    },
+    "spreadFeet": {
+      "min": 15,
+      "max": 20
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      4
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Allegheny serviceberry unfurls bronze-tinted new leaves beneath drooping white bloom, sets edible blue berries, and finishes in brilliant orange-red. One of the best four-season small native trees.",
+    "usdaSymbol": "AMLA",
+    "nativeRegions": [
+      "CAN",
+      "L48",
+      "SPM"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/amelanchier-laevis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Amelanchier_laevis",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "hedge or screen"
+    ],
+    "caterpillarHosts": 124,
+    "keystone": true
+  },
+  {
+    "id": "corylus-cornuta",
+    "scientificName": "Corylus cornuta",
+    "commonNames": [
+      "Beaked Hazelnut"
+    ],
+    "family": "Betulaceae",
+    "nativeStates": [
+      "CA",
+      "CO",
+      "CT",
+      "GA",
+      "MA",
+      "ME",
+      "MI",
+      "MN",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OR",
+      "PA",
+      "RI",
+      "SD",
+      "TN",
+      "VA",
+      "VT",
+      "WA",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 4,
+      "max": 12
+    },
+    "spreadFeet": {
+      "min": 6,
+      "max": 12
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "yellow",
+      "brown"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": false,
+    "notes": "Beaked hazelnut is an adaptable understory shrub whose long male catkins dangle through winter and open before the leaves. Its nuts, wrapped in a distinctive bristly beak, feed jays, grouse, and squirrels.",
+    "usdaSymbol": "COCO6",
+    "nativeRegions": [
+      "CAN",
+      "L48",
+      "SPM"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/corylus-cornuta.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Corylus_cornuta",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "hedge or screen",
+      "erosion control"
+    ],
+    "caterpillarHosts": 131,
+    "keystone": true
+  },
+  {
+    "id": "comptonia-peregrina",
+    "scientificName": "Comptonia peregrina",
+    "commonNames": [
+      "Sweetfern"
+    ],
+    "family": "Myricaceae",
+    "nativeStates": [
+      "CT",
+      "IL",
+      "IN",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "RI",
+      "VA",
+      "VT",
+      "WI"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 4,
+      "max": 8
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "larval host"
+    ],
+    "deerResistant": true,
+    "notes": "Sweetfern is a low, aromatic shrub with soft fern-like foliage that releases a sweet resinous scent. A nitrogen-fixer for the poorest dry, sandy, acidic soils, spreading into deer-resistant colonies for erosion control.",
+    "usdaSymbol": "COPE80",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/comptonia-peregrina.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Comptonia_peregrina",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "foundation",
+      "erosion control"
+    ],
+    "caterpillarHosts": 64,
+    "keystone": false
+  },
+  {
+    "id": "malus-coronaria",
+    "scientificName": "Malus coronaria",
+    "commonNames": [
+      "Sweet Crabapple"
+    ],
+    "family": "Rosaceae",
+    "nativeStates": [
+      "AL",
+      "GA",
+      "IL",
+      "IN",
+      "KY",
+      "MD",
+      "MI",
+      "MO",
+      "NC",
+      "NY",
+      "OH",
+      "PA",
+      "TN",
+      "VA",
+      "WV"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 15,
+      "max": 25
+    },
+    "spreadFeet": {
+      "min": 15,
+      "max": 25
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist",
+      "dry"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "pink",
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "butterflies",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": false,
+    "notes": "Sweet crabapple perfumes the late-spring woods with intensely fragrant pink-and-white bloom, followed by hard green crabapples used for jelly and eaten by wildlife. A broad, often thorny native orchard tree.",
+    "usdaSymbol": "MACO5",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/malus-coronaria.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Malus_coronaria",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "hedge or screen"
+    ],
+    "caterpillarHosts": 308,
+    "keystone": true
+  },
+  {
+    "id": "malus-ioensis",
+    "scientificName": "Malus ioensis",
+    "commonNames": [
+      "Prairie Crabapple"
+    ],
+    "family": "Rosaceae",
+    "nativeStates": [
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "LA",
+      "MN",
+      "MO",
+      "TX",
+      "WI"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 15,
+      "max": 25
+    },
+    "spreadFeet": {
+      "min": 15,
+      "max": 25
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist",
+      "dry"
+    ],
+    "soilType": [
+      "loam",
+      "clay",
+      "sandy"
+    ],
+    "bloomMonths": [
+      5
+    ],
+    "bloomColors": [
+      "pink",
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "butterflies",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": false,
+    "notes": "Prairie crabapple is the wild crabapple of the tallgrass Midwest, opening showy fragrant pink blossoms a little later than its eastern cousin. Tart green fruit makes good jelly and feeds wildlife through fall.",
+    "usdaSymbol": "MAIO",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/malus-ioensis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Malus_ioensis",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "hedge or screen"
+    ],
+    "caterpillarHosts": 308,
+    "keystone": true
+  },
+  {
+    "id": "malus-fusca",
+    "scientificName": "Malus fusca",
+    "commonNames": [
+      "Pacific Crabapple"
+    ],
+    "family": "Rosaceae",
+    "nativeStates": [
+      "AK",
+      "CA",
+      "OR",
+      "WA"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 15,
+      "max": 35
+    },
+    "spreadFeet": {
+      "min": 15,
+      "max": 25
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "sandy",
+      "clay"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "white",
+      "pink"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "butterflies",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": false,
+    "notes": "Pacific crabapple, the only crabapple native to the West Coast, thrives in wet thickets and stream edges from California to Alaska. Fragrant white bloom yields tiny tart apples long harvested by coastal peoples.",
+    "usdaSymbol": "MAFU",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/malus-fusca.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Malus_fusca",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "rain garden"
+    ],
+    "caterpillarHosts": 308,
+    "keystone": true
+  },
+  {
+    "id": "castanea-pumila",
+    "scientificName": "Castanea pumila",
+    "commonNames": [
+      "Allegheny Chinquapin"
+    ],
+    "family": "Fagaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "FL",
+      "GA",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "MS",
+      "NC",
+      "NJ",
+      "PA",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "WV"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 6,
+      "max": 30
+    },
+    "spreadFeet": {
+      "min": 10,
+      "max": 25
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      6
+    ],
+    "bloomColors": [
+      "white",
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals",
+      "pollinators"
+    ],
+    "deerResistant": false,
+    "notes": "Allegheny chinquapin is a shrubby relative of the American chestnut, far more resistant to chestnut blight, that bears small, sweet, edible nuts in spiny burs. Thrives on dry, sandy, acidic upland soils.",
+    "usdaSymbol": "CAPU9",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/castanea-pumila.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Castanea_pumila",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "hedge or screen",
+      "erosion control"
+    ],
+    "caterpillarHosts": 127,
+    "keystone": true
+  },
+  {
+    "id": "vitis-riparia",
+    "scientificName": "Vitis riparia",
+    "commonNames": [
+      "Riverbank Grape"
+    ],
+    "family": "Vitaceae",
+    "nativeStates": [
+      "AR",
+      "CO",
+      "CT",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "MT",
+      "ND",
+      "NE",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "SD",
+      "TX",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "vine",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 15,
+      "max": 40
+    },
+    "spreadFeet": {
+      "min": 10,
+      "max": 20
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "dry"
+    ],
+    "soilType": [
+      "loam",
+      "sandy",
+      "clay",
+      "rocky"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "green"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": false,
+    "notes": "Riverbank grape is a vigorous, cold-hardy native vine that drapes streamside trees and fences, its tiny fragrant flowers giving way to tart blue-black grapes. Heavy fruit and dense cover make it a wildlife magnet; give it room.",
+    "usdaSymbol": "VIRI",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "neutral",
+      "acidic",
+      "alkaline"
+    ],
+    "spreadHabit": "aggressive",
+    "springEphemeral": false,
+    "imageFile": "plants/vitis-riparia.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Vitis_riparia",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "groundcover",
+      "erosion control"
+    ],
+    "caterpillarHosts": 79,
+    "keystone": false
+  },
+  {
+    "id": "vitis-californica",
+    "scientificName": "Vitis californica",
+    "commonNames": [
+      "California Wild Grape"
+    ],
+    "family": "Vitaceae",
+    "nativeStates": [
+      "CA",
+      "OR"
+    ],
+    "generalAppearance": "vine",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 15,
+      "max": 30
+    },
+    "spreadFeet": {
+      "min": 10,
+      "max": 20
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "sandy",
+      "clay"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "green"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": false,
+    "notes": "California wild grape is a robust riparian vine celebrated for its blazing crimson and gold fall color, with small sweet-tart grapes for birds and people. Drought-tolerant once established; vigorous enough for arbors and screening.",
+    "usdaSymbol": "VICA5",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "neutral",
+      "acidic",
+      "alkaline"
+    ],
+    "spreadHabit": "aggressive",
+    "springEphemeral": false,
+    "imageFile": "plants/vitis-californica.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Vitis_californica",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "groundcover",
+      "erosion control"
+    ],
+    "caterpillarHosts": 79,
+    "keystone": false
+  },
+  {
+    "id": "ulmus-alata",
+    "scientificName": "Ulmus alata",
+    "commonNames": [
+      "Winged Elm"
+    ],
+    "family": "Ulmaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "FL",
+      "GA",
+      "IL",
+      "IN",
+      "KY",
+      "LA",
+      "MO",
+      "MS",
+      "NC",
+      "OK",
+      "SC",
+      "TN",
+      "TX",
+      "VA"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 30,
+      "max": 50
+    },
+    "spreadFeet": {
+      "min": 25,
+      "max": 40
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "clay",
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      2,
+      3
+    ],
+    "bloomColors": [
+      "red",
+      "green"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Winged elm is a tough, adaptable Southern elm named for the corky wings that ride its twigs. Small and drought-hardy, it tolerates poor soils where larger elms fail and supports many caterpillars.",
+    "usdaSymbol": "ULAL",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline",
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/ulmus-alata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Ulmus_alata",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen"
+    ],
+    "caterpillarHosts": 215,
+    "keystone": true
+  },
+  {
+    "id": "ulmus-crassifolia",
+    "scientificName": "Ulmus crassifolia",
+    "commonNames": [
+      "Cedar Elm"
+    ],
+    "family": "Ulmaceae",
+    "nativeStates": [
+      "AR",
+      "FL",
+      "LA",
+      "MS",
+      "OK",
+      "TX"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 50,
+      "max": 70
+    },
+    "spreadFeet": {
+      "min": 40,
+      "max": 60
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "clay",
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      8,
+      9
+    ],
+    "bloomColors": [
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Cedar elm is the iconic shade tree of Texas and the south-central states, thriving on heavy alkaline clay and drought. Unusually, it blooms and seeds in late summer or fall rather than spring.",
+    "usdaSymbol": "ULCR",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/ulmus-crassifolia.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Ulmus_crassifolia",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "rain garden"
+    ],
+    "caterpillarHosts": 215,
+    "keystone": true
+  },
+  {
+    "id": "sorbus-americana",
+    "scientificName": "Sorbus americana",
+    "commonNames": [
+      "American Mountain Ash"
+    ],
+    "family": "Rosaceae",
+    "nativeStates": [
+      "CT",
+      "MA",
+      "ME",
+      "MI",
+      "MN",
+      "NC",
+      "NH",
+      "NY",
+      "PA",
+      "TN",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 15,
+      "max": 30
+    },
+    "spreadFeet": {
+      "min": 12,
+      "max": 20
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "American mountain-ash brightens cool northern woods and mountainsides with flat clusters of white bloom and, by fall, blazing orange-red berries that waxwings and grosbeaks strip quickly. Needs cool, moist, acidic soil.",
+    "usdaSymbol": "SOAM3",
+    "nativeRegions": [
+      "CAN",
+      "L48",
+      "SPM"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/sorbus-americana.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Sorbus_americana",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "hedge or screen",
+      "rain garden"
+    ],
+    "caterpillarHosts": 68,
+    "keystone": false
   }
 ]

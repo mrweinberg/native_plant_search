@@ -1,0 +1,38 @@
+Salix discolor | Pussy Willow
+Salix exigua | Sandbar Willow
+Salix scouleriana | Scouler's Willow
+Salix lucida | Shining Willow
+Salix lasiolepis | Arroyo Willow
+Betula papyrifera | Paper Birch
+Betula alleghaniensis | Yellow Birch
+Betula lenta | Sweet Birch
+Betula populifolia | Gray Birch
+Betula occidentalis | Water Birch
+Populus grandidentata | Bigtooth Aspen
+Populus fremontii | Fremont Cottonwood
+Populus angustifolia | Narrowleaf Cottonwood
+Populus balsamifera | Balsam Poplar
+Prunus pumila | Sand Cherry
+Prunus pensylvanica | Pin Cherry
+Prunus angustifolia | Chickasaw Plum
+Prunus emarginata | Bitter Cherry
+Prunus maritima | Beach Plum
+Prunus mexicana | Mexican Plum
+Prunus subcordata | Klamath Plum
+Crataegus crus-galli | Cockspur Hawthorn
+Crataegus viridis | Green Hawthorn
+Crataegus phaenopyrum | Washington Hawthorn
+Crataegus mollis | Downy Hawthorn
+Amelanchier canadensis | Shadblow Serviceberry
+Amelanchier laevis | Allegheny Serviceberry
+Corylus cornuta | Beaked Hazelnut
+Comptonia peregrina | Sweetfern
+Malus coronaria | Sweet Crabapple
+Malus ioensis | Prairie Crabapple
+Malus fusca | Pacific Crabapple
+Castanea pumila | Allegheny Chinquapin
+Vitis riparia | Riverbank Grape
+Vitis californica | California Wild Grape
+Ulmus alata | Winged Elm
+Ulmus crassifolia | Cedar Elm
+Sorbus americana | American Mountain Ash
