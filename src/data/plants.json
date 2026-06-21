@@ -69348,5 +69348,2454 @@
     ],
     "caterpillarHosts": 557,
     "keystone": true
+  },
+  {
+    "id": "acer-floridanum",
+    "scientificName": "Acer floridanum",
+    "commonNames": [
+      "Florida Maple"
+    ],
+    "family": "Sapindaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "FL",
+      "GA",
+      "LA",
+      "NC",
+      "TX"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 30,
+      "max": 50
+    },
+    "spreadFeet": {
+      "min": 25,
+      "max": 40
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "dry"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "yellow",
+      "green"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "pollinators"
+    ],
+    "deerResistant": false,
+    "notes": "The southern counterpart of sugar maple, Florida maple is a heat-tolerant shade tree with golden-orange fall color for the lower South. Smaller and more drought-adapted than its northern kin.",
+    "usdaSymbol": "ACFL",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/acer-floridanum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Acer_floridanum",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen"
+    ],
+    "caterpillarHosts": 297,
+    "keystone": true
+  },
+  {
+    "id": "acer-glabrum",
+    "scientificName": "Acer glabrum",
+    "commonNames": [
+      "Rocky Mountain Maple"
+    ],
+    "family": "Sapindaceae",
+    "nativeStates": [
+      "AK",
+      "AZ",
+      "CA",
+      "CO",
+      "ID",
+      "MT",
+      "NE",
+      "NM",
+      "NV",
+      "OR",
+      "UT",
+      "WA",
+      "WY"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 10,
+      "max": 25
+    },
+    "spreadFeet": {
+      "min": 10,
+      "max": 20
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "yellow",
+      "red",
+      "green"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "pollinators",
+      "mammals"
+    ],
+    "deerResistant": false,
+    "notes": "Rocky Mountain maple is a graceful multi-stemmed small maple of western mountain canyons and streamsides, with reddish twigs and clear yellow fall color. Tough and cold-hardy for high-elevation gardens.",
+    "usdaSymbol": "ACGL",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/acer-glabrum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Acer_glabrum",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "hedge or screen"
+    ],
+    "caterpillarHosts": 297,
+    "keystone": true
+  },
+  {
+    "id": "acer-leucoderme",
+    "scientificName": "Acer leucoderme",
+    "commonNames": [
+      "Chalk Maple"
+    ],
+    "family": "Sapindaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "FL",
+      "GA",
+      "LA",
+      "NC",
+      "SC",
+      "TN",
+      "TX"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 20,
+      "max": 35
+    },
+    "spreadFeet": {
+      "min": 20,
+      "max": 30
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "loam"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "yellow",
+      "green"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "pollinators"
+    ],
+    "deerResistant": false,
+    "notes": "Chalk maple is a refined understory maple named for its pale, smooth bark, lighting up shaded Southeastern slopes with orange and red fall color. An excellent small native shade tree for tight spots.",
+    "usdaSymbol": "ACLE",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/acer-leucoderme.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Acer_leucoderme",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen"
+    ],
+    "caterpillarHosts": 297,
+    "keystone": true
+  },
+  {
+    "id": "acer-negundo",
+    "scientificName": "Acer negundo",
+    "commonNames": [
+      "Boxelder"
+    ],
+    "family": "Sapindaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "AZ",
+      "CA",
+      "CO",
+      "CT",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "IA",
+      "ID",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "MT",
+      "NC",
+      "ND",
+      "NE",
+      "NH",
+      "NJ",
+      "NM",
+      "NV",
+      "NY",
+      "OH",
+      "OK",
+      "OR",
+      "PA",
+      "RI",
+      "SC",
+      "SD",
+      "TN",
+      "TX",
+      "UT",
+      "VA",
+      "VT",
+      "WA",
+      "WI",
+      "WV",
+      "WY"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 30,
+      "max": 60
+    },
+    "spreadFeet": {
+      "min": 30,
+      "max": 50
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet",
+      "dry"
+    ],
+    "soilType": [
+      "loam",
+      "clay",
+      "sandy"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "yellow",
+      "green"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "pollinators"
+    ],
+    "deerResistant": false,
+    "notes": "Boxelder is a fast, adaptable maple with compound leaves, thriving on floodplains and disturbed ground from coast to coast. Its abundant seeds feed the evening grosbeak and the boxelder bug through winter.",
+    "usdaSymbol": "ACNE2",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline",
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/acer-negundo.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Acer_negundo",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "rain garden"
+    ],
+    "caterpillarHosts": 297,
+    "keystone": true
+  },
+  {
+    "id": "acer-nigrum",
+    "scientificName": "Acer nigrum",
+    "commonNames": [
+      "Black Maple"
+    ],
+    "family": "Sapindaceae",
+    "nativeStates": [
+      "IA",
+      "IL",
+      "IN",
+      "KY",
+      "MA",
+      "MD",
+      "MI",
+      "MN",
+      "MO",
+      "NY",
+      "OH",
+      "PA",
+      "TN",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 50,
+      "max": 75
+    },
+    "spreadFeet": {
+      "min": 40,
+      "max": 60
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "yellow",
+      "green"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "pollinators"
+    ],
+    "deerResistant": false,
+    "notes": "Black maple is a close cousin of sugar maple with drooping, dark green leaves and the same brilliant yellow-orange fall display. A long-lived shade and syrup tree tolerant of heavier, drier soils.",
+    "usdaSymbol": "ACNI5",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/acer-nigrum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Acer_nigrum",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen"
+    ],
+    "caterpillarHosts": 297,
+    "keystone": true
+  },
+  {
+    "id": "acer-pensylvanicum",
+    "scientificName": "Acer pensylvanicum",
+    "commonNames": [
+      "Striped Maple"
+    ],
+    "family": "Sapindaceae",
+    "nativeStates": [
+      "CT",
+      "GA",
+      "KY",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "TN",
+      "VA",
+      "VT",
+      "WV"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 15,
+      "max": 30
+    },
+    "spreadFeet": {
+      "min": 15,
+      "max": 20
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "yellow",
+      "green"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "pollinators",
+      "mammals"
+    ],
+    "deerResistant": false,
+    "notes": "Striped maple, or moosewood, is a shade-loving understory tree prized for its green bark vertically striped in white. A cool-woodland specimen with big, three-lobed leaves turning soft yellow in fall.",
+    "usdaSymbol": "ACPE",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/acer-pensylvanicum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Acer_pensylvanicum",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "hedge or screen"
+    ],
+    "caterpillarHosts": 297,
+    "keystone": true
+  },
+  {
+    "id": "acer-spicatum",
+    "scientificName": "Acer spicatum",
+    "commonNames": [
+      "Mountain Maple"
+    ],
+    "family": "Sapindaceae",
+    "nativeStates": [
+      "CT",
+      "GA",
+      "IA",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "TN",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 15,
+      "max": 30
+    },
+    "spreadFeet": {
+      "min": 12,
+      "max": 20
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "yellow",
+      "green"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "pollinators"
+    ],
+    "deerResistant": false,
+    "notes": "Mountain maple is a small, shrubby understory maple of cool northern forests, the only native maple with upright flower spikes. Brilliant red-and-yellow fall color brightens shaded, rocky slopes.",
+    "usdaSymbol": "ACSP2",
+    "nativeRegions": [
+      "CAN",
+      "L48",
+      "SPM"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/acer-spicatum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Acer_spicatum",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "hedge or screen"
+    ],
+    "caterpillarHosts": 297,
+    "keystone": true
+  },
+  {
+    "id": "carya-aquatica",
+    "scientificName": "Carya aquatica",
+    "commonNames": [
+      "Water Hickory"
+    ],
+    "family": "Juglandaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "FL",
+      "GA",
+      "LA",
+      "MO",
+      "MS",
+      "NC",
+      "SC",
+      "TX"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 60,
+      "max": 90
+    },
+    "spreadFeet": {
+      "min": 30,
+      "max": 50
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "wet",
+      "moist"
+    ],
+    "soilType": [
+      "clay",
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "yellow",
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": false,
+    "notes": "Water hickory is a tall bottomland hickory of Southern swamps and river floodplains, tolerant of prolonged flooding. Its bitter nuts feed wood ducks and mammals where few other hickories grow.",
+    "usdaSymbol": "CAAQ2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/carya-aquatica.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Carya_aquatica",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "rain garden"
+    ],
+    "caterpillarHosts": 235,
+    "keystone": true
+  },
+  {
+    "id": "carya-illinoinensis",
+    "scientificName": "Carya illinoinensis",
+    "commonNames": [
+      "Pecan"
+    ],
+    "family": "Juglandaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CA",
+      "FL",
+      "GA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MO",
+      "MS",
+      "NC",
+      "OK",
+      "SC",
+      "TN",
+      "TX",
+      "VA"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 70,
+      "max": 100
+    },
+    "spreadFeet": {
+      "min": 40,
+      "max": 75
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "yellow",
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": false,
+    "notes": "Pecan is the largest of the hickories and the source of the beloved native nut, a massive, long-lived shade tree of river bottoms. Needs room and rich, deep soil; rewards with shade, mast, and harvest.",
+    "usdaSymbol": "CAIL2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/carya-illinoinensis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Pecan",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen"
+    ],
+    "caterpillarHosts": 235,
+    "keystone": true
+  },
+  {
+    "id": "carya-texana",
+    "scientificName": "Carya texana",
+    "commonNames": [
+      "Black Hickory"
+    ],
+    "family": "Juglandaceae",
+    "nativeStates": [
+      "AR",
+      "IL",
+      "LA",
+      "MO",
+      "OK",
+      "TX"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 40,
+      "max": 75
+    },
+    "spreadFeet": {
+      "min": 25,
+      "max": 40
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "yellow",
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": false,
+    "notes": "Black hickory is a drought-hardy upland hickory of dry, sandy, and rocky soils across the south-central states. A tough wildlife tree where richer-soil hickories cannot persist.",
+    "usdaSymbol": "CATE9",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/carya-texana.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Carya_texana",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen"
+    ],
+    "caterpillarHosts": 235,
+    "keystone": true
+  },
+  {
+    "id": "carya-tomentosa",
+    "scientificName": "Carya tomentosa",
+    "commonNames": [
+      "Mockernut Hickory"
+    ],
+    "family": "Juglandaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DC",
+      "FL",
+      "GA",
+      "IL",
+      "IN",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "MO",
+      "MS",
+      "NC",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "WV"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 50,
+      "max": 80
+    },
+    "spreadFeet": {
+      "min": 30,
+      "max": 40
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "clay",
+      "sandy"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "yellow",
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": false,
+    "notes": "Mockernut hickory is a sturdy, deep-rooted upland hickory with fragrant, fuzzy foliage that turns rich gold in fall and thick-shelled, sweet nuts. Long-lived and drought-tolerant on dry ridges.",
+    "usdaSymbol": "CATO6",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/carya-tomentosa.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Carya_tomentosa",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen"
+    ],
+    "caterpillarHosts": 235,
+    "keystone": true
+  },
+  {
+    "id": "juglans-californica",
+    "scientificName": "Juglans californica",
+    "commonNames": [
+      "Southern California Walnut"
+    ],
+    "family": "Juglandaceae",
+    "nativeStates": [
+      "CA"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 15,
+      "max": 30
+    },
+    "spreadFeet": {
+      "min": 20,
+      "max": 40
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "clay",
+      "rocky"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "yellow",
+      "green"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": false,
+    "notes": "Southern California walnut is a small, often multi-trunked walnut of southern California foothills and washes, anchoring a rare walnut-woodland habitat. Drought-deciduous and valuable for wildlife mast.",
+    "usdaSymbol": "JUCA",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/juglans-californica.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Juglans_californica",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "hedge or screen"
+    ],
+    "caterpillarHosts": 129,
+    "keystone": true
+  },
+  {
+    "id": "juglans-cinerea",
+    "scientificName": "Juglans cinerea",
+    "commonNames": [
+      "Butternut"
+    ],
+    "family": "Juglandaceae",
+    "nativeStates": [
+      "AR",
+      "CT",
+      "IA",
+      "IL",
+      "IN",
+      "KY",
+      "MA",
+      "MD",
+      "MI",
+      "MN",
+      "MO",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "SC",
+      "TN",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 40,
+      "max": 60
+    },
+    "spreadFeet": {
+      "min": 30,
+      "max": 50
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "yellow",
+      "green"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": false,
+    "notes": "Butternut, or white walnut, is a fast, spreading tree of cool moist woods bearing sweet, oily, oblong nuts. Increasingly rare due to butternut canker, making conservation plantings valuable.",
+    "usdaSymbol": "JUCI",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/juglans-cinerea.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Juglans_cinerea",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen"
+    ],
+    "caterpillarHosts": 129,
+    "keystone": true
+  },
+  {
+    "id": "juglans-major",
+    "scientificName": "Juglans major",
+    "commonNames": [
+      "Arizona Walnut"
+    ],
+    "family": "Juglandaceae",
+    "nativeStates": [
+      "AZ",
+      "NM",
+      "TX"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 30,
+      "max": 50
+    },
+    "spreadFeet": {
+      "min": 30,
+      "max": 50
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist",
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "yellow",
+      "green"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": false,
+    "notes": "Arizona walnut is the shade tree of Southwestern canyon streams and desert riparian corridors, marking water in arid country. Its small hard nuts sustain squirrels and other wildlife.",
+    "usdaSymbol": "JUMA",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/juglans-major.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Juglans_major",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen"
+    ],
+    "caterpillarHosts": 129,
+    "keystone": true
+  },
+  {
+    "id": "juglans-microcarpa",
+    "scientificName": "Juglans microcarpa",
+    "commonNames": [
+      "Little Walnut"
+    ],
+    "family": "Juglandaceae",
+    "nativeStates": [
+      "AZ",
+      "KS",
+      "NM",
+      "OK",
+      "TX"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 15,
+      "max": 30
+    },
+    "spreadFeet": {
+      "min": 15,
+      "max": 30
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "yellow",
+      "green"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": false,
+    "notes": "Little walnut is a small, often shrubby walnut of Texas and Southwestern streambeds and limestone draws, with tiny thick-shelled nuts. Heat- and drought-tough for arid riparian plantings.",
+    "usdaSymbol": "JUMI",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/juglans-microcarpa.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Juglans_microcarpa",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "hedge or screen"
+    ],
+    "caterpillarHosts": 129,
+    "keystone": true
+  },
+  {
+    "id": "castanea-dentata",
+    "scientificName": "Castanea dentata",
+    "commonNames": [
+      "American Chestnut"
+    ],
+    "family": "Fagaceae",
+    "nativeStates": [
+      "AL",
+      "CT",
+      "DC",
+      "GA",
+      "IL",
+      "IN",
+      "KY",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MS",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 20,
+      "max": 50
+    },
+    "spreadFeet": {
+      "min": 20,
+      "max": 40
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      6,
+      7
+    ],
+    "bloomColors": [
+      "white",
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals",
+      "pollinators"
+    ],
+    "deerResistant": false,
+    "notes": "The American chestnut was once the dominant canopy tree of eastern forests before chestnut blight; surviving sprouts and blight-resistant breeding keep it alive. Plant as part of restoration, knowing blight remains a risk.",
+    "usdaSymbol": "CADE12",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/castanea-dentata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/American_chestnut",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen"
+    ],
+    "caterpillarHosts": 127,
+    "keystone": true
+  },
+  {
+    "id": "celtis-laevigata",
+    "scientificName": "Celtis laevigata",
+    "commonNames": [
+      "Sugarberry"
+    ],
+    "family": "Cannabaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "FL",
+      "GA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MO",
+      "MS",
+      "NC",
+      "OK",
+      "SC",
+      "TN",
+      "TX",
+      "VA"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 40,
+      "max": 70
+    },
+    "spreadFeet": {
+      "min": 40,
+      "max": 60
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet",
+      "dry"
+    ],
+    "soilType": [
+      "loam",
+      "clay",
+      "sandy"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "green"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": false,
+    "notes": "Sugarberry is a fast, tough Southern shade tree closely related to hackberry, with smooth gray bark and sweet berries devoured by birds. Thrives on bottomlands and in tough urban sites alike.",
+    "usdaSymbol": "CELA",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline",
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/celtis-laevigata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Celtis_laevigata",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "rain garden"
+    ],
+    "caterpillarHosts": 43,
+    "keystone": false
+  },
+  {
+    "id": "gleditsia-triacanthos",
+    "scientificName": "Gleditsia triacanthos",
+    "commonNames": [
+      "Honey Locust"
+    ],
+    "family": "Fabaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CA",
+      "CO",
+      "CT",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "NE",
+      "NJ",
+      "NM",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "RI",
+      "SC",
+      "SD",
+      "TN",
+      "TX",
+      "UT",
+      "VA",
+      "VT",
+      "WA",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 50,
+      "max": 70
+    },
+    "spreadFeet": {
+      "min": 40,
+      "max": 60
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist",
+      "dry"
+    ],
+    "soilType": [
+      "loam",
+      "clay",
+      "sandy"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "green",
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": false,
+    "notes": "Honey locust casts light, dappled shade through ferny compound leaves, with fragrant spring flowers and long sweet seed pods relished by wildlife. Extremely tough on poor, dry, or alkaline urban soils; wild trees bear formidable thorns.",
+    "usdaSymbol": "GLTR",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline",
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/gleditsia-triacanthos.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Honey_locust",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen"
+    ],
+    "caterpillarHosts": 46,
+    "keystone": false
+  },
+  {
+    "id": "platanus-wrightii",
+    "scientificName": "Platanus wrightii",
+    "commonNames": [
+      "Arizona Sycamore"
+    ],
+    "family": "Platanaceae",
+    "nativeStates": [
+      "AZ",
+      "NM"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 50,
+      "max": 80
+    },
+    "spreadFeet": {
+      "min": 40,
+      "max": 60
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Arizona sycamore is the grand, white-barked shade tree of Southwestern canyon streams, its mottled trunk and huge lobed leaves marking permanent water. A keystone of desert riparian woodland.",
+    "usdaSymbol": "PLWR2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/platanus-wrightii.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Platanus_wrightii",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "rain garden"
+    ],
+    "caterpillarHosts": 45,
+    "keystone": false
+  },
+  {
+    "id": "nyssa-ogeche",
+    "scientificName": "Nyssa ogeche",
+    "commonNames": [
+      "Ogeechee Tupelo"
+    ],
+    "family": "Nyssaceae",
+    "nativeStates": [
+      "FL",
+      "GA"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 30,
+      "max": 50
+    },
+    "spreadFeet": {
+      "min": 20,
+      "max": 35
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "wet",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "clay",
+      "sandy"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "green",
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "mammals",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Ogeechee tupelo is a swamp tree of the Southeastern coastal plain whose nectar yields the famed, never-crystallizing tupelo honey. Its tart red fruit feeds wildlife in the blackwater swamps it calls home.",
+    "usdaSymbol": "NYOG",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/nyssa-ogeche.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Nyssa_ogeche",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "rain garden"
+    ],
+    "caterpillarHosts": 26,
+    "keystone": false
+  },
+  {
+    "id": "fraxinus-albicans",
+    "scientificName": "Fraxinus albicans",
+    "commonNames": [
+      "Texas Ash"
+    ],
+    "family": "Oleaceae",
+    "nativeStates": [
+      "OK",
+      "TX"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 30,
+      "max": 50
+    },
+    "spreadFeet": {
+      "min": 30,
+      "max": 45
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "rocky",
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "green",
+      "purple"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "pollinators"
+    ],
+    "deerResistant": false,
+    "notes": "Texas ash is a compact, drought-hardy ash of central Texas limestone hills with reliable purple-and-gold fall color. Like all ashes, it is vulnerable to the emerald ash borer, which is spreading west — plant with that risk in mind.",
+    "usdaSymbol": "FRAL3",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/fraxinus-albicans.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Fraxinus_albicans",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen"
+    ],
+    "caterpillarHosts": 149,
+    "keystone": true
+  },
+  {
+    "id": "fraxinus-americana",
+    "scientificName": "Fraxinus americana",
+    "commonNames": [
+      "White Ash"
+    ],
+    "family": "Oleaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DE",
+      "FL",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 50,
+      "max": 80
+    },
+    "spreadFeet": {
+      "min": 40,
+      "max": 60
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist",
+      "dry"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "green",
+      "purple"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "pollinators"
+    ],
+    "deerResistant": false,
+    "notes": "White ash is a stately native shade tree with rich purple fall color and a powerhouse caterpillar host. The emerald ash borer has devastated wild populations, so new plantings should be sited and monitored accordingly.",
+    "usdaSymbol": "FRAM2",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/fraxinus-americana.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Fraxinus_americana",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen"
+    ],
+    "caterpillarHosts": 149,
+    "keystone": true
+  },
+  {
+    "id": "fraxinus-berlandieriana",
+    "scientificName": "Fraxinus berlandieriana",
+    "commonNames": [
+      "Mexican Ash"
+    ],
+    "family": "Oleaceae",
+    "nativeStates": [
+      "TX"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 30,
+      "max": 40
+    },
+    "spreadFeet": {
+      "min": 25,
+      "max": 35
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist",
+      "dry"
+    ],
+    "soilType": [
+      "loam",
+      "clay",
+      "sandy"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "green",
+      "purple"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "pollinators"
+    ],
+    "deerResistant": false,
+    "notes": "Mexican (Berlandier) ash is a fast, heat-tolerant ash of south Texas and the Rio Grande, popular for quick shade. As with all ashes, the emerald ash borer poses a serious long-term threat to consider before planting.",
+    "usdaSymbol": "FRBE",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/fraxinus-berlandieriana.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Fraxinus_berlandieriana",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen"
+    ],
+    "caterpillarHosts": 149,
+    "keystone": true
+  },
+  {
+    "id": "fraxinus-caroliniana",
+    "scientificName": "Fraxinus caroliniana",
+    "commonNames": [
+      "Carolina Ash"
+    ],
+    "family": "Oleaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "FL",
+      "GA",
+      "LA",
+      "MS",
+      "NC",
+      "SC",
+      "TX",
+      "VA"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 30,
+      "max": 40
+    },
+    "spreadFeet": {
+      "min": 20,
+      "max": 30
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "wet",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "clay",
+      "sandy"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "green",
+      "purple"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "pollinators"
+    ],
+    "deerResistant": false,
+    "notes": "Carolina ash, or pop ash, is a small Southeastern swamp ash tolerant of standing water, with conspicuous winged seeds. A wetland wildlife tree — though, like all ashes, at risk from the emerald ash borer.",
+    "usdaSymbol": "FRCA3",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/fraxinus-caroliniana.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Fraxinus_caroliniana",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "rain garden"
+    ],
+    "caterpillarHosts": 149,
+    "keystone": true
+  },
+  {
+    "id": "fraxinus-greggii",
+    "scientificName": "Fraxinus greggii",
+    "commonNames": [
+      "Gregg's Ash"
+    ],
+    "family": "Oleaceae",
+    "nativeStates": [
+      "TX"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 15,
+      "max": 25
+    },
+    "spreadFeet": {
+      "min": 10,
+      "max": 20
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "green",
+      "purple"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "pollinators"
+    ],
+    "deerResistant": false,
+    "notes": "Gregg's ash is a small, fine-textured evergreen-tending ash of Southwestern limestone canyons, well suited to xeric gardens. Far more drought-adapted than its large cousins, though still an emerald ash borer host.",
+    "usdaSymbol": "FRGR2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/fraxinus-greggii.jpg",
+    "imageSource": "https://www.inaturalist.org/taxa/163082",
+    "imageCredit": "iNaturalist",
+    "landscapeUses": [
+      "specimen",
+      "hedge or screen"
+    ],
+    "caterpillarHosts": 149,
+    "keystone": true
+  },
+  {
+    "id": "fraxinus-latifolia",
+    "scientificName": "Fraxinus latifolia",
+    "commonNames": [
+      "Oregon Ash"
+    ],
+    "family": "Oleaceae",
+    "nativeStates": [
+      "CA",
+      "OR",
+      "WA"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 40,
+      "max": 80
+    },
+    "spreadFeet": {
+      "min": 30,
+      "max": 50
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "green",
+      "purple"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "pollinators"
+    ],
+    "deerResistant": false,
+    "notes": "Oregon ash is the West Coast's native ash, a fast bottomland and streamside tree turning clear yellow in fall. The emerald ash borer has now reached the Pacific Northwest, so plant and monitor with care.",
+    "usdaSymbol": "FRLA",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/fraxinus-latifolia.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Fraxinus_latifolia",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "rain garden"
+    ],
+    "caterpillarHosts": 149,
+    "keystone": true
+  },
+  {
+    "id": "fraxinus-nigra",
+    "scientificName": "Fraxinus nigra",
+    "commonNames": [
+      "Black Ash"
+    ],
+    "family": "Oleaceae",
+    "nativeStates": [
+      "CT",
+      "IA",
+      "IL",
+      "IN",
+      "MA",
+      "ME",
+      "MI",
+      "MN",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 40,
+      "max": 60
+    },
+    "spreadFeet": {
+      "min": 25,
+      "max": 40
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "wet",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "green",
+      "purple"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "pollinators"
+    ],
+    "deerResistant": false,
+    "notes": "Black ash is a slow, wetland ash of northern swamps and fens, culturally vital for traditional basketry. It is among the most threatened by the emerald ash borer, lending conservation urgency to its planting.",
+    "usdaSymbol": "FRNI",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/fraxinus-nigra.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Fraxinus_nigra",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "rain garden"
+    ],
+    "caterpillarHosts": 149,
+    "keystone": true
+  },
+  {
+    "id": "fraxinus-pennsylvanica",
+    "scientificName": "Fraxinus pennsylvanica",
+    "commonNames": [
+      "Green Ash"
+    ],
+    "family": "Oleaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CO",
+      "CT",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "IA",
+      "ID",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "MT",
+      "NC",
+      "ND",
+      "NE",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "SC",
+      "SD",
+      "TN",
+      "TX",
+      "UT",
+      "VA",
+      "VT",
+      "WI",
+      "WV",
+      "WY"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 50,
+      "max": 70
+    },
+    "spreadFeet": {
+      "min": 40,
+      "max": 60
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet",
+      "dry"
+    ],
+    "soilType": [
+      "loam",
+      "clay",
+      "sandy"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "green",
+      "purple"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "pollinators"
+    ],
+    "deerResistant": false,
+    "notes": "Green ash is a fast, adaptable native ash once planted everywhere for quick shade, with golden fall color and abundant wildlife seed. The emerald ash borer has hit it hard, so weigh that risk against its toughness.",
+    "usdaSymbol": "FRPE",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline",
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/fraxinus-pennsylvanica.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Fraxinus_pennsylvanica",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "rain garden"
+    ],
+    "caterpillarHosts": 149,
+    "keystone": true
+  },
+  {
+    "id": "fraxinus-velutina",
+    "scientificName": "Fraxinus velutina",
+    "commonNames": [
+      "Velvet Ash"
+    ],
+    "family": "Oleaceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "NM",
+      "NV",
+      "TX",
+      "UT"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 30,
+      "max": 50
+    },
+    "spreadFeet": {
+      "min": 25,
+      "max": 40
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist",
+      "dry"
+    ],
+    "soilType": [
+      "loam",
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "green",
+      "purple"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "pollinators"
+    ],
+    "deerResistant": false,
+    "notes": "Velvet (Arizona) ash is a drought-tolerant Southwestern ash of desert canyons and a popular irrigated shade tree, with velvety twigs and yellow fall color. As with all ashes, consider emerald ash borer risk before planting.",
+    "usdaSymbol": "FRVE2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/fraxinus-velutina.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Fraxinus_velutina",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen"
+    ],
+    "caterpillarHosts": 149,
+    "keystone": true
   }
 ]

@@ -1,0 +1,29 @@
+Acer floridanum | Florida Maple
+Acer glabrum | Rocky Mountain Maple
+Acer leucoderme | Chalk Maple
+Acer negundo | Boxelder
+Acer nigrum | Black Maple
+Acer pensylvanicum | Striped Maple
+Acer spicatum | Mountain Maple
+Carya aquatica | Water Hickory
+Carya illinoinensis | Pecan
+Carya texana | Black Hickory
+Carya tomentosa | Mockernut Hickory
+Juglans californica | Southern California Walnut
+Juglans cinerea | Butternut
+Juglans major | Arizona Walnut
+Juglans microcarpa | Little Walnut
+Castanea dentata | American Chestnut
+Celtis laevigata | Sugarberry
+Gleditsia triacanthos | Honey Locust
+Platanus wrightii | Arizona Sycamore
+Nyssa ogeche | Ogeechee Tupelo
+Fraxinus albicans | Texas Ash
+Fraxinus americana | White Ash
+Fraxinus berlandieriana | Mexican Ash
+Fraxinus caroliniana | Carolina Ash
+Fraxinus greggii | Gregg's Ash
+Fraxinus latifolia | Oregon Ash
+Fraxinus nigra | Black Ash
+Fraxinus pennsylvanica | Green Ash
+Fraxinus velutina | Velvet Ash
