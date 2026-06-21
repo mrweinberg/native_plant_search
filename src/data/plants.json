@@ -83857,5 +83857,1880 @@
     ],
     "caterpillarHosts": 12,
     "keystone": false
+  },
+  {
+    "id": "vitis-arizonica",
+    "scientificName": "Vitis arizonica",
+    "commonNames": [
+      "Canyon Grape"
+    ],
+    "family": "Vitaceae",
+    "nativeStates": [
+      "AZ",
+      "NM",
+      "NV",
+      "TX",
+      "UT"
+    ],
+    "generalAppearance": "vine",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 15,
+      "max": 30
+    },
+    "spreadFeet": {
+      "min": 10,
+      "max": 20
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "green"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": false,
+    "notes": "Canyon grape is a vigorous Southwestern grapevine that drapes desert canyons and washes, bearing small sweet-tart grapes devoured by birds and mammals. Heat- and drought-hardy once established; give it support and room.",
+    "usdaSymbol": "VIAR2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "aggressive",
+    "springEphemeral": false,
+    "imageFile": "plants/vitis-arizonica.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Vitis_arizonica",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "groundcover",
+      "erosion control"
+    ],
+    "caterpillarHosts": 79,
+    "keystone": false
+  },
+  {
+    "id": "ilex-ambigua",
+    "scientificName": "Ilex ambigua",
+    "commonNames": [
+      "Carolina Holly"
+    ],
+    "family": "Aquifoliaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "FL",
+      "GA",
+      "LA",
+      "MS",
+      "NC",
+      "SC",
+      "TN",
+      "TX"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 6,
+      "max": 15
+    },
+    "spreadFeet": {
+      "min": 6,
+      "max": 12
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "white",
+      "green"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Carolina holly is a deciduous holly of dry Southeastern woods, dropping its leaves to reveal red berries that feed birds into winter. As with all hollies, a male plant nearby is needed for fruit.",
+    "usdaSymbol": "ILAM",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/ilex-ambigua.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Ilex_ambigua",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "hedge or screen"
+    ],
+    "caterpillarHosts": 39,
+    "keystone": false
+  },
+  {
+    "id": "ilex-amelanchier",
+    "scientificName": "Ilex amelanchier",
+    "commonNames": [
+      "Sarvis Holly"
+    ],
+    "family": "Aquifoliaceae",
+    "nativeStates": [
+      "AL",
+      "FL",
+      "LA",
+      "MS",
+      "NC",
+      "SC"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 6,
+      "max": 20
+    },
+    "spreadFeet": {
+      "min": 6,
+      "max": 12
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "wet",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "white",
+      "green"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Sarvis holly is an uncommon deciduous holly of Southeastern swamps and pond edges, with downy leaves and dull red berries for wildlife. A conservation-worthy wetland shrub for acidic, wet ground.",
+    "usdaSymbol": "ILAM2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/ilex-amelanchier.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Ilex_amelanchier",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "hedge or screen",
+      "rain garden"
+    ],
+    "caterpillarHosts": 39,
+    "keystone": false
+  },
+  {
+    "id": "ilex-cassine",
+    "scientificName": "Ilex cassine",
+    "commonNames": [
+      "Dahoon Holly"
+    ],
+    "family": "Aquifoliaceae",
+    "nativeStates": [
+      "AL",
+      "FL",
+      "GA",
+      "HI",
+      "LA",
+      "NC",
+      "SC"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 15,
+      "max": 30
+    },
+    "spreadFeet": {
+      "min": 8,
+      "max": 15
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "wet",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "white",
+      "green"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Dahoon holly is a graceful evergreen holly of Southeastern wetlands, with narrow glossy leaves and heavy crops of red berries that light up winter and feed many birds. Excellent for wet, acidic sites.",
+    "usdaSymbol": "ILCA",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/ilex-cassine.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Ilex_cassine",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "hedge or screen",
+      "rain garden"
+    ],
+    "caterpillarHosts": 39,
+    "keystone": false
+  },
+  {
+    "id": "ilex-coriacea",
+    "scientificName": "Ilex coriacea",
+    "commonNames": [
+      "Large Gallberry"
+    ],
+    "family": "Aquifoliaceae",
+    "nativeStates": [
+      "AL",
+      "FL",
+      "GA",
+      "LA",
+      "MS",
+      "NC",
+      "SC",
+      "TX",
+      "VA"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 6,
+      "max": 12
+    },
+    "spreadFeet": {
+      "min": 6,
+      "max": 10
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "wet",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "white",
+      "green"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Large gallberry, or sweet gallberry, is an evergreen wetland holly of the Southeast whose flowers yield prized gallberry honey and whose black fruit feeds birds. A suckering shrub for boggy, acidic ground.",
+    "usdaSymbol": "ILCO",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/ilex-coriacea.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Ilex_coriacea",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "hedge or screen",
+      "rain garden",
+      "erosion control"
+    ],
+    "caterpillarHosts": 39,
+    "keystone": false
+  },
+  {
+    "id": "ilex-decidua",
+    "scientificName": "Ilex decidua",
+    "commonNames": [
+      "Possumhaw"
+    ],
+    "family": "Aquifoliaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "FL",
+      "GA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MD",
+      "MO",
+      "MS",
+      "NC",
+      "OK",
+      "SC",
+      "TN",
+      "TX",
+      "VA"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 12,
+      "max": 20
+    },
+    "spreadFeet": {
+      "min": 8,
+      "max": 15
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet",
+      "dry"
+    ],
+    "soilType": [
+      "loam",
+      "clay",
+      "sandy"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "white",
+      "green"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Possumhaw is a deciduous holly grown for its spectacular winter display of scarlet berries clustered along bare gray branches, stripped slowly by birds. Adaptable to wet or dry soils in sun.",
+    "usdaSymbol": "ILDE",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/ilex-decidua.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Ilex_decidua",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "hedge or screen",
+      "rain garden"
+    ],
+    "caterpillarHosts": 39,
+    "keystone": false
+  },
+  {
+    "id": "ilex-glabra",
+    "scientificName": "Ilex glabra",
+    "commonNames": [
+      "Inkberry"
+    ],
+    "family": "Aquifoliaceae",
+    "nativeStates": [
+      "AL",
+      "CT",
+      "DE",
+      "FL",
+      "GA",
+      "LA",
+      "MA",
+      "MD",
+      "MS",
+      "NC",
+      "NJ",
+      "NY",
+      "PA",
+      "RI",
+      "SC",
+      "VA"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 5,
+      "max": 8
+    },
+    "spreadFeet": {
+      "min": 5,
+      "max": 8
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "wet",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "white",
+      "green"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Inkberry is a tidy native evergreen holly with black berries, widely used as a well-behaved boxwood alternative for hedges and foundations. Suckers into colonies; thrives on moist, acidic soil.",
+    "usdaSymbol": "ILGL",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/ilex-glabra.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Ilex_glabra",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "hedge or screen",
+      "foundation",
+      "rain garden",
+      "erosion control"
+    ],
+    "caterpillarHosts": 39,
+    "keystone": false
+  },
+  {
+    "id": "ilex-myrtifolia",
+    "scientificName": "Ilex myrtifolia",
+    "commonNames": [
+      "Myrtle Holly"
+    ],
+    "family": "Aquifoliaceae",
+    "nativeStates": [
+      "AL",
+      "FL",
+      "GA",
+      "LA",
+      "MS",
+      "NC",
+      "SC"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 10,
+      "max": 20
+    },
+    "spreadFeet": {
+      "min": 8,
+      "max": 12
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "wet",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "white",
+      "green"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Myrtle holly is a fine-textured evergreen holly of Southeastern wetlands, with tiny needle-like leaves and red berries. A drought- and flood-tolerant small tree once established, valuable for birds.",
+    "usdaSymbol": "ILMY",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/ilex-myrtifolia.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Ilex_myrtifolia",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "hedge or screen",
+      "rain garden"
+    ],
+    "caterpillarHosts": 39,
+    "keystone": false
+  },
+  {
+    "id": "lonicera-albiflora",
+    "scientificName": "Lonicera albiflora",
+    "commonNames": [
+      "White Honeysuckle"
+    ],
+    "family": "Caprifoliaceae",
+    "nativeStates": [
+      "AZ",
+      "NM",
+      "OK",
+      "TX"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 10
+    },
+    "spreadFeet": {
+      "min": 4,
+      "max": 10
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "hummingbirds",
+      "pollinators",
+      "songbirds",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "White honeysuckle is a sprawling, twining native honeysuckle of Texas and the Southwest, with creamy spring flowers and translucent red berries for birds. Drought-tough for dry slopes and fences.",
+    "usdaSymbol": "LOAL",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/lonicera-albiflora.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Lonicera_albiflora",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "hedge or screen",
+      "erosion control"
+    ],
+    "caterpillarHosts": 37,
+    "keystone": false
+  },
+  {
+    "id": "lonicera-ciliosa",
+    "scientificName": "Lonicera ciliosa",
+    "commonNames": [
+      "Orange Honeysuckle"
+    ],
+    "family": "Caprifoliaceae",
+    "nativeStates": [
+      "CA",
+      "ID",
+      "MT",
+      "OR",
+      "WA"
+    ],
+    "generalAppearance": "vine",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 10,
+      "max": 20
+    },
+    "spreadFeet": {
+      "min": 3,
+      "max": 8
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "orange",
+      "red"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "hummingbirds",
+      "pollinators",
+      "songbirds",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Orange honeysuckle is a twining Pacific Northwest vine hung with whorls of orange-red trumpet flowers that hummingbirds chase, followed by red berries. A well-behaved native climber for part shade.",
+    "usdaSymbol": "LOCI3",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/lonicera-ciliosa.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Lonicera_ciliosa",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "groundcover",
+      "erosion control"
+    ],
+    "caterpillarHosts": 37,
+    "keystone": false
+  },
+  {
+    "id": "parthenocissus-heptaphylla",
+    "scientificName": "Parthenocissus heptaphylla",
+    "commonNames": [
+      "Sevenleaf Creeper"
+    ],
+    "family": "Vitaceae",
+    "nativeStates": [
+      "TX"
+    ],
+    "generalAppearance": "vine",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 15,
+      "max": 30
+    },
+    "spreadFeet": {
+      "min": 6,
+      "max": 15
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "green"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "pollinators"
+    ],
+    "deerResistant": false,
+    "notes": "Sevenleaf creeper is a Texas-endemic woodbine relative with handsome seven-fingered leaves that turn red in fall and dark berries relished by birds. A heat- and drought-hardy native climber for walls and arbors.",
+    "usdaSymbol": "PAHE4",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "aggressive",
+    "springEphemeral": false,
+    "imageFile": "plants/parthenocissus-heptaphylla.jpg",
+    "imageSource": "https://www.inaturalist.org/taxa/166161",
+    "imageCredit": "iNaturalist",
+    "landscapeUses": [
+      "groundcover",
+      "erosion control"
+    ],
+    "caterpillarHosts": 32,
+    "keystone": false
+  },
+  {
+    "id": "symphoricarpos-longiflorus",
+    "scientificName": "Symphoricarpos longiflorus",
+    "commonNames": [
+      "Desert Snowberry"
+    ],
+    "family": "Caprifoliaceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "NV",
+      "TX",
+      "UT"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 5
+    },
+    "spreadFeet": {
+      "min": 3,
+      "max": 5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "pink",
+      "white"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds",
+      "songbirds"
+    ],
+    "deerResistant": false,
+    "notes": "Desert snowberry is a wiry Western shrub bearing fragrant, tubular pink flowers that draw hummingbirds, followed by waxy white berries for birds. Drought- and cold-hardy for dry, rocky slopes.",
+    "usdaSymbol": "SYLO",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/symphoricarpos-longiflorus.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Symphoricarpos_longiflorus",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "hedge or screen",
+      "foundation",
+      "erosion control"
+    ],
+    "caterpillarHosts": 25,
+    "keystone": false
+  },
+  {
+    "id": "symphoricarpos-mollis",
+    "scientificName": "Symphoricarpos mollis",
+    "commonNames": [
+      "Creeping Snowberry"
+    ],
+    "family": "Caprifoliaceae",
+    "nativeStates": [
+      "CA",
+      "ID",
+      "OR",
+      "WA"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 3,
+      "max": 6
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "pink",
+      "white"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "hummingbirds"
+    ],
+    "deerResistant": false,
+    "notes": "Creeping snowberry is a low, trailing Western groundcover shrub with small pink flowers and white berries, rooting as it spreads over dry, shaded slopes. A useful native bank cover under oaks and pines.",
+    "usdaSymbol": "SYMO",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/symphoricarpos-mollis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Symphoricarpos_mollis",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "foundation",
+      "groundcover",
+      "container",
+      "erosion control"
+    ],
+    "caterpillarHosts": 25,
+    "keystone": false
+  },
+  {
+    "id": "magnolia-pyramidata",
+    "scientificName": "Magnolia pyramidata",
+    "commonNames": [
+      "Pyramid Magnolia"
+    ],
+    "family": "Magnoliaceae",
+    "nativeStates": [
+      "AL",
+      "FL",
+      "GA",
+      "LA",
+      "MS"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 15,
+      "max": 30
+    },
+    "spreadFeet": {
+      "min": 12,
+      "max": 20
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "sandy"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds"
+    ],
+    "deerResistant": false,
+    "notes": "Pyramid magnolia is a small deciduous magnolia of rich Southeastern woods, with big paddle-shaped leaves splayed in tiers and creamy white spring flowers. An elegant understory tree for moist, acidic shade.",
+    "usdaSymbol": "MAPY",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/magnolia-pyramidata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Magnolia_fraseri",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "hedge or screen"
+    ],
+    "caterpillarHosts": 21,
+    "keystone": false
+  },
+  {
+    "id": "smilax-smallii",
+    "scientificName": "Smilax smallii",
+    "commonNames": [
+      "Lanceleaf Greenbrier"
+    ],
+    "family": "Smilacaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "FL",
+      "GA",
+      "LA",
+      "MS",
+      "NC",
+      "SC",
+      "TX"
+    ],
+    "generalAppearance": "vine",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 10,
+      "max": 25
+    },
+    "spreadFeet": {
+      "min": 4,
+      "max": 10
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "green",
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": false,
+    "notes": "Lanceleaf greenbrier, or Jackson vine, is a nearly thornless evergreen Southern vine long cut for holiday greenery, with glossy leaves and dark berries for birds. A handsome native climber for fences and arbors.",
+    "usdaSymbol": "SMSM",
+    "nativeRegions": [
+      "L48",
+      "PR"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "aggressive",
+    "springEphemeral": false,
+    "imageFile": "plants/smilax-smallii.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Smilax_maritima",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "groundcover",
+      "erosion control"
+    ],
+    "caterpillarHosts": 19,
+    "keystone": false
+  },
+  {
+    "id": "persea-palustris",
+    "scientificName": "Persea palustris",
+    "commonNames": [
+      "Swamp Bay"
+    ],
+    "family": "Lauraceae",
+    "nativeStates": [
+      "AL",
+      "FL",
+      "GA",
+      "LA",
+      "MS",
+      "NC",
+      "SC",
+      "TX",
+      "VA"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 20,
+      "max": 40
+    },
+    "spreadFeet": {
+      "min": 15,
+      "max": 25
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "wet",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "white",
+      "green",
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "butterflies",
+      "larval host",
+      "songbirds",
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Swamp bay is an aromatic evergreen tree of Southeastern wetlands, a key larval host for palamedes and spicebush swallowtails, with blue fruit for birds. Note that laurel wilt disease now threatens redbays across the South.",
+    "usdaSymbol": "PEPA37",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/persea-palustris.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Tamala_palustris",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "rain garden"
+    ],
+    "caterpillarHosts": 18,
+    "keystone": false
+  },
+  {
+    "id": "asimina-angustifolia",
+    "scientificName": "Asimina angustifolia",
+    "commonNames": [
+      "Slimleaf Pawpaw"
+    ],
+    "family": "Annonaceae",
+    "nativeStates": [
+      "FL",
+      "GA"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 5
+    },
+    "spreadFeet": {
+      "min": 3,
+      "max": 6
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "butterflies",
+      "larval host",
+      "pollinators",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Slimleaf pawpaw is a sandhill pawpaw of the Southeast with large, fragrant white flowers and edible yellow fruit, and a host for the zebra swallowtail. Drought-hardy and deer-resistant on deep, dry sand.",
+    "usdaSymbol": "ASAN6",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/asimina-angustifolia.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Asimina_longifolia",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "hedge or screen",
+      "foundation",
+      "erosion control"
+    ],
+    "caterpillarHosts": 12,
+    "keystone": false
+  },
+  {
+    "id": "asimina-obovata",
+    "scientificName": "Asimina obovata",
+    "commonNames": [
+      "Bigflower Pawpaw"
+    ],
+    "family": "Annonaceae",
+    "nativeStates": [
+      "FL"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 10
+    },
+    "spreadFeet": {
+      "min": 4,
+      "max": 8
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "butterflies",
+      "larval host",
+      "pollinators",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Bigflower pawpaw is a Florida-scrub shrub bearing showy, fragrant white flowers up to four inches across and sweet edible fruit, hosting the zebra swallowtail. A drought- and deer-resistant scrub specialist.",
+    "usdaSymbol": "ASOB6",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/asimina-obovata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Asimina_obovata",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "hedge or screen"
+    ],
+    "caterpillarHosts": 12,
+    "keystone": false
+  },
+  {
+    "id": "asimina-parviflora",
+    "scientificName": "Asimina parviflora",
+    "commonNames": [
+      "Smallflower Pawpaw"
+    ],
+    "family": "Annonaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "FL",
+      "GA",
+      "LA",
+      "MS",
+      "NC",
+      "SC",
+      "TX"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 6
+    },
+    "spreadFeet": {
+      "min": 3,
+      "max": 6
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "purple",
+      "red"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "butterflies",
+      "larval host",
+      "pollinators",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Smallflower pawpaw is a small understory pawpaw of Southeastern woods with maroon bell flowers and edible fruit, a zebra swallowtail host. Spreads modestly in dry to moist acidic shade and resists deer.",
+    "usdaSymbol": "ASPA18",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/asimina-parviflora.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Asimina_parviflora",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "hedge or screen",
+      "foundation",
+      "erosion control"
+    ],
+    "caterpillarHosts": 12,
+    "keystone": false
+  },
+  {
+    "id": "asimina-pygmea",
+    "scientificName": "Asimina pygmea",
+    "commonNames": [
+      "Dwarf Pawpaw"
+    ],
+    "family": "Annonaceae",
+    "nativeStates": [
+      "FL"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5
+    ],
+    "bloomColors": [
+      "white",
+      "purple"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "butterflies",
+      "larval host",
+      "pollinators",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Dwarf pawpaw is a knee-high pawpaw of Florida pine flatwoods with creamy-to-maroon flowers and edible fruit, hosting the zebra swallowtail. A diminutive, deer-resistant groundlayer shrub for dry sand.",
+    "usdaSymbol": "ASPY2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/asimina-pygmea.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Asimina_pygmaea",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "foundation",
+      "erosion control"
+    ],
+    "caterpillarHosts": 12,
+    "keystone": false
+  },
+  {
+    "id": "euonymus-atropurpureus",
+    "scientificName": "Euonymus atropurpureus",
+    "commonNames": [
+      "Eastern Wahoo"
+    ],
+    "family": "Celastraceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "MD",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "NE",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "TN",
+      "TX",
+      "VA",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 12,
+      "max": 20
+    },
+    "spreadFeet": {
+      "min": 10,
+      "max": 15
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "purple",
+      "red"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "pollinators",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Eastern wahoo is a native shrub or small tree grown for its dramatic fall show of rose-red capsules that split to reveal scarlet seeds, devoured by birds. Note the seeds are toxic to people. Best in moist part shade.",
+    "usdaSymbol": "EUAT5",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "acidic",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/euonymus-atropurpureus.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Euonymus_atropurpureus",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "hedge or screen"
+    ],
+    "caterpillarHosts": 11,
+    "keystone": false
+  },
+  {
+    "id": "frangula-caroliniana",
+    "scientificName": "Frangula caroliniana",
+    "commonNames": [
+      "Carolina Buckthorn"
+    ],
+    "family": "Rhamnaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "FL",
+      "GA",
+      "IL",
+      "IN",
+      "KY",
+      "LA",
+      "MO",
+      "MS",
+      "NC",
+      "OH",
+      "OK",
+      "SC",
+      "TN",
+      "TX",
+      "VA"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 10,
+      "max": 15
+    },
+    "spreadFeet": {
+      "min": 8,
+      "max": 12
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "dry"
+    ],
+    "soilType": [
+      "loam",
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "green",
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Carolina buckthorn is a well-behaved native buckthorn (unlike the invasive European species), a small tree with glossy leaves and berries that ripen red to black for birds. A handsome wildlife shrub for sun or part shade.",
+    "usdaSymbol": "FRCA13",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline",
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/frangula-caroliniana.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Frangula_caroliniana",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "hedge or screen"
+    ],
+    "caterpillarHosts": 11,
+    "keystone": false
+  },
+  {
+    "id": "rhamnus-crocea",
+    "scientificName": "Rhamnus crocea",
+    "commonNames": [
+      "Redberry Buckthorn"
+    ],
+    "family": "Rhamnaceae",
+    "nativeStates": [
+      "AZ",
+      "CA"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 6
+    },
+    "spreadFeet": {
+      "min": 3,
+      "max": 6
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "green",
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "pollinators",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Redberry buckthorn is a stiff, spiny California evergreen shrub with tiny holly-like leaves and bright red berries that feed birds. Exceptionally drought- and heat-tolerant for dry chaparral gardens.",
+    "usdaSymbol": "RHCR",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/rhamnus-crocea.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Rhamnus_crocea",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "hedge or screen",
+      "foundation"
+    ],
+    "caterpillarHosts": 10,
+    "keystone": false
+  },
+  {
+    "id": "rhamnus-lanceolata",
+    "scientificName": "Rhamnus lanceolata",
+    "commonNames": [
+      "Lanceleaf Buckthorn"
+    ],
+    "family": "Rhamnaceae",
+    "nativeStates": [
+      "AR",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "MO",
+      "NE",
+      "PA",
+      "TN",
+      "VA"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 6
+    },
+    "spreadFeet": {
+      "min": 4,
+      "max": 6
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "dry"
+    ],
+    "soilType": [
+      "loam",
+      "rocky",
+      "clay"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "green"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "pollinators",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Lanceleaf buckthorn is a modest native buckthorn of Eastern and Midwestern woods and glades, with inconspicuous flowers and black fruit for birds. A larval host and understory shrub for varied soils.",
+    "usdaSymbol": "RHLA",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline",
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/rhamnus-lanceolata.jpg",
+    "imageSource": "https://www.inaturalist.org/taxa/167789",
+    "imageCredit": "iNaturalist",
+    "landscapeUses": [
+      "hedge or screen",
+      "foundation"
+    ],
+    "caterpillarHosts": 10,
+    "keystone": false
   }
 ]

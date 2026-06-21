@@ -1,0 +1,24 @@
+Vitis arizonica | Canyon Grape
+Ilex ambigua | Carolina Holly
+Ilex amelanchier | Sarvis Holly
+Ilex cassine | Dahoon Holly
+Ilex coriacea | Large Gallberry
+Ilex decidua | Possumhaw
+Ilex glabra | Inkberry
+Ilex myrtifolia | Myrtle Holly
+Lonicera albiflora | White Honeysuckle
+Lonicera ciliosa | Orange Honeysuckle
+Parthenocissus heptaphylla | Sevenleaf Creeper
+Symphoricarpos longiflorus | Desert Snowberry
+Symphoricarpos mollis | Creeping Snowberry
+Magnolia pyramidata | Pyramid Magnolia
+Smilax smallii | Lanceleaf Greenbrier
+Persea palustris | Swamp Bay
+Asimina angustifolia | Slimleaf Pawpaw
+Asimina obovata | Bigflower Pawpaw
+Asimina parviflora | Smallflower Pawpaw
+Asimina pygmea | Dwarf Pawpaw
+Euonymus atropurpureus | Eastern Wahoo
+Frangula caroliniana | Carolina Buckthorn
+Rhamnus crocea | Redberry Buckthorn
+Rhamnus lanceolata | Lanceleaf Buckthorn
