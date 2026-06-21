@@ -82,12 +82,18 @@ const suggestions = computed(() => {
   const { light, moist } = profile.value
   const have = favoriteSet.value
   const loc = location.value
+  // Keep suggestions regionally plantable: a home state if one is set, otherwise
+  // the combined native range of the saved plants, so the plan holds together.
+  const favStates = new Set()
+  if (!loc) for (const p of plants.value) for (const s of p.nativeStates || []) favStates.add(s)
   const scored = []
   for (const p of allPlants.value) {
     if (have.has(p.id)) continue
-    // With a home state set, only suggest plants native there — a national
-    // catalog would otherwise recommend a plant that won't grow in your garden.
-    if (loc && !(p.nativeStates || []).includes(loc)) continue
+    if (loc) {
+      if (!(p.nativeStates || []).includes(loc)) continue
+    } else if (favStates.size && !(p.nativeStates || []).some((s) => favStates.has(s))) {
+      continue
+    }
     const fills = (p.bloomMonths || []).filter((m) => gapMonths.has(m))
     if (!fills.length) continue
     const lOverlap = [...lightSet(p)].filter((x) => light.has(x)).length
@@ -100,11 +106,14 @@ const suggestions = computed(() => {
       score: fills.length * 10 + lOverlap + mOverlap,
     })
   }
-  scored.sort(
-    (a, b) =>
-      b.score - a.score ||
-      a.plant.commonNames[0].localeCompare(b.plant.commonNames[0]),
-  )
+  scored.sort((a, b) => {
+    if (b.score !== a.score) return b.score - a.score
+    // Tie-break toward higher ecological (caterpillar) value.
+    const ae = a.plant.caterpillarHosts || 0
+    const be = b.plant.caterpillarHosts || 0
+    if (be !== ae) return be - ae
+    return a.plant.commonNames[0].localeCompare(b.plant.commonNames[0])
+  })
   return scored.slice(0, 6)
 })
 

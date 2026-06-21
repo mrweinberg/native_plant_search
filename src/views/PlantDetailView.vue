@@ -35,9 +35,14 @@ function bloomSuccessionBonus(a, b) {
 const companions = computed(() => {
   const target = plant.value
   if (!target) return []
+  // Companions must share part of the target's native range, so they actually
+  // grow in the same region (the catalog is national — a California plant should
+  // not be paired with an Eastern bog plant just because their soils match).
+  const targetStates = new Set(target.nativeStates || [])
   const scored = []
   for (const p of allPlants.value) {
     if (p.id === target.id) continue
+    if (targetStates.size && !(p.nativeStates || []).some((s) => targetStates.has(s))) continue
     const conditions =
       3 * overlap(p.lightRequirement, target.lightRequirement) +
       2 * overlap(p.soilMoisture, target.soilMoisture) +
@@ -49,6 +54,10 @@ const companions = computed(() => {
   }
   scored.sort((a, b) => {
     if (b.score !== a.score) return b.score - a.score
+    // Among equally compatible plants, surface higher ecological (caterpillar) value.
+    const ae = a.plant.caterpillarHosts || 0
+    const be = b.plant.caterpillarHosts || 0
+    if (be !== ae) return be - ae
     return a.plant.commonNames[0].localeCompare(b.plant.commonNames[0])
   })
   return scored.slice(0, 6).map((s) => s.plant)
