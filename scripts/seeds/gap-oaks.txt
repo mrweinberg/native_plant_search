@@ -1,0 +1,30 @@
+Quercus arkansana | Arkansas Oak
+Quercus bicolor | Swamp White Oak
+Quercus buckleyi | Texas Red Oak
+Quercus chapmanii | Chapman Oak
+Quercus chrysolepis | Canyon Live Oak
+Quercus dumosa | Coastal Sage Scrub Oak
+Quercus ellipsoidalis | Northern Pin Oak
+Quercus engelmannii | Engelmann Oak
+Quercus falcata | Southern Red Oak
+Quercus fusiformis | Escarpment Live Oak
+Quercus grisea | Gray Oak
+Quercus havardii | Havard Shin Oak
+Quercus hemisphaerica | Darlington Oak
+Quercus ilicifolia | Bear Oak
+Quercus imbricaria | Shingle Oak
+Quercus incana | Bluejack Oak
+Quercus laceyi | Lacey Oak
+Quercus laevis | Turkey Oak
+Quercus laurifolia | Laurel Oak
+Quercus marilandica | Blackjack Oak
+Quercus michauxii | Swamp Chestnut Oak
+Quercus mohriana | Mohr Oak
+Quercus myrtifolia | Myrtle Oak
+Quercus pagoda | Cherrybark Oak
+Quercus sinuata | Bastard Oak
+Quercus stellata | Post Oak
+Quercus texana | Nuttall Oak
+Quercus turbinella | Sonoran Scrub Oak
+Quercus vaseyana | Vasey Shin Oak
+Quercus wislizeni | Interior Live Oak

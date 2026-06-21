@@ -67028,5 +67028,2325 @@
     ],
     "caterpillarHosts": 68,
     "keystone": false
+  },
+  {
+    "id": "quercus-arkansana",
+    "scientificName": "Quercus arkansana",
+    "commonNames": [
+      "Arkansas Oak"
+    ],
+    "family": "Fagaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "FL",
+      "GA",
+      "LA"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 30,
+      "max": 50
+    },
+    "spreadFeet": {
+      "min": 25,
+      "max": 40
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "yellow",
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "mammals",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "A small red oak of sandy uplands and stream terraces in the Gulf states, with glossy leaves and a tidy rounded crown. Acorns feed turkey, deer, and squirrels; foliage hosts hundreds of caterpillars.",
+    "usdaSymbol": "QUAR2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/quercus-arkansana.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Quercus_arkansana",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen"
+    ],
+    "caterpillarHosts": 557,
+    "keystone": true
+  },
+  {
+    "id": "quercus-bicolor",
+    "scientificName": "Quercus bicolor",
+    "commonNames": [
+      "Swamp White Oak"
+    ],
+    "family": "Fagaceae",
+    "nativeStates": [
+      "CT",
+      "DC",
+      "DE",
+      "IA",
+      "IL",
+      "IN",
+      "KY",
+      "MA",
+      "MD",
+      "MI",
+      "MN",
+      "MO",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "RI",
+      "TN",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 50,
+      "max": 70
+    },
+    "spreadFeet": {
+      "min": 50,
+      "max": 70
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "yellow",
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "mammals",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Swamp white oak is one of the best native shade trees for wet or poorly drained ground, with lustrous two-toned leaves and handsome peeling bark. Fast-growing, long-lived, and a powerhouse caterpillar host.",
+    "usdaSymbol": "QUBI",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/quercus-bicolor.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Quercus_bicolor",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "rain garden"
+    ],
+    "caterpillarHosts": 557,
+    "keystone": true
+  },
+  {
+    "id": "quercus-buckleyi",
+    "scientificName": "Quercus buckleyi",
+    "commonNames": [
+      "Texas Red Oak"
+    ],
+    "family": "Fagaceae",
+    "nativeStates": [
+      "TX"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 20,
+      "max": 40
+    },
+    "spreadFeet": {
+      "min": 20,
+      "max": 30
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "yellow",
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "mammals",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Texas red oak brings reliable scarlet fall color to the limestone hills of central Texas, thriving on dry, rocky, alkaline soils where larger oaks struggle. Drought-tough and well scaled for smaller yards.",
+    "usdaSymbol": "QUBU2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/quercus-buckleyi.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Quercus_buckleyi",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen"
+    ],
+    "caterpillarHosts": 557,
+    "keystone": true
+  },
+  {
+    "id": "quercus-chapmanii",
+    "scientificName": "Quercus chapmanii",
+    "commonNames": [
+      "Chapman Oak"
+    ],
+    "family": "Fagaceae",
+    "nativeStates": [
+      "FL",
+      "GA"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 10,
+      "max": 25
+    },
+    "spreadFeet": {
+      "min": 10,
+      "max": 20
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "yellow",
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "mammals",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Chapman oak is a shrubby evergreen oak of Florida and Gulf-coast scrub, holding leathery leaves through winter on deep, dry sand. A key component of imperiled scrub habitat and a host for scrub-specialist wildlife.",
+    "usdaSymbol": "QUCH",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/quercus-chapmanii.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Quercus_chapmanii",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "hedge or screen",
+      "erosion control"
+    ],
+    "caterpillarHosts": 557,
+    "keystone": true
+  },
+  {
+    "id": "quercus-chrysolepis",
+    "scientificName": "Quercus chrysolepis",
+    "commonNames": [
+      "Canyon Live Oak"
+    ],
+    "family": "Fagaceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "OR"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 20,
+      "max": 60
+    },
+    "spreadFeet": {
+      "min": 30,
+      "max": 50
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "rocky",
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "yellow",
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "mammals",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Canyon live oak is a sturdy evergreen oak of western canyons and slopes, with hard wood and golden-fuzzed young acorns. Tolerates rocky ground and shade, anchoring foothill and montane woodlands.",
+    "usdaSymbol": "QUCH2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/quercus-chrysolepis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Quercus_chrysolepis",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen"
+    ],
+    "caterpillarHosts": 557,
+    "keystone": true
+  },
+  {
+    "id": "quercus-dumosa",
+    "scientificName": "Quercus dumosa",
+    "commonNames": [
+      "Coastal Sage Scrub Oak"
+    ],
+    "family": "Fagaceae",
+    "nativeStates": [
+      "CA"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 10
+    },
+    "spreadFeet": {
+      "min": 6,
+      "max": 12
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "yellow",
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "mammals",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Coastal sage scrub oak is a low evergreen oak of southern California's coastal chaparral, forming dense thickets that shelter birds and small mammals. Drought-hardy and valuable for restoring rare scrub habitat.",
+    "usdaSymbol": "QUDU",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/quercus-dumosa.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Quercus_dumosa",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "hedge or screen",
+      "erosion control"
+    ],
+    "caterpillarHosts": 557,
+    "keystone": true
+  },
+  {
+    "id": "quercus-ellipsoidalis",
+    "scientificName": "Quercus ellipsoidalis",
+    "commonNames": [
+      "Northern Pin Oak"
+    ],
+    "family": "Fagaceae",
+    "nativeStates": [
+      "IA",
+      "IL",
+      "IN",
+      "MI",
+      "MN",
+      "WI"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 40,
+      "max": 60
+    },
+    "spreadFeet": {
+      "min": 30,
+      "max": 45
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "yellow",
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "mammals",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Northern pin oak thrives on dry, sandy, acidic soils of the upper Midwest, lighting up in deep red each fall. A tough, fast red oak for poor ground where many shade trees fail.",
+    "usdaSymbol": "QUEL",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/quercus-ellipsoidalis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Quercus_ellipsoidalis",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen"
+    ],
+    "caterpillarHosts": 557,
+    "keystone": true
+  },
+  {
+    "id": "quercus-engelmannii",
+    "scientificName": "Quercus engelmannii",
+    "commonNames": [
+      "Engelmann Oak"
+    ],
+    "family": "Fagaceae",
+    "nativeStates": [
+      "CA"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 30,
+      "max": 50
+    },
+    "spreadFeet": {
+      "min": 40,
+      "max": 60
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "clay",
+      "loam"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "yellow",
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "mammals",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Engelmann oak is a rare, broad-crowned oak of southern California's inland valleys and foothills, semi-evergreen with blue-green leaves. A signature tree of vanishing oak savanna, prized and increasingly protected.",
+    "usdaSymbol": "QUEN",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/quercus-engelmannii.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Quercus_engelmannii",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen"
+    ],
+    "caterpillarHosts": 557,
+    "keystone": true
+  },
+  {
+    "id": "quercus-falcata",
+    "scientificName": "Quercus falcata",
+    "commonNames": [
+      "Southern Red Oak"
+    ],
+    "family": "Fagaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "IL",
+      "IN",
+      "KY",
+      "LA",
+      "MD",
+      "MO",
+      "MS",
+      "NC",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "WV"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 50,
+      "max": 80
+    },
+    "spreadFeet": {
+      "min": 50,
+      "max": 70
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "yellow",
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "mammals",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Southern red oak is a large, drought-tolerant upland oak of the Southeast, with deeply cut, bell-based leaves and a spreading crown. A fast-growing shade tree and heavy acorn producer for wildlife.",
+    "usdaSymbol": "QUFA",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/quercus-falcata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Quercus_falcata",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen"
+    ],
+    "caterpillarHosts": 557,
+    "keystone": true
+  },
+  {
+    "id": "quercus-fusiformis",
+    "scientificName": "Quercus fusiformis",
+    "commonNames": [
+      "Escarpment Live Oak"
+    ],
+    "family": "Fagaceae",
+    "nativeStates": [
+      "TX"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 20,
+      "max": 45
+    },
+    "spreadFeet": {
+      "min": 30,
+      "max": 50
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "yellow",
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "mammals",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Escarpment live oak is the cold- and drought-hardy live oak of the Texas Hill Country, evergreen and immensely tough on thin limestone soils. Spreads into picturesque mottes that define the central Texas landscape.",
+    "usdaSymbol": "QUFU",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/quercus-fusiformis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Quercus_fusiformis",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen"
+    ],
+    "caterpillarHosts": 557,
+    "keystone": true
+  },
+  {
+    "id": "quercus-grisea",
+    "scientificName": "Quercus grisea",
+    "commonNames": [
+      "Gray Oak"
+    ],
+    "family": "Fagaceae",
+    "nativeStates": [
+      "AZ",
+      "NM",
+      "TX"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 6,
+      "max": 20
+    },
+    "spreadFeet": {
+      "min": 10,
+      "max": 20
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "yellow",
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "mammals",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Gray oak is a small, gray-leaved oak of Southwestern mountains and high desert, often shrubby on rocky slopes. Drought-adapted and an important acorn and host resource in arid uplands.",
+    "usdaSymbol": "QUGR3",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/quercus-grisea.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Quercus_grisea",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "hedge or screen",
+      "erosion control"
+    ],
+    "caterpillarHosts": 557,
+    "keystone": true
+  },
+  {
+    "id": "quercus-havardii",
+    "scientificName": "Quercus havardii",
+    "commonNames": [
+      "Havard Shin Oak"
+    ],
+    "family": "Fagaceae",
+    "nativeStates": [
+      "AZ",
+      "NM",
+      "OK",
+      "TX",
+      "UT"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 5
+    },
+    "spreadFeet": {
+      "min": 8,
+      "max": 20
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "yellow",
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "mammals",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Havard shin oak is a knee-high, rhizomatous oak that binds the deep sands of the Southern Plains into vast clonal 'shinnery' colonies. Ecologically vital for sand-dune stabilization and the lesser prairie-chicken.",
+    "usdaSymbol": "QUHA3",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "aggressive",
+    "springEphemeral": false,
+    "imageFile": "plants/quercus-havardii.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Quercus_havardii",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "hedge or screen",
+      "foundation",
+      "erosion control"
+    ],
+    "caterpillarHosts": 557,
+    "keystone": true
+  },
+  {
+    "id": "quercus-hemisphaerica",
+    "scientificName": "Quercus hemisphaerica",
+    "commonNames": [
+      "Darlington Oak"
+    ],
+    "family": "Fagaceae",
+    "nativeStates": [
+      "AL",
+      "FL",
+      "GA",
+      "LA",
+      "MS",
+      "NC",
+      "SC",
+      "TX"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 40,
+      "max": 60
+    },
+    "spreadFeet": {
+      "min": 35,
+      "max": 50
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "yellow",
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "mammals",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Darlington oak is a fast, semi-evergreen laurel-leaved oak of Southeastern sandy uplands, holding glossy foliage well into winter. A popular tough street and shade tree across the lower South.",
+    "usdaSymbol": "QUHE2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/quercus-hemisphaerica.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Quercus_hemisphaerica",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen"
+    ],
+    "caterpillarHosts": 557,
+    "keystone": true
+  },
+  {
+    "id": "quercus-ilicifolia",
+    "scientificName": "Quercus ilicifolia",
+    "commonNames": [
+      "Bear Oak"
+    ],
+    "family": "Fagaceae",
+    "nativeStates": [
+      "CT",
+      "MA",
+      "MD",
+      "ME",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "PA",
+      "RI",
+      "VA",
+      "WV"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 4,
+      "max": 12
+    },
+    "spreadFeet": {
+      "min": 8,
+      "max": 15
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      5
+    ],
+    "bloomColors": [
+      "yellow",
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "mammals",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Bear oak is a thicket-forming scrub oak of Northeastern barrens and rocky ridgetops, thriving where soils are too poor and dry for most trees. Heavy acorn crops feed birds and mammals through winter.",
+    "usdaSymbol": "QUIL",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/quercus-ilicifolia.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Quercus_ilicifolia",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "hedge or screen",
+      "erosion control"
+    ],
+    "caterpillarHosts": 557,
+    "keystone": true
+  },
+  {
+    "id": "quercus-imbricaria",
+    "scientificName": "Quercus imbricaria",
+    "commonNames": [
+      "Shingle Oak"
+    ],
+    "family": "Fagaceae",
+    "nativeStates": [
+      "AR",
+      "DC",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "MD",
+      "MI",
+      "MO",
+      "NC",
+      "NY",
+      "OH",
+      "PA",
+      "TN",
+      "VA",
+      "WV"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 40,
+      "max": 60
+    },
+    "spreadFeet": {
+      "min": 40,
+      "max": 60
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      5
+    ],
+    "bloomColors": [
+      "yellow",
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "mammals",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Shingle oak is unusual among oaks for its smooth, unlobed laurel-like leaves, many held coppery through winter. Adaptable and tolerant of pruning, it makes an excellent large hedge or screen as well as a shade tree.",
+    "usdaSymbol": "QUIM",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/quercus-imbricaria.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Quercus_imbricaria",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen"
+    ],
+    "caterpillarHosts": 557,
+    "keystone": true
+  },
+  {
+    "id": "quercus-incana",
+    "scientificName": "Quercus incana",
+    "commonNames": [
+      "Bluejack Oak"
+    ],
+    "family": "Fagaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "FL",
+      "GA",
+      "LA",
+      "MS",
+      "NC",
+      "SC",
+      "TX",
+      "VA"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 15,
+      "max": 30
+    },
+    "spreadFeet": {
+      "min": 15,
+      "max": 25
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "yellow",
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "mammals",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Bluejack oak is a small sandhill oak of the Southeast, named for the blue-gray cast of its narrow leaves. A drought-hardy host tree of deep, dry sands and longleaf-pine sandhills.",
+    "usdaSymbol": "QUIN",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/quercus-incana.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Quercus_incana",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "hedge or screen"
+    ],
+    "caterpillarHosts": 557,
+    "keystone": true
+  },
+  {
+    "id": "quercus-laceyi",
+    "scientificName": "Quercus laceyi",
+    "commonNames": [
+      "Lacey Oak"
+    ],
+    "family": "Fagaceae",
+    "nativeStates": [
+      "TX"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 20,
+      "max": 35
+    },
+    "spreadFeet": {
+      "min": 20,
+      "max": 30
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "loam"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "yellow",
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "mammals",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Lacey oak is a refined small oak of the Texas Hill Country limestone, with soft blue-green leaves that emerge peach-pink. Drought- and heat-proof, it is one of the best native shade trees for small alkaline-soil gardens.",
+    "usdaSymbol": "QULA",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/quercus-laceyi.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Quercus_laceyi",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen"
+    ],
+    "caterpillarHosts": 557,
+    "keystone": true
+  },
+  {
+    "id": "quercus-laevis",
+    "scientificName": "Quercus laevis",
+    "commonNames": [
+      "Turkey Oak"
+    ],
+    "family": "Fagaceae",
+    "nativeStates": [
+      "AL",
+      "FL",
+      "GA",
+      "LA",
+      "MS",
+      "NC",
+      "SC",
+      "VA"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 20,
+      "max": 40
+    },
+    "spreadFeet": {
+      "min": 20,
+      "max": 30
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "yellow",
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "mammals",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Turkey oak is the characteristic oak of Southeastern sandhills, with large, three-lobed leaves that turn red in fall and twist to face the sun. Thrives on the driest, deepest sands alongside longleaf pine.",
+    "usdaSymbol": "QULA2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/quercus-laevis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Quercus_laevis",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen"
+    ],
+    "caterpillarHosts": 557,
+    "keystone": true
+  },
+  {
+    "id": "quercus-laurifolia",
+    "scientificName": "Quercus laurifolia",
+    "commonNames": [
+      "Laurel Oak"
+    ],
+    "family": "Fagaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "FL",
+      "GA",
+      "LA",
+      "MS",
+      "NC",
+      "SC",
+      "TX",
+      "VA"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 40,
+      "max": 70
+    },
+    "spreadFeet": {
+      "min": 35,
+      "max": 45
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "yellow",
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "mammals",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Laurel oak is a fast-growing, semi-evergreen oak of Southeastern bottomlands and stream edges, holding glossy leaves nearly year-round. A quick shade producer that pours out acorns for wildlife.",
+    "usdaSymbol": "QULA3",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/quercus-laurifolia.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Quercus_laurifolia",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "rain garden"
+    ],
+    "caterpillarHosts": 557,
+    "keystone": true
+  },
+  {
+    "id": "quercus-marilandica",
+    "scientificName": "Quercus marilandica",
+    "commonNames": [
+      "Blackjack Oak"
+    ],
+    "family": "Fagaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "DC",
+      "FL",
+      "GA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MD",
+      "MO",
+      "MS",
+      "NC",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "WV"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 20,
+      "max": 40
+    },
+    "spreadFeet": {
+      "min": 20,
+      "max": 30
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "clay",
+      "rocky"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "yellow",
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "mammals",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Blackjack oak is a small, rugged oak that colonizes the poorest dry clay and sand, with distinctive broad, bell-shaped leaves and blackish bark. Exceptionally drought-tough and a reliable wildlife oak on hardpan soils.",
+    "usdaSymbol": "QUMA3",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/quercus-marilandica.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Quercus_marilandica",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen"
+    ],
+    "caterpillarHosts": 557,
+    "keystone": true
+  },
+  {
+    "id": "quercus-michauxii",
+    "scientificName": "Quercus michauxii",
+    "commonNames": [
+      "Swamp Chestnut Oak"
+    ],
+    "family": "Fagaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DE",
+      "FL",
+      "GA",
+      "IL",
+      "IN",
+      "KY",
+      "LA",
+      "MD",
+      "MO",
+      "MS",
+      "NC",
+      "NJ",
+      "NY",
+      "PA",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "WV"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 50,
+      "max": 70
+    },
+    "spreadFeet": {
+      "min": 40,
+      "max": 60
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "yellow",
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "mammals",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Swamp chestnut oak, also called basket oak, is a stately bottomland white oak with large, scalloped leaves and big, sweet acorns favored by deer and turkey. A superb long-lived shade tree for moist, rich soils.",
+    "usdaSymbol": "QUMI",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/quercus-michauxii.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Quercus_michauxii",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "rain garden"
+    ],
+    "caterpillarHosts": 557,
+    "keystone": true
+  },
+  {
+    "id": "quercus-mohriana",
+    "scientificName": "Quercus mohriana",
+    "commonNames": [
+      "Mohr Oak"
+    ],
+    "family": "Fagaceae",
+    "nativeStates": [
+      "TX"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 6,
+      "max": 20
+    },
+    "spreadFeet": {
+      "min": 10,
+      "max": 20
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "yellow",
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "mammals",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Mohr oak is a thicket-forming shin oak of West Texas and Southwestern limestone outcrops, with leathery, gray-backed evergreen leaves. Drought- and lime-tolerant cover and acorn source in arid country.",
+    "usdaSymbol": "QUMO",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "alkaline",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/quercus-mohriana.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Quercus_mohriana",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "hedge or screen",
+      "erosion control"
+    ],
+    "caterpillarHosts": 557,
+    "keystone": true
+  },
+  {
+    "id": "quercus-myrtifolia",
+    "scientificName": "Quercus myrtifolia",
+    "commonNames": [
+      "Myrtle Oak"
+    ],
+    "family": "Fagaceae",
+    "nativeStates": [
+      "AL",
+      "FL",
+      "GA",
+      "SC"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 6,
+      "max": 20
+    },
+    "spreadFeet": {
+      "min": 8,
+      "max": 15
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "yellow",
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "mammals",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Myrtle oak is a compact evergreen scrub oak with small, glossy, rolled-edged leaves, native to Florida and Gulf-coast dune scrub. A drought- and salt-tolerant component of rare coastal scrub communities.",
+    "usdaSymbol": "QUMY",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/quercus-myrtifolia.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Quercus_myrtifolia",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "hedge or screen",
+      "erosion control"
+    ],
+    "caterpillarHosts": 557,
+    "keystone": true
+  },
+  {
+    "id": "quercus-pagoda",
+    "scientificName": "Quercus pagoda",
+    "commonNames": [
+      "Cherrybark Oak"
+    ],
+    "family": "Fagaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "GA",
+      "IL",
+      "IN",
+      "KY",
+      "LA",
+      "MD",
+      "MO",
+      "MS",
+      "NC",
+      "SC",
+      "TN",
+      "TX",
+      "VA"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 60,
+      "max": 90
+    },
+    "spreadFeet": {
+      "min": 50,
+      "max": 70
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "yellow",
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "mammals",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Cherrybark oak is a magnificent, fast-growing red oak of rich Southern bottomlands, with cherry-like scaly bark and a tall straight trunk. One of the finest large shade and timber oaks, and a heavy acorn producer.",
+    "usdaSymbol": "QUPA5",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/quercus-pagoda.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Quercus_pagoda",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "rain garden"
+    ],
+    "caterpillarHosts": 557,
+    "keystone": true
+  },
+  {
+    "id": "quercus-sinuata",
+    "scientificName": "Quercus sinuata",
+    "commonNames": [
+      "Bastard Oak"
+    ],
+    "family": "Fagaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "GA",
+      "LA",
+      "MS",
+      "SC",
+      "TX"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 15,
+      "max": 40
+    },
+    "spreadFeet": {
+      "min": 15,
+      "max": 30
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "rocky",
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "yellow",
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "mammals",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Bastard oak, or Durand oak, is an adaptable white-group oak ranging from a shrub on dry limestone to a sizable tree on better soils. Drought-tolerant and useful where alkaline ground limits other oaks.",
+    "usdaSymbol": "QUSI",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/quercus-sinuata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Quercus_sinuata",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen"
+    ],
+    "caterpillarHosts": 557,
+    "keystone": true
+  },
+  {
+    "id": "quercus-stellata",
+    "scientificName": "Quercus stellata",
+    "commonNames": [
+      "Post Oak"
+    ],
+    "family": "Fagaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "MO",
+      "MS",
+      "NC",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "WV"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 30,
+      "max": 50
+    },
+    "spreadFeet": {
+      "min": 30,
+      "max": 45
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "clay",
+      "rocky"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "yellow",
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "mammals",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Post oak is a slow, immensely tough white oak with cross-shaped leaves, dominating dry, poor upland soils from the Mid-Atlantic to Texas. Long-lived and drought-proof, though it resents root disturbance.",
+    "usdaSymbol": "QUST",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/quercus-stellata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Quercus_stellata",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen"
+    ],
+    "caterpillarHosts": 557,
+    "keystone": true
+  },
+  {
+    "id": "quercus-texana",
+    "scientificName": "Quercus texana",
+    "commonNames": [
+      "Nuttall Oak"
+    ],
+    "family": "Fagaceae",
+    "nativeStates": [
+      "AR",
+      "LA",
+      "MO",
+      "MS",
+      "TX"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 40,
+      "max": 60
+    },
+    "spreadFeet": {
+      "min": 35,
+      "max": 50
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "clay",
+      "loam"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "yellow",
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "mammals",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Nuttall oak is a fast-growing bottomland red oak that tolerates heavy, wet clay and seasonal flooding, finishing the year in red and orange. An increasingly popular tough shade tree with reliable fall color.",
+    "usdaSymbol": "QUTE2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/quercus-texana.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Quercus_texana",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "rain garden"
+    ],
+    "caterpillarHosts": 557,
+    "keystone": true
+  },
+  {
+    "id": "quercus-turbinella",
+    "scientificName": "Quercus turbinella",
+    "commonNames": [
+      "Sonoran Scrub Oak"
+    ],
+    "family": "Fagaceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "CO",
+      "NM",
+      "NV",
+      "TX",
+      "UT"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 12
+    },
+    "spreadFeet": {
+      "min": 6,
+      "max": 15
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "yellow",
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "mammals",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Sonoran scrub oak is a spiny-leaved evergreen oak of Southwestern chaparral and desert mountains, forming dense drought-proof thickets. Critical cover and acorn mast for desert birds and mammals.",
+    "usdaSymbol": "QUTU2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/quercus-turbinella.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Quercus_turbinella",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "hedge or screen",
+      "erosion control"
+    ],
+    "caterpillarHosts": 557,
+    "keystone": true
+  },
+  {
+    "id": "quercus-vaseyana",
+    "scientificName": "Quercus vaseyana",
+    "commonNames": [
+      "Vasey Shin Oak"
+    ],
+    "family": "Fagaceae",
+    "nativeStates": [
+      "TX"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 6,
+      "max": 20
+    },
+    "spreadFeet": {
+      "min": 8,
+      "max": 20
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "yellow",
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "mammals",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Vasey shin oak is a small, often clumping oak of the Edwards Plateau limestone, with wavy-edged semi-evergreen leaves. Heat- and drought-hardy cover and acorn source for Hill Country wildlife.",
+    "usdaSymbol": "QUVA5",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "alkaline",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/quercus-vaseyana.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Quercus_vaseyana",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "hedge or screen",
+      "erosion control"
+    ],
+    "caterpillarHosts": 557,
+    "keystone": true
+  },
+  {
+    "id": "quercus-wislizeni",
+    "scientificName": "Quercus wislizeni",
+    "commonNames": [
+      "Interior Live Oak"
+    ],
+    "family": "Fagaceae",
+    "nativeStates": [
+      "CA"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 30,
+      "max": 70
+    },
+    "spreadFeet": {
+      "min": 30,
+      "max": 50
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "yellow",
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "mammals",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Interior live oak is a dense, dark evergreen oak of California's foothills and interior ranges, tolerating heat, drought, and rocky ground. A year-round shelter and acorn tree central to oak-woodland wildlife.",
+    "usdaSymbol": "QUWI2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/quercus-wislizeni.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Quercus_wislizeni",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen"
+    ],
+    "caterpillarHosts": 557,
+    "keystone": true
   }
 ]
