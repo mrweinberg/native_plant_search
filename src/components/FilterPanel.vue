@@ -81,39 +81,39 @@ function labelFor(group, val) {
     </section>
 
     <section class="filter-group">
-      <label class="toggle">
+      <label class="toggle" title="Plants deer tend to leave alone — a guide, not a guarantee, since hungry deer sample almost anything.">
         <input
           type="checkbox"
           :checked="deerOnly"
           @change="emit('deerOnly', $event.target.checked)"
         />
-        Deer-resistant only
+        🦌 Deer-resistant only
       </label>
-      <label class="toggle">
+      <label class="toggle" title="Flowers that hold up well when cut for indoor arrangements.">
         <input
           type="checkbox"
           :checked="cutFlowerOnly"
           @change="emit('cutFlowerOnly', $event.target.checked)"
         />
-        Good for cut flowers
+        ✂️ Good for cut flowers
       </label>
-      <label class="toggle">
+      <label class="toggle" title="Has parts traditionally used as food — always confirm safe identification and preparation.">
         <input
           type="checkbox"
           :checked="culinaryOnly"
           @change="emit('culinaryOnly', $event.target.checked)"
         />
-        Edible / culinary use
+        🍴 Edible / culinary use
       </label>
-      <label class="toggle">
+      <label class="toggle" title="Woodland wildflowers that bloom early in spring, then die back by summer.">
         <input
           type="checkbox"
           :checked="springEphemeralOnly"
           @change="emit('springEphemeralOnly', $event.target.checked)"
         />
-        Spring ephemerals only
+        🌱 Spring ephemerals only
       </label>
-      <label class="toggle" title="Genera that host an outsized number of native caterpillar species (Tallamy / NWF)">
+      <label class="toggle" title="Genera that host an outsized number of native caterpillar species — top wildlife value (Tallamy / NWF).">
         <input
           type="checkbox"
           :checked="keystoneOnly"
