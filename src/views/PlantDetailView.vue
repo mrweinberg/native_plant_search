@@ -205,6 +205,11 @@ function fmtRange(r, unit) {
     <TraitPills :plant="plant" />
 
     <section class="group">
+      <h2>Bloom</h2>
+      <BloomStrip :plant="plant" />
+    </section>
+
+    <section class="group">
       <h2>Native range</h2>
       <RangeMap v-if="plant.nativeStates?.length" :plant="plant" />
       <dl v-else class="facts">
@@ -237,11 +242,6 @@ function fmtRange(r, unit) {
         <div><dt>Soil pH</dt><dd class="cap">{{ fmtList(plant.soilPh) }}</dd></div>
         <div><dt>Spread habit</dt><dd class="cap">{{ plant.spreadHabit || '—' }}</dd></div>
       </dl>
-    </section>
-
-    <section class="group">
-      <h2>Bloom</h2>
-      <BloomStrip :plant="plant" />
     </section>
 
     <section class="group">
