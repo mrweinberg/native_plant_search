@@ -1,0 +1,29 @@
+Solidago altissima | Tall Goldenrod
+Solidago californica | California Goldenrod
+Solidago canadensis | Canada Goldenrod
+Solidago fistulosa | Pine Barren Goldenrod
+Solidago gigantea | Giant Goldenrod
+Solidago juliae | Julia's Goldenrod
+Solidago multiradiata | Rocky Mountain Goldenrod
+Solidago patula | Roundleaf Goldenrod
+Solidago petiolaris | Downy Goldenrod
+Solidago radula | Rough Goldenrod
+Morella pensylvanica | Northern Bayberry
+Ribes indecorum | White Chaparral Currant
+Ribes malvaceum | Chaparral Currant
+Ribes menziesii | Canyon Gooseberry
+Ribes rotundifolium | Appalachian Gooseberry
+Ribes viburnifolium | Evergreen Currant
+Fragaria vesca | Woodland Strawberry
+Fragaria virginiana | Wild Strawberry
+Robinia hispida | Bristly Locust
+Robinia pseudoacacia | Black Locust
+Hamamelis vernalis | Ozark Witch Hazel
+Helianthus decapetalus | Thin-leaved Sunflower
+Helianthus mollis | Ashy Sunflower
+Helianthus occidentalis | Western Sunflower
+Helianthus petiolaris | Prairie Sunflower
+Helianthus strumosus | Paleleaf Sunflower
+Rhus lanceolata | Prairie Flameleaf Sumac
+Rhus microphylla | Littleleaf Sumac
+Rhus virens | Evergreen Sumac

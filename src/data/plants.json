@@ -79520,5 +79520,2529 @@
     ],
     "caterpillarHosts": 11,
     "keystone": false
+  },
+  {
+    "id": "solidago-altissima",
+    "scientificName": "Solidago altissima",
+    "commonNames": [
+      "Tall Goldenrod"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "AZ",
+      "CO",
+      "CT",
+      "FL",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "MT",
+      "NC",
+      "ND",
+      "NE",
+      "NH",
+      "NJ",
+      "NM",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "SC",
+      "SD",
+      "TN",
+      "TX",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "herb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 6
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "clay",
+      "sandy"
+    ],
+    "bloomMonths": [
+      8,
+      9,
+      10
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "songbirds",
+      "larval host"
+    ],
+    "deerResistant": true,
+    "notes": "Tall goldenrod is the billowing goldenrod of old fields and roadsides, a critical late-season nectar and pollen source for migrating monarchs and native bees. Vigorous and rhizomatous — give it room or a wild meadow.",
+    "usdaSymbol": "SOAL6",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "acidic",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/solidago-altissima.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Solidago_altissima",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "erosion control",
+      "naturalizing"
+    ],
+    "caterpillarHosts": 125,
+    "keystone": true
+  },
+  {
+    "id": "solidago-californica",
+    "scientificName": "Solidago californica",
+    "commonNames": [
+      "California Goldenrod"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "CA"
+    ],
+    "generalAppearance": "herb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "loam",
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      8,
+      9,
+      10
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "songbirds",
+      "larval host"
+    ],
+    "deerResistant": true,
+    "notes": "California goldenrod brings sprays of golden bloom to dry western slopes and grasslands in late summer, fueling pollinators when little else flowers. Drought-tolerant and well suited to low-water gardens.",
+    "usdaSymbol": "SOCA5",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/solidago-californica.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Solidago_californica",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "erosion control",
+      "naturalizing"
+    ],
+    "caterpillarHosts": 125,
+    "keystone": true
+  },
+  {
+    "id": "solidago-canadensis",
+    "scientificName": "Solidago canadensis",
+    "commonNames": [
+      "Canada Goldenrod"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AK",
+      "AL",
+      "AR",
+      "AZ",
+      "CA",
+      "CO",
+      "CT",
+      "DC",
+      "GA",
+      "IA",
+      "ID",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "MT",
+      "NC",
+      "NE",
+      "NH",
+      "NJ",
+      "NM",
+      "NY",
+      "OH",
+      "OK",
+      "OR",
+      "PA",
+      "SD",
+      "TN",
+      "TX",
+      "UT",
+      "VA",
+      "VT",
+      "WA",
+      "WI",
+      "WV",
+      "WY"
+    ],
+    "generalAppearance": "herb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 5
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist",
+      "dry"
+    ],
+    "soilType": [
+      "loam",
+      "sandy",
+      "clay"
+    ],
+    "bloomMonths": [
+      8,
+      9,
+      10
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "songbirds",
+      "larval host"
+    ],
+    "deerResistant": true,
+    "notes": "Canada goldenrod is the classic plume goldenrod of meadows across the continent, a powerhouse of late-season nectar for bees and butterflies. Spreads aggressively by rhizome, ideal for naturalizing.",
+    "usdaSymbol": "SOCA6",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/solidago-canadensis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Solidago_canadensis",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "erosion control",
+      "naturalizing"
+    ],
+    "caterpillarHosts": 125,
+    "keystone": true
+  },
+  {
+    "id": "solidago-fistulosa",
+    "scientificName": "Solidago fistulosa",
+    "commonNames": [
+      "Pine Barren Goldenrod"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AL",
+      "FL",
+      "GA",
+      "MS",
+      "NC",
+      "NJ",
+      "SC",
+      "VA"
+    ],
+    "generalAppearance": "herb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "wet",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      8,
+      9,
+      10
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "songbirds",
+      "larval host"
+    ],
+    "deerResistant": true,
+    "notes": "Pine barren goldenrod thrives in wet pine flatwoods, bogs, and ditches of the Southeast, lighting up damp ground with gold in fall. A standout late nectar plant for rain gardens and wet meadows.",
+    "usdaSymbol": "SOFI",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/solidago-fistulosa.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Solidago_fistulosa",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "rain garden",
+      "erosion control",
+      "naturalizing"
+    ],
+    "caterpillarHosts": 125,
+    "keystone": true
+  },
+  {
+    "id": "solidago-gigantea",
+    "scientificName": "Solidago gigantea",
+    "commonNames": [
+      "Giant Goldenrod"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CO",
+      "CT",
+      "GA",
+      "IA",
+      "ID",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "MT",
+      "NC",
+      "ND",
+      "NE",
+      "NH",
+      "NJ",
+      "NM",
+      "NY",
+      "OH",
+      "OK",
+      "OR",
+      "PA",
+      "RI",
+      "SC",
+      "SD",
+      "TN",
+      "TX",
+      "VA",
+      "VT",
+      "WA",
+      "WI",
+      "WV",
+      "WY"
+    ],
+    "generalAppearance": "herb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 6
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "clay",
+      "sandy"
+    ],
+    "bloomMonths": [
+      8,
+      9,
+      10
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "songbirds",
+      "larval host"
+    ],
+    "deerResistant": true,
+    "notes": "Giant goldenrod, or smooth goldenrod, rises on smooth, waxy stems in moist meadows and stream edges, crowned with arching golden plumes. A robust pollinator magnet for damp, sunny ground.",
+    "usdaSymbol": "SOGI",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/solidago-gigantea.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Solidago_gigantea",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "rain garden",
+      "erosion control",
+      "naturalizing"
+    ],
+    "caterpillarHosts": 125,
+    "keystone": true
+  },
+  {
+    "id": "solidago-juliae",
+    "scientificName": "Solidago juliae",
+    "commonNames": [
+      "Julia's Goldenrod"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "TX"
+    ],
+    "generalAppearance": "herb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      8,
+      9,
+      10
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "songbirds",
+      "larval host"
+    ],
+    "deerResistant": true,
+    "notes": "Julia's goldenrod is a Southeastern goldenrod of open sandy woods and pinelands, offering the same brilliant fall color and late nectar that make goldenrods so valuable to pollinators.",
+    "usdaSymbol": "SOJU2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/solidago-juliae.jpg",
+    "imageSource": "https://www.inaturalist.org/taxa/169110",
+    "imageCredit": "iNaturalist",
+    "landscapeUses": [
+      "border",
+      "erosion control",
+      "naturalizing"
+    ],
+    "caterpillarHosts": 125,
+    "keystone": true
+  },
+  {
+    "id": "solidago-multiradiata",
+    "scientificName": "Solidago multiradiata",
+    "commonNames": [
+      "Rocky Mountain Goldenrod"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AK",
+      "AZ",
+      "CA",
+      "CO",
+      "ID",
+      "MT",
+      "NV",
+      "OR",
+      "UT",
+      "WA",
+      "WY"
+    ],
+    "generalAppearance": "herb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      7,
+      8
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "songbirds",
+      "larval host"
+    ],
+    "deerResistant": true,
+    "notes": "Rocky Mountain goldenrod is a compact alpine and arctic goldenrod of high rocky meadows and tundra, topped with tight golden clusters. A cold-hardy front-of-border or rock-garden pollinator plant.",
+    "usdaSymbol": "SOMU",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/solidago-multiradiata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Solidago_multiradiata",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ],
+    "caterpillarHosts": 125,
+    "keystone": true
+  },
+  {
+    "id": "solidago-patula",
+    "scientificName": "Solidago patula",
+    "commonNames": [
+      "Roundleaf Goldenrod"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "CT",
+      "IL",
+      "IN",
+      "MA",
+      "MI",
+      "MO",
+      "MS",
+      "NC",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "SC",
+      "TN",
+      "VA",
+      "VT",
+      "WI"
+    ],
+    "generalAppearance": "herb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 5
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "wet",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "sandy"
+    ],
+    "bloomMonths": [
+      8,
+      9,
+      10
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "songbirds",
+      "larval host"
+    ],
+    "deerResistant": true,
+    "notes": "Roundleaf goldenrod is a wetland goldenrod of swamps, seeps, and wet woods, with distinctive rough, broad basal leaves. Tolerant of part shade and wet feet, it lights up shady damp corners in fall.",
+    "usdaSymbol": "SOPA2",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/solidago-patula.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Solidago_patula",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "rain garden",
+      "erosion control",
+      "naturalizing"
+    ],
+    "caterpillarHosts": 125,
+    "keystone": true
+  },
+  {
+    "id": "solidago-petiolaris",
+    "scientificName": "Solidago petiolaris",
+    "commonNames": [
+      "Downy Goldenrod"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "FL",
+      "GA",
+      "KS",
+      "LA",
+      "ME",
+      "MO",
+      "NC",
+      "NH",
+      "OK",
+      "SC",
+      "TX",
+      "VT"
+    ],
+    "generalAppearance": "herb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky",
+      "loam"
+    ],
+    "bloomMonths": [
+      8,
+      9,
+      10
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "songbirds",
+      "larval host"
+    ],
+    "deerResistant": true,
+    "notes": "Downy goldenrod is a well-behaved, clump-forming goldenrod for dry, sandy, or rocky soils, with showy wand-like golden spikes. A tidier choice than the running goldenrods for borders.",
+    "usdaSymbol": "SOPE",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/solidago-petiolaris.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Solidago_petiolaris",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border"
+    ],
+    "caterpillarHosts": 125,
+    "keystone": true
+  },
+  {
+    "id": "solidago-radula",
+    "scientificName": "Solidago radula",
+    "commonNames": [
+      "Rough Goldenrod"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AR",
+      "IL",
+      "LA",
+      "MO",
+      "OK",
+      "TX"
+    ],
+    "generalAppearance": "herb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      8,
+      9,
+      10
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "songbirds",
+      "larval host"
+    ],
+    "deerResistant": true,
+    "notes": "Rough goldenrod is a drought-hardy goldenrod of dry prairies, glades, and rocky barrens, with sandpapery leaves and dense golden plumes. Reliable late-season fuel for pollinators on lean soils.",
+    "usdaSymbol": "SORA",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline",
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/solidago-radula.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Solidago_radula",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border"
+    ],
+    "caterpillarHosts": 125,
+    "keystone": true
+  },
+  {
+    "id": "morella-pensylvanica",
+    "scientificName": "Morella pensylvanica",
+    "commonNames": [
+      "Northern Bayberry"
+    ],
+    "family": "Myricaceae",
+    "nativeStates": [
+      "CT",
+      "DE",
+      "MA",
+      "MD",
+      "ME",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "RI",
+      "VA"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 5,
+      "max": 10
+    },
+    "spreadFeet": {
+      "min": 5,
+      "max": 10
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "green",
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Northern bayberry is a tough, aromatic, salt-tolerant shrub whose waxy gray berries make bayberry candles and feed myrtle warblers through winter. A nitrogen-fixing, deer-resistant pick for coastal and poor sandy soils.",
+    "usdaSymbol": "MOPE6",
+    "nativeRegions": [
+      "CAN",
+      "L48",
+      "SPM"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/morella-pensylvanica.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Myrica_pensylvanica",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "hedge or screen",
+      "erosion control"
+    ],
+    "caterpillarHosts": 108,
+    "keystone": true
+  },
+  {
+    "id": "ribes-indecorum",
+    "scientificName": "Ribes indecorum",
+    "commonNames": [
+      "White Chaparral Currant"
+    ],
+    "family": "Grossulariaceae",
+    "nativeStates": [
+      "CA"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 8
+    },
+    "spreadFeet": {
+      "min": 4,
+      "max": 8
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "loam",
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      12,
+      1,
+      2
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds",
+      "songbirds",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "White chaparral currant brightens the southern California dry season with fragrant white flower clusters from winter into early spring, when pollinators most need them. Summer-deciduous and very drought-tolerant.",
+    "usdaSymbol": "RIIN",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/ribes-indecorum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Ribes_indecorum",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "hedge or screen",
+      "foundation"
+    ],
+    "caterpillarHosts": 99,
+    "keystone": false
+  },
+  {
+    "id": "ribes-malvaceum",
+    "scientificName": "Ribes malvaceum",
+    "commonNames": [
+      "Chaparral Currant"
+    ],
+    "family": "Grossulariaceae",
+    "nativeStates": [
+      "CA"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 6
+    },
+    "spreadFeet": {
+      "min": 4,
+      "max": 6
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "loam",
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      11,
+      12,
+      1,
+      2
+    ],
+    "bloomColors": [
+      "pink"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds",
+      "songbirds",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Chaparral currant is a fragrant California native that blooms in fall and winter with drooping pink flower clusters, feeding hummingbirds and bees in the lean months. Drought-deciduous and superb for dry shade.",
+    "usdaSymbol": "RIMA",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/ribes-malvaceum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Ribes_malvaceum",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "hedge or screen",
+      "foundation"
+    ],
+    "caterpillarHosts": 99,
+    "keystone": false
+  },
+  {
+    "id": "ribes-menziesii",
+    "scientificName": "Ribes menziesii",
+    "commonNames": [
+      "Canyon Gooseberry"
+    ],
+    "family": "Grossulariaceae",
+    "nativeStates": [
+      "CA",
+      "OR"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 6
+    },
+    "spreadFeet": {
+      "min": 4,
+      "max": 6
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      2,
+      3,
+      4
+    ],
+    "bloomColors": [
+      "red",
+      "purple"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds",
+      "songbirds",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Canyon gooseberry is a spiny California shrub hung with dramatic fuchsia-like red-and-white flowers that hummingbirds adore, followed by bristly edible berries. A wildlife gem for woodland edges.",
+    "usdaSymbol": "RIME",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/ribes-menziesii.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Ribes_menziesii",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "hedge or screen",
+      "foundation"
+    ],
+    "caterpillarHosts": 99,
+    "keystone": false
+  },
+  {
+    "id": "ribes-rotundifolium",
+    "scientificName": "Ribes rotundifolium",
+    "commonNames": [
+      "Appalachian Gooseberry"
+    ],
+    "family": "Grossulariaceae",
+    "nativeStates": [
+      "MD",
+      "NC",
+      "PA",
+      "TN",
+      "VA",
+      "WV"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 3,
+      "max": 5
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "green",
+      "purple"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds",
+      "songbirds",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Appalachian gooseberry is an eastern woodland gooseberry with small greenish flowers and smooth purple, edible berries relished by birds. A modest but useful understory shrub for moist shade.",
+    "usdaSymbol": "RIRO2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/ribes-rotundifolium.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Ribes_rotundifolium",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "foundation"
+    ],
+    "caterpillarHosts": 99,
+    "keystone": false
+  },
+  {
+    "id": "ribes-viburnifolium",
+    "scientificName": "Ribes viburnifolium",
+    "commonNames": [
+      "Evergreen Currant"
+    ],
+    "family": "Grossulariaceae",
+    "nativeStates": [
+      "CA"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 6,
+      "max": 12
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "loam",
+      "sandy"
+    ],
+    "bloomMonths": [
+      2,
+      3,
+      4
+    ],
+    "bloomColors": [
+      "red",
+      "pink"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds",
+      "songbirds",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Evergreen currant, or Catalina currant, is a low, spreading evergreen shrub for dry shade, with aromatic leathery leaves and small wine-red flowers. One of the best California natives for groundcover under oaks.",
+    "usdaSymbol": "RIVI",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/ribes-viburnifolium.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Ribes_viburnifolium",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "foundation",
+      "erosion control"
+    ],
+    "caterpillarHosts": 99,
+    "keystone": false
+  },
+  {
+    "id": "fragaria-vesca",
+    "scientificName": "Fragaria vesca",
+    "commonNames": [
+      "Woodland Strawberry"
+    ],
+    "family": "Rosaceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "CO",
+      "CT",
+      "HI",
+      "ID",
+      "IL",
+      "MA",
+      "ME",
+      "MI",
+      "MN",
+      "MT",
+      "NE",
+      "NH",
+      "NJ",
+      "NM",
+      "NY",
+      "OH",
+      "OR",
+      "PA",
+      "SD",
+      "UT",
+      "VA",
+      "VT",
+      "WA",
+      "WI",
+      "WV",
+      "WY"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0,
+      "max": 1
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "dry"
+    ],
+    "soilType": [
+      "loam",
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "butterflies",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": false,
+    "notes": "Woodland strawberry is a dainty groundcovering strawberry that spreads by runners through dappled woodland, offering white flowers and intensely flavored tiny red berries. A charming edible groundcover for part shade.",
+    "usdaSymbol": "FRVE",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/fragaria-vesca.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Fragaria_vesca",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "groundcover",
+      "container",
+      "erosion control",
+      "naturalizing"
+    ],
+    "caterpillarHosts": 81,
+    "keystone": false
+  },
+  {
+    "id": "fragaria-virginiana",
+    "scientificName": "Fragaria virginiana",
+    "commonNames": [
+      "Wild Strawberry"
+    ],
+    "family": "Rosaceae",
+    "nativeStates": [
+      "AK",
+      "AL",
+      "AR",
+      "AZ",
+      "CA",
+      "CO",
+      "CT",
+      "GA",
+      "IA",
+      "ID",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "MT",
+      "NC",
+      "ND",
+      "NE",
+      "NH",
+      "NJ",
+      "NM",
+      "NY",
+      "OH",
+      "OK",
+      "OR",
+      "PA",
+      "RI",
+      "SC",
+      "SD",
+      "TN",
+      "TX",
+      "UT",
+      "VA",
+      "VT",
+      "WA",
+      "WI",
+      "WV",
+      "WY"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0,
+      "max": 1
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "dry"
+    ],
+    "soilType": [
+      "loam",
+      "sandy",
+      "clay"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "butterflies",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": false,
+    "notes": "Wild strawberry is the native parent of the garden strawberry, a tough, fast groundcover spreading by runners with white flowers and sweet small berries beloved by wildlife. Excellent edible living mulch.",
+    "usdaSymbol": "FRVI",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "L48",
+      "SPM"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/fragaria-virginiana.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Fragaria_virginiana",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "groundcover",
+      "container",
+      "erosion control",
+      "naturalizing"
+    ],
+    "caterpillarHosts": 81,
+    "keystone": false
+  },
+  {
+    "id": "robinia-hispida",
+    "scientificName": "Robinia hispida",
+    "commonNames": [
+      "Bristly Locust"
+    ],
+    "family": "Fabaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DC",
+      "GA",
+      "IL",
+      "KY",
+      "LA",
+      "MA",
+      "MI",
+      "MN",
+      "NC",
+      "NJ",
+      "NY",
+      "PA",
+      "SC",
+      "TN",
+      "VA",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 6,
+      "max": 10
+    },
+    "spreadFeet": {
+      "min": 8,
+      "max": 15
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "pink",
+      "purple"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "larval host",
+      "songbirds"
+    ],
+    "deerResistant": false,
+    "notes": "Bristly locust is a suckering shrub draped with showy rose-pink pea flowers in late spring, its stems clad in red bristles. A nitrogen-fixing bank-stabilizer for dry, poor soils; spreads enthusiastically.",
+    "usdaSymbol": "ROHI",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/robinia-hispida.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Robinia_hispida",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "hedge or screen",
+      "erosion control"
+    ],
+    "caterpillarHosts": 72,
+    "keystone": false
+  },
+  {
+    "id": "robinia-pseudoacacia",
+    "scientificName": "Robinia pseudoacacia",
+    "commonNames": [
+      "Black Locust"
+    ],
+    "family": "Fabaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CA",
+      "CO",
+      "CT",
+      "DC",
+      "DE",
+      "GA",
+      "IA",
+      "ID",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "NE",
+      "NH",
+      "NJ",
+      "NM",
+      "NV",
+      "NY",
+      "OH",
+      "OK",
+      "OR",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "TX",
+      "UT",
+      "VA",
+      "VT",
+      "WA",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 40,
+      "max": 80
+    },
+    "spreadFeet": {
+      "min": 30,
+      "max": 50
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "sandy",
+      "clay",
+      "rocky"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "larval host",
+      "songbirds"
+    ],
+    "deerResistant": false,
+    "notes": "Black locust drips with fragrant white pea-flower chains in spring, a premier honeybee tree, and fixes nitrogen on the poorest ground. Fast and tough, but it suckers aggressively and spreads beyond its Appalachian native range — site with care.",
+    "usdaSymbol": "ROPS",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline",
+      "acidic"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/robinia-pseudoacacia.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Robinia_pseudoacacia",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "erosion control"
+    ],
+    "caterpillarHosts": 72,
+    "keystone": false
+  },
+  {
+    "id": "hamamelis-vernalis",
+    "scientificName": "Hamamelis vernalis",
+    "commonNames": [
+      "Ozark Witch Hazel"
+    ],
+    "family": "Hamamelidaceae",
+    "nativeStates": [
+      "AR",
+      "IL",
+      "MO",
+      "OK"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 6,
+      "max": 10
+    },
+    "spreadFeet": {
+      "min": 8,
+      "max": 15
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "clay",
+      "sandy"
+    ],
+    "bloomMonths": [
+      1,
+      2,
+      3
+    ],
+    "bloomColors": [
+      "yellow",
+      "orange",
+      "red"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Ozark witch hazel unfurls fragrant, ribbon-petaled yellow-to-red flowers in the depths of winter, scenting the cold air when nothing else blooms. A suckering streambank shrub with golden fall color.",
+    "usdaSymbol": "HAVE2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/hamamelis-vernalis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Hamamelis_vernalis",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "hedge or screen",
+      "rain garden",
+      "erosion control"
+    ],
+    "caterpillarHosts": 63,
+    "keystone": false
+  },
+  {
+    "id": "helianthus-decapetalus",
+    "scientificName": "Helianthus decapetalus",
+    "commonNames": [
+      "Thin-leaved Sunflower"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "CT",
+      "GA",
+      "IL",
+      "IN",
+      "KY",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "SC",
+      "TN",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 5
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "sandy"
+    ],
+    "bloomMonths": [
+      8,
+      9,
+      10
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Thin-leaved sunflower is a woodland-edge perennial sunflower with pale yellow daisies on branching stems, thriving in part shade where few sunflowers will. Seeds feed finches; foliage hosts many caterpillars.",
+    "usdaSymbol": "HEDE",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/helianthus-decapetalus.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Helianthus_decapetalus",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "erosion control",
+      "naturalizing"
+    ],
+    "caterpillarHosts": 58,
+    "keystone": false
+  },
+  {
+    "id": "helianthus-mollis",
+    "scientificName": "Helianthus mollis",
+    "commonNames": [
+      "Ashy Sunflower"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MI",
+      "MO",
+      "MS",
+      "OH",
+      "OK",
+      "TN",
+      "TX"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Ashy sunflower is a striking prairie sunflower clad in soft, silvery-gray clasping leaves, topped with bright yellow blooms in midsummer. Drought-tough and rhizomatous for dry meadows and naturalizing.",
+    "usdaSymbol": "HEMO2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/helianthus-mollis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Helianthus_mollis",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "erosion control",
+      "naturalizing"
+    ],
+    "caterpillarHosts": 58,
+    "keystone": false
+  },
+  {
+    "id": "helianthus-occidentalis",
+    "scientificName": "Helianthus occidentalis",
+    "commonNames": [
+      "Western Sunflower"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AR",
+      "IL",
+      "IN",
+      "MI",
+      "MN",
+      "MO",
+      "OH",
+      "TN",
+      "TX",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky",
+      "loam"
+    ],
+    "bloomMonths": [
+      8,
+      9
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Western sunflower is unusual for its near-leafless flowering stalks rising from a basal rosette, lifting yellow daisies above dry prairies and glades. A tidy, drought-hardy sunflower for lean soils.",
+    "usdaSymbol": "HEOC2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/helianthus-occidentalis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Helianthus_occidentalis",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border"
+    ],
+    "caterpillarHosts": 58,
+    "keystone": false
+  },
+  {
+    "id": "helianthus-petiolaris",
+    "scientificName": "Helianthus petiolaris",
+    "commonNames": [
+      "Prairie Sunflower"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "CO",
+      "IL",
+      "IN",
+      "KS",
+      "MN",
+      "MO",
+      "MT",
+      "ND",
+      "NE",
+      "NM",
+      "OK",
+      "SD",
+      "TX",
+      "UT",
+      "WI",
+      "WY"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "annual",
+    "heightFeet": {
+      "min": 1,
+      "max": 5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Prairie sunflower is a fast annual of sandy plains and dunes, bearing small classic sunflowers all summer and abundant seed for birds. Reseeds readily, quickly colonizing open, dry, disturbed ground.",
+    "usdaSymbol": "HEPE",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline",
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/helianthus-petiolaris.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Helianthus_petiolaris",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border"
+    ],
+    "caterpillarHosts": 58,
+    "keystone": false
+  },
+  {
+    "id": "helianthus-strumosus",
+    "scientificName": "Helianthus strumosus",
+    "commonNames": [
+      "Paleleaf Sunflower"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "FL",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KY",
+      "LA",
+      "MA",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "SC",
+      "TN",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "forb",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 6
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "sandy",
+      "clay"
+    ],
+    "bloomMonths": [
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Paleleaf sunflower is a tall, adaptable woodland sunflower with pale-backed leaves and cheerful yellow blooms, spreading by rhizome at forest edges. A robust nectar-and-seed source for shadier sites.",
+    "usdaSymbol": "HEST",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/helianthus-strumosus.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Helianthus_strumosus",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "erosion control",
+      "naturalizing"
+    ],
+    "caterpillarHosts": 58,
+    "keystone": false
+  },
+  {
+    "id": "rhus-lanceolata",
+    "scientificName": "Rhus lanceolata",
+    "commonNames": [
+      "Prairie Flameleaf Sumac"
+    ],
+    "family": "Anacardiaceae",
+    "nativeStates": [
+      "TX"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 10,
+      "max": 20
+    },
+    "spreadFeet": {
+      "min": 10,
+      "max": 20
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      6,
+      7
+    ],
+    "bloomColors": [
+      "white",
+      "green"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Prairie flameleaf sumac is a small Texas tree with ferny compound leaves that blaze scarlet in fall and upright clusters of fuzzy red fruit for birds. Drought-proof and ornamental for dry, alkaline soils.",
+    "usdaSymbol": "RHLA3",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/rhus-lanceolata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Rhus_lanceolata",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "hedge or screen",
+      "erosion control"
+    ],
+    "caterpillarHosts": 58,
+    "keystone": false
+  },
+  {
+    "id": "rhus-microphylla",
+    "scientificName": "Rhus microphylla",
+    "commonNames": [
+      "Littleleaf Sumac"
+    ],
+    "family": "Anacardiaceae",
+    "nativeStates": [
+      "AZ",
+      "NM",
+      "TX"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 5,
+      "max": 12
+    },
+    "spreadFeet": {
+      "min": 6,
+      "max": 12
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "white",
+      "green"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Littleleaf sumac is a spiny, small-leaved desert shrub of the Southwest, with early flowers and tart red berries that wildlife depend on. Exceptionally drought- and heat-tolerant for xeric gardens.",
+    "usdaSymbol": "RHMI3",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/rhus-microphylla.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Rhus_microphylla",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "hedge or screen",
+      "erosion control"
+    ],
+    "caterpillarHosts": 58,
+    "keystone": false
+  },
+  {
+    "id": "rhus-virens",
+    "scientificName": "Rhus virens",
+    "commonNames": [
+      "Evergreen Sumac"
+    ],
+    "family": "Anacardiaceae",
+    "nativeStates": [
+      "AZ",
+      "NM",
+      "TX"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 6,
+      "max": 12
+    },
+    "spreadFeet": {
+      "min": 6,
+      "max": 12
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Evergreen sumac is a lustrous, leathery-leaved shrub of Texas and Southwestern limestone hills, with late white bloom and red fruit. A handsome, drought-hardy evergreen screen that shrugs off heat.",
+    "usdaSymbol": "RHVI3",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/rhus-virens.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Rhus_virens",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "hedge or screen"
+    ],
+    "caterpillarHosts": 58,
+    "keystone": false
   }
 ]
