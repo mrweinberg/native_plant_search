@@ -7,6 +7,10 @@ import { usePlantImage } from '../composables/usePlantImage.js'
 import { useInatGallery } from '../composables/useInatGallery.js'
 import FavoriteButton from '../components/FavoriteButton.vue'
 import PlantCard from '../components/PlantCard.vue'
+import TraitPills from '../components/TraitPills.vue'
+import BloomStrip from '../components/BloomStrip.vue'
+import HeightBar from '../components/HeightBar.vue'
+import RangeMap from '../components/RangeMap.vue'
 
 const route = useRoute()
 const router = useRouter()
@@ -179,12 +183,17 @@ function fmtRange(r, unit) {
     </div>
     <p class="notes" v-if="plant.notes">{{ plant.notes }}</p>
 
-    <div class="traits-row" v-if="plant.keystone || plant.cutFlower || plant.culinaryUse || plant.deerResistant || plant.springEphemeral">
-      <span v-if="plant.keystone" class="trait trait-keystone" title="Its genus hosts an outsized number of native caterpillar species — a Tallamy 'keystone' plant">🐛 Keystone plant</span>
-      <span v-if="plant.cutFlower" class="trait trait-cut">✂ Cut flower</span>
-      <span v-if="plant.culinaryUse" class="trait trait-edible">🍴 Edible</span>
-      <span v-if="plant.deerResistant" class="trait trait-deer" title="A guide, not a guarantee — hungry deer will browse almost anything">🦌 Deer-resistant</span>
-      <span v-if="plant.springEphemeral" class="trait trait-ephemeral">🌱 Spring ephemeral</span>
+    <TraitPills :plant="plant" />
+
+    <div class="visuals">
+      <div class="viz">
+        <h2>Bloom time</h2>
+        <BloomStrip :plant="plant" />
+      </div>
+      <div class="viz">
+        <h2>Mature height</h2>
+        <HeightBar :plant="plant" />
+      </div>
     </div>
 
     <section class="group" v-if="inatLoading || inatPhotos.length">
@@ -259,6 +268,7 @@ function fmtRange(r, unit) {
 
     <section class="group">
       <h2>Native range</h2>
+      <RangeMap v-if="plant.nativeStates?.length" :plant="plant" />
       <dl class="facts">
         <div v-if="plant.nativeRegions?.length">
           <dt>USDA regions</dt><dd>{{ fmtList(plant.nativeRegions) }}</dd>
@@ -458,7 +468,21 @@ dd { margin: 2px 0 0; font-size: 14px; }
 .use-tag::first-letter { text-transform: uppercase; }
 .deer-caveat { font-size: 12px; color: var(--ink-soft); font-style: italic; margin: 10px 0 0; }
 .host-note { font-size: 12px; color: var(--ink-soft); font-style: italic; margin: 10px 0 0; }
-.trait-keystone { color: #2f6b2f; border-color: #a9d2a9; background: #e1f0e1; }
+.visuals {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 20px 28px;
+  margin-top: 20px;
+}
+.viz h2 {
+  font-size: 13px;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--accent);
+  margin: 0 0 10px;
+  padding-bottom: 6px;
+  border-bottom: 1px solid var(--border);
+}
 .gallery {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
@@ -561,17 +585,6 @@ dd { margin: 2px 0 0; font-size: 14px; }
   .lb-prev { left: 8px; }
   .lb-next { right: 8px; }
 }
-.traits-row { display: flex; flex-wrap: wrap; gap: 6px; margin: 14px 0 4px; }
-.trait {
-  font-size: 12px;
-  padding: 4px 10px;
-  border-radius: 4px;
-  border: 1px solid;
-}
-.trait-cut { color: #8a4a8a; border-color: #d4b3d4; background: #f4e8f4; }
-.trait-edible { color: #8a5a2a; border-color: #d9c2a3; background: #f6ecdc; }
-.trait-deer { color: #4a6a4a; border-color: #b3d4b3; background: #e8f4e8; }
-.trait-ephemeral { color: #3d6e7a; border-color: #b3d4d9; background: #e3f0f3; }
 .companions-sub {
   font-size: 13px;
   color: var(--ink-soft);

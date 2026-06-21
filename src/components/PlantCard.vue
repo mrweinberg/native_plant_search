@@ -2,18 +2,13 @@
 import { toRef } from 'vue'
 import { RouterLink, useRoute } from 'vue-router'
 import { usePlantImage } from '../composables/usePlantImage.js'
+import { BLOOM_COLOR_HEX as colorMap } from '../composables/usePlantFilters.js'
 import FavoriteButton from './FavoriteButton.vue'
 const props = defineProps({ plant: { type: Object, required: true } })
 const route = useRoute()
 const sciName = toRef(() => props.plant.scientificName)
 const imageFile = toRef(() => props.plant.imageFile)
 const { src: imageSrc } = usePlantImage(sciName, imageFile)
-
-const colorMap = {
-  white: '#ffffff', red: '#c44d4d', pink: '#f0a0b8', orange: '#e08b3a',
-  yellow: '#e9c84a', green: '#7ea36b', blue: '#5a7fb8', purple: '#8a5a9a',
-  violet: '#9b6aa1', brown: '#8a6a4a', black: '#222',
-}
 </script>
 
 <template>

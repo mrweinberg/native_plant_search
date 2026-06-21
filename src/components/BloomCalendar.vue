@@ -1,16 +1,11 @@
 <script setup>
 import { RouterLink, useRoute } from 'vue-router'
-import { MONTH_LABELS } from '../composables/usePlantFilters.js'
+import { MONTH_LABELS, BLOOM_COLOR_HEX as colorMap } from '../composables/usePlantFilters.js'
 
 defineProps({ plants: { type: Array, required: true } })
 const route = useRoute()
 
 const months = Array.from({ length: 12 }, (_, i) => i + 1)
-const colorMap = {
-  white: '#e4e4e4', red: '#c44d4d', pink: '#f0a0b8', orange: '#e08b3a',
-  yellow: '#e9c84a', green: '#7ea36b', blue: '#5a7fb8', purple: '#8a5a9a',
-  violet: '#9b6aa1', brown: '#8a6a4a', black: '#222',
-}
 function cellColor(plant, month) {
   if (!plant.bloomMonths?.includes(month)) return null
   const c = plant.bloomColors?.[0]
@@ -46,6 +41,7 @@ function cellColor(plant, month) {
         v-for="m in months"
         :key="m"
         class="cell bloom-cell"
+        :class="{ filled: !!cellColor(p, m) }"
         :style="{ background: cellColor(p, m) || 'transparent' }"
         :title="cellColor(p, m) ? `${p.commonNames[0]} blooms in ${MONTH_LABELS[m]}` : ''"
       ></div>
@@ -115,5 +111,6 @@ function cellColor(plant, month) {
   border-radius: 3px;
   min-height: 22px;
 }
+.bloom-cell.filled { box-shadow: inset 0 0 0 1px rgba(0, 0, 0, 0.1); }
 .empty { padding: 24px; text-align: center; color: var(--ink-soft); }
 </style>

@@ -249,3 +249,12 @@ export function usePlantFilters() {
 export const MONTH_LABELS = [
   '', 'Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec',
 ]
+
+// Bloom-color → swatch hex, shared by the cards, the calendar, and the detail-page
+// bloom strip so colors stay consistent everywhere. White renders as #fff and
+// relies on a border for visibility (consumers add it).
+export const BLOOM_COLOR_HEX = {
+  white: '#ffffff', red: '#c44d4d', pink: '#f0a0b8', orange: '#e08b3a',
+  yellow: '#e9c84a', green: '#7ea36b', blue: '#5a7fb8', purple: '#8a5a9a',
+  violet: '#9b6aa1', brown: '#8a6a4a', black: '#222',
+}
