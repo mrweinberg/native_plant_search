@@ -178,8 +178,6 @@ function fmtRange(r, unit) {
     </div>
     <p class="notes" v-if="plant.notes">{{ plant.notes }}</p>
 
-    <TraitPills :plant="plant" />
-
     <section class="group" v-if="inatLoading || inatPhotos.length">
       <h2>Photos</h2>
       <div v-if="inatLoading" class="gallery" aria-busy="true" aria-label="Loading photos">
@@ -202,6 +200,16 @@ function fmtRange(r, unit) {
         </div>
         <div class="gallery-credit">Photos via iNaturalist</div>
       </template>
+    </section>
+
+    <TraitPills :plant="plant" />
+
+    <section class="group">
+      <h2>Native range</h2>
+      <RangeMap v-if="plant.nativeStates?.length" :plant="plant" />
+      <dl v-else class="facts">
+        <div class="wide"><dt>USDA regions</dt><dd>{{ fmtList(plant.nativeRegions) }}</dd></div>
+      </dl>
     </section>
 
     <section class="group">
@@ -240,14 +248,6 @@ function fmtRange(r, unit) {
       <h2>Foliage</h2>
       <dl class="facts">
         <div><dt>Leaf arrangement</dt><dd class="cap">{{ plant.leafArrangement }}</dd></div>
-      </dl>
-    </section>
-
-    <section class="group">
-      <h2>Native range</h2>
-      <RangeMap v-if="plant.nativeStates?.length" :plant="plant" />
-      <dl v-else class="facts">
-        <div class="wide"><dt>USDA regions</dt><dd>{{ fmtList(plant.nativeRegions) }}</dd></div>
       </dl>
     </section>
 
