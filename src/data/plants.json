@@ -76619,5 +76619,2906 @@
     ],
     "caterpillarHosts": 41,
     "keystone": false
+  },
+  {
+    "id": "vaccinium-darrowii",
+    "scientificName": "Vaccinium darrowii",
+    "commonNames": [
+      "Darrow's Blueberry"
+    ],
+    "family": "Ericaceae",
+    "nativeStates": [
+      "AL",
+      "FL",
+      "GA",
+      "LA",
+      "MS"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 3
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "white",
+      "pink"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "butterflies",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": false,
+    "notes": "Darrow's blueberry is a low evergreen blueberry of Southeastern pinelands with striking blue-green foliage, the heat-tolerant parent of Southern highbush varieties. Sweet small berries feed wildlife and people.",
+    "usdaSymbol": "VADA",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/vaccinium-darrowii.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Vaccinium_darrowii",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "foundation",
+      "groundcover",
+      "container",
+      "erosion control"
+    ],
+    "caterpillarHosts": 294,
+    "keystone": true
+  },
+  {
+    "id": "vaccinium-macrocarpon",
+    "scientificName": "Vaccinium macrocarpon",
+    "commonNames": [
+      "American Cranberry"
+    ],
+    "family": "Ericaceae",
+    "nativeStates": [
+      "CT",
+      "DE",
+      "IN",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "OR",
+      "PA",
+      "RI",
+      "TN",
+      "VA",
+      "VT",
+      "WA",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0,
+      "max": 1
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 6
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "wet",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      6,
+      7
+    ],
+    "bloomColors": [
+      "pink",
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "butterflies",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": false,
+    "notes": "American cranberry is the trailing evergreen vine of acid bogs that yields the familiar tart red fruit. A creeping groundcover for permanently wet, sandy, acidic ground and rain-garden margins.",
+    "usdaSymbol": "VAMA",
+    "nativeRegions": [
+      "CAN",
+      "L48",
+      "SPM"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/vaccinium-macrocarpon.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Vaccinium_macrocarpon",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "foundation",
+      "groundcover",
+      "container",
+      "rain garden",
+      "erosion control"
+    ],
+    "caterpillarHosts": 294,
+    "keystone": true
+  },
+  {
+    "id": "vaccinium-myrsinites",
+    "scientificName": "Vaccinium myrsinites",
+    "commonNames": [
+      "Shiny Blueberry"
+    ],
+    "family": "Ericaceae",
+    "nativeStates": [
+      "AL",
+      "FL",
+      "GA",
+      "MS",
+      "SC"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy"
+    ],
+    "bloomMonths": [
+      2,
+      3
+    ],
+    "bloomColors": [
+      "white",
+      "pink"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "butterflies",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": false,
+    "notes": "Shiny blueberry is a small, glossy-leaved evergreen blueberry that spreads into low colonies across Florida and Gulf-coast pinelands. Early bloom and sweet dark berries make it a wildlife staple.",
+    "usdaSymbol": "VAMY3",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/vaccinium-myrsinites.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Vaccinium_myrsinites",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "foundation",
+      "groundcover",
+      "container",
+      "erosion control"
+    ],
+    "caterpillarHosts": 294,
+    "keystone": true
+  },
+  {
+    "id": "vaccinium-myrtilloides",
+    "scientificName": "Vaccinium myrtilloides",
+    "commonNames": [
+      "Velvetleaf Blueberry"
+    ],
+    "family": "Ericaceae",
+    "nativeStates": [
+      "MA",
+      "ME",
+      "MI",
+      "MN",
+      "MT",
+      "NH",
+      "NY",
+      "PA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "white",
+      "green"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "butterflies",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": false,
+    "notes": "Velvetleaf blueberry is a low, soft-haired wild blueberry of northern woods and barrens, prized for abundant sweet fruit. Cold-hardy and colony-forming on poor, acidic, sandy soils.",
+    "usdaSymbol": "VAMY",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/vaccinium-myrtilloides.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Vaccinium_myrtilloides",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "foundation",
+      "groundcover",
+      "container",
+      "erosion control"
+    ],
+    "caterpillarHosts": 294,
+    "keystone": true
+  },
+  {
+    "id": "vaccinium-oxycoccos",
+    "scientificName": "Vaccinium oxycoccos",
+    "commonNames": [
+      "Small Cranberry"
+    ],
+    "family": "Ericaceae",
+    "nativeStates": [
+      "AK",
+      "CT",
+      "ID",
+      "MA",
+      "ME",
+      "MI",
+      "MN",
+      "NH",
+      "NJ",
+      "NY",
+      "OR",
+      "PA",
+      "VT",
+      "WA",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0,
+      "max": 1
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "wet"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      6,
+      7
+    ],
+    "bloomColors": [
+      "pink"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "butterflies",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": false,
+    "notes": "Small cranberry is a delicate, thread-stemmed evergreen creeper of cold sphagnum bogs, with nodding pink flowers and tart red berries. A specialist groundcover for saturated, acidic peat.",
+    "usdaSymbol": "VAOX",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "GL",
+      "L48",
+      "SPM"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/vaccinium-oxycoccos.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Vaccinium_oxycoccos",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "foundation",
+      "groundcover",
+      "container",
+      "rain garden",
+      "erosion control"
+    ],
+    "caterpillarHosts": 294,
+    "keystone": true
+  },
+  {
+    "id": "vaccinium-uliginosum",
+    "scientificName": "Vaccinium uliginosum",
+    "commonNames": [
+      "Bog Bilberry"
+    ],
+    "family": "Ericaceae",
+    "nativeStates": [
+      "AK",
+      "CA",
+      "ID",
+      "ME",
+      "MI",
+      "MT",
+      "NH",
+      "NY",
+      "OR",
+      "UT",
+      "VT",
+      "WA",
+      "WY"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "wet",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky",
+      "loam"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "pink",
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "butterflies",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": false,
+    "notes": "Bog bilberry is a low, blue-fruited bilberry of arctic and alpine heath and northern bogs, blazing red in fall. A cold-climate groundcover with sweet berries for wildlife and foragers.",
+    "usdaSymbol": "VAUL",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "GL",
+      "L48",
+      "SPM"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/vaccinium-uliginosum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Vaccinium_uliginosum",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "foundation",
+      "groundcover",
+      "container",
+      "rain garden",
+      "erosion control"
+    ],
+    "caterpillarHosts": 294,
+    "keystone": true
+  },
+  {
+    "id": "vaccinium-vitis-idaea",
+    "scientificName": "Vaccinium vitis-idaea",
+    "commonNames": [
+      "Lingonberry"
+    ],
+    "family": "Ericaceae",
+    "nativeStates": [
+      "AK",
+      "CT",
+      "ME",
+      "MN",
+      "NH",
+      "VT"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0,
+      "max": 1
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky",
+      "loam"
+    ],
+    "bloomMonths": [
+      6,
+      7
+    ],
+    "bloomColors": [
+      "pink",
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "butterflies",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": false,
+    "notes": "Lingonberry is a glossy evergreen groundcover of northern and alpine heath, bearing tart red berries famous in Scandinavian cooking. A handsome, cold-hardy mat for acidic soils and rock gardens.",
+    "usdaSymbol": "VAVI",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "GL",
+      "L48",
+      "SPM"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/vaccinium-vitis-idaea.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Vaccinium_vitis-idaea",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "foundation",
+      "groundcover",
+      "container",
+      "erosion control"
+    ],
+    "caterpillarHosts": 294,
+    "keystone": true
+  },
+  {
+    "id": "cornus-canadensis",
+    "scientificName": "Cornus canadensis",
+    "commonNames": [
+      "Bunchberry"
+    ],
+    "family": "Cornaceae",
+    "nativeStates": [
+      "AK",
+      "CO",
+      "CT",
+      "ID",
+      "MA",
+      "ME",
+      "MI",
+      "MN",
+      "MT",
+      "NH",
+      "NJ",
+      "NY",
+      "OR",
+      "PA",
+      "SD",
+      "VT",
+      "WA",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0,
+      "max": 1
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "whorled",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Bunchberry is a charming woodland groundcover, a dwarf dogwood whose whorled leaves cradle white dogwood 'flowers' followed by clusters of red berries. Carpets cool, moist, acidic shade.",
+    "usdaSymbol": "COCA13",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "GL",
+      "L48",
+      "SPM"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/cornus-canadensis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Cornus_canadensis",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "foundation",
+      "groundcover",
+      "container",
+      "erosion control"
+    ],
+    "caterpillarHosts": 118,
+    "keystone": true
+  },
+  {
+    "id": "cornus-drummondii",
+    "scientificName": "Cornus drummondii",
+    "commonNames": [
+      "Roughleaf Dogwood"
+    ],
+    "family": "Cornaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MI",
+      "MO",
+      "MS",
+      "NE",
+      "OH",
+      "OK",
+      "TN",
+      "TX"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 6,
+      "max": 15
+    },
+    "spreadFeet": {
+      "min": 8,
+      "max": 15
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "clay",
+      "sandy"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Roughleaf dogwood is a tough, suckering shrub of prairie edges and fencerows, with flat white flower clusters and white berries that birds devour. Adaptable to dry, heavy soils for hedges and thickets.",
+    "usdaSymbol": "CODR",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline",
+      "acidic"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/cornus-drummondii.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Cornus_drummondii",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "hedge or screen",
+      "erosion control"
+    ],
+    "caterpillarHosts": 118,
+    "keystone": true
+  },
+  {
+    "id": "cornus-foemina",
+    "scientificName": "Cornus foemina",
+    "commonNames": [
+      "Swamp Dogwood"
+    ],
+    "family": "Cornaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "FL",
+      "GA",
+      "IL",
+      "IN",
+      "KY",
+      "LA",
+      "MI",
+      "MO",
+      "MS",
+      "NC",
+      "SC",
+      "TN",
+      "TX",
+      "VA"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 6,
+      "max": 15
+    },
+    "spreadFeet": {
+      "min": 6,
+      "max": 12
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "wet",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "clay",
+      "sandy"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Swamp dogwood, or stiff dogwood, is a wetland shrub of Southeastern stream edges and swamps, with white spring bloom and blue berries on red stalks. Excellent for rain gardens and pond margins.",
+    "usdaSymbol": "COFO",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/cornus-foemina.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Cornus_foemina",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "hedge or screen",
+      "rain garden",
+      "erosion control"
+    ],
+    "caterpillarHosts": 118,
+    "keystone": true
+  },
+  {
+    "id": "viburnum-edule",
+    "scientificName": "Viburnum edule",
+    "commonNames": [
+      "Squashberry"
+    ],
+    "family": "Viburnaceae",
+    "nativeStates": [
+      "AK",
+      "CO",
+      "ID",
+      "ME",
+      "MI",
+      "MN",
+      "MT",
+      "NH",
+      "OR",
+      "SD",
+      "VT",
+      "WA"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 8
+    },
+    "spreadFeet": {
+      "min": 4,
+      "max": 8
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Squashberry, or mooseberry, is a northern and montane viburnum with maple-like leaves and translucent red, tart edible fruit. A cold-hardy understory shrub with good red fall color.",
+    "usdaSymbol": "VIED",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "L48",
+      "SPM"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/viburnum-edule.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Viburnum_edule",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "hedge or screen",
+      "foundation",
+      "rain garden"
+    ],
+    "caterpillarHosts": 104,
+    "keystone": true
+  },
+  {
+    "id": "viburnum-ellipticum",
+    "scientificName": "Viburnum ellipticum",
+    "commonNames": [
+      "Western Viburnum"
+    ],
+    "family": "Viburnaceae",
+    "nativeStates": [
+      "CA",
+      "OR",
+      "WA"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 5,
+      "max": 12
+    },
+    "spreadFeet": {
+      "min": 5,
+      "max": 10
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Western viburnum is a Pacific Northwest woodland shrub with rounded leaves, white flower clusters, and blue-black berries for birds. An uncommon but garden-worthy native for part shade.",
+    "usdaSymbol": "VIEL",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/viburnum-ellipticum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Viburnum_ellipticum",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "hedge or screen"
+    ],
+    "caterpillarHosts": 104,
+    "keystone": true
+  },
+  {
+    "id": "viburnum-lantanoides",
+    "scientificName": "Viburnum lantanoides",
+    "commonNames": [
+      "Hobblebush"
+    ],
+    "family": "Viburnaceae",
+    "nativeStates": [
+      "CT",
+      "MA",
+      "ME",
+      "NC",
+      "NH",
+      "NY",
+      "PA",
+      "TN",
+      "VA",
+      "VT",
+      "WV"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 6
+    },
+    "spreadFeet": {
+      "min": 6,
+      "max": 12
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Hobblebush is a sprawling cool-forest viburnum whose low branches root where they touch, tripping the unwary. Big bold leaves, lacecap white bloom, and red-to-black fruit light up the shaded understory.",
+    "usdaSymbol": "VILA11",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/viburnum-lantanoides.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Viburnum_lantanoides",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "hedge or screen",
+      "foundation",
+      "erosion control"
+    ],
+    "caterpillarHosts": 104,
+    "keystone": true
+  },
+  {
+    "id": "viburnum-lentago",
+    "scientificName": "Viburnum lentago",
+    "commonNames": [
+      "Nannyberry"
+    ],
+    "family": "Viburnaceae",
+    "nativeStates": [
+      "CT",
+      "IA",
+      "IL",
+      "IN",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "ND",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "RI",
+      "SD",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 12,
+      "max": 18
+    },
+    "spreadFeet": {
+      "min": 6,
+      "max": 12
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet",
+      "dry"
+    ],
+    "soilType": [
+      "loam",
+      "clay",
+      "sandy"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Nannyberry is a large, adaptable viburnum that can be grown as a tall shrub or small tree, with creamy flower clusters and sweet blue-black berries good for jelly. Tolerates shade, wet, and dry alike.",
+    "usdaSymbol": "VILE",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "neutral",
+      "acidic",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/viburnum-lentago.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Viburnum_lentago",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "hedge or screen",
+      "rain garden"
+    ],
+    "caterpillarHosts": 104,
+    "keystone": true
+  },
+  {
+    "id": "viburnum-obovatum",
+    "scientificName": "Viburnum obovatum",
+    "commonNames": [
+      "Walter's Viburnum"
+    ],
+    "family": "Viburnaceae",
+    "nativeStates": [
+      "AL",
+      "FL",
+      "GA",
+      "SC"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 8,
+      "max": 20
+    },
+    "spreadFeet": {
+      "min": 6,
+      "max": 12
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "sandy",
+      "clay"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Walter's viburnum is a fine-textured Southeastern viburnum, semi-evergreen and shearable into hedges, smothered in tiny white flowers in early spring. Berries feed birds; tolerant of wet or dry sites.",
+    "usdaSymbol": "VIOB",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/viburnum-obovatum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Viburnum_obovatum",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "hedge or screen",
+      "rain garden"
+    ],
+    "caterpillarHosts": 104,
+    "keystone": true
+  },
+  {
+    "id": "viburnum-opulus",
+    "scientificName": "Viburnum opulus var. americanum",
+    "commonNames": [
+      "American Cranberrybush"
+    ],
+    "family": "Viburnaceae",
+    "nativeStates": [
+      "CT",
+      "IA",
+      "ID",
+      "IL",
+      "IN",
+      "MA",
+      "ME",
+      "MI",
+      "MN",
+      "MT",
+      "ND",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "OR",
+      "PA",
+      "RI",
+      "SD",
+      "VT",
+      "WA",
+      "WI",
+      "WV",
+      "WY"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 8,
+      "max": 12
+    },
+    "spreadFeet": {
+      "min": 8,
+      "max": 12
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "American cranberrybush is the native highbush cranberry (distinct from the invasive European form), with lacecap white bloom, maple-like leaves, and edible scarlet fruit that persists into winter for birds.",
+    "usdaSymbol": "VIOPA2",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/viburnum-opulus.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Viburnum_trilobum",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "hedge or screen",
+      "rain garden"
+    ],
+    "caterpillarHosts": 104,
+    "keystone": true
+  },
+  {
+    "id": "viburnum-rufidulum",
+    "scientificName": "Viburnum rufidulum",
+    "commonNames": [
+      "Rusty Blackhaw"
+    ],
+    "family": "Viburnaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "FL",
+      "GA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MO",
+      "MS",
+      "NC",
+      "OH",
+      "OK",
+      "SC",
+      "TN",
+      "TX",
+      "VA"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 10,
+      "max": 20
+    },
+    "spreadFeet": {
+      "min": 8,
+      "max": 15
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "clay",
+      "rocky"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Rusty blackhaw is a handsome small tree or large shrub with glossy leaves, rusty-fuzzed buds, white spring bloom, and waxy blue fruit. Drought-tough with superb burgundy fall color.",
+    "usdaSymbol": "VIRU",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "neutral",
+      "alkaline",
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/viburnum-rufidulum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Viburnum_rufidulum",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "hedge or screen"
+    ],
+    "caterpillarHosts": 104,
+    "keystone": true
+  },
+  {
+    "id": "rhododendron-alabamense",
+    "scientificName": "Rhododendron alabamense",
+    "commonNames": [
+      "Alabama Azalea"
+    ],
+    "family": "Ericaceae",
+    "nativeStates": [
+      "AL",
+      "GA",
+      "TN"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 6,
+      "max": 10
+    },
+    "spreadFeet": {
+      "min": 6,
+      "max": 10
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "sandy"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "white",
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Alabama azalea bears clusters of lemon-scented white flowers with a yellow blotch, perfuming Southeastern woodland edges in spring. A graceful deciduous azalea for dappled, acidic shade.",
+    "usdaSymbol": "RHAL5",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/rhododendron-alabamense.jpg",
+    "imageSource": "https://www.inaturalist.org/taxa/49828",
+    "imageCredit": "iNaturalist",
+    "landscapeUses": [
+      "specimen",
+      "hedge or screen"
+    ],
+    "caterpillarHosts": 51,
+    "keystone": false
+  },
+  {
+    "id": "rhododendron-arborescens",
+    "scientificName": "Rhododendron arborescens",
+    "commonNames": [
+      "Sweet Azalea"
+    ],
+    "family": "Ericaceae",
+    "nativeStates": [
+      "AL",
+      "GA",
+      "NC",
+      "PA",
+      "SC",
+      "TN",
+      "VA",
+      "WV"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 8,
+      "max": 12
+    },
+    "spreadFeet": {
+      "min": 8,
+      "max": 12
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      6,
+      7
+    ],
+    "bloomColors": [
+      "white",
+      "pink"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Sweet azalea is a tall, late-blooming deciduous azalea with intensely fragrant white flowers and showy red stamens, often along mountain streams. Loves cool, moist, acidic ground in part shade.",
+    "usdaSymbol": "RHAR3",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/rhododendron-arborescens.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Rhododendron_arborescens",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "hedge or screen",
+      "rain garden"
+    ],
+    "caterpillarHosts": 51,
+    "keystone": false
+  },
+  {
+    "id": "rhododendron-atlanticum",
+    "scientificName": "Rhododendron atlanticum",
+    "commonNames": [
+      "Coastal Azalea"
+    ],
+    "family": "Ericaceae",
+    "nativeStates": [
+      "MD",
+      "NC",
+      "SC",
+      "VA"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 6
+    },
+    "spreadFeet": {
+      "min": 4,
+      "max": 8
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "white",
+      "pink"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Coastal azalea is a low, stoloniferous deciduous azalea of the Atlantic coastal plain, with fragrant white-and-pink bloom and blue-green leaves. Spreads into drifts on sandy, acidic soil.",
+    "usdaSymbol": "RHAT",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/rhododendron-atlanticum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Rhododendron_atlanticum",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "hedge or screen",
+      "foundation",
+      "erosion control"
+    ],
+    "caterpillarHosts": 51,
+    "keystone": false
+  },
+  {
+    "id": "rhododendron-maximum",
+    "scientificName": "Rhododendron maximum",
+    "commonNames": [
+      "Great Rhododendron"
+    ],
+    "family": "Ericaceae",
+    "nativeStates": [
+      "CT",
+      "GA",
+      "KY",
+      "MA",
+      "MD",
+      "ME",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "VA",
+      "VT",
+      "WV"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 10,
+      "max": 25
+    },
+    "spreadFeet": {
+      "min": 8,
+      "max": 15
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      6,
+      7
+    ],
+    "bloomColors": [
+      "white",
+      "pink"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Great rhododendron, or rosebay, is the towering evergreen rhododendron that forms dense thickets in cool Appalachian forests, topped with trusses of white-to-rose bloom. A bold evergreen for moist, acidic shade.",
+    "usdaSymbol": "RHMA4",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/rhododendron-maximum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Rhododendron_maximum",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "hedge or screen"
+    ],
+    "caterpillarHosts": 51,
+    "keystone": false
+  },
+  {
+    "id": "rhododendron-minus",
+    "scientificName": "Rhododendron minus",
+    "commonNames": [
+      "Piedmont Rhododendron"
+    ],
+    "family": "Ericaceae",
+    "nativeStates": [
+      "AL",
+      "FL",
+      "GA",
+      "NC",
+      "SC",
+      "TN"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 6,
+      "max": 15
+    },
+    "spreadFeet": {
+      "min": 6,
+      "max": 12
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "pink",
+      "purple"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Piedmont rhododendron is a compact evergreen rhododendron with scaly leaves and pink-to-lavender flowers, more sun- and heat-tolerant than its giant cousin. A versatile evergreen for acidic Southern gardens.",
+    "usdaSymbol": "RHMI2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/rhododendron-minus.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Rhododendron_minus",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "hedge or screen"
+    ],
+    "caterpillarHosts": 51,
+    "keystone": false
+  },
+  {
+    "id": "rhododendron-prinophyllum",
+    "scientificName": "Rhododendron prinophyllum",
+    "commonNames": [
+      "Roseshell Azalea"
+    ],
+    "family": "Ericaceae",
+    "nativeStates": [
+      "AR",
+      "CT",
+      "MA",
+      "MO",
+      "NH",
+      "NY",
+      "OH",
+      "PA",
+      "VA",
+      "VT",
+      "WV"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 4,
+      "max": 8
+    },
+    "spreadFeet": {
+      "min": 4,
+      "max": 8
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "pink"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Roseshell azalea fills cool northern woods with clusters of clove-scented, clear pink flowers in late spring. A cold-hardy, fragrant deciduous azalea for moist, acidic, partly shaded sites.",
+    "usdaSymbol": "RHPR",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/rhododendron-prinophyllum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Rhododendron_prinophyllum",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "hedge or screen",
+      "foundation"
+    ],
+    "caterpillarHosts": 51,
+    "keystone": false
+  },
+  {
+    "id": "rhododendron-prunifolium",
+    "scientificName": "Rhododendron prunifolium",
+    "commonNames": [
+      "Plumleaf Azalea"
+    ],
+    "family": "Ericaceae",
+    "nativeStates": [
+      "AL",
+      "GA"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 8,
+      "max": 15
+    },
+    "spreadFeet": {
+      "min": 8,
+      "max": 12
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "sandy"
+    ],
+    "bloomMonths": [
+      7,
+      8
+    ],
+    "bloomColors": [
+      "red",
+      "orange"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Plumleaf azalea is a rare, late-summer-blooming azalea whose flaming red-orange flowers appear in July and August when little else blooms, drawing hummingbirds. A prized deciduous azalea for moist shade.",
+    "usdaSymbol": "RHPR2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/rhododendron-prunifolium.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Rhododendron_prunifolium",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "hedge or screen"
+    ],
+    "caterpillarHosts": 51,
+    "keystone": false
+  },
+  {
+    "id": "gaylussacia-baccata",
+    "scientificName": "Gaylussacia baccata",
+    "commonNames": [
+      "Black Huckleberry"
+    ],
+    "family": "Ericaceae",
+    "nativeStates": [
+      "CT",
+      "DE",
+      "GA",
+      "IL",
+      "IN",
+      "KY",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "RI",
+      "TN",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky",
+      "loam"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "red",
+      "pink"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "butterflies",
+      "mammals"
+    ],
+    "deerResistant": false,
+    "notes": "Black huckleberry is a low, colony-forming shrub of dry acidic woods and barrens, with reddish bell flowers and sweet, seedy black fruit. Brilliant crimson fall color and abundant wildlife value.",
+    "usdaSymbol": "GABA",
+    "nativeRegions": [
+      "CAN",
+      "L48",
+      "SPM"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/gaylussacia-baccata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Gaylussacia_baccata",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "foundation",
+      "erosion control"
+    ],
+    "caterpillarHosts": 44,
+    "keystone": false
+  },
+  {
+    "id": "gaylussacia-brachycera",
+    "scientificName": "Gaylussacia brachycera",
+    "commonNames": [
+      "Box Huckleberry"
+    ],
+    "family": "Ericaceae",
+    "nativeStates": [
+      "DE",
+      "KY",
+      "PA",
+      "TN",
+      "VA",
+      "WV"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0,
+      "max": 1
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky",
+      "loam"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "white",
+      "pink"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "butterflies",
+      "mammals"
+    ],
+    "deerResistant": false,
+    "notes": "Box huckleberry is a rare evergreen groundcover huckleberry forming ancient, slowly creeping clonal colonies, some thousands of years old. A glossy, boxwood-like mat for acidic woodland shade.",
+    "usdaSymbol": "GABR5",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/gaylussacia-brachycera.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Gaylussacia_brachycera",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "foundation",
+      "groundcover",
+      "container",
+      "erosion control"
+    ],
+    "caterpillarHosts": 44,
+    "keystone": false
+  },
+  {
+    "id": "gaylussacia-dumosa",
+    "scientificName": "Gaylussacia dumosa",
+    "commonNames": [
+      "Dwarf Huckleberry"
+    ],
+    "family": "Ericaceae",
+    "nativeStates": [
+      "AL",
+      "FL",
+      "GA",
+      "LA",
+      "MD",
+      "MS",
+      "NC",
+      "NJ",
+      "PA",
+      "SC",
+      "TN",
+      "VA"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "wet",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "white",
+      "pink"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "butterflies",
+      "mammals"
+    ],
+    "deerResistant": false,
+    "notes": "Dwarf huckleberry is a low Southeastern huckleberry of pine flatwoods and bogs, with bristly bell flowers and edible black fruit. Spreads to form a sweet-fruited groundcover on acidic ground.",
+    "usdaSymbol": "GADU",
+    "nativeRegions": [
+      "CAN",
+      "L48",
+      "SPM"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/gaylussacia-dumosa.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Gaylussacia_dumosa",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "foundation",
+      "groundcover",
+      "container",
+      "rain garden",
+      "erosion control"
+    ],
+    "caterpillarHosts": 44,
+    "keystone": false
+  },
+  {
+    "id": "kalmia-angustifolia",
+    "scientificName": "Kalmia angustifolia",
+    "commonNames": [
+      "Sheep Laurel"
+    ],
+    "family": "Ericaceae",
+    "nativeStates": [
+      "CT",
+      "DE",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "PA",
+      "RI",
+      "SC",
+      "VA",
+      "VT"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet",
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      6,
+      7
+    ],
+    "bloomColors": [
+      "pink",
+      "red"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": true,
+    "notes": "Sheep laurel is a low evergreen laurel of acidic bogs, barrens, and heath, with clusters of deep pink cup-shaped flowers. Tough and deer-resistant, though its foliage is toxic to livestock.",
+    "usdaSymbol": "KAAN",
+    "nativeRegions": [
+      "CAN",
+      "L48",
+      "SPM"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/kalmia-angustifolia.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Kalmia_angustifolia",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "foundation",
+      "rain garden",
+      "erosion control"
+    ],
+    "caterpillarHosts": 33,
+    "keystone": false
+  },
+  {
+    "id": "kalmia-microphylla",
+    "scientificName": "Kalmia microphylla",
+    "commonNames": [
+      "Western Bog Laurel"
+    ],
+    "family": "Ericaceae",
+    "nativeStates": [
+      "AK",
+      "CA",
+      "CO",
+      "ID",
+      "MT",
+      "NV",
+      "OR",
+      "UT",
+      "WA",
+      "WY"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "wet",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      6,
+      7
+    ],
+    "bloomColors": [
+      "pink",
+      "purple"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": true,
+    "notes": "Western bog laurel is a dwarf evergreen laurel of western mountain bogs and wet meadows, studded with rose-purple flowers. A deer-resistant specialist for cold, wet, acidic ground.",
+    "usdaSymbol": "KAMI",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/kalmia-microphylla.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Kalmia_microphylla",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "foundation",
+      "groundcover",
+      "container",
+      "rain garden",
+      "erosion control"
+    ],
+    "caterpillarHosts": 33,
+    "keystone": false
+  },
+  {
+    "id": "kalmia-polifolia",
+    "scientificName": "Kalmia polifolia",
+    "commonNames": [
+      "Bog Laurel"
+    ],
+    "family": "Ericaceae",
+    "nativeStates": [
+      "AK",
+      "CA",
+      "CT",
+      "MA",
+      "ME",
+      "MI",
+      "MN",
+      "MT",
+      "NH",
+      "NY",
+      "PA",
+      "VT",
+      "WA",
+      "WI"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "sandy"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "pink",
+      "purple"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": true,
+    "notes": "Bog laurel is a slender northern evergreen laurel of sphagnum bogs and fens, with showy rose-pink spring flowers above blue-green leaves. Deer-resistant but toxic; a gem for cold acidic wetlands.",
+    "usdaSymbol": "KAPO",
+    "nativeRegions": [
+      "CAN",
+      "L48",
+      "SPM"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/kalmia-polifolia.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Kalmia_polifolia",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "foundation",
+      "groundcover",
+      "container",
+      "rain garden",
+      "erosion control"
+    ],
+    "caterpillarHosts": 33,
+    "keystone": false
+  },
+  {
+    "id": "arbutus-arizonica",
+    "scientificName": "Arbutus arizonica",
+    "commonNames": [
+      "Arizona Madrone"
+    ],
+    "family": "Ericaceae",
+    "nativeStates": [
+      "AZ"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 20,
+      "max": 40
+    },
+    "spreadFeet": {
+      "min": 15,
+      "max": 30
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "mammals"
+    ],
+    "deerResistant": false,
+    "notes": "Arizona madrone is an evergreen madrone of Southwestern 'sky island' canyons, with smooth reddish bark, urn-shaped white flowers, and orange-red berries for birds. A drought-hardy small tree of the high desert mountains.",
+    "usdaSymbol": "ARAR2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/arbutus-arizonica.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Arbutus_arizonica",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen"
+    ],
+    "caterpillarHosts": 12,
+    "keystone": false
+  },
+  {
+    "id": "arbutus-xalapensis",
+    "scientificName": "Arbutus xalapensis",
+    "commonNames": [
+      "Texas Madrone"
+    ],
+    "family": "Ericaceae",
+    "nativeStates": [
+      "NM",
+      "TX"
+    ],
+    "generalAppearance": "tree",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 15,
+      "max": 40
+    },
+    "spreadFeet": {
+      "min": 15,
+      "max": 30
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      2,
+      3
+    ],
+    "bloomColors": [
+      "white",
+      "pink"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "mammals"
+    ],
+    "deerResistant": false,
+    "notes": "Texas madrone is a striking evergreen with sculptural, peeling pink-and-white bark, fragrant white bell flowers, and showy red berries. Slow but spectacular on dry limestone and rocky slopes.",
+    "usdaSymbol": "ARXA80",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "neutral",
+      "alkaline",
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/arbutus-xalapensis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Arbutus_xalapensis",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen"
+    ],
+    "caterpillarHosts": 12,
+    "keystone": false
+  },
+  {
+    "id": "lyonia-ferruginea",
+    "scientificName": "Lyonia ferruginea",
+    "commonNames": [
+      "Rusty Staggerbush"
+    ],
+    "family": "Ericaceae",
+    "nativeStates": [
+      "FL",
+      "GA"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 6,
+      "max": 20
+    },
+    "spreadFeet": {
+      "min": 6,
+      "max": 15
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": true,
+    "notes": "Rusty staggerbush is an evergreen Florida shrub with rusty-scaled, wavy leaves and clusters of small white urn flowers. A drought- and deer-resistant component of scrub and pine flatwoods.",
+    "usdaSymbol": "LYFE",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/lyonia-ferruginea.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Lyonia_ferruginea",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "hedge or screen"
+    ],
+    "caterpillarHosts": 11,
+    "keystone": false
+  },
+  {
+    "id": "lyonia-fruticosa",
+    "scientificName": "Lyonia fruticosa",
+    "commonNames": [
+      "Coastal Staggerbush"
+    ],
+    "family": "Ericaceae",
+    "nativeStates": [
+      "FL",
+      "GA"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 8
+    },
+    "spreadFeet": {
+      "min": 4,
+      "max": 8
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "wet",
+      "moist",
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": true,
+    "notes": "Coastal staggerbush is a small evergreen shrub of Florida flatwoods and bogs, with leathery rust-backed leaves and white bell flowers. Tolerant of wet and dry, and resistant to deer.",
+    "usdaSymbol": "LYFR3",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/lyonia-fruticosa.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Lyonia_fruticosa",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "hedge or screen",
+      "foundation",
+      "rain garden"
+    ],
+    "caterpillarHosts": 11,
+    "keystone": false
+  },
+  {
+    "id": "lyonia-mariana",
+    "scientificName": "Lyonia mariana",
+    "commonNames": [
+      "Piedmont Staggerbush"
+    ],
+    "family": "Ericaceae",
+    "nativeStates": [
+      "AR",
+      "DE",
+      "FL",
+      "GA",
+      "MD",
+      "NC",
+      "NJ",
+      "NY",
+      "PA",
+      "SC",
+      "TX",
+      "VA"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 6
+    },
+    "spreadFeet": {
+      "min": 3,
+      "max": 5
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "dry",
+      "wet"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "white",
+      "pink"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": true,
+    "notes": "Piedmont staggerbush is a deciduous shrub of acidic sandy woods and pond edges, hung with showy nodding white-to-pink bell flowers in late spring. Spreads modestly and shrugs off deer browsing.",
+    "usdaSymbol": "LYMA2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/lyonia-mariana.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Lyonia_mariana",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "hedge or screen",
+      "foundation",
+      "rain garden",
+      "erosion control"
+    ],
+    "caterpillarHosts": 11,
+    "keystone": false
   }
 ]

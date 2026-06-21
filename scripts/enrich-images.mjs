@@ -21,6 +21,7 @@ const UA = 'native-plant-search/0.1 (https://github.com/; max.renaud.weinberg@gm
 const NAME_SYNONYMS = {
   'Eutrochium altissimum': 'Eupatorium altissimum',
   'Forestiera neomexicana': 'Forestiera pubescens',
+  'Viburnum opulus var. americanum': 'Viburnum trilobum',
 }
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms))

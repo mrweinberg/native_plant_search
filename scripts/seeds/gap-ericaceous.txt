@@ -1,0 +1,35 @@
+Vaccinium darrowii | Darrow's Blueberry
+Vaccinium macrocarpon | American Cranberry
+Vaccinium myrsinites | Shiny Blueberry
+Vaccinium myrtilloides | Velvetleaf Blueberry
+Vaccinium oxycoccos | Small Cranberry
+Vaccinium uliginosum | Bog Bilberry
+Vaccinium vitis-idaea | Lingonberry
+Cornus canadensis | Bunchberry
+Cornus drummondii | Roughleaf Dogwood
+Cornus foemina | Swamp Dogwood
+Viburnum edule | Squashberry
+Viburnum ellipticum | Western Viburnum
+Viburnum lantanoides | Hobblebush
+Viburnum lentago | Nannyberry
+Viburnum obovatum | Walter's Viburnum
+Viburnum opulus var. americanum | American Cranberrybush
+Viburnum rufidulum | Rusty Blackhaw
+Rhododendron alabamense | Alabama Azalea
+Rhododendron arborescens | Sweet Azalea
+Rhododendron atlanticum | Coastal Azalea
+Rhododendron maximum | Great Rhododendron
+Rhododendron minus | Piedmont Rhododendron
+Rhododendron prinophyllum | Roseshell Azalea
+Rhododendron prunifolium | Plumleaf Azalea
+Gaylussacia baccata | Black Huckleberry
+Gaylussacia brachycera | Box Huckleberry
+Gaylussacia dumosa | Dwarf Huckleberry
+Kalmia angustifolia | Sheep Laurel
+Kalmia microphylla | Western Bog Laurel
+Kalmia polifolia | Bog Laurel
+Arbutus arizonica | Arizona Madrone
+Arbutus xalapensis | Texas Madrone
+Lyonia ferruginea | Rusty Staggerbush
+Lyonia fruticosa | Coastal Staggerbush
+Lyonia mariana | Piedmont Staggerbush
