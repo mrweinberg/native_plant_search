@@ -45,17 +45,17 @@ const tagline = computed(() =>
       <span class="tagline">{{ tagline }}</span>
       <LocationPicker />
       <span class="spacer"></span>
+      <RouterLink :to="{ name: 'favorites' }" class="nav-link" active-class="nav-link-active">
+        <span aria-hidden="true">★</span> Favorites
+        <span v-if="favCount" class="count">{{ favCount }}</span>
+      </RouterLink>
       <a
         class="support"
         href="https://ko-fi.com/maxweinberg"
         target="_blank"
         rel="noopener"
         title="Support Bedfellow on Ko-fi"
-      >☕ Support</a>
-      <RouterLink :to="{ name: 'favorites' }" class="nav-link" active-class="nav-link-active">
-        <span aria-hidden="true">★</span> Favorites
-        <span v-if="favCount" class="count">{{ favCount }}</span>
-      </RouterLink>
+      >☕ Tip Jar</a>
     </header>
     <main>
       <RouterView />
