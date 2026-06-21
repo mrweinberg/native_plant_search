@@ -1,0 +1,25 @@
+Ceanothus cordulatus | Mountain Whitethorn
+Ceanothus cuneatus | Buckbrush
+Ceanothus fendleri | Fendler's Ceanothus
+Ceanothus gloriosus | Point Reyes Ceanothus
+Ceanothus greggii | Desert Ceanothus
+Ceanothus herbaceus | Jersey Tea
+Ceanothus impressus | Santa Barbara Ceanothus
+Ceanothus integerrimus | Deerbrush
+Ceanothus leucodermis | Chaparral Whitethorn
+Ceanothus maritimus | Maritime Ceanothus
+Ceanothus megacarpus | Bigpod Ceanothus
+Arctostaphylos bakeri | Baker's Manzanita
+Arctostaphylos canescens | Hoary Manzanita
+Arctostaphylos columbiana | Hairy Manzanita
+Arctostaphylos densiflora | Vine Hill Manzanita
+Arctostaphylos edmundsii | Little Sur Manzanita
+Arctostaphylos hookeri | Hooker's Manzanita
+Arctostaphylos nevadensis | Pinemat Manzanita
+Arctostaphylos pajaroensis | Pajaro Manzanita
+Arctostaphylos patula | Greenleaf Manzanita
+Arctostaphylos pringlei | Pringle Manzanita
+Mahonia haematocarpa | Red Barberry
+Mahonia nevinii | Nevin's Barberry
+Mahonia pinnata | California Barberry
+Mahonia swaseyi | Texas Barberry

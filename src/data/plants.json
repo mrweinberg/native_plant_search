@@ -82044,5 +82044,1818 @@
     ],
     "caterpillarHosts": 58,
     "keystone": false
+  },
+  {
+    "id": "ceanothus-cordulatus",
+    "scientificName": "Ceanothus cordulatus",
+    "commonNames": [
+      "Mountain Whitethorn"
+    ],
+    "family": "Rhamnaceae",
+    "nativeStates": [
+      "CA",
+      "NV",
+      "OR"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 5
+    },
+    "spreadFeet": {
+      "min": 4,
+      "max": 8
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "songbirds",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Mountain whitethorn is a dense, spiny, nitrogen-fixing ceanothus of western mountain forests, frosting slopes with white bloom after snowmelt. A fire-following pollinator magnet for high, dry ground.",
+    "usdaSymbol": "CECO",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/ceanothus-cordulatus.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Ceanothus_cordulatus",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "hedge or screen",
+      "foundation"
+    ],
+    "caterpillarHosts": 45,
+    "keystone": false
+  },
+  {
+    "id": "ceanothus-cuneatus",
+    "scientificName": "Ceanothus cuneatus",
+    "commonNames": [
+      "Buckbrush"
+    ],
+    "family": "Rhamnaceae",
+    "nativeStates": [
+      "CA",
+      "OR"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 8
+    },
+    "spreadFeet": {
+      "min": 4,
+      "max": 8
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "songbirds",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Buckbrush is one of the toughest, most widespread California ceanothus, an evergreen, nitrogen-fixing chaparral shrub smothered in white bloom in spring. Drought-proof and alive with pollinators.",
+    "usdaSymbol": "CECU",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/ceanothus-cuneatus.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Ceanothus_cuneatus",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "hedge or screen",
+      "foundation"
+    ],
+    "caterpillarHosts": 45,
+    "keystone": false
+  },
+  {
+    "id": "ceanothus-fendleri",
+    "scientificName": "Ceanothus fendleri",
+    "commonNames": [
+      "Fendler's Ceanothus"
+    ],
+    "family": "Rhamnaceae",
+    "nativeStates": [
+      "AZ",
+      "CO",
+      "NM",
+      "UT"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 3,
+      "max": 6
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "songbirds",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Fendler's ceanothus is a low, somewhat spiny nitrogen-fixer of Southwestern pine forests, with white flower clusters and important wildlife browse. Spreads modestly and fixes nitrogen on poor mountain soils.",
+    "usdaSymbol": "CEFE",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/ceanothus-fendleri.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Ceanothus_fendleri",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "foundation",
+      "erosion control"
+    ],
+    "caterpillarHosts": 45,
+    "keystone": false
+  },
+  {
+    "id": "ceanothus-gloriosus",
+    "scientificName": "Ceanothus gloriosus",
+    "commonNames": [
+      "Point Reyes Ceanothus"
+    ],
+    "family": "Rhamnaceae",
+    "nativeStates": [
+      "CA"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 6,
+      "max": 12
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5
+    ],
+    "bloomColors": [
+      "blue",
+      "purple"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "songbirds",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Point Reyes ceanothus is a low, spreading evergreen groundcover ceanothus of the California coast, blanketed in blue bloom and tolerant of wind and salt. A premier nitrogen-fixing bank cover.",
+    "usdaSymbol": "CEGL",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/ceanothus-gloriosus.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Ceanothus_gloriosus",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "foundation",
+      "erosion control"
+    ],
+    "caterpillarHosts": 45,
+    "keystone": false
+  },
+  {
+    "id": "ceanothus-greggii",
+    "scientificName": "Ceanothus greggii",
+    "commonNames": [
+      "Desert Ceanothus"
+    ],
+    "family": "Rhamnaceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "NM",
+      "TX"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 6
+    },
+    "spreadFeet": {
+      "min": 3,
+      "max": 6
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5
+    ],
+    "bloomColors": [
+      "white",
+      "blue"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "songbirds",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Desert ceanothus is a stiff, gray-green evergreen ceanothus of Southwestern high desert and chaparral, covered in pale blue-white bloom in spring. Exceptionally drought- and heat-tolerant.",
+    "usdaSymbol": "CEGR",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/ceanothus-greggii.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Ceanothus_pauciflorus",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "hedge or screen",
+      "foundation"
+    ],
+    "caterpillarHosts": 45,
+    "keystone": false
+  },
+  {
+    "id": "ceanothus-herbaceus",
+    "scientificName": "Ceanothus herbaceus",
+    "commonNames": [
+      "Jersey Tea"
+    ],
+    "family": "Rhamnaceae",
+    "nativeStates": [
+      "AR",
+      "CO",
+      "IA",
+      "IL",
+      "KS",
+      "MI",
+      "MN",
+      "MO",
+      "NE",
+      "OK",
+      "SD",
+      "TX",
+      "VT",
+      "WI"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "songbirds",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Jersey tea, or prairie redroot, is a compact nitrogen-fixing prairie shrub with frothy white flower clusters that swarm with pollinators. Deep-rooted and drought-proof for meadows and dry borders.",
+    "usdaSymbol": "CEHE",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline",
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/ceanothus-herbaceus.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Ceanothus_herbaceus",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "foundation"
+    ],
+    "caterpillarHosts": 45,
+    "keystone": false
+  },
+  {
+    "id": "ceanothus-impressus",
+    "scientificName": "Ceanothus impressus",
+    "commonNames": [
+      "Santa Barbara Ceanothus"
+    ],
+    "family": "Rhamnaceae",
+    "nativeStates": [
+      "CA"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 6
+    },
+    "spreadFeet": {
+      "min": 4,
+      "max": 8
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      2,
+      3,
+      4
+    ],
+    "bloomColors": [
+      "blue",
+      "purple"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "songbirds",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Santa Barbara ceanothus is a compact evergreen California lilac with crinkled dark leaves and intense deep-blue spring bloom. One of the showiest nitrogen-fixing ceanothus for dry, sunny gardens.",
+    "usdaSymbol": "CEIM",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/ceanothus-impressus.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Ceanothus_impressus",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "hedge or screen",
+      "foundation"
+    ],
+    "caterpillarHosts": 45,
+    "keystone": false
+  },
+  {
+    "id": "ceanothus-integerrimus",
+    "scientificName": "Ceanothus integerrimus",
+    "commonNames": [
+      "Deerbrush"
+    ],
+    "family": "Rhamnaceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "OR",
+      "WA"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 4,
+      "max": 12
+    },
+    "spreadFeet": {
+      "min": 4,
+      "max": 10
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "white",
+      "blue"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "songbirds",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Deerbrush is an open, deciduous ceanothus of western foothills with fragrant white-to-pale-blue plumes, named for the deer that browse it heavily. A fast nitrogen-fixing pioneer after fire.",
+    "usdaSymbol": "CEIN3",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/ceanothus-integerrimus.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Ceanothus_integerrimus",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "hedge or screen"
+    ],
+    "caterpillarHosts": 45,
+    "keystone": false
+  },
+  {
+    "id": "ceanothus-leucodermis",
+    "scientificName": "Ceanothus leucodermis",
+    "commonNames": [
+      "Chaparral Whitethorn"
+    ],
+    "family": "Rhamnaceae",
+    "nativeStates": [
+      "CA"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 6,
+      "max": 12
+    },
+    "spreadFeet": {
+      "min": 6,
+      "max": 12
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "white",
+      "blue"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "songbirds",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Chaparral whitethorn is a tall, spiny, blue-gray evergreen ceanothus that forms impenetrable nitrogen-fixing thickets on dry California slopes. Pale blue bloom draws clouds of pollinators.",
+    "usdaSymbol": "CELE2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/ceanothus-leucodermis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Ceanothus_leucodermis",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "hedge or screen"
+    ],
+    "caterpillarHosts": 45,
+    "keystone": false
+  },
+  {
+    "id": "ceanothus-maritimus",
+    "scientificName": "Ceanothus maritimus",
+    "commonNames": [
+      "Maritime Ceanothus"
+    ],
+    "family": "Rhamnaceae",
+    "nativeStates": [
+      "CA"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 6,
+      "max": 10
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky",
+      "loam"
+    ],
+    "bloomMonths": [
+      2,
+      3
+    ],
+    "bloomColors": [
+      "blue",
+      "purple",
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "songbirds",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Maritime ceanothus is a low, mounding evergreen groundcover from windswept California sea bluffs, with gray-green leaves and pale-to-deep blue bloom. Tough, salt-tolerant, and nitrogen-fixing.",
+    "usdaSymbol": "CEMA",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/ceanothus-maritimus.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Ceanothus_maritimus",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "foundation",
+      "erosion control"
+    ],
+    "caterpillarHosts": 45,
+    "keystone": false
+  },
+  {
+    "id": "ceanothus-megacarpus",
+    "scientificName": "Ceanothus megacarpus",
+    "commonNames": [
+      "Bigpod Ceanothus"
+    ],
+    "family": "Rhamnaceae",
+    "nativeStates": [
+      "CA"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 6,
+      "max": 12
+    },
+    "spreadFeet": {
+      "min": 6,
+      "max": 12
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      1,
+      2,
+      3
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "songbirds",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Bigpod ceanothus is a large evergreen chaparral shrub of southern California, among the earliest to bloom, clouding hillsides white in late winter. A drought-proof nitrogen-fixer and pollinator resource.",
+    "usdaSymbol": "CEME",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/ceanothus-megacarpus.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Ceanothus_megacarpus",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "hedge or screen"
+    ],
+    "caterpillarHosts": 45,
+    "keystone": false
+  },
+  {
+    "id": "arctostaphylos-bakeri",
+    "scientificName": "Arctostaphylos bakeri",
+    "commonNames": [
+      "Baker's Manzanita"
+    ],
+    "family": "Ericaceae",
+    "nativeStates": [
+      "CA"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 5,
+      "max": 10
+    },
+    "spreadFeet": {
+      "min": 5,
+      "max": 8
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      2,
+      3
+    ],
+    "bloomColors": [
+      "pink",
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds",
+      "songbirds",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Baker's manzanita is a rare California manzanita with smooth mahogany bark and pink urn-shaped flowers, prized in gardens for its sculptural form. Drought-tolerant and deer-resistant once established.",
+    "usdaSymbol": "ARBA4",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/arctostaphylos-bakeri.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Arctostaphylos_bakeri",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "hedge or screen"
+    ],
+    "caterpillarHosts": 17,
+    "keystone": false
+  },
+  {
+    "id": "arctostaphylos-canescens",
+    "scientificName": "Arctostaphylos canescens",
+    "commonNames": [
+      "Hoary Manzanita"
+    ],
+    "family": "Ericaceae",
+    "nativeStates": [
+      "CA",
+      "OR"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 8
+    },
+    "spreadFeet": {
+      "min": 4,
+      "max": 8
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      2,
+      3
+    ],
+    "bloomColors": [
+      "white",
+      "pink"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds",
+      "songbirds",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Hoary manzanita is a gray-hairy evergreen manzanita of western chaparral and conifer forest, with the genus's signature red bark and early bell flowers. A tough, deer-resistant pollinator shrub.",
+    "usdaSymbol": "ARCA5",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/arctostaphylos-canescens.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Arctostaphylos_canescens",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "hedge or screen",
+      "foundation"
+    ],
+    "caterpillarHosts": 17,
+    "keystone": false
+  },
+  {
+    "id": "arctostaphylos-columbiana",
+    "scientificName": "Arctostaphylos columbiana",
+    "commonNames": [
+      "Hairy Manzanita"
+    ],
+    "family": "Ericaceae",
+    "nativeStates": [
+      "CA",
+      "OR",
+      "WA"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 6,
+      "max": 15
+    },
+    "spreadFeet": {
+      "min": 6,
+      "max": 12
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "white",
+      "pink"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds",
+      "songbirds",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Hairy manzanita is a large Pacific Northwest manzanita with crooked red branches and white-pink spring bell flowers, followed by reddish berries for wildlife. Drought-hardy and deer-resistant.",
+    "usdaSymbol": "ARCO3",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/arctostaphylos-columbiana.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Arctostaphylos_columbiana",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "hedge or screen"
+    ],
+    "caterpillarHosts": 17,
+    "keystone": false
+  },
+  {
+    "id": "arctostaphylos-densiflora",
+    "scientificName": "Arctostaphylos densiflora",
+    "commonNames": [
+      "Vine Hill Manzanita"
+    ],
+    "family": "Ericaceae",
+    "nativeStates": [
+      "CA"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 4,
+      "max": 6
+    },
+    "spreadFeet": {
+      "min": 5,
+      "max": 8
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      2,
+      3
+    ],
+    "bloomColors": [
+      "pink",
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds",
+      "songbirds",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Vine Hill manzanita is a rare, garden-beloved California manzanita with glossy leaves, smooth red bark, and abundant pink bloom. A choice deer-resistant evergreen for dry, well-drained sites.",
+    "usdaSymbol": "ARDE2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/arctostaphylos-densiflora.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Arctostaphylos_densiflora",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "hedge or screen",
+      "foundation"
+    ],
+    "caterpillarHosts": 17,
+    "keystone": false
+  },
+  {
+    "id": "arctostaphylos-edmundsii",
+    "scientificName": "Arctostaphylos edmundsii",
+    "commonNames": [
+      "Little Sur Manzanita"
+    ],
+    "family": "Ericaceae",
+    "nativeStates": [
+      "CA"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 4,
+      "max": 8
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      1,
+      2,
+      3
+    ],
+    "bloomColors": [
+      "pink",
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds",
+      "songbirds",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Little Sur manzanita is a low, spreading groundcover manzanita from the Big Sur coast, hugging slopes with small bright leaves and early pink bloom. A first-rate deer-resistant evergreen groundcover.",
+    "usdaSymbol": "ARED",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/arctostaphylos-edmundsii.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Arctostaphylos_edmundsii",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "foundation",
+      "groundcover",
+      "container",
+      "erosion control"
+    ],
+    "caterpillarHosts": 17,
+    "keystone": false
+  },
+  {
+    "id": "arctostaphylos-hookeri",
+    "scientificName": "Arctostaphylos hookeri",
+    "commonNames": [
+      "Hooker's Manzanita"
+    ],
+    "family": "Ericaceae",
+    "nativeStates": [
+      "CA"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 4,
+      "max": 8
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky",
+      "loam"
+    ],
+    "bloomMonths": [
+      2,
+      3
+    ],
+    "bloomColors": [
+      "white",
+      "pink"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds",
+      "songbirds",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Hooker's manzanita is a low, mounding California manzanita with glossy green leaves and shining red bark, useful as a refined groundcover or low shrub. Drought- and deer-resistant.",
+    "usdaSymbol": "ARHO3",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/arctostaphylos-hookeri.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Arctostaphylos_hookeri",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "foundation",
+      "erosion control"
+    ],
+    "caterpillarHosts": 17,
+    "keystone": false
+  },
+  {
+    "id": "arctostaphylos-nevadensis",
+    "scientificName": "Arctostaphylos nevadensis",
+    "commonNames": [
+      "Pinemat Manzanita"
+    ],
+    "family": "Ericaceae",
+    "nativeStates": [
+      "CA",
+      "NV",
+      "OR",
+      "WA"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0,
+      "max": 1
+    },
+    "spreadFeet": {
+      "min": 3,
+      "max": 6
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "white",
+      "pink"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds",
+      "songbirds",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Pinemat manzanita is a flat, ground-hugging mat of an evergreen shrub from western mountain forests, rooting as it creeps over rock and sand. A hardy, deer-resistant alpine groundcover.",
+    "usdaSymbol": "ARNE",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/arctostaphylos-nevadensis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Arctostaphylos_nevadensis",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "foundation",
+      "groundcover",
+      "container",
+      "erosion control"
+    ],
+    "caterpillarHosts": 17,
+    "keystone": false
+  },
+  {
+    "id": "arctostaphylos-pajaroensis",
+    "scientificName": "Arctostaphylos pajaroensis",
+    "commonNames": [
+      "Pajaro Manzanita"
+    ],
+    "family": "Ericaceae",
+    "nativeStates": [
+      "CA"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 6,
+      "max": 12
+    },
+    "spreadFeet": {
+      "min": 6,
+      "max": 10
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      1,
+      2,
+      3
+    ],
+    "bloomColors": [
+      "pink",
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds",
+      "songbirds",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Pajaro manzanita is a striking large manzanita with blue-green leaves that flush bronze, smooth red bark, and very early pink bloom. A bold, drought- and deer-resistant evergreen specimen.",
+    "usdaSymbol": "ARPA3",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/arctostaphylos-pajaroensis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Arctostaphylos_pajaroensis",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "hedge or screen"
+    ],
+    "caterpillarHosts": 17,
+    "keystone": false
+  },
+  {
+    "id": "arctostaphylos-patula",
+    "scientificName": "Arctostaphylos patula",
+    "commonNames": [
+      "Greenleaf Manzanita"
+    ],
+    "family": "Ericaceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "CO",
+      "NV",
+      "OR",
+      "UT"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 6
+    },
+    "spreadFeet": {
+      "min": 4,
+      "max": 8
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "pink"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds",
+      "songbirds",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Greenleaf manzanita is a rounded mountain manzanita with bright apple-green leaves, mahogany bark, and pink urn flowers, widespread in western conifer forests. Drought-hardy, deer-resistant, and wildlife-rich.",
+    "usdaSymbol": "ARPA6",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/arctostaphylos-patula.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Arctostaphylos_patula",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "hedge or screen",
+      "foundation"
+    ],
+    "caterpillarHosts": 17,
+    "keystone": false
+  },
+  {
+    "id": "arctostaphylos-pringlei",
+    "scientificName": "Arctostaphylos pringlei",
+    "commonNames": [
+      "Pringle Manzanita"
+    ],
+    "family": "Ericaceae",
+    "nativeStates": [
+      "AZ",
+      "CA"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 6,
+      "max": 15
+    },
+    "spreadFeet": {
+      "min": 6,
+      "max": 12
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      2,
+      3
+    ],
+    "bloomColors": [
+      "pink"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds",
+      "songbirds",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Pringle manzanita is a tall, glandular-hairy manzanita of Southwestern mountains and high desert, with red bark and pink bloom. A heat- and drought-proof, deer-resistant evergreen for arid gardens.",
+    "usdaSymbol": "ARPR",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/arctostaphylos-pringlei.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Arctostaphylos_pringlei",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "hedge or screen"
+    ],
+    "caterpillarHosts": 17,
+    "keystone": false
+  },
+  {
+    "id": "mahonia-haematocarpa",
+    "scientificName": "Mahonia haematocarpa",
+    "commonNames": [
+      "Red Barberry"
+    ],
+    "family": "Berberidaceae",
+    "nativeStates": [
+      "AZ",
+      "NM",
+      "TX"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 10
+    },
+    "spreadFeet": {
+      "min": 4,
+      "max": 8
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "larval host"
+    ],
+    "deerResistant": true,
+    "notes": "Red barberry is a spiny, holly-leaved evergreen of the Southwestern desert, with fragrant yellow spring flowers and translucent red berries used for jelly. Drought-proof and deer-resistant.",
+    "usdaSymbol": "MAHA4",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/mahonia-haematocarpa.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Berberis_haematocarpa",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "hedge or screen"
+    ],
+    "caterpillarHosts": 12,
+    "keystone": false
+  },
+  {
+    "id": "mahonia-nevinii",
+    "scientificName": "Mahonia nevinii",
+    "commonNames": [
+      "Nevin's Barberry"
+    ],
+    "family": "Berberidaceae",
+    "nativeStates": [
+      "CA"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 10
+    },
+    "spreadFeet": {
+      "min": 4,
+      "max": 8
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky",
+      "loam"
+    ],
+    "bloomMonths": [
+      2,
+      3,
+      4
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "larval host"
+    ],
+    "deerResistant": true,
+    "notes": "Nevin's barberry is a rare, blue-gray evergreen California barberry with yellow flower clusters and red berries for birds. An endangered species in the wild, garden plantings aid its conservation.",
+    "usdaSymbol": "MANE3",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/mahonia-nevinii.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Berberis_nevinii",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "hedge or screen"
+    ],
+    "caterpillarHosts": 12,
+    "keystone": false
+  },
+  {
+    "id": "mahonia-pinnata",
+    "scientificName": "Mahonia pinnata",
+    "commonNames": [
+      "California Barberry"
+    ],
+    "family": "Berberidaceae",
+    "nativeStates": [
+      "CA"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 6
+    },
+    "spreadFeet": {
+      "min": 3,
+      "max": 5
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      2,
+      3,
+      4
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "larval host"
+    ],
+    "deerResistant": true,
+    "notes": "California barberry is a glossy, holly-like evergreen with wavy spined leaflets, bright yellow late-winter flowers, and powder-blue berries. A versatile deer-resistant shrub for sun or part shade.",
+    "usdaSymbol": "MAPI2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/mahonia-pinnata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Berberis_pinnata",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "hedge or screen",
+      "foundation"
+    ],
+    "caterpillarHosts": 12,
+    "keystone": false
+  },
+  {
+    "id": "mahonia-swaseyi",
+    "scientificName": "Mahonia swaseyi",
+    "commonNames": [
+      "Texas Barberry"
+    ],
+    "family": "Berberidaceae",
+    "nativeStates": [
+      "TX"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 5
+    },
+    "spreadFeet": {
+      "min": 3,
+      "max": 5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "larval host"
+    ],
+    "deerResistant": true,
+    "notes": "Texas barberry is a compact evergreen barberry of the Edwards Plateau, with spiny blue-green leaflets, yellow bloom, and red-to-yellow berries good for jelly. Heat-, drought-, and deer-resistant.",
+    "usdaSymbol": "MASW",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/mahonia-swaseyi.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Berberis_swaseyi",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "hedge or screen",
+      "foundation"
+    ],
+    "caterpillarHosts": 12,
+    "keystone": false
   }
 ]
