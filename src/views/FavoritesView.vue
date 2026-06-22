@@ -55,9 +55,7 @@ const coverage = computed(() => {
   return { months, covered, gaps, peak }
 })
 
-// Normalize a light data inconsistency in the catalog ('part-shade' vs 'part shade').
-const normLight = (l) => (l === 'part-shade' ? 'part shade' : l)
-const lightSet = (p) => new Set((p.lightRequirement || []).map(normLight))
+const lightSet = (p) => new Set(p.lightRequirement || [])
 const moistSet = (p) => new Set(p.soilMoisture || [])
 
 // The growing conditions of what's already saved — suggestions must match these,
@@ -130,7 +128,7 @@ const moistLabel = (m) => MOIST_LABEL[m] || 'Unknown'
 const beds = computed(() => {
   const map = new Map()
   for (const p of plants.value) {
-    const light = normLight((p.lightRequirement || [])[0] || 'unknown')
+    const light = (p.lightRequirement || [])[0] || 'unknown'
     const moist = (p.soilMoisture || [])[0] || 'unknown'
     const key = `${light}|${moist}`
     if (!map.has(key)) map.set(key, { light, moist, plants: [] })

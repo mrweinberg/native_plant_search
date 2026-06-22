@@ -4,11 +4,9 @@ import TraitIcon from './TraitIcon.vue'
 
 const props = defineProps({ plant: { type: Object, required: true } })
 
-// Normalize 'part-shade' / 'part shade' to one key.
 const LIGHT = {
   sun: { icon: 'sun', label: 'Full sun' },
   'part shade': { icon: 'part-sun', label: 'Part shade' },
-  'part-shade': { icon: 'part-sun', label: 'Part shade' },
   shade: { icon: 'shade', label: 'Shade' },
 }
 const MOISTURE = {
