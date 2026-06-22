@@ -132,6 +132,50 @@ function homeContent(plants) {
   )
 }
 
+// Static body for the About page so crawlers and LLMs get the real story and
+// internal links instead of an empty shell. Mirrors src/views/AboutView.vue.
+function aboutContent() {
+  return (
+    `<main>` +
+    `<h1>About Bedfellow</h1>` +
+    `<h2>Why make Bedfellow?</h2>` +
+    `<p>Hey, I'm Max. This year, me and my wife decided to take the plunge on taking our gardens ` +
+    `back after years of neglect. After much education and planning, we found that we really wanted ` +
+    `to follow the native plant ethos when growing our garden. My wife, especially, took to it.</p>` +
+    `<p>When looking over her shoulder, browsing the many resources to find plants native to your ` +
+    `area, I noticed that what they had in authority, they lacked in tooling. They were built by ` +
+    `people who knew plants, more than anything.</p>` +
+    `<p>I don't know plants; I know software. So I felt like I could build a tool to help plan our ` +
+    `garden, one that lets you figure out bloom cycles, light requirements, and especially finding ` +
+    `those that are great to eat or decorate with. Using the volumes of public information to ` +
+    `validate and fill out the data, I am hoping that Bedfellow is a helpful tool for us and others ` +
+    `to plan their perfect garden that blooms all season long.</p>` +
+    `<p>It's still a very young app, but it's getting significantly better by the day. It's already ` +
+    `helping us fill out our gardening plans and I hope it'll help you, too!</p>` +
+    `<h2>Why native plants?</h2>` +
+    `<p>When you go to a garden center, you'll find many beautiful plants to decorate your outdoor ` +
+    `spaces. Vivid tropicals and exotics are common, meant to attract the eye, but those plants may ` +
+    `be out of sync with your ecosystem. They may support wonderful birds and butterflies, but they ` +
+    `don't support <em>your</em> birds and butterflies.</p>` +
+    `<p>Native plants keep you engaged with your ecosystem. Because they're from your area, they ` +
+    `grow more naturally, but they also support the local wildlife as food, places to nest, and ` +
+    `sources to pollinate.</p>` +
+    `<p>In our ecosystem, different living beings need each other. You can support beautiful birds ` +
+    `and little caterpillars with just some care. A few favorites from the catalog:</p>` +
+    `<ul>` +
+    `<li><a href="/plant/asclepias-tuberosa">Butterfly Weed</a> and its fellow milkweeds are the ` +
+    `only plants monarch caterpillars can eat — no milkweed, no monarchs.</li>` +
+    `<li><a href="/plant/lobelia-cardinalis">Cardinal Flower</a> holds out scarlet tubes shaped for ` +
+    `the long bills of ruby-throated hummingbirds.</li>` +
+    `<li>A single <a href="/plant/quercus-alba">White Oak</a> can host hundreds of kinds of ` +
+    `caterpillars — the protein that feeds baby chickadees and other songbirds.</li>` +
+    `</ul>` +
+    `<p>Native plants are also far more likely to play nicely. They are made for your environment, ` +
+    `so they are far less likely to spread wildly and become a lasting problem.</p>` +
+    `</main>`
+  )
+}
+
 // Concise static body for the Sources page (the live view holds the full text).
 function sourcesContent(plants) {
   return (
@@ -238,6 +282,7 @@ function prerender() {
           title: 'About — Bedfellow',
           description: 'About Bedfellow, a free tool for searching North American native plants and planning a garden that blooms all season.',
           path: '/about',
+          content: aboutContent(),
         }),
       )
       // Overwrite the homepage shell with baked content + a real H1 (was an
