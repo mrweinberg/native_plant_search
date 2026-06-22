@@ -1,11 +1,11 @@
 # Catalog gap candidates — remaining, re-ranked by garden + ecological priority
 
-Tiers 1–3 (the woody keystone genera) are **complete**. The **251** species below were originally ranked last only because they lack a *woody* caterpillar-host count — a poor signal for herbaceous plants, grasses, and pollinator staples. They are re-ranked here by horticultural demand + ecological value, treating regional & xeric natives as solid picks and reserving the bottom band for genuinely niche/difficult plants. Each candidate still clears the USDA/GBIF native gate at add-time, which also drops non-natives and trims 1-state outliers.
+Tiers 1–3 (the woody keystone genera) are **complete**. The **218** species below were originally ranked last only because they lack a *woody* caterpillar-host count — a poor signal for herbaceous plants, grasses, and pollinator staples. They are re-ranked here by horticultural demand + ecological value, treating regional & xeric natives as solid picks and reserving the bottom band for genuinely niche/difficult plants. Each candidate still clears the USDA/GBIF native gate at add-time, which also drops non-natives and trims 1-state outliers.
 
 | Priority | Species |
 |---|---|
 | P1 | 1 |
-| P2 | 169 |
+| P2 | 136 |
 | P3 | 81 |
 
 
@@ -100,40 +100,7 @@ Reorganized by growth-form / habitat into coherent batches.
 - [ ] Stenanthium tennesseense
 
 
-### Western & desert wildflowers · 66
-- [ ] Erodium texanum
-- [ ] Eschscholzia caespitosa
-- [ ] Eustoma exaltatum
-- [ ] Gilia achilleifolia
-- [ ] Gilia tricolor
-- [ ] Glandularia canadensis
-- [ ] Heliomeris multiflora
-- [ ] Heliotropium angiospermum
-- [ ] Heliotropium curassavicum
-- [ ] Hesperolinon sharsmithiae
-- [ ] Hymenoxys cooperi
-- [ ] Hymenoxys richardsonii
-- [ ] Iliamna rivularis
-- [ ] Ipomopsis aggregata
-- [ ] Ipomopsis longiflora
-- [ ] Ipomopsis rubra
-- [ ] Ipomopsis thurberi
-- [ ] Kallstroemia grandiflora
-- [ ] Lasthenia californica
-- [ ] Lasthenia glabrata
-- [ ] Layia glandulosa
-- [ ] Leptosiphon androsaceus
-- [ ] Leptosiphon grandiflorus
-- [ ] Lesquerella arizonica
-- [ ] Lesquerella gordonii
-- [ ] Lesquerella gracilis
-- [ ] Limnanthes douglasii
-- [ ] Linanthus dianthiflorus
-- [ ] Lindheimera texana
-- [ ] Lithospermum incisum
-- [ ] Machaeranthera bigelovii
-- [ ] Madia elegans
-- [ ] Mentzelia laevicaulis
+### Western & desert wildflowers · 33
 - [ ] Mentzelia lindleyi
 - [ ] Mirabilis latifolia
 - [ ] Mirabilis nyctaginea

@@ -130101,5 +130101,2342 @@
       "border",
       "container"
     ]
+  },
+  {
+    "id": "erodium-texanum",
+    "scientificName": "Erodium texanum",
+    "commonNames": [
+      "Texas Stork's Bill"
+    ],
+    "family": "Geraniaceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "NM",
+      "NV",
+      "TX"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "annual",
+    "heightFeet": {
+      "min": 0.3,
+      "max": 1
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "bloomColors": [
+      "purple",
+      "pink"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Texas stork's bill is a low desert annual that opens rich magenta-purple flowers after winter rains, an early-season nectar source and cheerful, drought-adapted reseeder for sunny, gravelly ground.",
+    "usdaSymbol": "ERTE13",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/erodium-texanum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Erodium_texanum",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "eschscholzia-caespitosa",
+    "scientificName": "Eschscholzia caespitosa",
+    "commonNames": [
+      "Tufted Poppy"
+    ],
+    "family": "Papaveraceae",
+    "nativeStates": [
+      "CA",
+      "OR"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "annual",
+    "heightFeet": {
+      "min": 0.3,
+      "max": 0.8
+    },
+    "spreadFeet": {
+      "min": 0.3,
+      "max": 0.6
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Tufted poppy is a delicate California annual forming neat mounds of ferny blue-green leaves studded with bright yellow cups, an easy, drought-tolerant reseeder for sunny banks and rock gardens.",
+    "usdaSymbol": "ESCA",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/eschscholzia-caespitosa.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Eschscholzia_caespitosa",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "container"
+    ]
+  },
+  {
+    "id": "eustoma-exaltatum",
+    "scientificName": "Eustoma exaltatum",
+    "commonNames": [
+      "Seaside Gentian"
+    ],
+    "family": "Gentianaceae",
+    "nativeStates": [
+      "AL",
+      "AZ",
+      "CA",
+      "FL",
+      "LA",
+      "MS",
+      "NM",
+      "TX"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "annual",
+    "heightFeet": {
+      "min": 1,
+      "max": 2.5
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "clay",
+      "loam"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "purple",
+      "blue"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Seaside gentian (catchfly prairie gentian) is the wild native lisianthus, with large satiny blue-purple bell flowers on blue-green stems, a stunning, long-blooming native and superb cut flower.",
+    "usdaSymbol": "EUEX5",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/eustoma-exaltatum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Eustoma_exaltatum",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border"
+    ]
+  },
+  {
+    "id": "gilia-achilleifolia",
+    "scientificName": "Gilia achilleifolia",
+    "commonNames": [
+      "California Gilia"
+    ],
+    "family": "Polemoniaceae",
+    "nativeStates": [
+      "CA"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "annual",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 0.3,
+      "max": 0.8
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "blue",
+      "purple"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "California gilia is a spring annual with lacy leaves and dense heads of violet-blue funnel flowers on slender stems, an easy, drought-tolerant reseeder that draws bees to sunny meadows and slopes.",
+    "usdaSymbol": "GIAC2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/gilia-achilleifolia.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Gilia_achilleifolia",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "gilia-tricolor",
+    "scientificName": "Gilia tricolor",
+    "commonNames": [
+      "Bird's Eyes"
+    ],
+    "family": "Polemoniaceae",
+    "nativeStates": [
+      "CA"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "annual",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 0.3,
+      "max": 0.6
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5
+    ],
+    "bloomColors": [
+      "blue",
+      "purple",
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Bird's eyes is a charming California annual whose small flowers combine a violet throat, yellow eye, and pale blue lobes, and smell faintly of chocolate. An easy, fragrant reseeder for sunny gardens.",
+    "usdaSymbol": "GITR2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/gilia-tricolor.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Gilia_tricolor",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "glandularia-canadensis",
+    "scientificName": "Glandularia canadensis",
+    "commonNames": [
+      "Rose Vervain"
+    ],
+    "family": "Verbenaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "FL",
+      "GA",
+      "IL",
+      "KS",
+      "LA",
+      "MO",
+      "OK",
+      "TN",
+      "TX"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "purple",
+      "pink"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Rose vervain is a sprawling, long-blooming native verbena that mats the ground with rounded clusters of rose-purple flowers from spring to fall, a tough, drought-tolerant butterfly magnet and groundcover.",
+    "usdaSymbol": "GLCA2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/glandularia-canadensis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Verbena_canadensis",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "heliomeris-multiflora",
+    "scientificName": "Heliomeris multiflora",
+    "commonNames": [
+      "Showy Goldeneye"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "CO",
+      "ID",
+      "NM",
+      "NV",
+      "TX",
+      "UT",
+      "WY"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Showy goldeneye is an airy western perennial that floats masses of small golden daisies on wiry stems through summer and fall, a drought-tolerant, long-blooming native for sunny meadows and slopes.",
+    "usdaSymbol": "HEMU3",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/heliomeris-multiflora.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Heliomeris_multiflora",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border"
+    ]
+  },
+  {
+    "id": "heliotropium-angiospermum",
+    "scientificName": "Heliotropium angiospermum",
+    "commonNames": [
+      "Scorpionstail"
+    ],
+    "family": "Boraginaceae",
+    "nativeStates": [
+      "FL",
+      "TX"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Scorpionstail is a warm-climate perennial with curled spikes of tiny white flowers that uncoil as they bloom nearly year-round, a tough, drought-tolerant nectar source and host for some butterflies.",
+    "usdaSymbol": "HEAN5",
+    "nativeRegions": [
+      "L48",
+      "PR",
+      "VI"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/heliotropium-angiospermum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Heliotropium_angiospermum",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border"
+    ]
+  },
+  {
+    "id": "heliotropium-curassavicum",
+    "scientificName": "Heliotropium curassavicum",
+    "commonNames": [
+      "Seaside Heliotrope"
+    ],
+    "family": "Boraginaceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "CO",
+      "FL",
+      "HI",
+      "KS",
+      "LA",
+      "MS",
+      "ND",
+      "NM",
+      "NV",
+      "OK",
+      "OR",
+      "TX",
+      "UT",
+      "WA"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.3,
+      "max": 1
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "sandy"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "white",
+      "blue"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Seaside heliotrope is a fleshy, blue-green native of saline flats and shores, with coiled spikes of small white-and-blue flowers, a salt-tolerant, drought-hardy groundcover for tough, alkaline sites.",
+    "usdaSymbol": "HECU3",
+    "nativeRegions": [
+      "CAN",
+      "HI",
+      "L48",
+      "PR",
+      "VI"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/heliotropium-curassavicum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Heliotropium_curassavicum",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "groundcover",
+      "container",
+      "rain garden",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "hesperolinon-sharsmithiae",
+    "scientificName": "Hesperolinon sharsmithiae",
+    "commonNames": [
+      "Sharsmith's Western Flax"
+    ],
+    "family": "Linaceae",
+    "nativeStates": [
+      "CA"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "annual",
+    "heightFeet": {
+      "min": 0.3,
+      "max": 1
+    },
+    "spreadFeet": {
+      "min": 0.3,
+      "max": 0.6
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "yellow",
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Sharsmith's western flax is a rare, threadlike serpentine-endemic annual of California's inner Coast Ranges, with tiny pale flowers. A specialized collector's native for sharply drained, lean, rocky soils.",
+    "usdaSymbol": "HESH3",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/hesperolinon-sharsmithiae.jpg",
+    "imageSource": "https://www.inaturalist.org/taxa/705156",
+    "imageCredit": "iNaturalist",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "hymenoxys-cooperi",
+    "scientificName": "Hymenoxys cooperi",
+    "commonNames": [
+      "Cooper's Rubberweed"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "NV",
+      "UT"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Cooper's rubberweed is a tidy western perennial bearing bright yellow daisies on slender stems above a leafy base, a drought-proof, deer-resistant native for hot, dry, rocky slopes and gardens.",
+    "usdaSymbol": "HYCO2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/hymenoxys-cooperi.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Hymenoxys_cooperi",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "hymenoxys-richardsonii",
+    "scientificName": "Hymenoxys richardsonii",
+    "commonNames": [
+      "Pingue Rubberweed"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AZ",
+      "CO",
+      "MT",
+      "ND",
+      "NM",
+      "UT",
+      "WY"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Pingue rubberweed is a low, mounding Great Plains and Rocky Mountain perennial smothered in golden daisies over a long season, an exceptionally drought- and cold-tough native for lean, sunny ground.",
+    "usdaSymbol": "HYRI",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/hymenoxys-richardsonii.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Hymenoxys_richardsonii",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "iliamna-rivularis",
+    "scientificName": "Iliamna rivularis",
+    "commonNames": [
+      "Streambank Wild Hollyhock"
+    ],
+    "family": "Malvaceae",
+    "nativeStates": [
+      "CO",
+      "ID",
+      "MT",
+      "NV",
+      "OR",
+      "UT",
+      "WA",
+      "WY"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 6
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "pink",
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": false,
+    "notes": "Streambank wild hollyhock is a stately western perennial with maple-like leaves and spires of soft pink mallow flowers, a striking, fire-following native for moist meadows, streambanks, and sunny borders.",
+    "usdaSymbol": "ILRI",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/iliamna-rivularis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Iliamna_rivularis",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border"
+    ]
+  },
+  {
+    "id": "ipomopsis-aggregata",
+    "scientificName": "Ipomopsis aggregata",
+    "commonNames": [
+      "Scarlet Gilia"
+    ],
+    "family": "Polemoniaceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "CO",
+      "ID",
+      "MT",
+      "NM",
+      "NV",
+      "OR",
+      "TX",
+      "UT",
+      "WA",
+      "WY"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "biennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "red"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Scarlet gilia (skyrocket) is a western biennial that sends up wands of trumpet-shaped scarlet flowers irresistible to hummingbirds, a spectacular, drought-tolerant native for sunny, gravelly slopes.",
+    "usdaSymbol": "IPAG",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/ipomopsis-aggregata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Ipomopsis_aggregata",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border"
+    ]
+  },
+  {
+    "id": "ipomopsis-longiflora",
+    "scientificName": "Ipomopsis longiflora",
+    "commonNames": [
+      "Flaxflowered Ipomopsis"
+    ],
+    "family": "Polemoniaceae",
+    "nativeStates": [
+      "AZ",
+      "CO",
+      "KS",
+      "NE",
+      "NM",
+      "OK",
+      "TX",
+      "UT"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "annual",
+    "heightFeet": {
+      "min": 1,
+      "max": 2.5
+    },
+    "spreadFeet": {
+      "min": 0.3,
+      "max": 0.8
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "white",
+      "blue"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Flaxflowered ipomopsis is an airy Southwestern annual with long, pale blue-white trumpet flowers on wispy stems, opening toward evening to draw moths. A delicate, drought-adapted reseeder for sandy ground.",
+    "usdaSymbol": "IPLO2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/ipomopsis-longiflora.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Ipomopsis_longiflora",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border"
+    ]
+  },
+  {
+    "id": "ipomopsis-rubra",
+    "scientificName": "Ipomopsis rubra",
+    "commonNames": [
+      "Standing Cypress"
+    ],
+    "family": "Polemoniaceae",
+    "nativeStates": [
+      "AL",
+      "FL",
+      "GA",
+      "NC",
+      "OK",
+      "TX"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "biennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 5
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "red"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Standing cypress is a dramatic biennial that rockets up a tall spire of fiery red tubular flowers loved by hummingbirds, with feathery foliage. A drought-tolerant, self-sowing showstopper for sunny gardens.",
+    "usdaSymbol": "IPRU2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/ipomopsis-rubra.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Ipomopsis_rubra",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border"
+    ]
+  },
+  {
+    "id": "ipomopsis-thurberi",
+    "scientificName": "Ipomopsis thurberi",
+    "commonNames": [
+      "Thurber's Gilia"
+    ],
+    "family": "Polemoniaceae",
+    "nativeStates": [
+      "AZ"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "annual",
+    "heightFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 0.3,
+      "max": 0.6
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy"
+    ],
+    "bloomMonths": [
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "red",
+      "pink"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Thurber's gilia is a Southwestern annual with slender pink-red trumpet flowers after summer rains, a drought-adapted reseeder that brings hummingbirds to hot, sandy desert gardens.",
+    "usdaSymbol": "IPTH2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/ipomopsis-thurberi.jpg",
+    "imageSource": "https://www.inaturalist.org/taxa/164117",
+    "imageCredit": "iNaturalist",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "kallstroemia-grandiflora",
+    "scientificName": "Kallstroemia grandiflora",
+    "commonNames": [
+      "Arizona Poppy"
+    ],
+    "family": "Zygophyllaceae",
+    "nativeStates": [
+      "AZ",
+      "NM",
+      "TX"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "annual",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "orange",
+      "yellow"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Arizona poppy is a sprawling summer annual that carpets the desert with brilliant orange poppy-like flowers after monsoon rains, an easy, drought-adapted reseeder for hot, sunny Southwestern gardens.",
+    "usdaSymbol": "KAGR",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/kallstroemia-grandiflora.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Kallstroemia_grandiflora",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "lasthenia-californica",
+    "scientificName": "Lasthenia californica",
+    "commonNames": [
+      "California Goldfields"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "OR"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "annual",
+    "heightFeet": {
+      "min": 0.3,
+      "max": 0.8
+    },
+    "spreadFeet": {
+      "min": 0.3,
+      "max": 0.6
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "California goldfields is a tiny spring annual that turns whole fields and slopes molten gold with masses of small daisies, a classic, easy reseeder for sunny meadows and a key early bee plant.",
+    "usdaSymbol": "LACA7",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/lasthenia-californica.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Lasthenia_californica",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "container"
+    ]
+  },
+  {
+    "id": "lasthenia-glabrata",
+    "scientificName": "Lasthenia glabrata",
+    "commonNames": [
+      "Yellowray Goldfields"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "CA"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "annual",
+    "heightFeet": {
+      "min": 0.3,
+      "max": 1
+    },
+    "spreadFeet": {
+      "min": 0.3,
+      "max": 0.6
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "clay",
+      "loam"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Yellowray goldfields is a vernal-pool annual that rings drying pool margins with sheets of golden daisies in spring, an easy reseeder for seasonally wet, sunny, alkaline ground and a valued bee plant.",
+    "usdaSymbol": "LAGL4",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/lasthenia-glabrata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Lasthenia_glabrata",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container",
+      "rain garden"
+    ]
+  },
+  {
+    "id": "layia-glandulosa",
+    "scientificName": "Layia glandulosa",
+    "commonNames": [
+      "White Tidytips"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "ID",
+      "NV",
+      "OR",
+      "UT",
+      "WA"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "annual",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 0.3,
+      "max": 0.6
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "white",
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "White tidytips is a fragrant western annual with crisp white ray flowers around a yellow center, an easy, drought-tolerant reseeder that brightens sandy flats and deserts and feeds spring pollinators.",
+    "usdaSymbol": "LAGL5",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/layia-glandulosa.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Layia_glandulosa",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "leptosiphon-androsaceus",
+    "scientificName": "Leptosiphon androsaceus",
+    "commonNames": [
+      "False Babystars"
+    ],
+    "family": "Polemoniaceae",
+    "nativeStates": [
+      "CA"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "annual",
+    "heightFeet": {
+      "min": 0.3,
+      "max": 1
+    },
+    "spreadFeet": {
+      "min": 0.2,
+      "max": 0.5
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "pink",
+      "purple",
+      "white"
+    ],
+    "leafArrangement": "whorled",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "False babystars is a delicate California annual whose pinwheel flowers in pink, lilac, and white float on threadlike stems above whorled leaves, a dainty, easy reseeder for sunny to lightly shaded gardens.",
+    "usdaSymbol": "LEAN19",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/leptosiphon-androsaceus.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Leptosiphon_androsaceus",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "leptosiphon-grandiflorus",
+    "scientificName": "Leptosiphon grandiflorus",
+    "commonNames": [
+      "Large-flowered Leptosiphon"
+    ],
+    "family": "Polemoniaceae",
+    "nativeStates": [
+      "CA"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "annual",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 0.2,
+      "max": 0.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "white",
+      "pink"
+    ],
+    "leafArrangement": "whorled",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Large-flowered leptosiphon is a California annual with showy clusters of pale pink-to-white trumpet flowers, fragrant in the evening, an easy, drought-tolerant reseeder for sunny, sandy gardens and meadows.",
+    "usdaSymbol": "LEGR23",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/leptosiphon-grandiflorus.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Leptosiphon_grandiflorus",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "lesquerella-arizonica",
+    "scientificName": "Lesquerella arizonica",
+    "commonNames": [
+      "Arizona Bladderpod"
+    ],
+    "family": "Brassicaceae",
+    "nativeStates": [
+      "AZ"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.2,
+      "max": 0.5
+    },
+    "spreadFeet": {
+      "min": 0.3,
+      "max": 0.6
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Arizona bladderpod is a low, silvery perennial that hugs rocky desert ground with bright yellow flowers in spring and inflated little seed pods, a tough, drought-proof native for hot, gravelly slopes.",
+    "usdaSymbol": "LEAR4",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/lesquerella-arizonica.jpg",
+    "imageSource": "https://www.inaturalist.org/taxa/359700",
+    "imageCredit": "iNaturalist",
+    "landscapeUses": [
+      "container"
+    ]
+  },
+  {
+    "id": "lesquerella-gordonii",
+    "scientificName": "Lesquerella gordonii",
+    "commonNames": [
+      "Gordon's Bladderpod"
+    ],
+    "family": "Brassicaceae",
+    "nativeStates": [
+      "AZ",
+      "NM",
+      "OK",
+      "TX"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "annual",
+    "heightFeet": {
+      "min": 0.3,
+      "max": 1
+    },
+    "spreadFeet": {
+      "min": 0.3,
+      "max": 0.6
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Gordon's bladderpod is a cheerful Southern Plains annual that spreads sheets of golden-yellow flowers across sandy ground in spring, an easy, drought-adapted reseeder and early-season nectar source.",
+    "usdaSymbol": "LEGO",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/lesquerella-gordonii.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Physaria_gordonii",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "lesquerella-gracilis",
+    "scientificName": "Lesquerella gracilis",
+    "commonNames": [
+      "Spreading Bladderpod"
+    ],
+    "family": "Brassicaceae",
+    "nativeStates": [
+      "TX"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "annual",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 0.3,
+      "max": 0.6
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Spreading bladderpod is a bright Texas annual with slender stems of clear yellow flowers in spring, an easy, drought-tolerant reseeder that lights up roadsides and sunny, sandy wildflower gardens.",
+    "usdaSymbol": "LEGR2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/lesquerella-gracilis.jpg",
+    "imageSource": "https://www.inaturalist.org/taxa/135231",
+    "imageCredit": "iNaturalist",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "limnanthes-douglasii",
+    "scientificName": "Limnanthes douglasii",
+    "commonNames": [
+      "Douglas' Meadowfoam"
+    ],
+    "family": "Limnanthaceae",
+    "nativeStates": [
+      "CA",
+      "OR",
+      "WA"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "annual",
+    "heightFeet": {
+      "min": 0.3,
+      "max": 1
+    },
+    "spreadFeet": {
+      "min": 0.3,
+      "max": 0.8
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5
+    ],
+    "bloomColors": [
+      "yellow",
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Douglas' meadowfoam is a low California annual of moist swales that foams with fragrant white-and-yellow flowers in spring, an exceptional bee plant and easy reseeder for sunny, seasonally wet ground.",
+    "usdaSymbol": "LIDO2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/limnanthes-douglasii.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Limnanthes_douglasii",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container",
+      "rain garden"
+    ]
+  },
+  {
+    "id": "linanthus-dianthiflorus",
+    "scientificName": "Linanthus dianthiflorus",
+    "commonNames": [
+      "Fringed Linanthus"
+    ],
+    "family": "Polemoniaceae",
+    "nativeStates": [
+      "CA"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "annual",
+    "heightFeet": {
+      "min": 0.2,
+      "max": 0.6
+    },
+    "spreadFeet": {
+      "min": 0.2,
+      "max": 0.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy"
+    ],
+    "bloomMonths": [
+      2,
+      3,
+      4
+    ],
+    "bloomColors": [
+      "pink",
+      "purple"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Fringed linanthus is a tiny Southern California annual with outsized fringed pink flowers held just above the soil, a delightful, drought-adapted reseeder for sunny, sandy openings and rock gardens.",
+    "usdaSymbol": "LIDI",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/linanthus-dianthiflorus.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Linanthus_dianthiflorus",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "container"
+    ]
+  },
+  {
+    "id": "lindheimera-texana",
+    "scientificName": "Lindheimera texana",
+    "commonNames": [
+      "Texas Star"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "OK",
+      "TX"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "annual",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "clay",
+      "loam"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Texas star is a cheerful Texas annual bearing five-petaled golden-yellow daisies atop leafy stems in spring, an easy, drought-tolerant reseeder for sunny gardens, meadows, and tough clay soils.",
+    "usdaSymbol": "LITE3",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/lindheimera-texana.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Lindheimera_texana",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "lithospermum-incisum",
+    "scientificName": "Lithospermum incisum",
+    "commonNames": [
+      "Fringed Puccoon"
+    ],
+    "family": "Boraginaceae",
+    "nativeStates": [
+      "AZ",
+      "CO",
+      "FL",
+      "IA",
+      "IL",
+      "KS",
+      "MN",
+      "MO",
+      "MT",
+      "ND",
+      "NE",
+      "NM",
+      "OK",
+      "SD",
+      "TX",
+      "UT",
+      "WI",
+      "WY"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Fringed puccoon is a deep-rooted prairie perennial with showy, ruffled trumpet-shaped pale-yellow flowers in spring, a long-lived, drought-proof native for sunny, well-drained prairies and rock gardens.",
+    "usdaSymbol": "LIIN2",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/lithospermum-incisum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Lithospermum_incisum",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "machaeranthera-bigelovii",
+    "scientificName": "Machaeranthera bigelovii",
+    "commonNames": [
+      "Bigelow's Tansyaster"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "CO",
+      "NM"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "annual",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      8,
+      9,
+      10
+    ],
+    "bloomColors": [
+      "purple"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "songbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Bigelow's tansyaster is a Southwestern annual or biennial that crowns the season with violet-purple asters on bushy stems in late summer and fall, a drought-tolerant native and valuable late nectar source.",
+    "usdaSymbol": "MABI",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/machaeranthera-bigelovii.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Dieteria_bigelovii",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border"
+    ]
+  },
+  {
+    "id": "madia-elegans",
+    "scientificName": "Madia elegans",
+    "commonNames": [
+      "Common Madia"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "CA",
+      "OR"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "annual",
+    "heightFeet": {
+      "min": 1,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Common madia (tarweed) is an aromatic California annual whose yellow daisies, often red-centered, open in the cool of morning and evening, a long-blooming, drought-tolerant reseeder and good bee and seed plant.",
+    "usdaSymbol": "MAEL",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/madia-elegans.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Madia_elegans",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border"
+    ]
+  },
+  {
+    "id": "mentzelia-laevicaulis",
+    "scientificName": "Mentzelia laevicaulis",
+    "commonNames": [
+      "Blazing Star"
+    ],
+    "family": "Loasaceae",
+    "nativeStates": [
+      "CA",
+      "ID",
+      "MT",
+      "NV",
+      "OR",
+      "UT",
+      "WA",
+      "WY"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Blazing star is a bold western perennial with large, glistening lemon-yellow flowers like starbursts that open in late afternoon, a striking, exceptionally drought-tolerant native for hot, dry, rocky ground.",
+    "usdaSymbol": "MELA2",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/mentzelia-laevicaulis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Mentzelia_laevicaulis",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border"
+    ]
   }
 ]
