@@ -112884,5 +112884,2125 @@
       "border",
       "container"
     ]
+  },
+  {
+    "id": "acorus-americanus",
+    "scientificName": "Acorus americanus",
+    "commonNames": [
+      "Sweetflag"
+    ],
+    "family": "Acoraceae",
+    "nativeStates": [
+      "IA",
+      "IL",
+      "ME",
+      "MI",
+      "MN",
+      "NY",
+      "OH",
+      "WI"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "clay",
+      "sandy"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "green",
+      "yellow"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Sweetflag is an iris-like marginal aquatic with aromatic sword leaves and a finger-like greenish flower spike, spreading along pond and stream edges in shallow water.",
+    "usdaSymbol": "ACAM",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/acorus-americanus.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Acorus_americanus",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "rain garden",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "anemopsis-californica",
+    "scientificName": "Anemopsis californica",
+    "commonNames": [
+      "Yerba Mansa"
+    ],
+    "family": "Saururaceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "CO",
+      "NM",
+      "NV",
+      "TX",
+      "UT"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "wet",
+      "moist"
+    ],
+    "soilType": [
+      "clay",
+      "loam",
+      "sandy"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Yerba mansa is a Southwestern wetland groundcover with cone-shaped flower heads ringed by white bracts, spreading by runners over wet, even alkaline, ground. Aromatic and traditionally medicinal.",
+    "usdaSymbol": "ANCA10",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/anemopsis-californica.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Anemopsis",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container",
+      "rain garden",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "boehmeria-cylindrica",
+    "scientificName": "Boehmeria cylindrica",
+    "commonNames": [
+      "False Nettle"
+    ],
+    "family": "Urticaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "NE",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "wet",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "green"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "larval host"
+    ],
+    "deerResistant": true,
+    "notes": "False nettle is a stingless nettle relative of wet woods and marsh edges, an essential larval host for red admiral, question mark, and comma butterflies. Unshowy but ecologically valuable.",
+    "usdaSymbol": "BOCY",
+    "nativeRegions": [
+      "CAN",
+      "L48",
+      "PR"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/boehmeria-cylindrica.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Boehmeria_cylindrica",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "rain garden"
+    ]
+  },
+  {
+    "id": "caltha-leptosepala",
+    "scientificName": "Caltha leptosepala",
+    "commonNames": [
+      "White Marsh Marigold"
+    ],
+    "family": "Ranunculaceae",
+    "nativeStates": [
+      "AK",
+      "AZ",
+      "CA",
+      "CO",
+      "ID",
+      "MT",
+      "NM",
+      "NV",
+      "OR",
+      "UT",
+      "WA",
+      "WY"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.3,
+      "max": 1
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "White marsh marigold opens glistening white, golden-centered flowers at the edges of snowmelt streams and wet alpine meadows in the western mountains.",
+    "usdaSymbol": "CALE4",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/caltha-leptosepala.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Caltha_leptosepala",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container",
+      "rain garden"
+    ]
+  },
+  {
+    "id": "caltha-palustris",
+    "scientificName": "Caltha palustris",
+    "commonNames": [
+      "Marsh Marigold"
+    ],
+    "family": "Ranunculaceae",
+    "nativeStates": [
+      "AK",
+      "CT",
+      "DE",
+      "IA",
+      "IL",
+      "IN",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "NC",
+      "NE",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "RI",
+      "SD",
+      "TN",
+      "VA",
+      "VT",
+      "WA",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Marsh marigold lights up early-spring wetlands with waxy golden flowers over glossy round leaves, a cheerful native for pond edges, ditches, and rain gardens. Foliage is toxic raw.",
+    "usdaSymbol": "CAPA5",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/caltha-palustris.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Caltha_palustris",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container",
+      "rain garden"
+    ]
+  },
+  {
+    "id": "canna-flaccida",
+    "scientificName": "Canna flaccida",
+    "commonNames": [
+      "Golden Canna"
+    ],
+    "family": "Cannaceae",
+    "nativeStates": [
+      "FL",
+      "GA",
+      "LA",
+      "SC"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "wet",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "clay",
+      "sandy"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds"
+    ],
+    "deerResistant": false,
+    "notes": "Golden canna is the native canna of Southeastern marshes and ditches, with bold paddle leaves and large soft-yellow flowers loved by hummingbirds. A tropical-looking accent for wet, sunny ground.",
+    "usdaSymbol": "CAFL11",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/canna-flaccida.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Canna_flaccida",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "rain garden",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "cooperia-drummondii",
+    "scientificName": "Cooperia drummondii",
+    "commonNames": [
+      "Evening Rain Lily"
+    ],
+    "family": "Amaryllidaceae",
+    "nativeStates": [
+      "TX"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "spreadFeet": {
+      "min": 0.3,
+      "max": 0.6
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist",
+      "dry"
+    ],
+    "soilType": [
+      "loam",
+      "clay",
+      "sandy"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Evening rain lily bursts into fragrant white, moth-pollinated flowers within days of summer rains, then waits underground for the next storm. A magical, deer-resistant bulb for the South.",
+    "usdaSymbol": "CODR2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/cooperia-drummondii.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Zephyranthes_chlorosolen",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "cooperia-pedunculata",
+    "scientificName": "Cooperia pedunculata",
+    "commonNames": [
+      "Hill Country Rain Lily"
+    ],
+    "family": "Amaryllidaceae",
+    "nativeStates": [
+      "TX"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "spreadFeet": {
+      "min": 0.3,
+      "max": 0.6
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist",
+      "dry"
+    ],
+    "soilType": [
+      "loam",
+      "clay",
+      "sandy"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Hill Country rain lily sends up crisp white flowers after spring rains across Texas prairies and roadsides, a tough, deer-resistant bulb that naturalizes in sunny, well-drained ground.",
+    "usdaSymbol": "COPE",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/cooperia-pedunculata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Zephyranthes_drummondii",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "habranthus-tubispathus",
+    "scientificName": "Habranthus tubispathus",
+    "commonNames": [
+      "Copper Rain Lily"
+    ],
+    "family": "Amaryllidaceae",
+    "nativeStates": [
+      "TX"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.3,
+      "max": 0.8
+    },
+    "spreadFeet": {
+      "min": 0.3,
+      "max": 0.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist",
+      "dry"
+    ],
+    "soilType": [
+      "loam",
+      "sandy",
+      "clay"
+    ],
+    "bloomMonths": [
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "yellow",
+      "orange"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Copper rain lily flushes coppery-yellow, wind-flared flowers after late-summer storms, a diminutive, free-naturalizing bulb for hot, sunny Southern gardens.",
+    "usdaSymbol": "HATU",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/habranthus-tubispathus.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Zephyranthes_tubispatha",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "container"
+    ]
+  },
+  {
+    "id": "hymenocallis-latifolia",
+    "scientificName": "Hymenocallis latifolia",
+    "commonNames": [
+      "Mangrove Spider Lily"
+    ],
+    "family": "Amaryllidaceae",
+    "nativeStates": [
+      "FL"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1.5,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "wet",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Mangrove spider lily is a robust coastal Florida bulb with extravagant, fragrant white spider-flowers and strappy leaves, thriving in wet, sandy, salt-touched ground.",
+    "usdaSymbol": "HYLA5",
+    "nativeRegions": [
+      "L48",
+      "NAV",
+      "PR",
+      "VI"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/hymenocallis-latifolia.jpg",
+    "imageSource": "https://www.inaturalist.org/taxa/133335",
+    "imageCredit": "iNaturalist",
+    "landscapeUses": [
+      "border",
+      "rain garden"
+    ]
+  },
+  {
+    "id": "hymenocallis-liriosme",
+    "scientificName": "Hymenocallis liriosme",
+    "commonNames": [
+      "Spring Spider Lily"
+    ],
+    "family": "Amaryllidaceae",
+    "nativeStates": [
+      "AR",
+      "LA",
+      "MS",
+      "TX"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1.5,
+      "max": 2.5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "wet",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "clay",
+      "sandy"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Spring spider lily lifts large, fragrant white spider-flowers over wet ditches, marsh edges, and prairies of the Gulf states each spring. A striking, deer-resistant native bulb.",
+    "usdaSymbol": "HYLI",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/hymenocallis-liriosme.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Hymenocallis_liriosme",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "rain garden"
+    ]
+  },
+  {
+    "id": "hymenocallis-palmeri",
+    "scientificName": "Hymenocallis palmeri",
+    "commonNames": [
+      "Alligator Lily"
+    ],
+    "family": "Amaryllidaceae",
+    "nativeStates": [
+      "FL"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "wet"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Alligator lily is a slender Florida spider lily of wet pine flatwoods and marshes, with delicate fragrant white flowers, perfect for sunny bog and rain gardens.",
+    "usdaSymbol": "HYPA4",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/hymenocallis-palmeri.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Hymenocallis_palmeri",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container",
+      "rain garden"
+    ]
+  },
+  {
+    "id": "kosteletzkya-virginica",
+    "scientificName": "Kosteletzkya virginica",
+    "commonNames": [
+      "Seashore Mallow"
+    ],
+    "family": "Malvaceae",
+    "nativeStates": [
+      "FL",
+      "LA",
+      "MD",
+      "NC",
+      "VA"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 5
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 3
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "wet",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "clay",
+      "loam"
+    ],
+    "bloomMonths": [
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "pink"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": false,
+    "notes": "Seashore mallow is a salt-tolerant brackish-marsh mallow with weeks of soft-pink hibiscus-like flowers, excellent for sunny pond edges, rain gardens, and coastal plantings.",
+    "usdaSymbol": "KOVI",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/kosteletzkya-virginica.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Kosteletzkya_pentacarpos",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "rain garden"
+    ]
+  },
+  {
+    "id": "limonium-carolinianum",
+    "scientificName": "Limonium carolinianum",
+    "commonNames": [
+      "Sea Lavender"
+    ],
+    "family": "Plumbaginaceae",
+    "nativeStates": [
+      "CT",
+      "DE",
+      "FL",
+      "GA",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MS",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "RI",
+      "SC",
+      "TX",
+      "VA"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "wet"
+    ],
+    "soilType": [
+      "sandy",
+      "clay"
+    ],
+    "bloomMonths": [
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "purple"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Sea lavender hovers a haze of tiny lavender flowers over salt-marsh rosettes, prized fresh or dried in arrangements. A salt-loving native for coastal and brackish gardens.",
+    "usdaSymbol": "LICA17",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "alkaline",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/limonium-carolinianum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Limonium_carolinianum",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container",
+      "rain garden"
+    ]
+  },
+  {
+    "id": "oxypolis-filiformis",
+    "scientificName": "Oxypolis filiformis",
+    "commonNames": [
+      "Water Cowbane"
+    ],
+    "family": "Apiaceae",
+    "nativeStates": [
+      "AL",
+      "FL",
+      "GA",
+      "LA",
+      "MS",
+      "SC"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "wet"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": false,
+    "notes": "Water cowbane is a slender Southeastern wetland member of the carrot family, with flat white flower umbels feeding pollinators in wet pine savannas and marsh edges.",
+    "usdaSymbol": "OXFI",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/oxypolis-filiformis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Tiedemannia_filiformis",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "rain garden"
+    ]
+  },
+  {
+    "id": "phyla-nodiflora",
+    "scientificName": "Phyla nodiflora",
+    "commonNames": [
+      "Frogfruit"
+    ],
+    "family": "Verbenaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "AZ",
+      "CA",
+      "FL",
+      "GA",
+      "LA",
+      "MS",
+      "NC",
+      "NM",
+      "OK",
+      "SC",
+      "TX"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.2,
+      "max": 0.5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet",
+      "dry"
+    ],
+    "soilType": [
+      "loam",
+      "sandy",
+      "clay"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "bloomColors": [
+      "white",
+      "pink"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": true,
+    "notes": "Frogfruit is a tough, mat-forming groundcover dotted year-round with tiny white-pink flowers, a tireless nectar source and larval host for phaon crescent and buckeye butterflies. A superb lawn alternative.",
+    "usdaSymbol": "PHNO2",
+    "nativeRegions": [
+      "L48",
+      "PR",
+      "VI"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/phyla-nodiflora.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Phyla_nodiflora",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "groundcover",
+      "container",
+      "rain garden",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "polygonum-hydropiperoides",
+    "scientificName": "Polygonum hydropiperoides",
+    "commonNames": [
+      "Swamp Smartweed"
+    ],
+    "family": "Polygonaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "AZ",
+      "CA",
+      "CO",
+      "CT",
+      "DE",
+      "FL",
+      "GA",
+      "IA",
+      "ID",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "NE",
+      "NH",
+      "NJ",
+      "NM",
+      "NV",
+      "NY",
+      "OH",
+      "OK",
+      "OR",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "VT",
+      "WA",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "clay",
+      "sandy"
+    ],
+    "bloomMonths": [
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "white",
+      "pink"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds"
+    ],
+    "deerResistant": false,
+    "notes": "Swamp smartweed lines marsh and pond edges with slender spikes of pink-white flowers; its seeds are a key food for waterfowl and marsh birds. Spreads in saturated ground.",
+    "usdaSymbol": "POHY2",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/polygonum-hydropiperoides.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Persicaria_hydropiperoides",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "rain garden",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "polygonum-punctatum",
+    "scientificName": "Polygonum punctatum",
+    "commonNames": [
+      "Dotted Smartweed"
+    ],
+    "family": "Polygonaceae",
+    "nativeStates": [
+      "WI"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "clay",
+      "sandy"
+    ],
+    "bloomMonths": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "bloomColors": [
+      "white",
+      "green"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds"
+    ],
+    "deerResistant": false,
+    "notes": "Dotted smartweed is a wetland smartweed with gland-dotted leaves and greenish-white flower spikes, a wildlife food plant for the margins of ponds, ditches, and swamps.",
+    "usdaSymbol": "POPU5",
+    "nativeRegions": [
+      "CAN",
+      "L48",
+      "PR"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/polygonum-punctatum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Persicaria_punctata",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "rain garden",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "polypremum-procumbens",
+    "scientificName": "Polypremum procumbens",
+    "commonNames": [
+      "Juniper Leaf"
+    ],
+    "family": "Tetrachondraceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "FL",
+      "GA",
+      "LA",
+      "MD",
+      "MO",
+      "MS",
+      "NC",
+      "OK",
+      "SC",
+      "TN",
+      "TX",
+      "VA"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "annual",
+    "heightFeet": {
+      "min": 0.3,
+      "max": 0.8
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist",
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Juniper leaf is a low, wiry mat-forming native with needle-like leaves and tiny white flowers, colonizing open sandy and disturbed ground as a tough little groundcover.",
+    "usdaSymbol": "POPR4",
+    "nativeRegions": [
+      "L48",
+      "PR"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/polypremum-procumbens.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Polypremum",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "groundcover",
+      "container",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "ptilimnium-capillaceum",
+    "scientificName": "Ptilimnium capillaceum",
+    "commonNames": [
+      "Mock Bishopweed"
+    ],
+    "family": "Apiaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "FL",
+      "GA",
+      "LA",
+      "MA",
+      "MD",
+      "MS",
+      "NC",
+      "NJ",
+      "NY",
+      "RI",
+      "SC",
+      "TN",
+      "TX",
+      "VA"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "annual",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "wet",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "clay",
+      "sandy"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": false,
+    "notes": "Mock bishopweed is a delicate, ferny-leaved annual of the carrot family that froths with lacy white flower umbels in wet meadows and ditches, a magnet for tiny pollinators.",
+    "usdaSymbol": "PTCA",
+    "nativeRegions": [
+      "L48",
+      "PR"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/ptilimnium-capillaceum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Ptilimnium_capillaceum",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "rain garden"
+    ]
+  },
+  {
+    "id": "rhexia-alifanus",
+    "scientificName": "Rhexia alifanus",
+    "commonNames": [
+      "Savanna Meadow Beauty"
+    ],
+    "family": "Melastomataceae",
+    "nativeStates": [
+      "AL",
+      "FL",
+      "GA",
+      "LA",
+      "MS",
+      "NC",
+      "SC"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1.5,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "wet",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "pink",
+      "purple"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": false,
+    "notes": "Savanna meadow beauty is a tall, blue-leaved meadow beauty with luminous rose-pink, buzz-pollinated flowers in wet pine savannas, a graceful native for sunny bog gardens.",
+    "usdaSymbol": "RHAL4",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/rhexia-alifanus.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Rhexia_alifanus",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "rain garden"
+    ]
+  },
+  {
+    "id": "rhexia-mariana",
+    "scientificName": "Rhexia mariana",
+    "commonNames": [
+      "Maryland Meadow Beauty"
+    ],
+    "family": "Melastomataceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "DE",
+      "FL",
+      "GA",
+      "KY",
+      "LA",
+      "MD",
+      "MO",
+      "MS",
+      "NC",
+      "NJ",
+      "OK",
+      "PA",
+      "SC",
+      "TN",
+      "TX",
+      "VA"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "wet",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "pink"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": false,
+    "notes": "Maryland meadow beauty spreads into colonies of pale-pink, golden-anthered flowers in damp meadows, ditches, and savannas, blooming for months in sunny, moist ground.",
+    "usdaSymbol": "RHMA",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/rhexia-mariana.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Rhexia_mariana",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container",
+      "rain garden",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "rhexia-petiolata",
+    "scientificName": "Rhexia petiolata",
+    "commonNames": [
+      "Fringed Meadow Beauty"
+    ],
+    "family": "Melastomataceae",
+    "nativeStates": [
+      "AL",
+      "FL",
+      "GA",
+      "LA",
+      "MS",
+      "NC",
+      "SC",
+      "TX"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "wet",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "pink",
+      "purple"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": false,
+    "notes": "Fringed meadow beauty is a compact Southeastern meadow beauty with rose-purple flowers and fringed anthers, a charming little native for sunny, wet, acidic sites.",
+    "usdaSymbol": "RHPE",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/rhexia-petiolata.jpg",
+    "imageSource": "https://www.inaturalist.org/taxa/167800",
+    "imageCredit": "iNaturalist",
+    "landscapeUses": [
+      "border",
+      "container",
+      "rain garden"
+    ]
+  },
+  {
+    "id": "sabatia-campestris",
+    "scientificName": "Sabatia campestris",
+    "commonNames": [
+      "Texas Star"
+    ],
+    "family": "Gentianaceae",
+    "nativeStates": [
+      "AR",
+      "KS",
+      "LA",
+      "MO",
+      "OK",
+      "TX"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "annual",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist",
+      "dry"
+    ],
+    "soilType": [
+      "loam",
+      "sandy",
+      "clay"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "pink"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": false,
+    "notes": "Texas star is an annual rose-gentian with starry pink, yellow-eyed flowers brightening prairies and fields in early summer, an easy self-sowing native for sunny meadows.",
+    "usdaSymbol": "SACA3",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/sabatia-campestris.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Sabatia_campestris",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "sabatia-dodecandra",
+    "scientificName": "Sabatia dodecandra",
+    "commonNames": [
+      "Large Marsh Pink"
+    ],
+    "family": "Gentianaceae",
+    "nativeStates": [
+      "FL",
+      "GA",
+      "MD",
+      "NC",
+      "NJ",
+      "SC"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2.5
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "wet",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "pink"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": false,
+    "notes": "Large marsh pink crowns coastal-plain marshes and wet savannas with big, glowing rose-pink, yellow-centered flowers, one of the showiest natives for sunny wet ground.",
+    "usdaSymbol": "SADO",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/sabatia-dodecandra.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Sabatia_dodecandra",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "rain garden"
+    ]
+  },
+  {
+    "id": "sarracenia-leucophylla",
+    "scientificName": "Sarracenia leucophylla",
+    "commonNames": [
+      "White-topped Pitcher Plant"
+    ],
+    "family": "Sarraceniaceae",
+    "nativeStates": [
+      "AL",
+      "FL",
+      "GA",
+      "MS"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1.5,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "wet"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "red",
+      "white"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "White-topped pitcher plant is a spectacular carnivorous bog plant with tall, white-and-crimson-veined pitchers that trap insects, plus nodding red spring flowers. Needs constant moisture, sun, and acidic, nutrient-poor soil.",
+    "usdaSymbol": "SALE4",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/sarracenia-leucophylla.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Sarracenia_leucophylla",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "rain garden"
+    ]
+  },
+  {
+    "id": "triadenum-virginicum",
+    "scientificName": "Triadenum virginicum",
+    "commonNames": [
+      "Marsh St. John's Wort"
+    ],
+    "family": "Hypericaceae",
+    "nativeStates": [
+      "AL",
+      "CT",
+      "FL",
+      "GA",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MS",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "PA",
+      "RI",
+      "SC",
+      "VA",
+      "VT"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2.5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "wet"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      7,
+      8
+    ],
+    "bloomColors": [
+      "pink"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": false,
+    "notes": "Marsh St. John's wort is a wetland relative of the St. John's worts, with soft-pink flowers and reddish foliage in acidic bogs, marshes, and pond edges.",
+    "usdaSymbol": "TRVI2",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/triadenum-virginicum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Hypericum_virginicum",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "rain garden",
+      "erosion control",
+      "naturalizing"
+    ]
   }
 ]
