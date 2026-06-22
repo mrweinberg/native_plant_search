@@ -3,6 +3,7 @@ import PlantListView from './views/PlantListView.vue'
 import PlantDetailView from './views/PlantDetailView.vue'
 import FavoritesView from './views/FavoritesView.vue'
 import SourcesView from './views/SourcesView.vue'
+import AboutView from './views/AboutView.vue'
 
 export default createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -11,6 +12,7 @@ export default createRouter({
     { path: '/favorites', name: 'favorites', component: FavoritesView },
     { path: '/plant/:id', name: 'detail', component: PlantDetailView, props: true },
     { path: '/sources', name: 'sources', component: SourcesView },
+    { path: '/about', name: 'about', component: AboutView },
   ],
   scrollBehavior(to, from, savedPosition) {
     if (savedPosition) return savedPosition

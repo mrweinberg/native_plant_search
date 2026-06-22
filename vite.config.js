@@ -21,6 +21,7 @@ function sitemap() {
         { loc: '/', priority: '1.0' },
         { loc: '/favorites', priority: '0.3' },
         { loc: '/sources', priority: '0.3' },
+        { loc: '/about', priority: '0.3' },
         ...plants.map((p) => ({ loc: `/plant/${p.id}`, priority: '0.7' })),
       ]
       const body = urls
@@ -231,6 +232,14 @@ function prerender() {
           path: '/favorites',
         }),
       )
+      write(
+        'about',
+        render({
+          title: 'About — Bedfellow',
+          description: 'About Bedfellow, a free tool for searching North American native plants and planning a garden that blooms all season.',
+          path: '/about',
+        }),
+      )
       // Overwrite the homepage shell with baked content + a real H1 (was an
       // empty app div — the main SEO/GEO gap from the audit).
       writeFileSync(
@@ -243,7 +252,7 @@ function prerender() {
           content: homeContent(plants),
         }),
       )
-      console.log(`prerendered home + ${plants.length} plant pages + sources + favorites`)
+      console.log(`prerendered home + ${plants.length} plant pages + sources + favorites + about`)
     },
   }
 }

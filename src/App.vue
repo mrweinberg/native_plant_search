@@ -1,12 +1,9 @@
 <script setup>
-import { computed } from 'vue'
 import { RouterLink, RouterView, useRouter } from 'vue-router'
 import { useFavorites } from './composables/useFavorites.js'
-import { useLocation } from './composables/useLocation.js'
 import { setHead } from './composables/useHead.js'
 import LocationPicker from './components/LocationPicker.vue'
 const { count: favCount } = useFavorites()
-const { locationName } = useLocation()
 
 // Keep document head in sync per route. Plant detail pages set their own
 // (plant-specific) head; the others use these static defaults.
@@ -22,40 +19,46 @@ const ROUTE_HEAD = {
     description: 'The data sources behind Bedfellow: USDA PLANTS, GBIF, Wikimedia, iNaturalist, and regional native-plant authorities.',
     path: '/sources',
   },
+  about: {
+    title: 'About',
+    description: 'About Bedfellow, a free tool for searching North American native plants and planning a garden that blooms all season.',
+    path: '/about',
+  },
 }
 router.afterEach((to) => {
   if (to.name === 'detail') return
   setHead(ROUTE_HEAD[to.name] || { path: '/' })
 })
 
-const tagline = computed(() =>
-  locationName.value
-    ? `Plan a ${locationName.value} native garden that blooms all season`
-    : 'Plan a native garden that blooms all season',
-)
 </script>
 
 <template>
   <div class="app">
     <header class="app-header">
-      <RouterLink to="/" class="brand">
-        <span class="brand-mark">❧</span>
-        Bedfellow
-      </RouterLink>
-      <span class="tagline">{{ tagline }}</span>
-      <LocationPicker />
-      <span class="spacer"></span>
-      <RouterLink :to="{ name: 'favorites' }" class="nav-link" active-class="nav-link-active">
-        <span aria-hidden="true">★</span> Favorites
-        <span v-if="favCount" class="count">{{ favCount }}</span>
-      </RouterLink>
-      <a
-        class="support"
-        href="https://ko-fi.com/maxweinberg"
-        target="_blank"
-        rel="noopener"
-        title="Support Bedfellow on Ko-fi"
-      >☕ Tip Jar</a>
+      <div class="title-block">
+        <RouterLink to="/" class="brand">
+          <span class="brand-mark">❧</span>
+          Bedfellow
+        </RouterLink>
+        <span class="tagline">Plan your native garden</span>
+      </div>
+      <nav class="top-links">
+        <a
+          href="https://ko-fi.com/maxweinberg"
+          target="_blank"
+          rel="noopener"
+          title="Support Bedfellow on Ko-fi"
+        >Tip jar</a>
+        <RouterLink :to="{ name: 'about' }">About</RouterLink>
+        <RouterLink :to="{ name: 'sources' }">Sources</RouterLink>
+      </nav>
+      <div class="top-actions">
+        <RouterLink :to="{ name: 'favorites' }" class="nav-link" active-class="nav-link-active">
+          <span aria-hidden="true">★</span> Favorites
+          <span v-if="favCount" class="count">{{ favCount }}</span>
+        </RouterLink>
+        <LocationPicker />
+      </div>
     </header>
     <main>
       <RouterView />
@@ -74,9 +77,16 @@ const tagline = computed(() =>
   color: #f1ebd9;
   padding: 14px 24px;
   display: flex;
-  align-items: baseline;
-  gap: 16px;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 10px 18px;
   box-shadow: var(--shadow);
+}
+.title-block {
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+  margin-right: auto;
 }
 .brand {
   color: #f1ebd9;
@@ -86,22 +96,30 @@ const tagline = computed(() =>
 }
 .brand-mark { color: #a7d6a7; margin-right: 6px; }
 .tagline { color: #c9c0a4; font-size: 13px; }
-.spacer { flex: 1; }
-.support {
-  align-self: center;
-  color: #2a1f0a;
-  background: #e8c34a;
-  font-size: 14px;
-  font-weight: 600;
-  padding: 6px 12px;
-  border-radius: 999px;
-  text-decoration: none;
-  display: inline-flex;
+.top-links {
+  display: flex;
   align-items: center;
-  gap: 4px;
-  transition: background 0.12s, transform 0.08s;
+  gap: 12px;
+  font-size: 14px;
 }
-.support:hover { background: #f0cf5e; transform: translateY(-1px); text-decoration: none; }
+.top-links a {
+  color: #d7cfb6;
+  text-decoration: none;
+  position: relative;
+}
+.top-links a:hover { color: #fff; text-decoration: underline; }
+.top-links a + a::before {
+  content: '|';
+  position: absolute;
+  left: -12px;
+  color: rgba(241, 235, 217, 0.3);
+  text-decoration: none;
+}
+.top-actions {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
 .nav-link {
   color: #f1ebd9;
   text-decoration: none;
@@ -141,9 +159,16 @@ main { padding: 24px; max-width: 1280px; margin: 0 auto; }
 .app-footer a:hover { color: var(--accent); }
 .app-footer .dot { opacity: 0.5; }
 @media (max-width: 800px) {
-  .app-header { padding: 10px 14px; flex-wrap: wrap; gap: 8px; }
+  .app-header { padding: 10px 14px; gap: 8px 14px; }
   .brand { font-size: 16px; }
-  .tagline { font-size: 12px; }
+  /* Two rows: brand + links on top, Favorites + state picker on their own row.
+     The tagline is hidden here so the top row fits on one line. */
+  .tagline { display: none; }
+  .top-actions {
+    flex-basis: 100%;
+    justify-content: flex-start;
+    gap: 10px;
+  }
   main { padding: 14px; }
 }
 </style>
