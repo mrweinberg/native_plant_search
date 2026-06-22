@@ -22,6 +22,7 @@ const NAME_SYNONYMS = {
   'Eutrochium altissimum': 'Eupatorium altissimum',
   'Forestiera neomexicana': 'Forestiera pubescens',
   'Viburnum opulus var. americanum': 'Viburnum trilobum',
+  'Calylophus serrulata': 'Oenothera serrulata',
 }
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms))

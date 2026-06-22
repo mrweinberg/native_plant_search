@@ -127836,5 +127836,2270 @@
     "landscapeUses": [
       "border"
     ]
+  },
+  {
+    "id": "abronia-fragrans",
+    "scientificName": "Abronia fragrans",
+    "commonNames": [
+      "Snowball Sand Verbena"
+    ],
+    "family": "Nyctaginaceae",
+    "nativeStates": [
+      "AZ",
+      "CO",
+      "KS",
+      "NE",
+      "NM",
+      "OK",
+      "TX",
+      "UT",
+      "WY"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Snowball sand verbena is a sprawling Great Plains perennial whose rounded clusters of fragrant white trumpet flowers open in the evening to draw hawkmoths. A drought-proof native for deep, sandy soils.",
+    "usdaSymbol": "ABFR2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/abronia-fragrans.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Abronia_fragrans",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "abronia-villosa",
+    "scientificName": "Abronia villosa",
+    "commonNames": [
+      "Desert Sand Verbena"
+    ],
+    "family": "Nyctaginaceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "NV"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "annual",
+    "heightFeet": {
+      "min": 0.2,
+      "max": 0.5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy"
+    ],
+    "bloomMonths": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "bloomColors": [
+      "pink",
+      "purple"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Desert sand verbena is a low desert annual that carpets sandy flats with fragrant rose-magenta flower balls after winter rains, a beloved Southwestern wildflower for hot, sandy gardens.",
+    "usdaSymbol": "ABVI",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/abronia-villosa.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Abronia_villosa",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "groundcover",
+      "container",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "abutilon-hypoleucum",
+    "scientificName": "Abutilon hypoleucum",
+    "commonNames": [
+      "Yellow Indian Mallow"
+    ],
+    "family": "Malvaceae",
+    "nativeStates": [
+      "TX"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 6
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "bloomColors": [
+      "yellow",
+      "orange"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": false,
+    "notes": "Yellow Indian mallow is a soft-leaved Texas shrub with cheerful orange-yellow mallow flowers over a long warm season, drought-tolerant and a steady nectar source for bees and butterflies.",
+    "usdaSymbol": "ABHY",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/abutilon-hypoleucum.jpg",
+    "imageSource": "https://www.inaturalist.org/taxa/157842",
+    "imageCredit": "iNaturalist",
+    "landscapeUses": [
+      "hedge or screen",
+      "foundation"
+    ]
+  },
+  {
+    "id": "amblyolepis-setigera",
+    "scientificName": "Amblyolepis setigera",
+    "commonNames": [
+      "Huisache Daisy"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "TX"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "annual",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Huisache daisy is a fragrant Texas annual that blankets roadsides and fields with golden, honey-scented daisies in spring, an easy, drought-tolerant reseeder for sunny wildflower meadows.",
+    "usdaSymbol": "AMSE",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/amblyolepis-setigera.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Amblyolepis",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "arnica-acaulis",
+    "scientificName": "Arnica acaulis",
+    "commonNames": [
+      "Leopardbane"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "NC",
+      "SC",
+      "VA"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2.5
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Leopardbane is a Southeastern arnica of moist pine savannas, sending up bright yellow daisies on slender stems above a basal rosette. A cheerful native for sunny to lightly shaded moist ground.",
+    "usdaSymbol": "ARAC3",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/arnica-acaulis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Arnica_acaulis",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border"
+    ]
+  },
+  {
+    "id": "arnica-cordifolia",
+    "scientificName": "Arnica cordifolia",
+    "commonNames": [
+      "Heartleaf Arnica"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "CA",
+      "CO",
+      "ID",
+      "MI",
+      "MT",
+      "NV",
+      "OR",
+      "SD",
+      "UT",
+      "WA",
+      "WY"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Heartleaf arnica is a western mountain woodland perennial that spreads into colonies of heart-shaped leaves topped with large golden daisies, brightening the dappled floor of conifer forests.",
+    "usdaSymbol": "ARCO9",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/arnica-cordifolia.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Arnica_cordifolia",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "bahia-absinthifolia",
+    "scientificName": "Bahia absinthifolia",
+    "commonNames": [
+      "Hairyseed Bahia"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AZ",
+      "NM",
+      "TX"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Hairyseed bahia is a silvery, drought-hardy Southwestern perennial dotted with bright yellow daisies through the warm season, a tough, low groundcover for hot, dry, rocky desert gardens.",
+    "usdaSymbol": "BAAB",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/bahia-absinthifolia.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Picradeniopsis_absinthifolia",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "balsamorhiza-hookeri",
+    "scientificName": "Balsamorhiza hookeri",
+    "commonNames": [
+      "Hooker's Balsamroot"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "CA",
+      "ID",
+      "NV",
+      "OR",
+      "UT",
+      "WA"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Hooker's balsamroot is a low Great Basin perennial with ferny silvery leaves and large golden sunflowers on short stems in spring, a long-lived, deeply taprooted native for dry western slopes.",
+    "usdaSymbol": "BAHO",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/balsamorhiza-hookeri.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Balsamorhiza_hookeri",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "berlandiera-subacaulis",
+    "scientificName": "Berlandiera subacaulis",
+    "commonNames": [
+      "Florida Greeneyes"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "FL"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Florida greeneyes is a Florida endemic perennial that holds yellow daisies with distinctive green centers nearly year-round above a basal rosette, a tough, drought-tolerant native for sandy gardens.",
+    "usdaSymbol": "BESU",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/berlandiera-subacaulis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Berlandiera_subacaulis",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "calylophus-berlandieri",
+    "scientificName": "Calylophus berlandieri",
+    "commonNames": [
+      "Berlandier's Sundrops"
+    ],
+    "family": "Onagraceae",
+    "nativeStates": [
+      "TX"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Berlandier's sundrops is a low, long-blooming Southern Plains perennial smothered in clear yellow four-petaled flowers, a drought-proof, deer-resistant native for sunny borders and rock gardens.",
+    "usdaSymbol": "CABE6",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/calylophus-berlandieri.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Oenothera_berlandieri",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "calylophus-serrulata",
+    "scientificName": "Calylophus serrulata",
+    "commonNames": [
+      "Yellow Sundrops"
+    ],
+    "family": "Onagraceae",
+    "nativeStates": [
+      "MT",
+      "WY",
+      "ID",
+      "CO",
+      "UT",
+      "NV",
+      "AZ",
+      "NM",
+      "TX",
+      "OK",
+      "KS",
+      "NE",
+      "SD",
+      "ND",
+      "MN",
+      "IA",
+      "MO"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Plains yellow primrose is a wiry, drought-tough perennial of the Great Plains and Rockies, dotted with small clear-yellow flowers all summer. An easy, deer-resistant native for hot, dry, lean soils.",
+    "usdaSymbol": null,
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "landscapeUses": [
+      "border",
+      "container"
+    ],
+    "imageFile": "plants/calylophus-serrulata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Oenothera_serrulata",
+    "imageCredit": "Wikimedia"
+  },
+  {
+    "id": "camissonia-cheiranthifolia",
+    "scientificName": "Camissonia cheiranthifolia",
+    "commonNames": [
+      "Beach Evening Primrose"
+    ],
+    "family": "Onagraceae",
+    "nativeStates": [
+      "CA"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.2,
+      "max": 0.5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Beach evening primrose is a silvery prostrate perennial that mats coastal dunes with bright yellow flowers much of the year, a superb salt- and drought-tolerant groundcover for sandy seaside gardens.",
+    "usdaSymbol": "CACH13",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "mat-forming",
+    "springEphemeral": false,
+    "imageFile": "plants/camissonia-cheiranthifolia.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Camissoniopsis_cheiranthifolia",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "container"
+    ]
+  },
+  {
+    "id": "chrysopsis-gossypina",
+    "scientificName": "Chrysopsis gossypina",
+    "commonNames": [
+      "Cottony Golden Aster"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AL",
+      "FL",
+      "GA",
+      "MS",
+      "NC",
+      "SC",
+      "TX"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy"
+    ],
+    "bloomMonths": [
+      9,
+      10,
+      11
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Cottony golden aster is a woolly, silver-felted Southeastern perennial that lights up sandhills and pinelands with golden asters in fall, a drought-tolerant native for sunny, sandy gardens.",
+    "usdaSymbol": "CHGO",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/chrysopsis-gossypina.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Chrysopsis_gossypina",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "clarkia-concinna",
+    "scientificName": "Clarkia concinna",
+    "commonNames": [
+      "Red Ribbons"
+    ],
+    "family": "Onagraceae",
+    "nativeStates": [
+      "CA"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "annual",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "pink",
+      "red"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Red ribbons is a California annual with extraordinary fringed, three-lobed deep-pink petals like tiny ribbons, an enchanting, easy reseeder for sunny to lightly shaded dry slopes.",
+    "usdaSymbol": "CLCO",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/clarkia-concinna.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Clarkia_concinna",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "clarkia-rubicunda",
+    "scientificName": "Clarkia rubicunda",
+    "commonNames": [
+      "Ruby Chalice Clarkia"
+    ],
+    "family": "Onagraceae",
+    "nativeStates": [
+      "CA"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "annual",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "pink"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Ruby chalice clarkia is a California coastal annual with bowl-shaped rose-pink flowers marked a deep red in the center, a cheerful, drought-tolerant reseeder for sunny gardens and meadows.",
+    "usdaSymbol": "CLRU",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/clarkia-rubicunda.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Clarkia_rubicunda",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border"
+    ]
+  },
+  {
+    "id": "clarkia-speciosa",
+    "scientificName": "Clarkia speciosa",
+    "commonNames": [
+      "Red Spot Clarkia"
+    ],
+    "family": "Onagraceae",
+    "nativeStates": [
+      "CA"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "annual",
+    "heightFeet": {
+      "min": 0.3,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "pink",
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Red spot clarkia is a low California annual with cupped pink-to-white petals each marked with a bright red spot, an easy, drought-tolerant wildflower for sunny, well-drained gardens.",
+    "usdaSymbol": "CLSP",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/clarkia-speciosa.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Clarkia_speciosa",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "clarkia-unguiculata",
+    "scientificName": "Clarkia unguiculata",
+    "commonNames": [
+      "Elegant Clarkia"
+    ],
+    "family": "Onagraceae",
+    "nativeStates": [
+      "CA"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "annual",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "pink",
+      "purple"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Elegant clarkia is a tall, slender California annual with whimsical diamond-shaped clawed petals in pink to lavender along wand-like stems, a graceful, drought-tolerant reseeder and good cut flower.",
+    "usdaSymbol": "CLUN",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/clarkia-unguiculata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Clarkia_unguiculata",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border"
+    ]
+  },
+  {
+    "id": "collinsia-heterophylla",
+    "scientificName": "Collinsia heterophylla",
+    "commonNames": [
+      "Chinese Houses"
+    ],
+    "family": "Plantaginaceae",
+    "nativeStates": [
+      "CA"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "annual",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5
+    ],
+    "bloomColors": [
+      "purple",
+      "white"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Chinese houses is a California annual whose tiered whorls of bicolored white-and-purple flowers stack like a pagoda, a charming, easy reseeder for the dappled light of woodland edges.",
+    "usdaSymbol": "COHE",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/collinsia-heterophylla.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Collinsia_heterophylla",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "collinsia-linearis",
+    "scientificName": "Collinsia linearis",
+    "commonNames": [
+      "Narrowleaf Blue-eyed Mary"
+    ],
+    "family": "Plantaginaceae",
+    "nativeStates": [
+      "CA",
+      "OR"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "annual",
+    "heightFeet": {
+      "min": 0.3,
+      "max": 1
+    },
+    "spreadFeet": {
+      "min": 0.3,
+      "max": 0.6
+    },
+    "lightRequirement": [
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "blue",
+      "purple"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Narrowleaf blue-eyed Mary is a delicate western annual with small blue-and-white snapdragon-like flowers, an airy, easy native for part shade in dry, open woodlands and slopes.",
+    "usdaSymbol": "COLI",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/collinsia-linearis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Collinsia_linearis",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "collomia-grandiflora",
+    "scientificName": "Collomia grandiflora",
+    "commonNames": [
+      "Grand Collomia"
+    ],
+    "family": "Polemoniaceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "ID",
+      "NV",
+      "OR",
+      "UT",
+      "WA"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "annual",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 0.3,
+      "max": 0.8
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "orange"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Grand collomia is an unusual western annual with clusters of soft salmon-apricot trumpet flowers atop leafy stems, an easy, drought-tolerant reseeder with a rare and lovely flower color.",
+    "usdaSymbol": "COGR4",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/collomia-grandiflora.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Collomia_grandiflora",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border"
+    ]
+  },
+  {
+    "id": "collomia-linearis",
+    "scientificName": "Collomia linearis",
+    "commonNames": [
+      "Tiny Trumpet"
+    ],
+    "family": "Polemoniaceae",
+    "nativeStates": [
+      "AK",
+      "AZ",
+      "CA",
+      "CO",
+      "ID",
+      "MN",
+      "MT",
+      "ND",
+      "NE",
+      "NM",
+      "NV",
+      "OR",
+      "SD",
+      "UT",
+      "WA",
+      "WI",
+      "WY"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "annual",
+    "heightFeet": {
+      "min": 0.2,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 0.2,
+      "max": 0.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "pink",
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Tiny trumpet is a slender, widespread western annual with small pink-to-white tubular flowers in leafy clusters, a modest, drought-tolerant pioneer for dry, open, sandy ground.",
+    "usdaSymbol": "COLI2",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/collomia-linearis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Collomia_linearis",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "corethrogyne-filaginifolia",
+    "scientificName": "Corethrogyne filaginifolia",
+    "commonNames": [
+      "California Aster"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "CA",
+      "OR"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "bloomColors": [
+      "purple",
+      "pink"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "songbirds"
+    ],
+    "deerResistant": true,
+    "notes": "California aster is a silvery, drought-tough perennial that hazes dry slopes with lavender-pink asters from summer into fall, a long-blooming, low-care native and valuable late-season nectar source.",
+    "usdaSymbol": "COFI2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/corethrogyne-filaginifolia.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Corethrogyne",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "cosmos-parviflorus",
+    "scientificName": "Cosmos parviflorus",
+    "commonNames": [
+      "Southwestern Cosmos"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AZ",
+      "NM",
+      "TX"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "annual",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "bloomColors": [
+      "pink",
+      "purple",
+      "white"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Southwestern cosmos is an airy desert annual with feathery foliage and dainty pink-to-lavender daisies after summer rains, an easy, drought-tolerant reseeder for sunny Southwestern gardens.",
+    "usdaSymbol": "COPA12",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/cosmos-parviflorus.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Cosmos_parviflorus",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border"
+    ]
+  },
+  {
+    "id": "dracopis-amplexicaulis",
+    "scientificName": "Dracopis amplexicaulis",
+    "commonNames": [
+      "Clasping Coneflower"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AL",
+      "LA",
+      "MS",
+      "OK",
+      "TX"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "annual",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "clay",
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "yellow",
+      "brown"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "songbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Clasping coneflower is a smooth, blue-green Southern annual with drooping yellow petals around a tall conical brown center, an easy reseeder that thrives in moist clay and seasonally wet ground.",
+    "usdaSymbol": "DRAM",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/dracopis-amplexicaulis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Dracopis",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border"
+    ]
+  },
+  {
+    "id": "engelmannia-peristenia",
+    "scientificName": "Engelmannia peristenia",
+    "commonNames": [
+      "Engelmann's Daisy"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "CO",
+      "KS",
+      "NM",
+      "OK",
+      "TX"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "clay"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Engelmann's daisy is a deep-rooted Great Plains perennial covered for months in lemon-yellow daisies that curl up in afternoon heat, a tough, drought- and clay-tolerant native for sunny meadows.",
+    "usdaSymbol": "ENPE4",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/engelmannia-peristenia.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Engelmannia_peristenia",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border"
+    ]
+  },
+  {
+    "id": "erigeron-argentatus",
+    "scientificName": "Erigeron argentatus",
+    "commonNames": [
+      "Silver Fleabane"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "CA",
+      "NV",
+      "UT"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.3,
+      "max": 1
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "purple",
+      "pink"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Silver fleabane is a silky, silver-leaved Great Basin perennial with lavender-pink daisies on tidy stems, a compact, drought-proof native for hot, dry rock gardens and gravelly slopes.",
+    "usdaSymbol": "ERAR3",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/erigeron-argentatus.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Erigeron_argentatus",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "erigeron-compositus",
+    "scientificName": "Erigeron compositus",
+    "commonNames": [
+      "Cutleaf Daisy"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AK",
+      "CA",
+      "CO",
+      "ID",
+      "MT",
+      "NV",
+      "OR",
+      "UT",
+      "WA",
+      "WY"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.2,
+      "max": 0.8
+    },
+    "spreadFeet": {
+      "min": 0.3,
+      "max": 0.8
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "white",
+      "pink"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Cutleaf daisy is a low, cushion-forming alpine and western perennial with finely dissected leaves and white-to-pink daisies, a charming, drought-tolerant miniature for troughs and rock gardens.",
+    "usdaSymbol": "ERCO4",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "GL",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "mat-forming",
+    "springEphemeral": false,
+    "imageFile": "plants/erigeron-compositus.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Erigeron_compositus",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "container"
+    ]
+  },
+  {
+    "id": "erigeron-divergens",
+    "scientificName": "Erigeron divergens",
+    "commonNames": [
+      "Spreading Fleabane"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "CO",
+      "ID",
+      "MT",
+      "NM",
+      "NV",
+      "OR",
+      "TX",
+      "UT",
+      "WA",
+      "WY"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "annual",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "white",
+      "purple"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Spreading fleabane is a soft, much-branched western annual smothered for months in small white-to-lavender daisies, an easy, drought-tolerant pioneer and steady nectar plant for dry, open ground.",
+    "usdaSymbol": "ERDI4",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/erigeron-divergens.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Erigeron_divergens",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "erigeron-philadelphicus",
+    "scientificName": "Erigeron philadelphicus",
+    "commonNames": [
+      "Philadelphia Fleabane"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CA",
+      "CT",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "MT",
+      "NC",
+      "ND",
+      "NE",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "OR",
+      "PA",
+      "SC",
+      "SD",
+      "TN",
+      "TX",
+      "VA",
+      "VT",
+      "WA",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2.5
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "pink",
+      "white"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "songbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Philadelphia fleabane is a widespread native perennial with many small pink-rayed daisies in spring, an easy, adaptable wildflower for sunny to part-shaded moist meadows and an early pollinator favorite.",
+    "usdaSymbol": "ERPH",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/erigeron-philadelphicus.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Erigeron_philadelphicus",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border"
+    ]
+  },
+  {
+    "id": "erigeron-pulchellus",
+    "scientificName": "Erigeron pulchellus",
+    "commonNames": [
+      "Robin's Plantain"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "purple",
+      "pink",
+      "white"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Robin's plantain is a soft-hairy eastern woodland perennial that spreads by runners into patches topped with large lavender-and-yellow daisies in spring, an easy native groundcover for part shade.",
+    "usdaSymbol": "ERPU",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/erigeron-pulchellus.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Erigeron_pulchellus",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "erigeron-quercifolius",
+    "scientificName": "Erigeron quercifolius",
+    "commonNames": [
+      "Oakleaf Fleabane"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "FL",
+      "GA",
+      "NC",
+      "SC"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "white",
+      "purple"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Oakleaf fleabane is a Southeastern perennial with lobed basal leaves and airy sprays of small white-to-lavender daisies in spring, an easy, adaptable native for sunny, sandy gardens and lawns.",
+    "usdaSymbol": "ERQU",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/erigeron-quercifolius.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Erigeron",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
   }
 ]

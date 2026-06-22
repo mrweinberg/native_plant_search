@@ -1,11 +1,11 @@
 # Catalog gap candidates — remaining, re-ranked by garden + ecological priority
 
-Tiers 1–3 (the woody keystone genera) are **complete**. The **282** species below were originally ranked last only because they lack a *woody* caterpillar-host count — a poor signal for herbaceous plants, grasses, and pollinator staples. They are re-ranked here by horticultural demand + ecological value, treating regional & xeric natives as solid picks and reserving the bottom band for genuinely niche/difficult plants. Each candidate still clears the USDA/GBIF native gate at add-time, which also drops non-natives and trims 1-state outliers.
+Tiers 1–3 (the woody keystone genera) are **complete**. The **251** species below were originally ranked last only because they lack a *woody* caterpillar-host count — a poor signal for herbaceous plants, grasses, and pollinator staples. They are re-ranked here by horticultural demand + ecological value, treating regional & xeric natives as solid picks and reserving the bottom band for genuinely niche/difficult plants. Each candidate still clears the USDA/GBIF native gate at add-time, which also drops non-natives and trims 1-state outliers.
 
 | Priority | Species |
 |---|---|
 | P1 | 1 |
-| P2 | 200 |
+| P2 | 169 |
 | P3 | 81 |
 
 
@@ -100,38 +100,7 @@ Reorganized by growth-form / habitat into coherent batches.
 - [ ] Stenanthium tennesseense
 
 
-### Western & desert wildflowers · 97
-- [ ] Abronia fragrans
-- [ ] Abronia villosa
-- [ ] Abutilon hypoleucum
-- [ ] Amblyolepis setigera
-- [ ] Arnica acaulis
-- [ ] Arnica cordifolia
-- [ ] Bahia absinthifolia
-- [ ] Balsamorhiza hookeri
-- [ ] Berlandiera subacaulis
-- [ ] Calylophus berlandieri
-- [ ] Calylophus serrulata
-- [ ] Camissonia cheiranthifolia
-- [ ] Chrysopsis gossypina
-- [ ] Clarkia concinna
-- [ ] Clarkia rubicunda
-- [ ] Clarkia speciosa
-- [ ] Clarkia unguiculata
-- [ ] Collinsia heterophylla
-- [ ] Collinsia linearis
-- [ ] Collomia grandiflora
-- [ ] Collomia linearis
-- [ ] Corethrogyne filaginifolia
-- [ ] Cosmos parviflorus
-- [ ] Dracopis amplexicaulis
-- [ ] Engelmannia peristenia
-- [ ] Erigeron argentatus
-- [ ] Erigeron compositus
-- [ ] Erigeron divergens
-- [ ] Erigeron philadelphicus
-- [ ] Erigeron pulchellus
-- [ ] Erigeron quercifolius
+### Western & desert wildflowers · 66
 - [ ] Erodium texanum
 - [ ] Eschscholzia caespitosa
 - [ ] Eustoma exaltatum
