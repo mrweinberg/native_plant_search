@@ -178,10 +178,25 @@ function confirmClear() {
   if (favoriteSet.value.size === 0) return
   if (confirm(`Remove all ${favoriteSet.value.size} favorites?`)) clear()
 }
+
+// "Back to search" — mirror the detail page: jump straight back to the search
+// page's spot in history (restoring its filters and scroll), or fall back to a
+// fresh push to the list when there's no search page in history.
+function goBack() {
+  const raw = sessionStorage.getItem('bf:listPos')
+  const listPos = raw == null ? null : Number(raw)
+  const cur = window.history.state?.position
+  if (listPos != null && Number.isInteger(listPos) && typeof cur === 'number' && cur > listPos) {
+    router.go(listPos - cur)
+  } else {
+    router.push({ name: 'list' })
+  }
+}
 </script>
 
 <template>
   <div class="favorites">
+    <a href="#" class="back" @click.prevent="goBack">← Back to search</a>
     <div class="head">
       <div>
         <h1>{{ isShared ? 'Shared plant list' : 'Favorites' }}</h1>
@@ -354,6 +369,27 @@ function confirmClear() {
 
 <style scoped>
 .favorites { max-width: 1280px; margin: 0 auto; }
+.back {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--accent);
+  background: var(--accent-soft);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 7px 14px;
+  text-decoration: none;
+  margin-bottom: 14px;
+  transition: background 0.12s, color 0.12s, border-color 0.12s;
+}
+.back:hover {
+  background: var(--accent);
+  color: #fff;
+  border-color: var(--accent);
+  text-decoration: none;
+}
 .head {
   display: flex;
   align-items: flex-start;
