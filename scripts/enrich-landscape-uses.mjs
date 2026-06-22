@@ -39,7 +39,7 @@ function usesFor(p) {
     if (H && H <= 8) u.add('foundation')
     if (H && H >= 8) u.add('specimen')
     if (H && H <= 2 && spreads) u.add('groundcover')
-  } else if (ga === 'forb' || ga === 'herb') {
+  } else if (ga === 'wildflower') {
     if (H && H >= 1 && H <= 5) u.add('border')
     if (H && H <= 1.25 && spreads) u.add('groundcover')
     if (spreads) u.add('naturalizing')
@@ -60,7 +60,7 @@ function usesFor(p) {
 
   if (u.size === 0) {
     if (ga === 'tree' || ga === 'shrub') u.add('specimen')
-    else if (ga === 'forb' || ga === 'herb') u.add('border')
+    else if (ga === 'wildflower') u.add('border')
     else u.add('naturalizing')
   }
   return ORDER.filter((x) => u.has(x))
