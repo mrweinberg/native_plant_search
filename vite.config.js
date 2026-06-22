@@ -101,6 +101,57 @@ function breadcrumb(p) {
   return `<script type="application/ld+json">${JSON.stringify(data)}</script>`
 }
 
+// Static homepage body so crawlers and LLMs get a real H1, descriptive copy,
+// and internal links instead of an empty app shell. Vue clobbers #app on mount,
+// so this never reaches interactive users.
+function homeContent(plants) {
+  const e = escapeHtml
+  const sample = plants.filter((p) => p.keystone).slice(0, 12)
+  const links = sample
+    .map((p) => `<li><a href="/plant/${p.id}">${e(p.commonNames[0])} (${e(p.scientificName)})</a></li>`)
+    .join('')
+  return (
+    `<main>` +
+    `<h1>Search North American native plants</h1>` +
+    `<p>Bedfellow helps you plan a native garden that blooms all season. Filter ${plants.length} ` +
+    `North American native plants by region and state, light, soil moisture and type, soil pH, bloom ` +
+    `time, height, and wildlife value — then save favorites, build companion-planting beds, and check ` +
+    `bloom coverage month by month.</p>` +
+    `<p>Native range, scientific names, and photos come from USDA PLANTS, GBIF, Wikimedia Commons, and ` +
+    `iNaturalist; growing conditions and descriptions are editorially curated. ` +
+    `<a href="/sources">See sources &amp; data</a>.</p>` +
+    `<h2>Explore</h2>` +
+    `<ul><li><a href="/favorites">Favorites, bloom timeline &amp; companion beds</a></li>` +
+    `<li><a href="/sources">Sources &amp; data</a></li></ul>` +
+    `<h2>Keystone native plants</h2>` +
+    `<p>Keystone genera support an outsized number of native caterpillar species — the food base for ` +
+    `songbirds. A few in the catalog:</p>` +
+    `<ul>${links}</ul>` +
+    `</main>`
+  )
+}
+
+// Concise static body for the Sources page (the live view holds the full text).
+function sourcesContent(plants) {
+  return (
+    `<main>` +
+    `<h1>Sources &amp; data</h1>` +
+    `<p>Bedfellow's catalog of ${plants.length} native plants is built in two layers. Native range, ` +
+    `scientific names, and photographs come from public databases; growing conditions, bloom times, ` +
+    `wildlife value, deer resistance, and descriptions are editorially written with AI assistance from ` +
+    `the horticultural references below, and may contain errors.</p>` +
+    `<ul>` +
+    `<li>USDA PLANTS Database — scientific names, symbols, and native status by region</li>` +
+    `<li>GBIF — per-state occurrence records used as a presence proxy</li>` +
+    `<li>Wikimedia Commons and iNaturalist — photographs, under their individual licenses</li>` +
+    `<li>Lady Bird Johnson Wildflower Center, Xerces Society, Calscape, Oregon Flora, and the ` +
+    `Arizona-Sonora Desert Museum — species selection and horticulture</li>` +
+    `<li>Doug Tallamy / NWF Native Plant Finder — caterpillar host counts and keystone designations</li>` +
+    `</ul>` +
+    `</main>`
+  )
+}
+
 // Bake per-route metadata into static HTML so social scrapers and non-JS
 // crawlers get correct preview cards and titles. The built dist/index.html is
 // the template (correct hashed asset refs + default tags); we clone it per route
@@ -168,6 +219,7 @@ function prerender() {
           description:
             'The data sources behind Bedfellow: USDA PLANTS, GBIF, Wikimedia, iNaturalist, and regional native-plant authorities.',
           path: '/sources',
+          content: sourcesContent(plants),
         }),
       )
       write(
@@ -179,7 +231,19 @@ function prerender() {
           path: '/favorites',
         }),
       )
-      console.log(`prerendered ${plants.length} plant pages + sources + favorites`)
+      // Overwrite the homepage shell with baked content + a real H1 (was an
+      // empty app div — the main SEO/GEO gap from the audit).
+      writeFileSync(
+        join(dist, 'index.html'),
+        render({
+          title: 'Bedfellow — Plan a native garden that blooms all season',
+          description:
+            'Search North American native plants by region, light, soil, and bloom time, and plan a garden with continuous bloom and companion plants that thrive together.',
+          path: '/',
+          content: homeContent(plants),
+        }),
+      )
+      console.log(`prerendered home + ${plants.length} plant pages + sources + favorites`)
     },
   }
 }

@@ -141,6 +141,7 @@ watch(() => route.fullPath, () => { drawerOpen.value = false })
       @clear="clearAll"
     />
     <div class="results">
+      <h1 class="sr-only">Native plant search — plan a North American garden that blooms all season</h1>
       <div class="toolbar">
         <div class="toolbar-row">
           <button class="filters-btn" type="button" @click="drawerOpen = true">
@@ -208,6 +209,18 @@ watch(() => route.fullPath, () => { drawerOpen.value = false })
 </template>
 
 <style scoped>
+/* Visually hidden but present for search engines and screen readers. */
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
 .layout {
   display: grid;
   grid-template-columns: 280px 1fr;
