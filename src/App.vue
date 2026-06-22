@@ -99,21 +99,18 @@ router.afterEach((to) => {
 .top-links {
   display: flex;
   align-items: center;
-  gap: 12px;
   font-size: 14px;
 }
 .top-links a {
   color: #d7cfb6;
   text-decoration: none;
-  position: relative;
 }
 .top-links a:hover { color: #fff; text-decoration: underline; }
 .top-links a + a::before {
   content: '|';
-  position: absolute;
-  left: -12px;
+  display: inline-block;
+  margin: 0 12px;
   color: rgba(241, 235, 217, 0.3);
-  text-decoration: none;
 }
 .top-actions {
   display: flex;
