@@ -103,6 +103,12 @@ function syncLocationToFilter() {
   router.replace({ query: q })
 }
 onMounted(() => {
+  // Remember this page's spot in the history stack so the detail-page
+  // "Back to search" button can jump straight back here (restoring filters and
+  // scroll via the browser), even after hopping between detail pages. Filters
+  // use router.replace, so this position stays stable while filtering.
+  const pos = window.history.state?.position
+  if (typeof pos === 'number') sessionStorage.setItem('bf:listPos', String(pos))
   if (location.value && !route.query.nativeStates) syncLocationToFilter()
 })
 watch(location, syncLocationToFilter)

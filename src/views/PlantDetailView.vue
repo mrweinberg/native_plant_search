@@ -15,9 +15,21 @@ const route = useRoute()
 const router = useRouter()
 const plant = computed(() => allPlants.value.find((p) => p.id === route.params.id))
 
+// "Back to search" should always return to the search page as the user left it —
+// same filters, same scroll — even after navigating between detail pages. We
+// recorded the list's history position (PlantListView), so jump straight back to
+// it: a real popstate, which restores the list's URL (filters) and scroll
+// position natively. Fall back to a plain push when there's no list in history
+// (e.g. arriving via a direct link or shared URL).
 function goBack() {
-  if (window.history.state?.back) router.back()
-  else router.push({ name: 'list', query: backQuery.value })
+  const raw = sessionStorage.getItem('bf:listPos')
+  const listPos = raw == null ? null : Number(raw)
+  const cur = window.history.state?.position
+  if (listPos != null && Number.isInteger(listPos) && typeof cur === 'number' && cur > listPos) {
+    router.go(listPos - cur)
+  } else {
+    router.push({ name: 'list', query: backQuery.value })
+  }
 }
 
 function overlap(a, b) {
