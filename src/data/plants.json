@@ -94893,5 +94893,3269 @@
     "landscapeUses": [
       "foundation"
     ]
+  },
+  {
+    "id": "viola-adunca",
+    "scientificName": "Viola adunca",
+    "commonNames": [
+      "Western Dog Violet"
+    ],
+    "family": "Violaceae",
+    "nativeStates": [
+      "AK",
+      "CA",
+      "CO",
+      "ID",
+      "ME",
+      "MI",
+      "MN",
+      "MT",
+      "ND",
+      "NH",
+      "NM",
+      "NV",
+      "OR",
+      "SD",
+      "UT",
+      "VT",
+      "WA",
+      "WI",
+      "WY"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0,
+      "max": 0.5
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "dry"
+    ],
+    "soilType": [
+      "loam",
+      "sandy"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "purple",
+      "blue"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Western dog violet is a low blue-violet violet of meadows and open woods, and a key larval host for several fritillary butterflies across the West.",
+    "usdaSymbol": "VIAD",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/viola-adunca.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Viola_adunca",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "groundcover",
+      "container",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "viola-blanda",
+    "scientificName": "Viola blanda",
+    "commonNames": [
+      "Sweet White Violet"
+    ],
+    "family": "Violaceae",
+    "nativeStates": [
+      "CT",
+      "DE",
+      "GA",
+      "KY",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "SC",
+      "TN",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0,
+      "max": 0.5
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Sweet white violet is a dainty, fragrant white violet that carpets cool, moist eastern woodlands, spreading by runners into a delicate groundcover.",
+    "usdaSymbol": "VIBL",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/viola-blanda.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Viola_blanda",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "groundcover",
+      "container",
+      "rain garden",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "viola-canadensis",
+    "scientificName": "Viola canadensis",
+    "commonNames": [
+      "Canadian White Violet"
+    ],
+    "family": "Violaceae",
+    "nativeStates": [
+      "AL",
+      "AZ",
+      "CO",
+      "CT",
+      "GA",
+      "ID",
+      "IN",
+      "KY",
+      "MA",
+      "MD",
+      "MI",
+      "MN",
+      "MT",
+      "NC",
+      "ND",
+      "NE",
+      "NH",
+      "NM",
+      "NY",
+      "OH",
+      "PA",
+      "SC",
+      "SD",
+      "TN",
+      "UT",
+      "VA",
+      "VT",
+      "WA",
+      "WI",
+      "WV",
+      "WY"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Canadian white violet is a taller woodland violet with white, yellow-eyed flowers flushed purple on the back, blooming over a long season in rich shade.",
+    "usdaSymbol": "VICA4",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/viola-canadensis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Viola_canadensis",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "viola-cucullata",
+    "scientificName": "Viola cucullata",
+    "commonNames": [
+      "Marsh Blue Violet"
+    ],
+    "family": "Violaceae",
+    "nativeStates": [
+      "CT",
+      "DC",
+      "GA",
+      "IL",
+      "IN",
+      "KY",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "RI",
+      "TN",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0,
+      "max": 0.8
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "wet",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "purple",
+      "blue"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Marsh blue violet thrives in wet meadows, seeps, and stream edges, with blue-violet flowers held above the leaves. A fritillary host for damp, sunny-to-shaded ground.",
+    "usdaSymbol": "VICU",
+    "nativeRegions": [
+      "CAN",
+      "L48",
+      "SPM"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/viola-cucullata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Viola_cucullata",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "groundcover",
+      "container",
+      "rain garden",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "viola-glabella",
+    "scientificName": "Viola glabella",
+    "commonNames": [
+      "Stream Violet"
+    ],
+    "family": "Violaceae",
+    "nativeStates": [
+      "AK",
+      "CA",
+      "ID",
+      "MT",
+      "OR",
+      "WA"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.3,
+      "max": 1
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Stream violet brightens moist Pacific woodlands with cheerful yellow flowers in early spring, spreading into soft colonies along shaded creeks.",
+    "usdaSymbol": "VIGL",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/viola-glabella.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Viola_glabella",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "groundcover",
+      "container",
+      "rain garden",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "viola-lanceolata",
+    "scientificName": "Viola lanceolata",
+    "commonNames": [
+      "Lance-leaved Violet"
+    ],
+    "family": "Violaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DE",
+      "FL",
+      "GA",
+      "IL",
+      "IN",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MS",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "WI"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0,
+      "max": 0.5
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "wet"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Lance-leaved violet is a bog and wet-meadow violet with narrow lance-shaped leaves and small white flowers, a fritillary host for sunny, saturated ground.",
+    "usdaSymbol": "VILA4",
+    "nativeRegions": [
+      "CAN",
+      "L48",
+      "SPM"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/viola-lanceolata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Viola_lanceolata",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "groundcover",
+      "container",
+      "rain garden",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "viola-macloskeyi",
+    "scientificName": "Viola macloskeyi",
+    "commonNames": [
+      "Small White Violet"
+    ],
+    "family": "Violaceae",
+    "nativeStates": [
+      "CA",
+      "ID",
+      "MI",
+      "MT",
+      "NH",
+      "NV",
+      "OR",
+      "WA",
+      "WI"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0,
+      "max": 0.4
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "wet",
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Small white violet is a tiny creeping violet of wet montane meadows and seeps, dotting the ground with white blooms beside snowmelt streams.",
+    "usdaSymbol": "VIMA2",
+    "nativeRegions": [
+      "CAN",
+      "L48",
+      "SPM"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/viola-macloskeyi.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Viola_macloskeyi",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "groundcover",
+      "container",
+      "rain garden",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "viola-nuttallii",
+    "scientificName": "Viola nuttallii",
+    "commonNames": [
+      "Nuttall's Violet"
+    ],
+    "family": "Violaceae",
+    "nativeStates": [
+      "CO",
+      "ID",
+      "MT",
+      "ND",
+      "NE",
+      "SD",
+      "UT",
+      "WA",
+      "WY"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0,
+      "max": 0.5
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Nuttall's violet is a sun-loving prairie violet with golden flowers, drought-tolerant on the dry grasslands and foothills of the West. A fritillary host.",
+    "usdaSymbol": "VINU2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/viola-nuttallii.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Viola_nuttallii",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "container"
+    ]
+  },
+  {
+    "id": "viola-pedata",
+    "scientificName": "Viola pedata",
+    "commonNames": [
+      "Bird's-foot Violet"
+    ],
+    "family": "Violaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DC",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.3,
+      "max": 0.8
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "purple",
+      "blue"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Bird's-foot violet is the showiest native violet, with large pansy-like blue-violet flowers over finely divided leaves on dry, sandy, acidic barrens. A fritillary host that resents rich or wet soil.",
+    "usdaSymbol": "VIPE",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/viola-pedata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Viola_pedata",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "container"
+    ]
+  },
+  {
+    "id": "viola-pubescens",
+    "scientificName": "Viola pubescens",
+    "commonNames": [
+      "Downy Yellow Violet"
+    ],
+    "family": "Violaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "NC",
+      "NE",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "SD",
+      "TN",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "dry"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Downy yellow violet is an upright woodland violet with soft-haired stems and clear yellow flowers, a cheerful spring bloomer for dry to moist shade.",
+    "usdaSymbol": "VIPU3",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/viola-pubescens.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Viola_pubescens",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "viola-sagittata",
+    "scientificName": "Viola sagittata",
+    "commonNames": [
+      "Arrowleaf Violet"
+    ],
+    "family": "Violaceae",
+    "nativeStates": [
+      "AR",
+      "CT",
+      "DC",
+      "DE",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "MI",
+      "MN",
+      "MO",
+      "NC",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0,
+      "max": 0.6
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "purple",
+      "blue"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Arrowleaf violet is a sun-tolerant violet of open woods, fields, and barrens, with arrow-shaped leaves and rich violet flowers. A larval host for fritillaries.",
+    "usdaSymbol": "VISA2",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/viola-sagittata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Viola_sagittata",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "groundcover",
+      "container",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "viola-sororia",
+    "scientificName": "Viola sororia",
+    "commonNames": [
+      "Common Blue Violet"
+    ],
+    "family": "Violaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CO",
+      "CT",
+      "DC",
+      "FL",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "ND",
+      "NE",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0,
+      "max": 0.8
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "dry"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5
+    ],
+    "bloomColors": [
+      "purple",
+      "blue"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Common blue violet is the tough, adaptable violet of lawns and woodland edges across the East, with blue-violet (sometimes white) flowers and edible blooms. A workhorse fritillary host.",
+    "usdaSymbol": "VISO",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/viola-sororia.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Viola_sororia",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "groundcover",
+      "container",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "viola-vallicola",
+    "scientificName": "Viola vallicola",
+    "commonNames": [
+      "Valley Violet"
+    ],
+    "family": "Violaceae",
+    "nativeStates": [
+      "CO",
+      "ID",
+      "MT",
+      "NV",
+      "OR",
+      "UT",
+      "WA",
+      "WY"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0,
+      "max": 0.5
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Valley violet is a small yellow-flowered violet of western grasslands and sagebrush valleys, blooming early before summer drought. A fritillary host.",
+    "usdaSymbol": "VIVA",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/viola-vallicola.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Viola_vallicola",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "container"
+    ]
+  },
+  {
+    "id": "heuchera-longiflora",
+    "scientificName": "Heuchera longiflora",
+    "commonNames": [
+      "Longflower Alumroot"
+    ],
+    "family": "Saxifragaceae",
+    "nativeStates": [
+      "KY",
+      "NC",
+      "TN"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2.5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "dry"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "pink",
+      "white"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Longflower alumroot is a graceful Southeastern woodland heuchera with airy wands of tubular pink-white flowers above mottled leaves, ideal for shaded rock gardens.",
+    "usdaSymbol": "HELO5",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/heuchera-longiflora.jpg",
+    "imageSource": "https://www.inaturalist.org/taxa/163741",
+    "imageCredit": "iNaturalist",
+    "landscapeUses": [
+      "border"
+    ]
+  },
+  {
+    "id": "heuchera-maxima",
+    "scientificName": "Heuchera maxima",
+    "commonNames": [
+      "Island Alumroot"
+    ],
+    "family": "Saxifragaceae",
+    "nativeStates": [
+      "CA"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 3
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      2,
+      3,
+      4
+    ],
+    "bloomColors": [
+      "white",
+      "pink"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Island alumroot is a robust Channel Islands heuchera forming big mounds of lobed leaves topped with foamy white-pink sprays, a tough evergreen for dry California shade.",
+    "usdaSymbol": "HEMA4",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/heuchera-maxima.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Heuchera_maxima",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border"
+    ]
+  },
+  {
+    "id": "heuchera-parvifolia",
+    "scientificName": "Heuchera parvifolia",
+    "commonNames": [
+      "Littleleaf Alumroot"
+    ],
+    "family": "Saxifragaceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "CO",
+      "ID",
+      "MT",
+      "NM",
+      "NV",
+      "UT",
+      "WY"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      6,
+      7
+    ],
+    "bloomColors": [
+      "white",
+      "green"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Littleleaf alumroot is a compact Rocky Mountain heuchera of rocky slopes and cliffs, with greenish-white flower spikes, hardy and drought-tolerant at elevation.",
+    "usdaSymbol": "HEPA11",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/heuchera-parvifolia.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Heuchera_parvifolia",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "heuchera-pilosissima",
+    "scientificName": "Heuchera pilosissima",
+    "commonNames": [
+      "Seaside Alumroot"
+    ],
+    "family": "Saxifragaceae",
+    "nativeStates": [
+      "CA"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "sandy"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "pink",
+      "white"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Seaside alumroot is a fuzzy-leaved California coastal heuchera with pink-tinged flower plumes, tolerant of wind, salt, and dry shade.",
+    "usdaSymbol": "HEPI3",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/heuchera-pilosissima.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Heuchera_pilosissima",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "heuchera-richardsonii",
+    "scientificName": "Heuchera richardsonii",
+    "commonNames": [
+      "Prairie Alumroot"
+    ],
+    "family": "Saxifragaceae",
+    "nativeStates": [
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "MI",
+      "MN",
+      "MO",
+      "MT",
+      "ND",
+      "NE",
+      "SD",
+      "WI"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "sandy",
+      "clay"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "green",
+      "white"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Prairie alumroot is the sun- and drought-tolerant heuchera of the tallgrass prairie, with greenish bell flowers and deep roots, thriving where most heucheras would fail.",
+    "usdaSymbol": "HERI",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/heuchera-richardsonii.jpg",
+    "imageSource": "https://www.inaturalist.org/taxa/127946",
+    "imageCredit": "iNaturalist",
+    "landscapeUses": [
+      "border"
+    ]
+  },
+  {
+    "id": "heuchera-rubescens",
+    "scientificName": "Heuchera rubescens",
+    "commonNames": [
+      "Pink Alumroot"
+    ],
+    "family": "Saxifragaceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "ID",
+      "NM",
+      "NV",
+      "OR",
+      "TX",
+      "UT"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "pink",
+      "white"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Pink alumroot is a delicate heuchera of western rock crevices and cliffs, with rosy-pink flowers on wiry stems, a gem for sharply drained rock gardens.",
+    "usdaSymbol": "HERU",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/heuchera-rubescens.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Heuchera_rubescens",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "heuchera-sanguinea",
+    "scientificName": "Heuchera sanguinea",
+    "commonNames": [
+      "Coral Bells"
+    ],
+    "family": "Saxifragaceae",
+    "nativeStates": [
+      "AZ"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "rocky",
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "red"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Coral bells is the classic red-flowered heuchera of Southwestern mountains, ringing with scarlet bells that hummingbirds chase. The parent of countless garden hybrids.",
+    "usdaSymbol": "HESA3",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/heuchera-sanguinea.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Heuchera_sanguinea",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "heuchera-villosa",
+    "scientificName": "Heuchera villosa",
+    "commonNames": [
+      "Hairy Alumroot"
+    ],
+    "family": "Saxifragaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "GA",
+      "KY",
+      "NC",
+      "OH",
+      "SC",
+      "TN",
+      "VA",
+      "WV"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "dry"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "white",
+      "pink"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Hairy alumroot is a heat- and humidity-tough Appalachian heuchera that blooms late with frothy white-pink sprays over big maple-like leaves, excellent for Southern shade.",
+    "usdaSymbol": "HEVI2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/heuchera-villosa.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Heuchera_villosa",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border"
+    ]
+  },
+  {
+    "id": "aquilegia-chrysantha",
+    "scientificName": "Aquilegia chrysantha",
+    "commonNames": [
+      "Golden Columbine"
+    ],
+    "family": "Ranunculaceae",
+    "nativeStates": [
+      "AZ",
+      "CO",
+      "NM",
+      "TX",
+      "UT"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "dry"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Golden columbine is a long-spurred, fragrant yellow columbine of Southwestern canyons and seeps, blooming for months and drawing hummingbirds and hawkmoths.",
+    "usdaSymbol": "AQCH",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/aquilegia-chrysantha.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Aquilegia_chrysantha",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border"
+    ]
+  },
+  {
+    "id": "aquilegia-eximia",
+    "scientificName": "Aquilegia eximia",
+    "commonNames": [
+      "Serpentine Columbine"
+    ],
+    "family": "Ranunculaceae",
+    "nativeStates": [
+      "CA"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "red",
+      "orange"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Serpentine columbine is a tall California columbine of seeps and serpentine slopes, with nodding red-and-yellow flowers that hummingbirds adore.",
+    "usdaSymbol": "AQEX",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/aquilegia-eximia.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Aquilegia_eximia",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "rain garden"
+    ]
+  },
+  {
+    "id": "aquilegia-flavescens",
+    "scientificName": "Aquilegia flavescens",
+    "commonNames": [
+      "Yellow Columbine"
+    ],
+    "family": "Ranunculaceae",
+    "nativeStates": [
+      "ID",
+      "MT",
+      "OR",
+      "UT",
+      "WA",
+      "WY"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Yellow columbine is a soft-yellow, nodding-flowered columbine of western mountain meadows and forest openings, hardy and charming for cool gardens.",
+    "usdaSymbol": "AQFL",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/aquilegia-flavescens.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Aquilegia_flavescens",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "aquilegia-jonesii",
+    "scientificName": "Aquilegia jonesii",
+    "commonNames": [
+      "Jones's Columbine"
+    ],
+    "family": "Ranunculaceae",
+    "nativeStates": [
+      "MT",
+      "WY"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.2,
+      "max": 0.5
+    },
+    "spreadFeet": {
+      "min": 0.3,
+      "max": 0.6
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky"
+    ],
+    "bloomMonths": [
+      6,
+      7
+    ],
+    "bloomColors": [
+      "blue",
+      "purple"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Jones's columbine is a tiny alpine treasure of high limestone scree, with outsized violet-blue flowers over blue-gray tufts. A coveted, demanding rock-garden plant.",
+    "usdaSymbol": "AQJO",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "alkaline",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/aquilegia-jonesii.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Aquilegia_jonesii",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "container"
+    ]
+  },
+  {
+    "id": "anemone-cylindrica",
+    "scientificName": "Anemone cylindrica",
+    "commonNames": [
+      "Thimbleweed"
+    ],
+    "family": "Ranunculaceae",
+    "nativeStates": [
+      "CO",
+      "CT",
+      "IA",
+      "IL",
+      "IN",
+      "MA",
+      "MI",
+      "MN",
+      "MO",
+      "MT",
+      "ND",
+      "NE",
+      "NM",
+      "NY",
+      "OH",
+      "SD",
+      "VT",
+      "WI"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2.5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "white",
+      "green"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Thimbleweed is a prairie anemone with greenish-white flowers that mature into cylindrical, thimble-like seed heads bursting into woolly cotton. Drought-hardy and deer-resistant.",
+    "usdaSymbol": "ANCY",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/anemone-cylindrica.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Anemone_cylindrica",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border"
+    ]
+  },
+  {
+    "id": "anemone-multifida",
+    "scientificName": "Anemone multifida",
+    "commonNames": [
+      "Pacific Anemone"
+    ],
+    "family": "Ranunculaceae",
+    "nativeStates": [
+      "AK",
+      "CO",
+      "ID",
+      "MI",
+      "MT",
+      "NV",
+      "OR",
+      "SD",
+      "UT",
+      "VT",
+      "WA",
+      "WY"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "rocky",
+      "loam"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "white",
+      "red"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Pacific anemone is a tufted western anemone of rocky meadows and slopes, with cream-to-reddish flowers and silky seed heads, tough and deer-resistant.",
+    "usdaSymbol": "ANMU8",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/anemone-multifida.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Anemone_multifida",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "anemone-tuberosa",
+    "scientificName": "Anemone tuberosa",
+    "commonNames": [
+      "Desert Anemone"
+    ],
+    "family": "Ranunculaceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "NM",
+      "NV",
+      "TX",
+      "UT"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "white",
+      "pink"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Desert anemone is an early-spring Southwestern anemone that rises from tubers after winter rains with white-to-pink flowers, then retreats by summer. Deer-resistant.",
+    "usdaSymbol": "ANTU",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": true,
+    "imageFile": "plants/anemone-tuberosa.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Anemone_tuberosa",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "dodecatheon-clevelandii",
+    "scientificName": "Dodecatheon clevelandii",
+    "commonNames": [
+      "Padre's Shooting Star"
+    ],
+    "family": "Primulaceae",
+    "nativeStates": [
+      "CA"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "dry"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      2,
+      3,
+      4
+    ],
+    "bloomColors": [
+      "pink",
+      "purple"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": false,
+    "notes": "Padre's shooting star is an early California native whose swept-back magenta-pink petals form little 'shooting stars' over basal rosettes, going dormant by summer.",
+    "usdaSymbol": "DOCL",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": true,
+    "imageFile": "plants/dodecatheon-clevelandii.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Primula_clevelandii",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "dodecatheon-hendersonii",
+    "scientificName": "Dodecatheon hendersonii",
+    "commonNames": [
+      "Henderson's Shooting Star"
+    ],
+    "family": "Primulaceae",
+    "nativeStates": [
+      "CA",
+      "OR",
+      "WA"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "dry"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5
+    ],
+    "bloomColors": [
+      "pink",
+      "purple"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": false,
+    "notes": "Henderson's shooting star brightens spring oak woodlands of the West with rose-purple, dart-like flowers, then dies back as the dry season arrives.",
+    "usdaSymbol": "DOHE",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": true,
+    "imageFile": "plants/dodecatheon-hendersonii.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Primula_hendersonii",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "dodecatheon-meadia",
+    "scientificName": "Dodecatheon meadia",
+    "commonNames": [
+      "Eastern Shooting Star"
+    ],
+    "family": "Primulaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "MD",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "pink",
+      "white"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": false,
+    "notes": "Eastern shooting star sends up airy clusters of swept-back pink-white flowers over rosettes in prairies and open woods, a beloved spring ephemeral that vanishes by midsummer.",
+    "usdaSymbol": "DOME",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": true,
+    "imageFile": "plants/dodecatheon-meadia.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Primula_meadia",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "lilium-humboldtii",
+    "scientificName": "Lilium humboldtii",
+    "commonNames": [
+      "Humboldt Lily"
+    ],
+    "family": "Liliaceae",
+    "nativeStates": [
+      "CA"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 6
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      6,
+      7
+    ],
+    "bloomColors": [
+      "orange"
+    ],
+    "leafArrangement": "whorled",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds",
+      "butterflies"
+    ],
+    "deerResistant": false,
+    "notes": "Humboldt lily is a statuesque California lily with whorled leaves and nodding orange, maroon-spotted, turk's-cap flowers, lighting up dry woodland edges in summer.",
+    "usdaSymbol": "LIHU",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/lilium-humboldtii.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Lilium_humboldtii",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border"
+    ]
+  },
+  {
+    "id": "lilium-pardalinum",
+    "scientificName": "Lilium pardalinum",
+    "commonNames": [
+      "Leopard Lily"
+    ],
+    "family": "Liliaceae",
+    "nativeStates": [
+      "CA",
+      "OR"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 7
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "wet",
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "orange",
+      "red"
+    ],
+    "leafArrangement": "whorled",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds",
+      "butterflies"
+    ],
+    "deerResistant": false,
+    "notes": "Leopard lily is a spectacular western streamside lily, towering with dozens of orange-red, spotted turk's-cap flowers that hummingbirds and swallowtails visit. Loves wet feet.",
+    "usdaSymbol": "LIPA",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/lilium-pardalinum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Lilium_pardalinum",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "rain garden",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "lilium-philadelphicum",
+    "scientificName": "Lilium philadelphicum",
+    "commonNames": [
+      "Wood Lily"
+    ],
+    "family": "Liliaceae",
+    "nativeStates": [
+      "CO",
+      "CT",
+      "IA",
+      "IL",
+      "IN",
+      "KY",
+      "MA",
+      "ME",
+      "MI",
+      "MN",
+      "MT",
+      "ND",
+      "NE",
+      "NH",
+      "NJ",
+      "NM",
+      "NY",
+      "OH",
+      "PA",
+      "SD",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      6,
+      7
+    ],
+    "bloomColors": [
+      "orange",
+      "red"
+    ],
+    "leafArrangement": "whorled",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds",
+      "butterflies"
+    ],
+    "deerResistant": false,
+    "notes": "Wood lily is a fiery upward-facing orange-red lily of prairies, savannas, and open woods, increasingly scarce in the wild. A stunning but deer-favored native.",
+    "usdaSymbol": "LIPH",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/lilium-philadelphicum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Lilium_philadelphicum",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border"
+    ]
+  },
+  {
+    "id": "erythronium-revolutum",
+    "scientificName": "Erythronium revolutum",
+    "commonNames": [
+      "Pink Fawn Lily"
+    ],
+    "family": "Liliaceae",
+    "nativeStates": [
+      "CA",
+      "OR",
+      "WA"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "pink"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": false,
+    "notes": "Pink fawn lily is a choice Pacific Northwest spring ephemeral with nodding rose-pink flowers over mottled leaves, carpeting moist woods and stream banks before fading by summer.",
+    "usdaSymbol": "ERRE5",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": true,
+    "imageFile": "plants/erythronium-revolutum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Erythronium_revolutum",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "groundcover",
+      "container",
+      "rain garden",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "geranium-richardsonii",
+    "scientificName": "Geranium richardsonii",
+    "commonNames": [
+      "Richardson's Geranium"
+    ],
+    "family": "Geraniaceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "CO",
+      "ID",
+      "MT",
+      "NM",
+      "NV",
+      "OR",
+      "SD",
+      "UT",
+      "WY"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2.5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "white",
+      "pink"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Richardson's geranium is a western mountain cranesbill with white-to-pale-pink, lavender-veined flowers over deeply cut leaves, a long-blooming, deer-resistant native for moist shade.",
+    "usdaSymbol": "GERI",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/geranium-richardsonii.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Geranium_richardsonii",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border"
+    ]
+  },
+  {
+    "id": "thalictrum-dioicum",
+    "scientificName": "Thalictrum dioicum",
+    "commonNames": [
+      "Early Meadow-rue"
+    ],
+    "family": "Ranunculaceae",
+    "nativeStates": [
+      "CT",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KY",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "TN",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2.5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "green",
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "larval host"
+    ],
+    "deerResistant": true,
+    "notes": "Early meadow-rue is a delicate woodland plant whose dangling, tassel-like flowers and lacy columbine-like foliage catch the light in spring. Deer-resistant and airy for shade.",
+    "usdaSymbol": "THDI",
+    "nativeRegions": [
+      "CAN",
+      "L48",
+      "SPM"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/thalictrum-dioicum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Thalictrum_dioicum",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border"
+    ]
+  },
+  {
+    "id": "tiarella-trifoliata",
+    "scientificName": "Tiarella trifoliata",
+    "commonNames": [
+      "Western Foamflower"
+    ],
+    "family": "Saxifragaceae",
+    "nativeStates": [
+      "AK",
+      "CA",
+      "ID",
+      "MT",
+      "OR",
+      "WA"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Western foamflower spreads into soft mats of maple-like leaves topped with frothy spires of tiny white flowers, a graceful native groundcover for moist Pacific shade.",
+    "usdaSymbol": "TITR",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/tiarella-trifoliata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Tiarella_trifoliata",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container",
+      "rain garden",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "trillium-luteum",
+    "scientificName": "Trillium luteum",
+    "commonNames": [
+      "Yellow Trillium"
+    ],
+    "family": "Melanthiaceae",
+    "nativeStates": [
+      "GA",
+      "KY",
+      "MD",
+      "NC",
+      "PA",
+      "TN",
+      "VA"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "whorled",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": false,
+    "notes": "Yellow trillium is a Southeastern woodland trillium with lemon-scented, upright yellow flowers over beautifully mottled leaves, a prized but slow-growing spring gem for rich shade.",
+    "usdaSymbol": "TRLU3",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/trillium-luteum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Trillium_luteum",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "trillium-undulatum",
+    "scientificName": "Trillium undulatum",
+    "commonNames": [
+      "Painted Trillium"
+    ],
+    "family": "Melanthiaceae",
+    "nativeStates": [
+      "CT",
+      "KY",
+      "MA",
+      "MD",
+      "ME",
+      "NC",
+      "NH",
+      "NY",
+      "PA",
+      "TN",
+      "VA",
+      "VT",
+      "WV"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "white",
+      "pink"
+    ],
+    "leafArrangement": "whorled",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": false,
+    "notes": "Painted trillium is an exquisite acid-loving woodland trillium with white petals brushed crimson at the base, demanding the cool, moist, humus-rich soil of conifer and mountain forests.",
+    "usdaSymbol": "TRUN",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/trillium-undulatum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Trillium_undulatum",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container",
+      "rain garden"
+    ]
+  },
+  {
+    "id": "mertensia-franciscana",
+    "scientificName": "Mertensia franciscana",
+    "commonNames": [
+      "Franciscan Bluebells"
+    ],
+    "family": "Boraginaceae",
+    "nativeStates": [
+      "AZ",
+      "CO",
+      "NM",
+      "UT"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2.5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "blue"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Franciscan bluebells hang clusters of sky-blue, pink-budded trumpets over lush foliage in moist Southwestern mountain meadows and streamsides, a long-blooming pollinator favorite.",
+    "usdaSymbol": "MEFR2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/mertensia-franciscana.jpg",
+    "imageSource": "https://www.inaturalist.org/taxa/148023",
+    "imageCredit": "iNaturalist",
+    "landscapeUses": [
+      "border",
+      "rain garden"
+    ]
   }
 ]

@@ -1,0 +1,41 @@
+Viola adunca | Western Dog Violet
+Viola blanda | Sweet White Violet
+Viola canadensis | Canadian White Violet
+Viola cucullata | Marsh Blue Violet
+Viola glabella | Stream Violet
+Viola lanceolata | Lance-leaved Violet
+Viola macloskeyi | Small White Violet
+Viola nuttallii | Nuttall's Violet
+Viola pedata | Bird's-foot Violet
+Viola pubescens | Downy Yellow Violet
+Viola sagittata | Arrowleaf Violet
+Viola sororia | Common Blue Violet
+Viola vallicola | Valley Violet
+Heuchera longiflora | Longflower Alumroot
+Heuchera maxima | Island Alumroot
+Heuchera parvifolia | Littleleaf Alumroot
+Heuchera pilosissima | Seaside Alumroot
+Heuchera richardsonii | Prairie Alumroot
+Heuchera rubescens | Pink Alumroot
+Heuchera sanguinea | Coral Bells
+Heuchera villosa | Hairy Alumroot
+Aquilegia chrysantha | Golden Columbine
+Aquilegia eximia | Serpentine Columbine
+Aquilegia flavescens | Yellow Columbine
+Aquilegia jonesii | Jones's Columbine
+Anemone cylindrica | Thimbleweed
+Anemone multifida | Pacific Anemone
+Anemone tuberosa | Desert Anemone
+Dodecatheon clevelandii | Padre's Shooting Star
+Dodecatheon hendersonii | Henderson's Shooting Star
+Dodecatheon meadia | Eastern Shooting Star
+Lilium humboldtii | Humboldt Lily
+Lilium pardalinum | Leopard Lily
+Lilium philadelphicum | Wood Lily
+Erythronium revolutum | Pink Fawn Lily
+Geranium richardsonii | Richardson's Geranium
+Thalictrum dioicum | Early Meadow-rue
+Tiarella trifoliata | Western Foamflower
+Trillium luteum | Yellow Trillium
+Trillium undulatum | Painted Trillium
+Mertensia franciscana | Franciscan Bluebells
