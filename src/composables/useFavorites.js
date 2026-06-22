@@ -42,12 +42,24 @@ export function useFavorites() {
     favorites.value = []
     persist()
   }
+  // Merge a list of ids into favorites (adds the missing ones, keeps existing).
+  function addMany(ids) {
+    let changed = false
+    for (const id of ids) {
+      if (typeof id === 'string' && !favorites.value.includes(id)) {
+        favorites.value.push(id)
+        changed = true
+      }
+    }
+    if (changed) persist()
+  }
   return {
     favorites,
     favoriteSet,
     count: computed(() => favorites.value.length),
     isFavorite,
     toggle,
+    addMany,
     clear,
   }
 }

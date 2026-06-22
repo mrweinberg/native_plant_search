@@ -1,6 +1,6 @@
 <script setup>
 import { computed, ref } from 'vue'
-import { RouterLink } from 'vue-router'
+import { RouterLink, useRoute, useRouter } from 'vue-router'
 import PlantCard from '../components/PlantCard.vue'
 import BloomCalendar from '../components/BloomCalendar.vue'
 import FavoriteButton from '../components/FavoriteButton.vue'
@@ -8,14 +8,45 @@ import { allPlants, MONTH_LABELS } from '../composables/usePlantFilters.js'
 import { useFavorites } from '../composables/useFavorites.js'
 import { useLocation } from '../composables/useLocation.js'
 
-const { favorites, favoriteSet, clear } = useFavorites()
+const { favorites, favoriteSet, clear, addMany } = useFavorites()
 const { location, locationName } = useLocation()
+const route = useRoute()
+const router = useRouter()
+
+// A shared list arrives as ?ids=a,b,c — render it read-only (without touching the
+// viewer's own saved favorites) and offer to merge it in. Otherwise show the
+// viewer's own favorites from localStorage.
+const sharedIds = computed(() => {
+  const raw = route.query.ids
+  if (raw == null || raw === '') return null
+  return String(raw).split(',').map((s) => s.trim()).filter(Boolean)
+})
+const isShared = computed(() => sharedIds.value != null)
+const sourceIds = computed(() => (isShared.value ? sharedIds.value : favorites.value))
 
 const plants = computed(() =>
-  favorites.value
+  sourceIds.value
     .map((id) => allPlants.value.find((p) => p.id === id))
     .filter(Boolean),
 )
+
+const copied = ref(false)
+const shareUrl = computed(
+  () => `${window.location.origin}/favorites?ids=${favorites.value.join(',')}`,
+)
+async function copyShare() {
+  try {
+    await navigator.clipboard.writeText(shareUrl.value)
+    copied.value = true
+    setTimeout(() => { copied.value = false }, 2000)
+  } catch {
+    window.prompt('Copy your shareable list link:', shareUrl.value)
+  }
+}
+function importShared() {
+  if (sharedIds.value) addMany(sharedIds.value)
+  router.push({ name: 'favorites' }) // drop ?ids and show the merged own list
+}
 
 // Printable plant / shopping list: a clean, alphabetized table the browser can
 // print or "Save as PDF" — the free version of what competitors paywall.
@@ -73,6 +104,7 @@ const profile = computed(() => {
 // For each empty month, native candidates that bloom then AND share the saved
 // light/moisture profile. Ranked so plants closing the most gaps surface first.
 const suggestions = computed(() => {
+  if (isShared.value) return [] // gap-fill is for your own list, not a shared one
   const gapMonths = new Set(
     coverage.value.months.filter((m) => m.count === 0).map((m) => m.month),
   )
@@ -152,16 +184,27 @@ function confirmClear() {
   <div class="favorites">
     <div class="head">
       <div>
-        <h1>Favorites</h1>
+        <h1>{{ isShared ? 'Shared plant list' : 'Favorites' }}</h1>
         <p class="muted">
-          {{ plants.length }} saved plant{{ plants.length === 1 ? '' : 's' }}
+          {{ plants.length }} {{ isShared ? 'plant' : 'saved plant' }}{{ plants.length === 1 ? '' : 's' }}
         </p>
       </div>
       <div v-if="plants.length" class="head-actions">
-        <button type="button" class="action-btn" @click="printList">🖨 Print list</button>
-        <button type="button" class="action-btn" @click="confirmClear">Clear all</button>
+        <template v-if="isShared">
+          <button type="button" class="action-btn primary" @click="importShared">★ Add all to my favorites</button>
+          <button type="button" class="action-btn" @click="printList">🖨 Print list</button>
+        </template>
+        <template v-else>
+          <button type="button" class="action-btn" @click="copyShare">{{ copied ? '✓ Link copied' : '🔗 Share' }}</button>
+          <button type="button" class="action-btn" @click="printList">🖨 Print list</button>
+          <button type="button" class="action-btn" @click="confirmClear">Clear all</button>
+        </template>
       </div>
     </div>
+
+    <p v-if="isShared && plants.length" class="shared-note">
+      You're viewing a list someone shared. Adding it won't remove any of your own favorites.
+    </p>
 
     <section v-if="plants.length" class="coverage" aria-label="Bloom coverage summary">
       <div class="coverage-summary">
@@ -192,7 +235,7 @@ function confirmClear() {
       </div>
     </section>
 
-    <section v-if="suggestions.length" class="suggest" aria-label="Plants to fill bloom gaps">
+    <section v-if="suggestions.length && !isShared" class="suggest" aria-label="Plants to fill bloom gaps">
       <div class="suggest-head">
         <h2>Fill your gaps</h2>
         <p class="muted">Natives that bloom in your empty months and like the same conditions as your saved plants.</p>
@@ -258,11 +301,17 @@ function confirmClear() {
       </div>
     </template>
     <div v-else class="empty">
-      <p>You haven't saved any favorites yet.</p>
-      <p>
-        Tap the ☆ on a plant to save it.
-        <RouterLink to="/">Browse plants →</RouterLink>
-      </p>
+      <template v-if="isShared">
+        <p>This shared list is empty or its links are no longer valid.</p>
+        <p><RouterLink to="/">Browse plants →</RouterLink></p>
+      </template>
+      <template v-else>
+        <p>You haven't saved any favorites yet.</p>
+        <p>
+          Tap the ☆ on a plant to save it.
+          <RouterLink to="/">Browse plants →</RouterLink>
+        </p>
+      </template>
     </div>
 
     <section v-if="plants.length" class="print-sheet">
@@ -325,6 +374,22 @@ h1 { margin: 0 0 4px; font-size: 24px; }
   cursor: pointer;
 }
 .action-btn:hover { color: var(--accent); border-color: var(--accent); }
+.action-btn.primary {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: #fff;
+  font-weight: 600;
+}
+.action-btn.primary:hover { color: #fff; filter: brightness(1.08); }
+.shared-note {
+  background: var(--accent-soft);
+  border-left: 3px solid var(--accent);
+  color: var(--ink-soft);
+  font-size: 13px;
+  padding: 8px 12px;
+  border-radius: 4px;
+  margin: 0 0 16px;
+}
 
 .coverage {
   background: var(--card);
