@@ -1,11 +1,11 @@
 # Catalog gap candidates — remaining, re-ranked by garden + ecological priority
 
-Tiers 1–3 (the woody keystone genera) are **complete**. The **185** species below were originally ranked last only because they lack a *woody* caterpillar-host count — a poor signal for herbaceous plants, grasses, and pollinator staples. They are re-ranked here by horticultural demand + ecological value, treating regional & xeric natives as solid picks and reserving the bottom band for genuinely niche/difficult plants. Each candidate still clears the USDA/GBIF native gate at add-time, which also drops non-natives and trims 1-state outliers.
+Tiers 1–3 (the woody keystone genera) are **complete**. The **151** species below were originally ranked last only because they lack a *woody* caterpillar-host count — a poor signal for herbaceous plants, grasses, and pollinator staples. They are re-ranked here by horticultural demand + ecological value, treating regional & xeric natives as solid picks and reserving the bottom band for genuinely niche/difficult plants. Each candidate still clears the USDA/GBIF native gate at add-time, which also drops non-natives and trims 1-state outliers.
 
 | Priority | Species |
 |---|---|
 | P1 | 1 |
-| P2 | 103 |
+| P2 | 69 |
 | P3 | 81 |
 
 
@@ -101,41 +101,7 @@ Reorganized by growth-form / habitat into coherent batches.
 
 
 
-### Prairie & meadow forbs (central & eastern) · 102
-- [ ] Alternanthera maritima
-- [ ] Ammophila breviligulata
-- [ ] Antennaria alpina
-- [ ] Antennaria plantaginifolia
-- [ ] Apocynum androsaemifolium
-- [ ] Arnoglossum ovatum
-- [ ] Azalea arborescens
-- [ ] Balduina angustifolia
-- [ ] Bidens laevis
-- [ ] Carphephorus odoratissimus
-- [ ] Cirsium horridulum
-- [ ] Clinopodium coccineum
-- [ ] Clinopodium douglasii
-- [ ] Commelina dianthifolia
-- [ ] Commelina erecta
-- [ ] Conradina canescens
-- [ ] Delphinium barbeyi
-- [ ] Delphinium bicolor
-- [ ] Delphinium californicum
-- [ ] Delphinium cardinale
-- [ ] Delphinium carolinianum
-- [ ] Delphinium exaltatum
-- [ ] Delphinium glareosum
-- [ ] Delphinium glaucum
-- [ ] Delphinium nuttallianum
-- [ ] Delphinium parishii
-- [ ] Delphinium scaposum
-- [ ] Delphinium tricorne
-- [ ] Delphinium variegatum
-- [ ] Desmanthus illinoensis
-- [ ] Dyschoriste oblongifolia
-- [ ] Epigaea repens
-- [ ] Ernodea littoralis
-- [ ] Euphorbia antisyphilitica
+### Prairie & meadow forbs (central & eastern) · 68
 - [ ] Gentiana alba
 - [ ] Gentiana clausa
 - [ ] Gentiana saponaria

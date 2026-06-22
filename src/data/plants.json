@@ -77993,30 +77993,27 @@
       "VA",
       "WV"
     ],
-    "generalAppearance": "shrub",
-    "lifespan": "perennial",
+    "generalAppearance": "wildflower",
+    "lifespan": "shrub",
     "heightFeet": {
       "min": 8,
-      "max": 12
+      "max": 15
     },
     "spreadFeet": {
       "min": 8,
       "max": 12
     },
     "lightRequirement": [
-      "part shade",
-      "shade"
+      "part shade"
     ],
     "soilMoisture": [
-      "moist",
-      "wet"
+      "moist"
     ],
     "soilType": [
-      "loam",
-      "sandy",
-      "rocky"
+      "loam"
     ],
     "bloomMonths": [
+      5,
       6,
       7
     ],
@@ -78028,17 +78025,15 @@
     "leafRetention": "deciduous",
     "wildlifeValue": [
       "pollinators",
-      "hummingbirds",
-      "butterflies",
-      "larval host"
+      "butterflies"
     ],
-    "deerResistant": false,
-    "notes": "Sweet azalea is a tall, late-blooming deciduous azalea with intensely fragrant white flowers and showy red stamens, often along mountain streams. Loves cool, moist, acidic ground in part shade.",
+    "deerResistant": true,
+    "notes": "Sweet azalea is a deciduous native azalea of Appalachian streamsides, prized for intensely fragrant white-to-blush flowers with showy red stamens in early summer and good fall color. A choice shrub for moist, acidic shade.",
     "usdaSymbol": "RHAR3",
     "nativeRegions": [
       "L48"
     ],
-    "cutFlower": false,
+    "cutFlower": true,
     "culinaryUse": false,
     "soilPh": [
       "acidic"
@@ -78049,9 +78044,7 @@
     "imageSource": "https://en.wikipedia.org/wiki/Rhododendron_arborescens",
     "imageCredit": "Wikimedia",
     "landscapeUses": [
-      "specimen",
-      "hedge or screen",
-      "rain garden"
+      "border"
     ],
     "caterpillarHosts": 51,
     "keystone": false
@@ -134749,6 +134742,2500 @@
     "landscapeUses": [
       "border",
       "container"
+    ]
+  },
+  {
+    "id": "alternanthera-maritima",
+    "scientificName": "Alternanthera maritima",
+    "commonNames": [
+      "Seaside Joyweed"
+    ],
+    "family": "Amaranthaceae",
+    "nativeStates": [
+      "FL"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.2,
+      "max": 0.5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Seaside joyweed is a low, fleshy, salt-tolerant native that mats coastal dunes and shores with small white flower clusters, a tough groundcover for hot, sandy, seaside gardens.",
+    "usdaSymbol": "ALMA10",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "mat-forming",
+    "springEphemeral": false,
+    "imageFile": "plants/alternanthera-maritima.jpg",
+    "imageSource": "https://www.inaturalist.org/taxa/158229",
+    "imageCredit": "iNaturalist",
+    "landscapeUses": [
+      "container"
+    ]
+  },
+  {
+    "id": "ammophila-breviligulata",
+    "scientificName": "Ammophila breviligulata",
+    "commonNames": [
+      "American Beachgrass"
+    ],
+    "family": "Poaceae",
+    "nativeStates": [
+      "CT",
+      "DE",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "VA",
+      "WI"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy"
+    ],
+    "bloomMonths": [
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "brown",
+      "green"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "American beachgrass is the premier dune-building grass of the Atlantic and Great Lakes coasts, its deep, spreading rhizomes trapping and stabilizing windblown sand. Essential for coastal restoration.",
+    "usdaSymbol": "AMBR",
+    "nativeRegions": [
+      "CAN",
+      "L48",
+      "SPM"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "aggressive",
+    "springEphemeral": false,
+    "imageFile": "plants/ammophila-breviligulata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Ammophila_breviligulata",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "border",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "antennaria-alpina",
+    "scientificName": "Antennaria alpina",
+    "commonNames": [
+      "Alpine Pussytoes"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AK",
+      "CO",
+      "MT",
+      "UT",
+      "WA"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.2,
+      "max": 0.5
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": true,
+    "notes": "Alpine pussytoes is a low, silvery mat-forming perennial of high mountains, with woolly leaves and tufted white flower heads, a tough groundcover and larval host for American lady butterflies.",
+    "usdaSymbol": "ANAL4",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "GL",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "mat-forming",
+    "springEphemeral": false,
+    "imageFile": "plants/antennaria-alpina.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Antennaria_alpina",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "container"
+    ]
+  },
+  {
+    "id": "antennaria-plantaginifolia",
+    "scientificName": "Antennaria plantaginifolia",
+    "commonNames": [
+      "Plantainleaf Pussytoes"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CO",
+      "CT",
+      "DC",
+      "DE",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.3,
+      "max": 1
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": true,
+    "notes": "Plantainleaf pussytoes is a spreading native groundcover with broad, silvery basal leaves and fuzzy white flower clusters in spring, a tough, drought-tolerant lawn alternative and larval host for American lady butterflies.",
+    "usdaSymbol": "ANPL",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "mat-forming",
+    "springEphemeral": false,
+    "imageFile": "plants/antennaria-plantaginifolia.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Antennaria_plantaginifolia",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "apocynum-androsaemifolium",
+    "scientificName": "Apocynum androsaemifolium",
+    "commonNames": [
+      "Spreading Dogbane"
+    ],
+    "family": "Apocynaceae",
+    "nativeStates": [
+      "AK",
+      "AZ",
+      "CA",
+      "CO",
+      "CT",
+      "IA",
+      "ID",
+      "IL",
+      "IN",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "MT",
+      "NC",
+      "ND",
+      "NE",
+      "NH",
+      "NJ",
+      "NM",
+      "NV",
+      "NY",
+      "OH",
+      "OR",
+      "PA",
+      "RI",
+      "SD",
+      "UT",
+      "VA",
+      "VT",
+      "WA",
+      "WI",
+      "WV",
+      "WY"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "pink",
+      "white"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Spreading dogbane is a bushy native perennial with drooping clusters of fragrant pink bell flowers that butterflies adore, a milkweed relative for sunny, dry ground. Spreads by rhizomes; sap is toxic.",
+    "usdaSymbol": "APAN2",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/apocynum-androsaemifolium.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Apocynum_androsaemifolium",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "arnoglossum-ovatum",
+    "scientificName": "Arnoglossum ovatum",
+    "commonNames": [
+      "Ovateleaf Indian Plantain"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AL",
+      "FL",
+      "GA",
+      "LA",
+      "MS",
+      "NC",
+      "SC",
+      "TX"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "sandy"
+    ],
+    "bloomMonths": [
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "white",
+      "green"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Ovateleaf Indian plantain is a tall Southeastern perennial of moist pinelands and savannas, with bold basal leaves and flat clusters of small whitish flowers that draw many pollinators to wet, sunny ground.",
+    "usdaSymbol": "AROV",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/arnoglossum-ovatum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Arnoglossum_ovatum",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border"
+    ]
+  },
+  {
+    "id": "balduina-angustifolia",
+    "scientificName": "Balduina angustifolia",
+    "commonNames": [
+      "Coastalplain Honeycombhead"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AL",
+      "FL",
+      "GA"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "biennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy"
+    ],
+    "bloomMonths": [
+      8,
+      9,
+      10,
+      11
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Coastalplain honeycombhead is a Southeastern sandhill biennial that branches into a cloud of golden daisies in fall, with a distinctive honeycombed seed head, a drought-tolerant native for hot, sandy gardens.",
+    "usdaSymbol": "BAAN3",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/balduina-angustifolia.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Balduina_angustifolia",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border"
+    ]
+  },
+  {
+    "id": "bidens-laevis",
+    "scientificName": "Bidens laevis",
+    "commonNames": [
+      "Smooth Beggarticks"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "AZ",
+      "CA",
+      "CT",
+      "FL",
+      "GA",
+      "LA",
+      "MA",
+      "MD",
+      "MS",
+      "NC",
+      "NJ",
+      "NY",
+      "PA",
+      "SC",
+      "TX",
+      "VA"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      9,
+      10,
+      11
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "songbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Smooth beggarticks (bur marigold) is a wetland perennial that blazes with large golden daisies in fall along pond edges and marshes, a showy, easy native for consistently wet, sunny ground and a fine late bee plant.",
+    "usdaSymbol": "BILA",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/bidens-laevis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Bidens_laevis",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "rain garden"
+    ]
+  },
+  {
+    "id": "carphephorus-odoratissimus",
+    "scientificName": "Carphephorus odoratissimus",
+    "commonNames": [
+      "Vanillaleaf"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AL",
+      "FL",
+      "GA",
+      "LA",
+      "MS",
+      "NC",
+      "SC"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy"
+    ],
+    "bloomMonths": [
+      9,
+      10,
+      11
+    ],
+    "bloomColors": [
+      "purple",
+      "pink"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Vanillaleaf is a Southeastern perennial whose dried leaves smell of vanilla, holding flat clusters of rosy-purple flowers above pine-savanna grass in fall, a fragrant, drought-tolerant native for sunny, sandy gardens.",
+    "usdaSymbol": "CAOD3",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/carphephorus-odoratissimus.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Carphephorus_odoratissimus",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border"
+    ]
+  },
+  {
+    "id": "cirsium-horridulum",
+    "scientificName": "Cirsium horridulum",
+    "commonNames": [
+      "Yellow Thistle"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DE",
+      "FL",
+      "GA",
+      "LA",
+      "MA",
+      "MD",
+      "MS",
+      "NC",
+      "NJ",
+      "NY",
+      "OK",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "TX",
+      "VA"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "biennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "yellow",
+      "purple"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "songbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Yellow thistle is a bold native thistle with large, spiny-collared yellow (sometimes pink-purple) flower heads in spring, a magnet for bees and butterflies and a seed source for goldfinches. A dramatic, deer-proof native.",
+    "usdaSymbol": "CIHO2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/cirsium-horridulum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Cirsium_horridulum",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border"
+    ]
+  },
+  {
+    "id": "clinopodium-coccineum",
+    "scientificName": "Clinopodium coccineum",
+    "commonNames": [
+      "Scarlet Calamint"
+    ],
+    "family": "Lamiaceae",
+    "nativeStates": [
+      "AL",
+      "FL",
+      "GA",
+      "MS"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "shrub",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "bloomColors": [
+      "red"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Scarlet calamint is an aromatic Southeastern subshrub that flashes brilliant red tubular flowers for much of the year, a hummingbird favorite and drought-tolerant native for sunny, sandy gardens.",
+    "usdaSymbol": "CLCO10",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/clinopodium-coccineum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Clinopodium_coccineum",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border"
+    ]
+  },
+  {
+    "id": "clinopodium-douglasii",
+    "scientificName": "Clinopodium douglasii",
+    "commonNames": [
+      "Yerba Buena"
+    ],
+    "family": "Lamiaceae",
+    "nativeStates": [
+      "CA",
+      "ID",
+      "OR",
+      "WA"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.2,
+      "max": 0.5
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "lightRequirement": [
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "white",
+      "purple"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Yerba buena is a trailing, mat-forming Pacific-coast perennial with fragrant, mint-scented leaves long brewed as tea and tiny white flowers, an easy, aromatic native groundcover for cool part shade.",
+    "usdaSymbol": "CLDO2",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/clinopodium-douglasii.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Clinopodium_douglasii",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "groundcover",
+      "container",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "commelina-dianthifolia",
+    "scientificName": "Commelina dianthifolia",
+    "commonNames": [
+      "Birdbill Dayflower"
+    ],
+    "family": "Commelinaceae",
+    "nativeStates": [
+      "AZ",
+      "NM",
+      "TX"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "blue"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Birdbill dayflower is a Southwestern perennial with grassy leaves and vivid deep-blue three-petaled flowers that open fresh each morning after summer rains, a charming, drought-tolerant native for sunny gardens.",
+    "usdaSymbol": "CODI4",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/commelina-dianthifolia.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Commelina_dianthifolia",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "commelina-erecta",
+    "scientificName": "Commelina erecta",
+    "commonNames": [
+      "Whitemouth Dayflower"
+    ],
+    "family": "Commelinaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "AZ",
+      "CO",
+      "FL",
+      "GA",
+      "IL",
+      "IN",
+      "KS",
+      "LA",
+      "MD",
+      "MO",
+      "MS",
+      "NC",
+      "NE",
+      "NM",
+      "OK",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "WV"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "blue"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Whitemouth dayflower is a widespread native with clear blue, two-eared flowers opening each morning over a long season, an easy, drought-tolerant perennial for sunny to lightly shaded sandy gardens.",
+    "usdaSymbol": "COER",
+    "nativeRegions": [
+      "L48",
+      "PR",
+      "VI"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/commelina-erecta.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Commelina_erecta",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border"
+    ]
+  },
+  {
+    "id": "conradina-canescens",
+    "scientificName": "Conradina canescens",
+    "commonNames": [
+      "False Rosemary"
+    ],
+    "family": "Lamiaceae",
+    "nativeStates": [
+      "AL",
+      "FL"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "shrub",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 3
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "purple",
+      "white"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "False rosemary is an aromatic, needle-leaved Southeastern shrub that mounds with pale lavender flowers in spring, a fragrant, drought- and salt-tolerant native for hot, sandy, sunny gardens.",
+    "usdaSymbol": "COCA19",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/conradina-canescens.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Conradina_canescens",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border"
+    ]
+  },
+  {
+    "id": "delphinium-barbeyi",
+    "scientificName": "Delphinium barbeyi",
+    "commonNames": [
+      "Subalpine Larkspur"
+    ],
+    "family": "Ranunculaceae",
+    "nativeStates": [
+      "CO",
+      "NM",
+      "UT",
+      "WY"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 6
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "blue",
+      "purple"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Subalpine larkspur is a robust Rocky Mountain perennial with tall spires of deep blue-purple flowers in high meadows, a striking native for moist, sunny mountain gardens. All parts are toxic.",
+    "usdaSymbol": "DEBA2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/delphinium-barbeyi.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Delphinium_barbeyi",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border"
+    ]
+  },
+  {
+    "id": "delphinium-bicolor",
+    "scientificName": "Delphinium bicolor",
+    "commonNames": [
+      "Little Larkspur"
+    ],
+    "family": "Ranunculaceae",
+    "nativeStates": [
+      "ID",
+      "MT",
+      "OR",
+      "SD",
+      "WA",
+      "WY"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "blue",
+      "purple"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Little larkspur is a compact northern Rockies and Plains perennial with rich blue-and-white flowers in spring, an early, drought-tolerant native for sunny, dry meadows and rock gardens. All parts are toxic.",
+    "usdaSymbol": "DEBI",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/delphinium-bicolor.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Delphinium_bicolor",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "delphinium-californicum",
+    "scientificName": "Delphinium californicum",
+    "commonNames": [
+      "California Larkspur"
+    ],
+    "family": "Ranunculaceae",
+    "nativeStates": [
+      "CA"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 6
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "purple",
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "California larkspur is a stout perennial of California woodlands and chaparral, sending up tall stalks of pale purple-white flowers in spring, a bold native for sunny to lightly shaded gardens. All parts are toxic.",
+    "usdaSymbol": "DECA",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/delphinium-californicum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Delphinium_californicum",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border"
+    ]
+  },
+  {
+    "id": "delphinium-cardinale",
+    "scientificName": "Delphinium cardinale",
+    "commonNames": [
+      "Scarlet Larkspur"
+    ],
+    "family": "Ranunculaceae",
+    "nativeStates": [
+      "CA"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 6
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "red"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Scarlet larkspur is a spectacular California perennial that rockets up wands of brilliant red flowers irresistible to hummingbirds, a drought-tolerant, summer-dormant native for hot, sunny slopes. All parts are toxic.",
+    "usdaSymbol": "DECA2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/delphinium-cardinale.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Delphinium_cardinale",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border"
+    ]
+  },
+  {
+    "id": "delphinium-carolinianum",
+    "scientificName": "Delphinium carolinianum",
+    "commonNames": [
+      "Carolina Larkspur"
+    ],
+    "family": "Ranunculaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CO",
+      "GA",
+      "IA",
+      "KS",
+      "KY",
+      "LA",
+      "MN",
+      "MO",
+      "MS",
+      "NE",
+      "NM",
+      "OK",
+      "SD",
+      "TN",
+      "TX",
+      "WI"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "blue",
+      "purple",
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Carolina larkspur is a slender prairie and glade perennial with spikes of blue to white flowers in late spring, a graceful, drought-tolerant native for sunny meadows across the central and southern states. All parts are toxic.",
+    "usdaSymbol": "DECA3",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/delphinium-carolinianum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Delphinium_carolinianum",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border"
+    ]
+  },
+  {
+    "id": "delphinium-exaltatum",
+    "scientificName": "Delphinium exaltatum",
+    "commonNames": [
+      "Tall Larkspur"
+    ],
+    "family": "Ranunculaceae",
+    "nativeStates": [
+      "NC",
+      "OH",
+      "PA",
+      "TN",
+      "VA"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 6
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "blue",
+      "purple"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Tall larkspur is a rare Appalachian perennial that lifts elegant spires of blue-violet flowers in summer above rich woodland soil, a choice native for moist part shade. All parts are toxic.",
+    "usdaSymbol": "DEEX",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/delphinium-exaltatum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Delphinium_exaltatum",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border"
+    ]
+  },
+  {
+    "id": "delphinium-glareosum",
+    "scientificName": "Delphinium glareosum",
+    "commonNames": [
+      "Rockslide Larkspur"
+    ],
+    "family": "Ranunculaceae",
+    "nativeStates": [
+      "OR",
+      "WA"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "blue",
+      "purple"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Rockslide larkspur is a low alpine perennial of Pacific Northwest scree and talus, with stout stems of deep blue-purple flowers, a choice, drought-tolerant native for sunny rock gardens. All parts are toxic.",
+    "usdaSymbol": "DEGL",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/delphinium-glareosum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Delphinium_glareosum",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "delphinium-glaucum",
+    "scientificName": "Delphinium glaucum",
+    "commonNames": [
+      "Sierra Larkspur"
+    ],
+    "family": "Ranunculaceae",
+    "nativeStates": [
+      "AK",
+      "CA",
+      "CO",
+      "ID",
+      "NV",
+      "OR",
+      "WA",
+      "WY"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 7
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "blue",
+      "purple"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Sierra larkspur is a towering western perennial of wet mountain meadows and streambanks, with long spires of blue-purple flowers, a dramatic native for moist, sunny ground. All parts are toxic.",
+    "usdaSymbol": "DEGL3",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/delphinium-glaucum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Delphinium_glaucum",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border"
+    ]
+  },
+  {
+    "id": "delphinium-nuttallianum",
+    "scientificName": "Delphinium nuttallianum",
+    "commonNames": [
+      "Twolobe Larkspur"
+    ],
+    "family": "Ranunculaceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "CO",
+      "ID",
+      "MT",
+      "NE",
+      "NM",
+      "NV",
+      "OR",
+      "UT",
+      "WA",
+      "WY"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "blue",
+      "purple"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Twolobe larkspur is a dainty western foothill perennial that opens deep blue-purple flowers in early spring before going summer-dormant, an easy, drought-tolerant native for sunny, dry gardens. All parts are toxic.",
+    "usdaSymbol": "DENU2",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/delphinium-nuttallianum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Delphinium_nuttallianum",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "delphinium-parishii",
+    "scientificName": "Delphinium parishii",
+    "commonNames": [
+      "Desert Larkspur"
+    ],
+    "family": "Ranunculaceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "NV",
+      "UT"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "blue"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Desert larkspur is a Mojave and Great Basin perennial with sky-blue flowers on slender stems after spring rains, a drought-adapted, summer-dormant native for hot, dry, sandy gardens. All parts are toxic.",
+    "usdaSymbol": "DEPA",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/delphinium-parishii.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Delphinium_parishii",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border"
+    ]
+  },
+  {
+    "id": "delphinium-scaposum",
+    "scientificName": "Delphinium scaposum",
+    "commonNames": [
+      "Barestem Larkspur"
+    ],
+    "family": "Ranunculaceae",
+    "nativeStates": [
+      "AZ",
+      "CO",
+      "NM",
+      "UT"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5
+    ],
+    "bloomColors": [
+      "blue",
+      "purple"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Barestem larkspur is a Southwestern perennial that holds deep blue-purple flowers on nearly leafless stalks above a basal rosette in spring, a tidy, drought-tolerant native for sunny desert gardens. All parts are toxic.",
+    "usdaSymbol": "DESC",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/delphinium-scaposum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Delphinium_scaposum",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "delphinium-tricorne",
+    "scientificName": "Delphinium tricorne",
+    "commonNames": [
+      "Dwarf Larkspur"
+    ],
+    "family": "Ranunculaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "MD",
+      "MO",
+      "MS",
+      "NC",
+      "NE",
+      "OH",
+      "OK",
+      "PA",
+      "TN",
+      "VA",
+      "WV"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5
+    ],
+    "bloomColors": [
+      "blue",
+      "purple",
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Dwarf larkspur is a beloved spring-ephemeral woodland perennial of the eastern states, carpeting rich forests with blue, purple, and white flowers before going dormant, a choice native for part shade. All parts are toxic.",
+    "usdaSymbol": "DETR",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/delphinium-tricorne.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Delphinium_tricorne",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "delphinium-variegatum",
+    "scientificName": "Delphinium variegatum",
+    "commonNames": [
+      "Royal Larkspur"
+    ],
+    "family": "Ranunculaceae",
+    "nativeStates": [
+      "CA"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5
+    ],
+    "bloomColors": [
+      "purple",
+      "blue"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Royal larkspur is a California grassland perennial with unusually large, deep royal-purple flowers in spring, a showy, drought-tolerant, summer-dormant native for sunny meadows and gardens. All parts are toxic.",
+    "usdaSymbol": "DEVA",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/delphinium-variegatum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Delphinium_variegatum",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "desmanthus-illinoensis",
+    "scientificName": "Desmanthus illinoensis",
+    "commonNames": [
+      "Illinois Bundleflower"
+    ],
+    "family": "Fabaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CO",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NE",
+      "NM",
+      "OH",
+      "OK",
+      "SC",
+      "SD",
+      "TN",
+      "TX",
+      "WI"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 3
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "songbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Illinois bundleflower is a ferny-leaved prairie legume with round white puffball flowers and curious clustered seed pods, a nitrogen-fixing native that feeds pollinators and provides high-protein seed for wildlife.",
+    "usdaSymbol": "DEIL",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/desmanthus-illinoensis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Desmanthus_illinoensis",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border"
+    ]
+  },
+  {
+    "id": "dyschoriste-oblongifolia",
+    "scientificName": "Dyschoriste oblongifolia",
+    "commonNames": [
+      "Oblongleaf Snakeherb"
+    ],
+    "family": "Acanthaceae",
+    "nativeStates": [
+      "FL",
+      "GA",
+      "SC"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "purple",
+      "blue"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": true,
+    "notes": "Oblongleaf snakeherb is a low Southeastern perennial that spreads into a groundcover dotted with lavender-blue flowers much of the year, an easy, drought-tolerant native and larval host for buckeye butterflies.",
+    "usdaSymbol": "DYOB",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/dyschoriste-oblongifolia.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Dyschoriste_oblongifolia",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "groundcover",
+      "container",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "epigaea-repens",
+    "scientificName": "Epigaea repens",
+    "commonNames": [
+      "Trailing Arbutus"
+    ],
+    "family": "Ericaceae",
+    "nativeStates": [
+      "AL",
+      "CT",
+      "FL",
+      "GA",
+      "IN",
+      "KY",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MS",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "wildflower",
+    "heightFeet": {
+      "min": 0.2,
+      "max": 0.4
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      3,
+      4
+    ],
+    "bloomColors": [
+      "pink",
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Trailing arbutus is a cherished, slow-growing native groundcover of acidic eastern woodlands, pressing intensely fragrant pink-white flowers among leathery evergreen leaves in earliest spring. A choice plant for cool, shaded, acidic soil.",
+    "usdaSymbol": "EPRE2",
+    "nativeRegions": [
+      "CAN",
+      "L48",
+      "SPM"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "mat-forming",
+    "springEphemeral": false,
+    "imageFile": "plants/epigaea-repens.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Epigaea_repens",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "container"
+    ]
+  },
+  {
+    "id": "ernodea-littoralis",
+    "scientificName": "Ernodea littoralis",
+    "commonNames": [
+      "Golden Creeper"
+    ],
+    "family": "Rubiaceae",
+    "nativeStates": [
+      "FL"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "shrub",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "pink",
+      "white"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Golden creeper is a sprawling, salt-tolerant coastal shrub of South Florida with glossy leaves, small pink-white flowers, and golden berries, an excellent drought-proof groundcover for hot, sandy seaside gardens.",
+    "usdaSymbol": "ERLI5",
+    "nativeRegions": [
+      "L48",
+      "PR",
+      "VI"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/ernodea-littoralis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Ernodea_littoralis",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "euphorbia-antisyphilitica",
+    "scientificName": "Euphorbia antisyphilitica",
+    "commonNames": [
+      "Candelilla"
+    ],
+    "family": "Euphorbiaceae",
+    "nativeStates": [
+      "TX"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "shrub",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "bloomColors": [
+      "white",
+      "pink"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Candelilla is a striking, nearly leafless Chihuahuan Desert shrub of slender, blue-green wax-coated stems, tipped with tiny pink-white flowers, an architectural, exceptionally drought-proof native of West Texas.",
+    "usdaSymbol": "EUAN3",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/euphorbia-antisyphilitica.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Euphorbia_antisyphilitica",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border"
     ]
   }
 ]
