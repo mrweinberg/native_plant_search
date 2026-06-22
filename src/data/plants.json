@@ -104484,5 +104484,1708 @@
       "border",
       "rain garden"
     ]
+  },
+  {
+    "id": "elymus-glaucus",
+    "scientificName": "Elymus glaucus",
+    "commonNames": [
+      "Blue Wildrye"
+    ],
+    "family": "Poaceae",
+    "nativeStates": [
+      "AK",
+      "AZ",
+      "CA",
+      "CO",
+      "ID",
+      "MI",
+      "MT",
+      "NM",
+      "NV",
+      "OR",
+      "UT",
+      "WA",
+      "WY"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "dry"
+    ],
+    "soilType": [
+      "loam",
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Blue wildrye is a fast cool-season bunchgrass with blue-green blades and upright seed spikes, widespread in western woodlands and meadows. A quick-establishing host and cover grass.",
+    "usdaSymbol": "ELGL",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/elymus-glaucus.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Elymus_glaucus",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "border",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "elymus-lanceolatus",
+    "scientificName": "Elymus lanceolatus",
+    "commonNames": [
+      "Thickspike Wheatgrass"
+    ],
+    "family": "Poaceae",
+    "nativeStates": [
+      "CA",
+      "CO",
+      "ID",
+      "MI",
+      "MT",
+      "ND",
+      "NE",
+      "NV",
+      "OR",
+      "UT",
+      "WA",
+      "WI",
+      "WY"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1.5,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      6,
+      7
+    ],
+    "bloomColors": [
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Thickspike wheatgrass is a sod-forming, rhizomatous cool-season grass of the western plains, prized for erosion control and revegetation on dry, disturbed ground.",
+    "usdaSymbol": "ELLA3",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/elymus-lanceolatus.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Elymus_lanceolatus",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "border",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "elymus-trachycaulus",
+    "scientificName": "Elymus trachycaulus",
+    "commonNames": [
+      "Slender Wheatgrass"
+    ],
+    "family": "Poaceae",
+    "nativeStates": [
+      "AK",
+      "AZ",
+      "CA",
+      "CO",
+      "IA",
+      "ID",
+      "ME",
+      "MI",
+      "MN",
+      "MT",
+      "ND",
+      "NH",
+      "NM",
+      "NV",
+      "OR",
+      "SD",
+      "UT",
+      "VT",
+      "WA",
+      "WI",
+      "WY"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1.5,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      6,
+      7
+    ],
+    "bloomColors": [
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Slender wheatgrass is a short-lived, widely adaptable cool-season bunchgrass used across the West for quick cover and restoration on a range of soils.",
+    "usdaSymbol": "ELTR7",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "GL",
+      "L48",
+      "SPM"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/elymus-trachycaulus.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Elymus_trachycaulus",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "border",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "festuca-occidentalis",
+    "scientificName": "Festuca occidentalis",
+    "commonNames": [
+      "Western Fescue"
+    ],
+    "family": "Poaceae",
+    "nativeStates": [
+      "CA",
+      "ID",
+      "MI",
+      "MT",
+      "OR",
+      "WA"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2.5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Western fescue is a fine-leaved, shade-tolerant bunchgrass of western forests and woodland edges, forming soft tufts under trees where few grasses thrive.",
+    "usdaSymbol": "FEOC",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/festuca-occidentalis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Festuca_occidentalis",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "festuca-rubra",
+    "scientificName": "Festuca rubra",
+    "commonNames": [
+      "Red Fescue"
+    ],
+    "family": "Poaceae",
+    "nativeStates": [
+      "AK",
+      "CA",
+      "CO",
+      "CT",
+      "HI",
+      "ID",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MT",
+      "NC",
+      "NH",
+      "NJ",
+      "NV",
+      "NY",
+      "OR",
+      "PA",
+      "TN",
+      "UT",
+      "VA",
+      "VT",
+      "WA",
+      "WI",
+      "WY"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "dry"
+    ],
+    "soilType": [
+      "loam",
+      "sandy"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Red fescue is a fine-textured, rhizomatous cool-season grass used as a native turf and meadow grass, tolerating shade, salt, and a wide range of soils.",
+    "usdaSymbol": "FERU2",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "GL",
+      "L48",
+      "SPM"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/festuca-rubra.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Festuca_rubra",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "border",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "leymus-mollis",
+    "scientificName": "Leymus mollis",
+    "commonNames": [
+      "American Dunegrass"
+    ],
+    "family": "Poaceae",
+    "nativeStates": [
+      "AK",
+      "CA",
+      "ME",
+      "MI",
+      "OR",
+      "WA"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy"
+    ],
+    "bloomMonths": [
+      6,
+      7
+    ],
+    "bloomColors": [
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "American dunegrass is a stout, blue-gray, rhizomatous grass that binds coastal and Great Lakes dunes, salt- and wind-tolerant and vital for shoreline stabilization.",
+    "usdaSymbol": "LEMO8",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "GL",
+      "L48",
+      "SPM"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/leymus-mollis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Leymus_mollis",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "border",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "leymus-triticoides",
+    "scientificName": "Leymus triticoides",
+    "commonNames": [
+      "Beardless Wildrye"
+    ],
+    "family": "Poaceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "CO",
+      "ID",
+      "NV",
+      "OR",
+      "UT",
+      "WA",
+      "WY"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist",
+      "dry"
+    ],
+    "soilType": [
+      "loam",
+      "clay",
+      "sandy"
+    ],
+    "bloomMonths": [
+      6,
+      7
+    ],
+    "bloomColors": [
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Beardless wildrye is a vigorous, rhizomatous western grass that spreads into uniform blue-green stands, used for erosion control and restoration on alkaline and seasonally wet soils.",
+    "usdaSymbol": "LETR5",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/leymus-triticoides.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Leymus_triticoides",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "border",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "poa-alpina",
+    "scientificName": "Poa alpina",
+    "commonNames": [
+      "Alpine Bluegrass"
+    ],
+    "family": "Poaceae",
+    "nativeStates": [
+      "AK",
+      "CO",
+      "ID",
+      "MI",
+      "MT",
+      "OR",
+      "UT",
+      "WA",
+      "WY"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.3,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist",
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "loam"
+    ],
+    "bloomMonths": [
+      6,
+      7
+    ],
+    "bloomColors": [
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Alpine bluegrass is a low, tufted cool-season grass of high mountain meadows and tundra, cold-hardy and compact for rock gardens and high-elevation restoration.",
+    "usdaSymbol": "POAL2",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "GL",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/poa-alpina.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Poa_alpina",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "groundcover",
+      "container",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "poa-arachnifera",
+    "scientificName": "Poa arachnifera",
+    "commonNames": [
+      "Texas Bluegrass"
+    ],
+    "family": "Poaceae",
+    "nativeStates": [
+      "OK",
+      "TX"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2.5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Texas bluegrass is a rhizomatous, cool-season native bluegrass that stays green through mild winters, valued for cover and forage on the southern plains.",
+    "usdaSymbol": "POAR",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/poa-arachnifera.jpg",
+    "imageSource": "https://www.inaturalist.org/taxa/167077",
+    "imageCredit": "iNaturalist",
+    "landscapeUses": [
+      "border",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "poa-secunda",
+    "scientificName": "Poa secunda",
+    "commonNames": [
+      "Sandberg Bluegrass"
+    ],
+    "family": "Poaceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "CO",
+      "ID",
+      "MT",
+      "ND",
+      "NE",
+      "NM",
+      "NV",
+      "OR",
+      "SD",
+      "UT",
+      "WA",
+      "WY"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Sandberg bluegrass is a drought-tough, early-greening bunchgrass of the dry Intermountain West, an important early-season forage and a backbone of sagebrush-steppe restoration.",
+    "usdaSymbol": "POSE",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/poa-secunda.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Poa_secunda",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "agastache-scrophulariifolia",
+    "scientificName": "Agastache scrophulariifolia",
+    "commonNames": [
+      "Purple Giant Hyssop"
+    ],
+    "family": "Lamiaceae",
+    "nativeStates": [
+      "CT",
+      "IA",
+      "IL",
+      "IN",
+      "MN",
+      "NC",
+      "NJ",
+      "NY",
+      "PA",
+      "VA",
+      "WI"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 6
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 3
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "dry"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "purple",
+      "pink"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "hummingbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Purple giant hyssop is a tall, aromatic mint with soft lavender-purple flower spikes that hum with bees, butterflies, and hummingbirds from midsummer on. Deer-resistant and a superb nectar plant for moist sun to part shade.",
+    "usdaSymbol": "AGSC",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/agastache-scrophulariifolia.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Agastache_scrophulariifolia",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border"
+    ]
+  },
+  {
+    "id": "baptisia-lanceolata",
+    "scientificName": "Baptisia lanceolata",
+    "commonNames": [
+      "Gopherweed"
+    ],
+    "family": "Fabaceae",
+    "nativeStates": [
+      "AL",
+      "FL",
+      "GA",
+      "SC"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1.5,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 3
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": true,
+    "notes": "Gopherweed is a bushy Southeastern wild indigo with bright yellow pea flowers over blue-green trifoliate leaves, a nitrogen-fixing, deer-resistant native for dry sandy soils and a host for sulphur butterflies.",
+    "usdaSymbol": "BALA3",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/baptisia-lanceolata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Baptisia_lanceolata",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border"
+    ]
+  },
+  {
+    "id": "chamaecrista-nictitans",
+    "scientificName": "Chamaecrista nictitans",
+    "commonNames": [
+      "Sensitive Partridge Pea"
+    ],
+    "family": "Fabaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "AZ",
+      "CT",
+      "DE",
+      "FL",
+      "GA",
+      "HI",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "MO",
+      "MS",
+      "NC",
+      "NJ",
+      "NM",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "WV"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "annual",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Sensitive partridge pea is an annual legume with small yellow flowers and leaflets that fold when touched, a nitrogen-fixer whose extrafloral nectaries feed ants and pollinators and whose foliage hosts sulphur butterflies.",
+    "usdaSymbol": "CHNI2",
+    "nativeRegions": [
+      "L48",
+      "NAV",
+      "PR",
+      "VI"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/chamaecrista-nictitans.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Chamaecrista_nictitans",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "chelone-obliqua",
+    "scientificName": "Chelone obliqua",
+    "commonNames": [
+      "Red Turtlehead"
+    ],
+    "family": "Plantaginaceae",
+    "nativeStates": [
+      "IL",
+      "IN",
+      "KY",
+      "MD",
+      "MO",
+      "NC",
+      "VA"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "wet",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      8,
+      9
+    ],
+    "bloomColors": [
+      "pink",
+      "purple"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": true,
+    "notes": "Red turtlehead bears rose-pink, turtle-head-shaped flowers in late summer over moist, sunny-to-shaded ground, a key larval host for the Baltimore checkerspot and a bumblebee favorite. Excellent for rain gardens.",
+    "usdaSymbol": "CHOB3",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/chelone-obliqua.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Chelone_obliqua",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "rain garden",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "dalea-formosa",
+    "scientificName": "Dalea formosa",
+    "commonNames": [
+      "Feather Dalea"
+    ],
+    "family": "Fabaceae",
+    "nativeStates": [
+      "AZ",
+      "NM",
+      "TX"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "purple",
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Feather dalea is a fine-textured desert shrub with feathery rose-purple flowers, a nitrogen-fixing, deer-resistant pollinator plant exquisitely adapted to the hottest, driest Southwestern soils.",
+    "usdaSymbol": "DAFO",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/dalea-formosa.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Dalea_formosa",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "foundation"
+    ]
+  },
+  {
+    "id": "desmodium-canadense",
+    "scientificName": "Desmodium canadense",
+    "commonNames": [
+      "Showy Tick Trefoil"
+    ],
+    "family": "Fabaceae",
+    "nativeStates": [
+      "CT",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "MA",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "NE",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "SD",
+      "VA",
+      "VT",
+      "WI"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist",
+      "dry"
+    ],
+    "soilType": [
+      "loam",
+      "sandy",
+      "clay"
+    ],
+    "bloomMonths": [
+      7,
+      8
+    ],
+    "bloomColors": [
+      "purple",
+      "pink"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Showy tick trefoil is a tall prairie legume with bright rose-purple pea flowers loved by bumblebees, fixing nitrogen and hosting many skipper and hairstreak larvae. Its velcro-like seeds hitch rides on passersby.",
+    "usdaSymbol": "DECA7",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/desmodium-canadense.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Desmodium_canadense",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border"
+    ]
+  },
+  {
+    "id": "desmodium-illinoense",
+    "scientificName": "Desmodium illinoense",
+    "commonNames": [
+      "Illinois Tick Trefoil"
+    ],
+    "family": "Fabaceae",
+    "nativeStates": [
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "MI",
+      "MN",
+      "MO",
+      "NE",
+      "WI"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "loam",
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      7,
+      8
+    ],
+    "bloomColors": [
+      "pink",
+      "purple"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Illinois tick trefoil is a deep-rooted, drought-tough prairie legume with pink pea flowers and jointed seed pods, a nitrogen-fixer and larval host for skippers and hairstreaks on dry ground.",
+    "usdaSymbol": "DEIL2",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/desmodium-illinoense.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Desmodium_illinoense",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border"
+    ]
+  },
+  {
+    "id": "packera-glabella",
+    "scientificName": "Packera glabella",
+    "commonNames": [
+      "Butterweed"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "FL",
+      "GA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MI",
+      "MO",
+      "MS",
+      "NC",
+      "OH",
+      "OK",
+      "PA",
+      "SC",
+      "TN",
+      "TX"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "annual",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "wet",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "clay",
+      "sandy"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": false,
+    "notes": "Butterweed is a fast annual that floods wet bottomlands and ditches with bright golden flat-topped flowers in spring, an early nectar source that self-sows freely on moist, sunny ground.",
+    "usdaSymbol": "PAGL17",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/packera-glabella.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Packera_glabella",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "rain garden"
+    ]
+  },
+  {
+    "id": "packera-plattensis",
+    "scientificName": "Packera plattensis",
+    "commonNames": [
+      "Prairie Groundsel"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AR",
+      "CO",
+      "IA",
+      "IL",
+      "KS",
+      "MI",
+      "MN",
+      "MO",
+      "ND",
+      "NE",
+      "OK",
+      "SD",
+      "TX",
+      "VA",
+      "WI"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Prairie groundsel lifts cheerful clusters of yellow daisies over basal rosettes on dry prairies and glades in spring, a tough, deer-resistant early-season pollinator plant.",
+    "usdaSymbol": "PAPL12",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/packera-plattensis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Packera_plattensis",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "sedum-glaucophyllum",
+    "scientificName": "Sedum glaucophyllum",
+    "commonNames": [
+      "Cliff Stonecrop"
+    ],
+    "family": "Crassulaceae",
+    "nativeStates": [
+      "NC",
+      "VA",
+      "WV"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.3,
+      "max": 0.6
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Cliff stonecrop is a low, evergreen native succulent that mats over rock outcrops and walls with blue-gray rosettes and starry white flowers, a drought- and deer-resistant groundcover for sun to part shade.",
+    "usdaSymbol": "SEGL3",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/sedum-glaucophyllum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Sedum_glaucophyllum",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "groundcover",
+      "container",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "thermopsis-montana",
+    "scientificName": "Thermopsis montana",
+    "commonNames": [
+      "Mountain Goldenbanner"
+    ],
+    "family": "Fabaceae",
+    "nativeStates": [
+      "AZ",
+      "CO",
+      "ID",
+      "MT",
+      "NM",
+      "NV",
+      "OR",
+      "UT",
+      "WA",
+      "WY"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist",
+      "dry"
+    ],
+    "soilType": [
+      "loam",
+      "sandy"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": true,
+    "notes": "Mountain goldenbanner sends up lupine-like spikes of bright yellow pea flowers in western mountain meadows, a nitrogen-fixing, deer-resistant native that spreads into golden drifts.",
+    "usdaSymbol": "THMO6",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/thermopsis-montana.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Thermopsis_montana",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "erosion control",
+      "naturalizing"
+    ]
   }
 ]
