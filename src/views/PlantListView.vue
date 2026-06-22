@@ -374,6 +374,14 @@ watch(() => route.fullPath, () => { drawerOpen.value = false })
   grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
   gap: 16px;
 }
+/* Windowing: let the browser skip layout/paint for off-screen cards. The full
+   list height is preserved (via the intrinsic-size estimate), so scrollbar and
+   the scroll-restoring back button keep working. Cuts the dominant render cost
+   of mounting the whole catalog at once. */
+.grid :deep(.card) {
+  content-visibility: auto;
+  contain-intrinsic-size: auto 320px;
+}
 @media (max-width: 800px) {
   .grid { grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); gap: 12px; }
   .tb-fav-label { display: none; }
