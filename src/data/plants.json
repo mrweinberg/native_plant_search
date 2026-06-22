@@ -132438,5 +132438,2317 @@
     "landscapeUses": [
       "border"
     ]
+  },
+  {
+    "id": "mentzelia-lindleyi",
+    "scientificName": "Mentzelia lindleyi",
+    "commonNames": [
+      "Lindley's Blazing Star"
+    ],
+    "family": "Loasaceae",
+    "nativeStates": [
+      "CA"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "annual",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Lindley's blazing star is a California annual with large, fragrant golden flowers that open toward evening, each with a starburst of stamens, an easy, drought-tolerant reseeder for sunny, gravelly gardens.",
+    "usdaSymbol": "MELI4",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/mentzelia-lindleyi.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Mentzelia_lindleyi",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border"
+    ]
+  },
+  {
+    "id": "mirabilis-nyctaginea",
+    "scientificName": "Mirabilis nyctaginea",
+    "commonNames": [
+      "Wild Four O'Clock"
+    ],
+    "family": "Nyctaginaceae",
+    "nativeStates": [
+      "AR",
+      "CO",
+      "CT",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "MA",
+      "MD",
+      "MI",
+      "MN",
+      "MO",
+      "ND",
+      "NE",
+      "NJ",
+      "NM",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "SD",
+      "TN",
+      "TX",
+      "VA",
+      "VT",
+      "WI"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "pink",
+      "purple"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Wild four o'clock is a tough, deep-rooted prairie perennial with heart-shaped leaves and small magenta flowers that open in late afternoon, a drought-proof native for sunny, dry meadows and roadsides.",
+    "usdaSymbol": "MINY",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/mirabilis-nyctaginea.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Mirabilis_nyctaginea",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border"
+    ]
+  },
+  {
+    "id": "monardella-odoratissima",
+    "scientificName": "Monardella odoratissima",
+    "commonNames": [
+      "Mountain Coyote Mint"
+    ],
+    "family": "Lamiaceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "CO",
+      "ID",
+      "NM",
+      "NV",
+      "OR",
+      "UT",
+      "WA"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "purple",
+      "pink"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Mountain coyote mint is an aromatic western perennial forming low mounds topped with lavender flower clusters that bees and butterflies swarm, a fragrant, drought-tolerant native for sunny rock gardens.",
+    "usdaSymbol": "MOOD",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/monardella-odoratissima.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Monardella_odoratissima",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "nemophila-breviflora",
+    "scientificName": "Nemophila breviflora",
+    "commonNames": [
+      "Basin Nemophila"
+    ],
+    "family": "Boraginaceae",
+    "nativeStates": [
+      "CA",
+      "CO",
+      "ID",
+      "MT",
+      "NV",
+      "OR",
+      "UT",
+      "WA",
+      "WY"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "annual",
+    "heightFeet": {
+      "min": 0.3,
+      "max": 1
+    },
+    "spreadFeet": {
+      "min": 0.3,
+      "max": 0.6
+    },
+    "lightRequirement": [
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "white",
+      "blue"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Basin nemophila is a delicate western annual of moist, shaded slopes with tiny pale blue-white flowers, a dainty, easy reseeder for cool, lightly shaded spots in the woodland or rock garden.",
+    "usdaSymbol": "NEBR",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/nemophila-breviflora.jpg",
+    "imageSource": "https://www.inaturalist.org/taxa/78212",
+    "imageCredit": "iNaturalist",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "nemophila-maculata",
+    "scientificName": "Nemophila maculata",
+    "commonNames": [
+      "Five Spot"
+    ],
+    "family": "Boraginaceae",
+    "nativeStates": [
+      "CA",
+      "NC"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "annual",
+    "heightFeet": {
+      "min": 0.3,
+      "max": 1
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "white",
+      "purple"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Five spot is a charming California annual whose cupped white flowers each bear a vivid purple blotch at the tip of every petal, an easy, fast reseeder for sun or part shade in cool-season gardens.",
+    "usdaSymbol": "NEMA",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/nemophila-maculata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Nemophila_maculata",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "palafoxia-callosa",
+    "scientificName": "Palafoxia callosa",
+    "commonNames": [
+      "Small Palafox"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AR",
+      "MO",
+      "TX"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "annual",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      8,
+      9,
+      10
+    ],
+    "bloomColors": [
+      "pink",
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Small palafox is a wiry late-season annual of limestone glades and dry ground, dotted with small pink-lavender flowers, a drought-tolerant native that feeds fall pollinators in lean, rocky soils.",
+    "usdaSymbol": "PACA3",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/palafoxia-callosa.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Palafoxia_callosa",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "palafoxia-integrifolia",
+    "scientificName": "Palafoxia integrifolia",
+    "commonNames": [
+      "Coastal Plain Palafox"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "FL",
+      "GA"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "annual",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy"
+    ],
+    "bloomMonths": [
+      8,
+      9,
+      10,
+      11
+    ],
+    "bloomColors": [
+      "pink",
+      "purple"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Coastal plain palafox is a Southeastern sandhill annual with airy clusters of rosy-purple flowers in fall, a drought-tolerant native that brightens dry, sandy gardens late in the season.",
+    "usdaSymbol": "PAIN8",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/palafoxia-integrifolia.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Palafoxia_integrifolia",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border"
+    ]
+  },
+  {
+    "id": "pavonia-lasiopetala",
+    "scientificName": "Pavonia lasiopetala",
+    "commonNames": [
+      "Rock Rose"
+    ],
+    "family": "Malvaceae",
+    "nativeStates": [
+      "TX"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "bloomColors": [
+      "pink"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": false,
+    "notes": "Rock rose (Texas swampmallow) is a rounded, soft-leaved subshrub that produces clear pink hibiscus-like flowers nearly nonstop through the warm season, a tough, drought-proof native for sunny Texas gardens.",
+    "usdaSymbol": "PALA13",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/pavonia-lasiopetala.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Pavonia_lasiopetala",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "foundation"
+    ]
+  },
+  {
+    "id": "phacelia-bolanderi",
+    "scientificName": "Phacelia bolanderi",
+    "commonNames": [
+      "Bolander's Phacelia"
+    ],
+    "family": "Boraginaceae",
+    "nativeStates": [
+      "CA",
+      "OR"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "purple",
+      "blue"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Bolander's phacelia is a soft-haired coastal perennial of the Pacific Northwest with coiled clusters of lavender-blue bell flowers, an easy native for cool, part-shaded woodland edges and slopes.",
+    "usdaSymbol": "PHBO",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/phacelia-bolanderi.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Phacelia_bolanderi",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "phacelia-congesta",
+    "scientificName": "Phacelia congesta",
+    "commonNames": [
+      "Blue Curls"
+    ],
+    "family": "Boraginaceae",
+    "nativeStates": [
+      "NM",
+      "TX"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "annual",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "blue",
+      "purple"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "songbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Blue curls is a Texas annual whose coiled spikes of blue-violet flowers uncurl as they bloom, a superb spring bee plant and easy, drought-tolerant reseeder for sunny wildflower gardens.",
+    "usdaSymbol": "PHCO2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/phacelia-congesta.jpg",
+    "imageSource": "https://www.inaturalist.org/taxa/50858",
+    "imageCredit": "iNaturalist",
+    "landscapeUses": [
+      "border"
+    ]
+  },
+  {
+    "id": "phacelia-minor",
+    "scientificName": "Phacelia minor",
+    "commonNames": [
+      "Wild Canterbury Bells"
+    ],
+    "family": "Boraginaceae",
+    "nativeStates": [
+      "CA"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "annual",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5
+    ],
+    "bloomColors": [
+      "purple"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Wild Canterbury bells is a Southern California annual with showy, deep purple bell-shaped flowers, a striking, drought-tolerant reseeder that follows winter rains and feeds early bees in sunny gardens.",
+    "usdaSymbol": "PHMI",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/phacelia-minor.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Phacelia_minor",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "phacelia-parryi",
+    "scientificName": "Phacelia parryi",
+    "commonNames": [
+      "Parry's Phacelia"
+    ],
+    "family": "Boraginaceae",
+    "nativeStates": [
+      "CA"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "annual",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5
+    ],
+    "bloomColors": [
+      "purple",
+      "blue"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Parry's phacelia is a California annual covered in rich royal-purple, bowl-shaped flowers with pale centers, a dazzling, drought-tolerant reseeder and important early nectar source for sunny gardens.",
+    "usdaSymbol": "PHPA3",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/phacelia-parryi.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Phacelia_parryi",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "phacelia-sericea",
+    "scientificName": "Phacelia sericea",
+    "commonNames": [
+      "Silky Phacelia"
+    ],
+    "family": "Boraginaceae",
+    "nativeStates": [
+      "CO",
+      "ID",
+      "MT",
+      "NV",
+      "OR",
+      "UT",
+      "WA",
+      "WY"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "purple",
+      "blue"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Silky phacelia is a striking alpine perennial of the western mountains with silvery, ferny leaves and dense spikes of violet flowers studded with golden stamens, a choice native for sunny rock gardens.",
+    "usdaSymbol": "PHSE",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/phacelia-sericea.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Phacelia_sericea",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "phacelia-viscida",
+    "scientificName": "Phacelia viscida",
+    "commonNames": [
+      "Sticky Phacelia"
+    ],
+    "family": "Boraginaceae",
+    "nativeStates": [
+      "CA"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "annual",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5
+    ],
+    "bloomColors": [
+      "blue",
+      "purple"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Sticky phacelia is a California annual with intensely blue, white-centered flowers on sticky, aromatic stems, a vivid, drought-tolerant reseeder that draws bees to sunny, sandy gardens after winter rains.",
+    "usdaSymbol": "PHVI",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/phacelia-viscida.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Phacelia_viscida",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "pholistoma-racemosum",
+    "scientificName": "Pholistoma racemosum",
+    "commonNames": [
+      "White Fiestaflower"
+    ],
+    "family": "Boraginaceae",
+    "nativeStates": [
+      "CA"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "annual",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5
+    ],
+    "bloomColors": [
+      "white",
+      "blue"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "White fiestaflower is a sprawling, shade-loving California annual that scrambles through brush with small white-to-bluish flowers, an easy reseeder for the cool, part-shaded floor of dry woodlands.",
+    "usdaSymbol": "PHRA5",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/pholistoma-racemosum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Pholistoma_racemosum",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "platystemon-californicus",
+    "scientificName": "Platystemon californicus",
+    "commonNames": [
+      "Cream Cups"
+    ],
+    "family": "Papaveraceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "OR"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "annual",
+    "heightFeet": {
+      "min": 0.3,
+      "max": 1
+    },
+    "spreadFeet": {
+      "min": 0.3,
+      "max": 0.8
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "yellow",
+      "white"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Cream cups is a low California annual with soft, hairy foliage and cupped pale-yellow-to-cream flowers on slender stems, a gentle, drought-tolerant reseeder that carpets sunny, sandy openings in spring.",
+    "usdaSymbol": "PLCA5",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/platystemon-californicus.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Platystemon",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "portulaca-pilosa",
+    "scientificName": "Portulaca pilosa",
+    "commonNames": [
+      "Kiss-me-quick"
+    ],
+    "family": "Portulacaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "FL",
+      "GA",
+      "HI",
+      "KS",
+      "LA",
+      "MO",
+      "MS",
+      "NC",
+      "NM",
+      "OK",
+      "SC",
+      "TX"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "annual",
+    "heightFeet": {
+      "min": 0.2,
+      "max": 0.6
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "bloomColors": [
+      "pink",
+      "purple"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Kiss-me-quick is a low, fleshy native purslane with bright magenta flowers that open in the heat of the day, a heat- and drought-proof groundcover for hot, sandy, sunny gardens and rock crevices.",
+    "usdaSymbol": "POPI3",
+    "nativeRegions": [
+      "L48",
+      "PR"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "mat-forming",
+    "springEphemeral": false,
+    "imageFile": "plants/portulaca-pilosa.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Portulaca_pilosa",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "container"
+    ]
+  },
+  {
+    "id": "proboscidea-louisianica",
+    "scientificName": "Proboscidea louisianica",
+    "commonNames": [
+      "Devil's Claw"
+    ],
+    "family": "Martyniaceae",
+    "nativeStates": [
+      "CA",
+      "CO",
+      "KS",
+      "NM",
+      "OK",
+      "TX"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "annual",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "pink",
+      "purple",
+      "white"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Devil's claw is a bold, sticky annual with large orchid-like pink-and-cream flowers followed by curious hooked seed pods, a curiosity native of warm regions whose young pods are edible.",
+    "usdaSymbol": "PRLO",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/proboscidea-louisianica.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Proboscidea_louisianica",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "psilostrophe-tagetina",
+    "scientificName": "Psilostrophe tagetina",
+    "commonNames": [
+      "Woolly Paperflower"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AZ",
+      "NM",
+      "TX"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Woolly paperflower is a woolly, mounding Southwestern perennial smothered for months in papery golden daisies that dry and persist on the plant, an exceptionally drought-tolerant native for hot, dry gardens.",
+    "usdaSymbol": "PSTA",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/psilostrophe-tagetina.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Psilostrophe_tagetina",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "sphaeralcea-grossulariifolia",
+    "scientificName": "Sphaeralcea grossulariifolia",
+    "commonNames": [
+      "Gooseberryleaf Globemallow"
+    ],
+    "family": "Malvaceae",
+    "nativeStates": [
+      "AZ",
+      "ID",
+      "NM",
+      "NV",
+      "OR",
+      "UT"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "orange"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Gooseberryleaf globemallow is a silvery Great Basin perennial with spires of glowing apricot-orange mallow flowers, a tough, drought-proof native that lights up hot, dry, rocky western gardens.",
+    "usdaSymbol": "SPGR2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/sphaeralcea-grossulariifolia.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Sphaeralcea_grossulariifolia",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border"
+    ]
+  },
+  {
+    "id": "sphaeralcea-munroana",
+    "scientificName": "Sphaeralcea munroana",
+    "commonNames": [
+      "Munro's Globemallow"
+    ],
+    "family": "Malvaceae",
+    "nativeStates": [
+      "ID",
+      "NV",
+      "OR",
+      "UT",
+      "WA"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "orange"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Munro's globemallow is a long-blooming western perennial with soft gray-green leaves and abundant grenadine-orange cups, a heat- and drought-tolerant native for sunny borders and xeric gardens.",
+    "usdaSymbol": "SPMU2",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/sphaeralcea-munroana.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Sphaeralcea_munroana",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border"
+    ]
+  },
+  {
+    "id": "sphaeralcea-parvifolia",
+    "scientificName": "Sphaeralcea parvifolia",
+    "commonNames": [
+      "Smallflower Globemallow"
+    ],
+    "family": "Malvaceae",
+    "nativeStates": [
+      "AZ",
+      "CO",
+      "NM",
+      "NV",
+      "UT"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "orange"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Smallflower globemallow is a drought-hardy Southwestern perennial with silvery foliage and many small orange mallow flowers over a long season, a tough, cheerful native for hot, dry, rocky ground.",
+    "usdaSymbol": "SPPA2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/sphaeralcea-parvifolia.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Sphaeralcea_parvifolia",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border"
+    ]
+  },
+  {
+    "id": "stanleya-pinnata",
+    "scientificName": "Stanleya pinnata",
+    "commonNames": [
+      "Desert Prince's Plume"
+    ],
+    "family": "Brassicaceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "CO",
+      "ID",
+      "KS",
+      "MT",
+      "NM",
+      "NV",
+      "OR",
+      "SD",
+      "TX",
+      "UT",
+      "WY"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Desert prince's plume is a dramatic western perennial that sends up tall, feathery spires of bright yellow flowers above blue-green leaves, a striking, drought-proof native for hot, dry, alkaline soils.",
+    "usdaSymbol": "STPI",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/stanleya-pinnata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Stanleya_pinnata",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border"
+    ]
+  },
+  {
+    "id": "stylomecon-heterophylla",
+    "scientificName": "Stylomecon heterophylla",
+    "commonNames": [
+      "Wind Poppy"
+    ],
+    "family": "Papaveraceae",
+    "nativeStates": [
+      "CA"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "annual",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "orange",
+      "red"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Wind poppy is a California annual with satiny brick-orange to red flowers marked deep red at the center, dancing on slender stems, an enchanting, drought-tolerant reseeder for sunny, well-drained gardens.",
+    "usdaSymbol": "STHE3",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/stylomecon-heterophylla.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Papaver_heterophyllum",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "stylosanthes-biflora",
+    "scientificName": "Stylosanthes biflora",
+    "commonNames": [
+      "Sidebeak Pencilflower"
+    ],
+    "family": "Fabaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "FL",
+      "GA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MD",
+      "MO",
+      "MS",
+      "NC",
+      "NJ",
+      "OK",
+      "PA",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "WV"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "yellow",
+      "orange"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Sidebeak pencilflower is a low, wiry native legume of dry eastern pinelands and prairies, dotted with small orange-yellow pea flowers through summer, a nitrogen-fixing, drought-tolerant ground plant.",
+    "usdaSymbol": "STBI2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/stylosanthes-biflora.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Stylosanthes_biflora",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "tetraneuris-acaulis",
+    "scientificName": "Tetraneuris acaulis",
+    "commonNames": [
+      "Stemless Four-nerve Daisy"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "CO",
+      "KS",
+      "MT",
+      "NE",
+      "NM",
+      "NV",
+      "SD",
+      "TX",
+      "UT",
+      "WY"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.3,
+      "max": 1
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Stemless four-nerve daisy is a tidy, long-lived perennial that lifts bright yellow daisies on bare stalks above tufts of narrow leaves, an exceptionally tough, drought- and cold-hardy native for rock gardens.",
+    "usdaSymbol": "TEAC",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/tetraneuris-acaulis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Tetraneuris_acaulis",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "tetraneuris-scaposa",
+    "scientificName": "Tetraneuris scaposa",
+    "commonNames": [
+      "Four-nerve Daisy"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "CO",
+      "KS",
+      "NE",
+      "NM",
+      "OK",
+      "TX"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Four-nerve daisy is a Southern Plains perennial that blooms golden daisies on slender stalks nearly year-round, a deer-resistant, drought-proof native for sunny borders, rock gardens, and tough soils.",
+    "usdaSymbol": "TESC2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/tetraneuris-scaposa.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Tetraneuris_scaposa",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "thelesperma-filifolium",
+    "scientificName": "Thelesperma filifolium",
+    "commonNames": [
+      "Stiff Greenthread"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AR",
+      "CO",
+      "KS",
+      "MO",
+      "NE",
+      "NM",
+      "OK",
+      "TX"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "annual",
+    "heightFeet": {
+      "min": 1,
+      "max": 2.5
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "songbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Stiff greenthread is an airy, ferny-leaved annual that floats golden, brown-centered daisies on wiry stems for months, an easy, drought-tolerant reseeder that brightens sunny, dry meadows and roadsides.",
+    "usdaSymbol": "THFI",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/thelesperma-filifolium.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Thelesperma_filifolium",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border"
+    ]
+  },
+  {
+    "id": "thymophylla-pentachaeta",
+    "scientificName": "Thymophylla pentachaeta",
+    "commonNames": [
+      "Fiveneedle Pricklyleaf"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "NM",
+      "NV",
+      "TX",
+      "UT"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.3,
+      "max": 1
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Fiveneedle pricklyleaf (dogweed) is a tiny, aromatic Southwestern perennial that mounds with bright golden daisies almost year-round, a heat- and drought-proof native for hot, dry rock gardens and edging.",
+    "usdaSymbol": "THPE4",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/thymophylla-pentachaeta.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Thymophylla_pentachaeta",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "townsendia-exscapa",
+    "scientificName": "Townsendia exscapa",
+    "commonNames": [
+      "Stemless Townsend Daisy"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AZ",
+      "CO",
+      "KS",
+      "NE",
+      "NM",
+      "TX"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.1,
+      "max": 0.4
+    },
+    "spreadFeet": {
+      "min": 0.3,
+      "max": 0.6
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5
+    ],
+    "bloomColors": [
+      "white",
+      "pink"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Stemless Townsend daisy (Easter daisy) is a low cushion perennial of the western plains that presses large white-to-pink daisies flat against the ground in early spring, a charming, hardy rock-garden gem.",
+    "usdaSymbol": "TOEX2",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "mat-forming",
+    "springEphemeral": false,
+    "imageFile": "plants/townsendia-exscapa.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Townsendia_exscapa",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "container"
+    ]
+  },
+  {
+    "id": "wyethia-amplexicaulis",
+    "scientificName": "Wyethia amplexicaulis",
+    "commonNames": [
+      "Mule's Ears"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "CO",
+      "ID",
+      "NV",
+      "OR",
+      "UT",
+      "WA",
+      "WY"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2.5
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 3
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Mule's ears is a bold western perennial with large, glossy, resinous leaves and big sunflower-like blooms in late spring, a long-lived, drought-tolerant native that forms striking clumps in sunny meadows.",
+    "usdaSymbol": "WYAM",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/wyethia-amplexicaulis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Wyethia_amplexicaulis",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border"
+    ]
+  },
+  {
+    "id": "wyethia-angustifolia",
+    "scientificName": "Wyethia angustifolia",
+    "commonNames": [
+      "Narrowleaf Mule's Ears"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "CA",
+      "OR"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Narrowleaf mule's ears is a California perennial with narrow leaves and large golden sunflowers in spring, a tough, deep-rooted native that brightens sunny grasslands and meadows after the rains.",
+    "usdaSymbol": "WYAN",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/wyethia-angustifolia.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Wyethia_angustifolia",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
   }
 ]

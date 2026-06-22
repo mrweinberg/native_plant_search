@@ -1,11 +1,11 @@
 # Catalog gap candidates — remaining, re-ranked by garden + ecological priority
 
-Tiers 1–3 (the woody keystone genera) are **complete**. The **218** species below were originally ranked last only because they lack a *woody* caterpillar-host count — a poor signal for herbaceous plants, grasses, and pollinator staples. They are re-ranked here by horticultural demand + ecological value, treating regional & xeric natives as solid picks and reserving the bottom band for genuinely niche/difficult plants. Each candidate still clears the USDA/GBIF native gate at add-time, which also drops non-natives and trims 1-state outliers.
+Tiers 1–3 (the woody keystone genera) are **complete**. The **185** species below were originally ranked last only because they lack a *woody* caterpillar-host count — a poor signal for herbaceous plants, grasses, and pollinator staples. They are re-ranked here by horticultural demand + ecological value, treating regional & xeric natives as solid picks and reserving the bottom band for genuinely niche/difficult plants. Each candidate still clears the USDA/GBIF native gate at add-time, which also drops non-natives and trims 1-state outliers.
 
 | Priority | Species |
 |---|---|
 | P1 | 1 |
-| P2 | 136 |
+| P2 | 103 |
 | P3 | 81 |
 
 
@@ -100,40 +100,6 @@ Reorganized by growth-form / habitat into coherent batches.
 - [ ] Stenanthium tennesseense
 
 
-### Western & desert wildflowers · 33
-- [ ] Mentzelia lindleyi
-- [ ] Mirabilis latifolia
-- [ ] Mirabilis nyctaginea
-- [ ] Monardella odoratissima
-- [ ] Nemophila breviflora
-- [ ] Nemophila maculata
-- [ ] Palafoxia callosa
-- [ ] Palafoxia integrifolia
-- [ ] Pavonia lasiopetala
-- [ ] Phacelia bolanderi
-- [ ] Phacelia congesta
-- [ ] Phacelia minor
-- [ ] Phacelia parryi
-- [ ] Phacelia sericea
-- [ ] Phacelia viscida
-- [ ] Pholistoma racemosum
-- [ ] Platystemon californicus
-- [ ] Portulaca pilosa
-- [ ] Proboscidea louisianica
-- [ ] Psilostrophe tagetina
-- [ ] Sphaeralcea grossulariifolia
-- [ ] Sphaeralcea munroana
-- [ ] Sphaeralcea parvifolia
-- [ ] Stanleya pinnata
-- [ ] Stylomecon heterophylla
-- [ ] Stylosanthes biflora
-- [ ] Tetraneuris acaulis
-- [ ] Tetraneuris scaposa
-- [ ] Thelesperma filifolium
-- [ ] Thymophylla pentachaeta
-- [ ] Townsendia exscapa
-- [ ] Wyethia amplexicaulis
-- [ ] Wyethia angustifolia
 
 ### Prairie & meadow forbs (central & eastern) · 102
 - [ ] Alternanthera maritima
