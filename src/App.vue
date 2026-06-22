@@ -42,6 +42,13 @@ router.afterEach((to) => {
         </RouterLink>
         <span class="tagline">Plan your native garden</span>
       </div>
+      <div class="top-actions">
+        <RouterLink :to="{ name: 'favorites' }" class="nav-link" active-class="nav-link-active">
+          <span aria-hidden="true">★</span> Favorites
+          <span v-if="favCount" class="count">{{ favCount }}</span>
+        </RouterLink>
+        <LocationPicker />
+      </div>
       <nav class="top-links">
         <a
           href="https://ko-fi.com/maxweinberg"
@@ -52,13 +59,6 @@ router.afterEach((to) => {
         <RouterLink :to="{ name: 'about' }">About</RouterLink>
         <RouterLink :to="{ name: 'sources' }">Sources</RouterLink>
       </nav>
-      <div class="top-actions">
-        <RouterLink :to="{ name: 'favorites' }" class="nav-link" active-class="nav-link-active">
-          <span aria-hidden="true">★</span> Favorites
-          <span v-if="favCount" class="count">{{ favCount }}</span>
-        </RouterLink>
-        <LocationPicker />
-      </div>
     </header>
     <main>
       <RouterView />
@@ -159,9 +159,12 @@ main { padding: 24px; max-width: 1280px; margin: 0 auto; }
   .app-header { padding: 10px 14px; gap: 8px 14px; }
   .brand { font-size: 16px; }
   /* Two rows: brand + links on top, Favorites + state picker on their own row.
-     The tagline is hidden here so the top row fits on one line. */
+     The tagline is hidden here so the top row fits on one line. The links sit
+     after the actions in the DOM (for desktop), so re-order them on top here. */
   .tagline { display: none; }
+  .top-links { order: 1; }
   .top-actions {
+    order: 2;
     flex-basis: 100%;
     justify-content: flex-start;
     gap: 10px;
