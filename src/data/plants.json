@@ -98157,5 +98157,3115 @@
       "border",
       "rain garden"
     ]
+  },
+  {
+    "id": "symphyotrichum-ascendens",
+    "scientificName": "Symphyotrichum ascendens",
+    "commonNames": [
+      "Western Aster"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "CO",
+      "ID",
+      "MT",
+      "NM",
+      "NV",
+      "OR",
+      "UT",
+      "WA",
+      "WY"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2.5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "sandy"
+    ],
+    "bloomMonths": [
+      8,
+      9
+    ],
+    "bloomColors": [
+      "purple",
+      "blue"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "songbirds",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Western aster is a rhizomatous aster of meadows and sagebrush flats across the Intermountain West, with lavender-blue rays for late-season pollinators.",
+    "usdaSymbol": "SYAS3",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/symphyotrichum-ascendens.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Symphyotrichum_ascendens",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "symphyotrichum-chilense",
+    "scientificName": "Symphyotrichum chilense",
+    "commonNames": [
+      "Pacific Aster"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "CA",
+      "OR",
+      "UT",
+      "WA"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "bloomColors": [
+      "purple",
+      "blue"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "songbirds",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Pacific aster is the common coastal aster of California, blooming for months with violet-blue daisies, tolerant of wind, salt, and dry summers.",
+    "usdaSymbol": "SYCH4",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/symphyotrichum-chilense.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Symphyotrichum_chilense",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "symphyotrichum-dumosum",
+    "scientificName": "Symphyotrichum dumosum",
+    "commonNames": [
+      "Bushy Aster"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "FL",
+      "GA",
+      "IN",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "MI",
+      "MO",
+      "MS",
+      "NC",
+      "NJ",
+      "NY",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "WV"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist",
+      "dry"
+    ],
+    "soilType": [
+      "loam",
+      "sandy"
+    ],
+    "bloomMonths": [
+      9,
+      10
+    ],
+    "bloomColors": [
+      "blue",
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "songbirds",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Bushy aster is a much-branched, airy aster studded with small pale blue-to-white daisies in fall, an adaptable late-nectar source for sunny borders and meadows.",
+    "usdaSymbol": "SYDU2",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/symphyotrichum-dumosum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Symphyotrichum_dumosum",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border"
+    ]
+  },
+  {
+    "id": "symphyotrichum-foliaceum",
+    "scientificName": "Symphyotrichum foliaceum",
+    "commonNames": [
+      "Leafy Aster"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AK",
+      "AZ",
+      "CA",
+      "CO",
+      "ID",
+      "MT",
+      "NM",
+      "NV",
+      "OR",
+      "UT",
+      "WA",
+      "WY"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 2.5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "purple"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "songbirds",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Leafy aster is a violet-flowered aster of western mountain meadows and streamsides, its leafy bracts cupping the flower heads, blooming through the cool high-country summer.",
+    "usdaSymbol": "SYFO2",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/symphyotrichum-foliaceum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Symphyotrichum_foliaceum",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "rain garden"
+    ]
+  },
+  {
+    "id": "symphyotrichum-lateriflorum",
+    "scientificName": "Symphyotrichum lateriflorum",
+    "commonNames": [
+      "Calico Aster"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "dry"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      9,
+      10
+    ],
+    "bloomColors": [
+      "white",
+      "purple"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "songbirds",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Calico aster sprays horizontal branches of tiny white daisies with pink-to-purple centers that change color with age, a fine-textured fall nectar plant for sun or part shade.",
+    "usdaSymbol": "SYLA4",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/symphyotrichum-lateriflorum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Symphyotrichum_lateriflorum",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border"
+    ]
+  },
+  {
+    "id": "eurybia-macrophylla",
+    "scientificName": "Eurybia macrophylla",
+    "commonNames": [
+      "Bigleaf Aster"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "CT",
+      "IL",
+      "IN",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "TN",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2.5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      8,
+      9
+    ],
+    "bloomColors": [
+      "purple",
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "songbirds",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Bigleaf aster carpets dry woodland floors with large heart-shaped leaves, sending up pale lavender daisies in late summer. A tough groundcover and nectar source for shade.",
+    "usdaSymbol": "EUMA27",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/eurybia-macrophylla.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Eurybia_macrophylla",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "eupatorium-hyssopifolium",
+    "scientificName": "Eupatorium hyssopifolium",
+    "commonNames": [
+      "Hyssopleaf Boneset"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DE",
+      "FL",
+      "GA",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "MO",
+      "MS",
+      "NC",
+      "NJ",
+      "NY",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "TX",
+      "VA"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      8,
+      9,
+      10
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "whorled",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "songbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Hyssopleaf boneset is a fine-leaved, drought-tough boneset that foams with flat clusters of tiny white flowers in fall, a magnet for small pollinators on dry, sandy ground.",
+    "usdaSymbol": "EUHY",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/eupatorium-hyssopifolium.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Eupatorium_hyssopifolium",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border"
+    ]
+  },
+  {
+    "id": "eupatorium-rotundifolium",
+    "scientificName": "Eupatorium rotundifolium",
+    "commonNames": [
+      "Roundleaf Boneset"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DE",
+      "FL",
+      "GA",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "MS",
+      "NC",
+      "NJ",
+      "NY",
+      "PA",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "WV"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "dry"
+    ],
+    "soilType": [
+      "loam",
+      "sandy"
+    ],
+    "bloomMonths": [
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "songbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Roundleaf boneset bears flat-topped clusters of fuzzy white flowers over rounded, clasping leaves, an adaptable Southeastern native for sunny to lightly shaded pollinator gardens.",
+    "usdaSymbol": "EURO4",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/eupatorium-rotundifolium.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Eupatorium_rotundifolium",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border"
+    ]
+  },
+  {
+    "id": "ageratina-altissima",
+    "scientificName": "Ageratina altissima",
+    "commonNames": [
+      "White Snakeroot"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "NE",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "RI",
+      "SC",
+      "SD",
+      "TN",
+      "TX",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "dry"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      8,
+      9,
+      10
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "songbirds"
+    ],
+    "deerResistant": true,
+    "notes": "White snakeroot lights up the autumn shade with frothy white flower clusters, one of the best late-season nectar plants for woodland gardens. Note: foliage is toxic to livestock (the historic cause of milk sickness).",
+    "usdaSymbol": "AGAL5",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/ageratina-altissima.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Ageratina_altissima",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border"
+    ]
+  },
+  {
+    "id": "ageratina-havanensis",
+    "scientificName": "Ageratina havanensis",
+    "commonNames": [
+      "White Mistflower"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "TX"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 5
+    },
+    "spreadFeet": {
+      "min": 3,
+      "max": 5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      10,
+      11
+    ],
+    "bloomColors": [
+      "white",
+      "pink"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "songbirds"
+    ],
+    "deerResistant": true,
+    "notes": "White mistflower is a fall-blooming Texas shrub that erupts in fragrant, fuzzy white-to-pink flower clouds just as migrating butterflies and pollinators pass through. Drought- and deer-resistant.",
+    "usdaSymbol": "AGHA4",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/ageratina-havanensis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Ageratina_havanensis",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "hedge or screen",
+      "foundation"
+    ]
+  },
+  {
+    "id": "ageratina-jucunda",
+    "scientificName": "Ageratina jucunda",
+    "commonNames": [
+      "Hammock Snakeroot"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "FL"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      10,
+      11
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "songbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Hammock snakeroot is a Florida native bearing airy white flower clusters in late fall, a key nectar source for butterflies in dry hammocks and pinelands.",
+    "usdaSymbol": "AGJU2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/ageratina-jucunda.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Ageratina_jucunda",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border"
+    ]
+  },
+  {
+    "id": "euthamia-caroliniana",
+    "scientificName": "Euthamia caroliniana",
+    "commonNames": [
+      "Slender Goldentop"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AL",
+      "CT",
+      "DE",
+      "FL",
+      "GA",
+      "IN",
+      "LA",
+      "MA",
+      "MD",
+      "MI",
+      "MS",
+      "NC",
+      "NJ",
+      "NY",
+      "RI",
+      "SC",
+      "VA",
+      "WI"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      8,
+      9,
+      10
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "songbirds"
+    ],
+    "deerResistant": false,
+    "notes": "Slender goldentop is a fine-leaved, flat-topped goldenrod relative of sandy coastal-plain soils, covered in tiny yellow flowers that swarm with fall pollinators.",
+    "usdaSymbol": "EUCA26",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/euthamia-caroliniana.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Euthamia_caroliniana",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "euthamia-graminifolia",
+    "scientificName": "Euthamia graminifolia",
+    "commonNames": [
+      "Grass-leaved Goldenrod"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "CT",
+      "DE",
+      "IA",
+      "IL",
+      "IN",
+      "KY",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "ND",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "RI",
+      "SD",
+      "TN",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist",
+      "dry"
+    ],
+    "soilType": [
+      "loam",
+      "sandy",
+      "clay"
+    ],
+    "bloomMonths": [
+      8,
+      9
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "songbirds"
+    ],
+    "deerResistant": false,
+    "notes": "Grass-leaved goldenrod spreads into colonies of narrow leaves topped with flat clusters of golden flowers, a robust late-season nectar plant for sunny meadows and damp ground.",
+    "usdaSymbol": "EUGR5",
+    "nativeRegions": [
+      "CAN",
+      "L48",
+      "SPM"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/euthamia-graminifolia.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Euthamia_graminifolia",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "oligoneuron-album",
+    "scientificName": "Oligoneuron album",
+    "commonNames": [
+      "Prairie Goldenrod"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "VT"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      8,
+      9
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "songbirds"
+    ],
+    "deerResistant": false,
+    "notes": "Prairie goldenrod (upland white goldenrod) is an unusual white-flowered, flat-topped goldenrod of dry prairies and glades, drought-hardy and excellent for lean, alkaline soils.",
+    "usdaSymbol": "OLAL2",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/oligoneuron-album.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Solidago_ptarmicoides",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "oligoneuron-ohioense",
+    "scientificName": "Oligoneuron ohioense",
+    "commonNames": [
+      "Ohio Goldenrod"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "OH"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 3.5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "wet",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      8,
+      9
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "songbirds"
+    ],
+    "deerResistant": false,
+    "notes": "Ohio goldenrod is a flat-topped goldenrod of wet prairies, fens, and lakeshores, its golden heads feeding pollinators on calcareous, moist ground.",
+    "usdaSymbol": "OLOH",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/oligoneuron-ohioense.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Solidago_ohioensis",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "rain garden"
+    ]
+  },
+  {
+    "id": "silphium-integrifolium",
+    "scientificName": "Silphium integrifolium",
+    "commonNames": [
+      "Wholeleaf Rosinweed"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NE",
+      "OH",
+      "OK",
+      "TN",
+      "WI"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "clay",
+      "sandy"
+    ],
+    "bloomMonths": [
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "songbirds"
+    ],
+    "deerResistant": false,
+    "notes": "Wholeleaf rosinweed is a sturdy prairie sunflower-relative with bright yellow daisies on rough, unbranched stems, a long-lived nectar plant whose seeds feed finches.",
+    "usdaSymbol": "SIIN2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/silphium-integrifolium.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Silphium_integrifolium",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border"
+    ]
+  },
+  {
+    "id": "silphium-laciniatum",
+    "scientificName": "Silphium laciniatum",
+    "commonNames": [
+      "Compass Plant"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NE",
+      "OH",
+      "OK",
+      "SD",
+      "TN",
+      "TX",
+      "WI"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 5,
+      "max": 9
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 3
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "songbirds"
+    ],
+    "deerResistant": false,
+    "notes": "Compass plant is a tallgrass-prairie icon with huge, deeply cut leaves that align north-south and a towering spire of yellow flowers over a taproot many feet deep. Goldfinches strip its seeds.",
+    "usdaSymbol": "SILA3",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/silphium-laciniatum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Silphium_laciniatum",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border"
+    ]
+  },
+  {
+    "id": "boltonia-asteroides",
+    "scientificName": "Boltonia asteroides",
+    "commonNames": [
+      "White Doll's Daisy"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AR",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "LA",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "ND",
+      "NE",
+      "NJ",
+      "OK",
+      "PA",
+      "SC",
+      "VA",
+      "WI"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 5
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 3
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      8,
+      9,
+      10
+    ],
+    "bloomColors": [
+      "white",
+      "pink"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "songbirds",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "White doll's daisy is a billowing, aster-like native smothered in small white-to-pink daisies in fall, thriving in moist meadows and rain gardens and feeding late pollinators.",
+    "usdaSymbol": "BOAS",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/boltonia-asteroides.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Boltonia_asteroides",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "rain garden"
+    ]
+  },
+  {
+    "id": "iris-brevicaulis",
+    "scientificName": "Iris brevicaulis",
+    "commonNames": [
+      "Zigzag Iris"
+    ],
+    "family": "Iridaceae",
+    "nativeStates": [
+      "AL",
+      "LA",
+      "MO",
+      "TX"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "wet",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "blue",
+      "purple"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Zigzag iris is a Louisiana iris with rich blue-violet flowers on distinctively bent stems, thriving in wet, rich soils and at pond edges in sun to part shade.",
+    "usdaSymbol": "IRBR2",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/iris-brevicaulis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Iris_brevicaulis",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container",
+      "rain garden",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "iris-hexagona",
+    "scientificName": "Iris hexagona",
+    "commonNames": [
+      "Dixie Iris"
+    ],
+    "family": "Iridaceae",
+    "nativeStates": [
+      "FL",
+      "LA",
+      "TX"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "wet",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "clay",
+      "sandy"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "blue",
+      "purple"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Dixie iris is a Southeastern Louisiana iris of swamps and wet ditches, with large blue-purple flowers, perfect for boggy, sunny spots and water-garden margins.",
+    "usdaSymbol": "IRHE2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/iris-hexagona.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Iris_hexagona",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "rain garden",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "iris-innominata",
+    "scientificName": "Iris innominata",
+    "commonNames": [
+      "Del Norte Iris"
+    ],
+    "family": "Iridaceae",
+    "nativeStates": [
+      "CA",
+      "OR"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "yellow",
+      "purple"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Del Norte iris is a dainty Pacific Coast iris with golden-to-lavender flowers over grassy clumps, ideal for woodland edges and rock gardens with summer-dry shade.",
+    "usdaSymbol": "IRIN",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/iris-innominata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Iris_innominata",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "iris-prismatica",
+    "scientificName": "Iris prismatica",
+    "commonNames": [
+      "Slender Blue Flag"
+    ],
+    "family": "Iridaceae",
+    "nativeStates": [
+      "MA",
+      "NJ",
+      "NY"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "wet",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "blue",
+      "purple"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Slender blue flag is a graceful, narrow-leaved iris of coastal marshes and wet meadows, with delicate blue-violet flowers on slim stems, fine for bog and rain gardens.",
+    "usdaSymbol": "IRPR",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/iris-prismatica.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Iris_prismatica",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "rain garden",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "iris-tenuissima",
+    "scientificName": "Iris tenuissima",
+    "commonNames": [
+      "Shasta Iris"
+    ],
+    "family": "Iridaceae",
+    "nativeStates": [
+      "CA"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Shasta iris is a northern California woodland iris with pale cream-and-veined flowers over slender clumps, suited to dry shade beneath oaks and pines.",
+    "usdaSymbol": "IRTE3",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/iris-tenuissima.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Iris_tenuissima",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "allium-canadense",
+    "scientificName": "Allium canadense",
+    "commonNames": [
+      "Wild Garlic"
+    ],
+    "family": "Amaryllidaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "FL",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "NE",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "dry"
+    ],
+    "soilType": [
+      "loam",
+      "clay",
+      "sandy"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "pink",
+      "white"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Wild garlic is a widespread native onion with nodding pink-white flower clusters and edible bulbs and leaves, an easy, deer-resistant bulb for meadows and woodland edges.",
+    "usdaSymbol": "ALCA3",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/allium-canadense.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Allium_canadense",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "allium-macropetalum",
+    "scientificName": "Allium macropetalum",
+    "commonNames": [
+      "Largeflower Onion"
+    ],
+    "family": "Amaryllidaceae",
+    "nativeStates": [
+      "AZ",
+      "CO",
+      "NM",
+      "TX",
+      "UT"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "spreadFeet": {
+      "min": 0.3,
+      "max": 0.6
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5
+    ],
+    "bloomColors": [
+      "pink",
+      "white"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Largeflower onion is a small desert onion that opens star-like pink flowers after spring rains in the Southwest, drought-hardy and edible.",
+    "usdaSymbol": "ALMA4",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/allium-macropetalum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Allium_macropetalum",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "allium-unifolium",
+    "scientificName": "Allium unifolium",
+    "commonNames": [
+      "One-leaf Onion"
+    ],
+    "family": "Amaryllidaceae",
+    "nativeStates": [
+      "CA"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "dry"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "pink"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "One-leaf onion is a California native onion with airy umbels of clear pink flowers, easy and showy in borders, with edible bulbs and foliage.",
+    "usdaSymbol": "ALUN",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/allium-unifolium.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Allium_unifolium",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "allium-validum",
+    "scientificName": "Allium validum",
+    "commonNames": [
+      "Swamp Onion"
+    ],
+    "family": "Amaryllidaceae",
+    "nativeStates": [
+      "CA",
+      "NV",
+      "OR"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "wet",
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      7,
+      8
+    ],
+    "bloomColors": [
+      "pink",
+      "purple"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Swamp onion is a tall western onion of wet mountain meadows, with dense rose-purple flower heads beloved by bees, and edible throughout.",
+    "usdaSymbol": "ALVA",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/allium-validum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Allium_validum",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "rain garden",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "tradescantia-gigantea",
+    "scientificName": "Tradescantia gigantea",
+    "commonNames": [
+      "Giant Spiderwort"
+    ],
+    "family": "Commelinaceae",
+    "nativeStates": [
+      "TX"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "dry"
+    ],
+    "soilType": [
+      "loam",
+      "clay",
+      "sandy"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5
+    ],
+    "bloomColors": [
+      "purple",
+      "blue"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": false,
+    "notes": "Giant spiderwort is a robust Texas spiderwort with large violet-blue, three-petaled flowers that open each morning over arching grassy leaves, tough and long-blooming in spring.",
+    "usdaSymbol": "TRGI",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/tradescantia-gigantea.jpg",
+    "imageSource": "https://www.inaturalist.org/taxa/169865",
+    "imageCredit": "iNaturalist",
+    "landscapeUses": [
+      "border"
+    ]
+  },
+  {
+    "id": "tradescantia-hirsuticaulis",
+    "scientificName": "Tradescantia hirsuticaulis",
+    "commonNames": [
+      "Hairystem Spiderwort"
+    ],
+    "family": "Commelinaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "GA",
+      "SC"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "purple",
+      "blue"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": false,
+    "notes": "Hairystem spiderwort is a compact Southeastern spiderwort of rocky woods and glades, with violet-blue flowers on fuzzy stems, well suited to dry, sunny banks.",
+    "usdaSymbol": "TRHI5",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/tradescantia-hirsuticaulis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Tradescantia_hirsuticaulis",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "tradescantia-pedicellata",
+    "scientificName": "Tradescantia pedicellata",
+    "commonNames": [
+      "Stalked Spiderwort"
+    ],
+    "family": "Commelinaceae",
+    "nativeStates": [
+      "TX"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "purple",
+      "pink"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": false,
+    "notes": "Stalked spiderwort is a slender central-states spiderwort with blue-purple to pinkish flowers over grassy foliage, an easy, drought-tolerant native for sunny meadows.",
+    "usdaSymbol": "TRPE9",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/tradescantia-pedicellata.jpg",
+    "imageSource": "https://www.inaturalist.org/taxa/169874",
+    "imageCredit": "iNaturalist",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "tradescantia-subaspera",
+    "scientificName": "Tradescantia subaspera",
+    "commonNames": [
+      "Zigzag Spiderwort"
+    ],
+    "family": "Commelinaceae",
+    "nativeStates": [
+      "AL",
+      "GA",
+      "IL",
+      "IN",
+      "KY",
+      "MO",
+      "NC",
+      "OH",
+      "SC",
+      "TN"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "purple",
+      "blue"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": false,
+    "notes": "Zigzag spiderwort is a woodland spiderwort with zigzagging stems and deep blue-violet flowers, blooming well into summer in the moist shade where other spiderworts fade.",
+    "usdaSymbol": "TRSU2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/tradescantia-subaspera.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Tradescantia_subaspera",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "vernonia-fasciculata",
+    "scientificName": "Vernonia fasciculata",
+    "commonNames": [
+      "Prairie Ironweed"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "MN",
+      "MO",
+      "NE",
+      "OH",
+      "SD",
+      "WI"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "purple"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "songbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Prairie ironweed crowns wet prairies and swales with flat clusters of intense red-purple flowers, a bold, deer-resistant late-summer nectar plant for moist, sunny ground.",
+    "usdaSymbol": "VEFA2",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/vernonia-fasciculata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Vernonia_fasciculata",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "rain garden"
+    ]
+  },
+  {
+    "id": "vernonia-lindheimeri",
+    "scientificName": "Vernonia lindheimeri",
+    "commonNames": [
+      "Woolly Ironweed"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "TX"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1.5,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "purple"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "songbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Woolly ironweed is a compact, silvery-leaved Texas ironweed with magenta-purple flowers, exceptionally drought- and heat-tolerant for dry, alkaline pollinator gardens.",
+    "usdaSymbol": "VELI3",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/vernonia-lindheimeri.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Vernonia_lindheimeri",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border"
+    ]
+  },
+  {
+    "id": "vernonia-noveboracensis",
+    "scientificName": "Vernonia noveboracensis",
+    "commonNames": [
+      "New York Ironweed"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "CT",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "MA",
+      "MD",
+      "NC",
+      "NJ",
+      "NY",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "VA",
+      "WV"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 4,
+      "max": 7
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 3
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      8,
+      9
+    ],
+    "bloomColors": [
+      "purple"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "songbirds"
+    ],
+    "deerResistant": true,
+    "notes": "New York ironweed towers in moist meadows and stream edges with broad clusters of rich red-purple flowers atop tall stems, a striking, deer-resistant magnet for butterflies.",
+    "usdaSymbol": "VENO",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/vernonia-noveboracensis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Vernonia_noveboracensis",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "rain garden"
+    ]
+  },
+  {
+    "id": "sisyrinchium-albidum",
+    "scientificName": "Sisyrinchium albidum",
+    "commonNames": [
+      "White Blue-eyed Grass"
+    ],
+    "family": "Iridaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "GA",
+      "IL",
+      "IN",
+      "KY",
+      "LA",
+      "MI",
+      "MO",
+      "MS",
+      "NC",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "WI"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "white",
+      "blue"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": false,
+    "notes": "White blue-eyed grass is a tufted iris-relative with pale white-to-blue starry flowers over grassy fans, a charming little native for sunny, dry-to-moist meadows.",
+    "usdaSymbol": "SIAL3",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/sisyrinchium-albidum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Sisyrinchium_albidum",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "sisyrinchium-angustifolium",
+    "scientificName": "Sisyrinchium angustifolium",
+    "commonNames": [
+      "Narrowleaf Blue-eyed Grass"
+    ],
+    "family": "Iridaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DE",
+      "FL",
+      "GA",
+      "ID",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "VT",
+      "WA",
+      "WV"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "sandy"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "blue",
+      "purple"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": false,
+    "notes": "Narrowleaf blue-eyed grass dots moist meadows and woodland edges with blue-violet, yellow-eyed flowers over grassy clumps, an easy and cheerful native groundlayer.",
+    "usdaSymbol": "SIAN3",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/sisyrinchium-angustifolium.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Sisyrinchium_angustifolium",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "sisyrinchium-atlanticum",
+    "scientificName": "Sisyrinchium atlanticum",
+    "commonNames": [
+      "Eastern Blue-eyed Grass"
+    ],
+    "family": "Iridaceae",
+    "nativeStates": [
+      "AL",
+      "CT",
+      "FL",
+      "GA",
+      "IN",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MO",
+      "MS",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "TX",
+      "VA"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "wet",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "blue",
+      "purple"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": false,
+    "notes": "Eastern blue-eyed grass is a slender coastal-plain species with pale blue flowers, thriving in moist to wet, sandy, acidic soils of meadows and savannas.",
+    "usdaSymbol": "SIAT",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/sisyrinchium-atlanticum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Sisyrinchium_atlanticum",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container",
+      "rain garden"
+    ]
+  },
+  {
+    "id": "sisyrinchium-californicum",
+    "scientificName": "Sisyrinchium californicum",
+    "commonNames": [
+      "Golden-eyed Grass"
+    ],
+    "family": "Iridaceae",
+    "nativeStates": [
+      "CA",
+      "OR",
+      "WA"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "wet",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": false,
+    "notes": "Golden-eyed grass is a Pacific-coast blue-eyed-grass relative with bright yellow flowers, happy in wet meadows, seeps, and the moist edges of bog and rain gardens.",
+    "usdaSymbol": "SICA8",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/sisyrinchium-californicum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Sisyrinchium_californicum",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container",
+      "rain garden"
+    ]
+  },
+  {
+    "id": "sisyrinchium-campestre",
+    "scientificName": "Sisyrinchium campestre",
+    "commonNames": [
+      "Prairie Blue-eyed Grass"
+    ],
+    "family": "Iridaceae",
+    "nativeStates": [
+      "AR",
+      "IA",
+      "IL",
+      "KS",
+      "MN",
+      "MO",
+      "NE",
+      "OK",
+      "TX",
+      "WI"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "blue",
+      "white"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": false,
+    "notes": "Prairie blue-eyed grass brings pale blue-to-white starry flowers to dry prairies and glades, a drought-tolerant little native for sunny, lean soils.",
+    "usdaSymbol": "SICA9",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/sisyrinchium-campestre.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Sisyrinchium_campestre",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
   }
 ]

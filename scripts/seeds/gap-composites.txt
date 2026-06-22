@@ -1,0 +1,39 @@
+Symphyotrichum ascendens | Western Aster
+Symphyotrichum chilense | Pacific Aster
+Symphyotrichum dumosum | Bushy Aster
+Symphyotrichum foliaceum | Leafy Aster
+Symphyotrichum lateriflorum | Calico Aster
+Eurybia macrophylla | Bigleaf Aster
+Eupatorium hyssopifolium | Hyssopleaf Boneset
+Eupatorium rotundifolium | Roundleaf Boneset
+Ageratina altissima | White Snakeroot
+Ageratina havanensis | White Mistflower
+Ageratina jucunda | Hammock Snakeroot
+Euthamia caroliniana | Slender Goldentop
+Euthamia graminifolia | Grass-leaved Goldenrod
+Oligoneuron album | Prairie Goldenrod
+Oligoneuron ohioense | Ohio Goldenrod
+Silphium integrifolium | Wholeleaf Rosinweed
+Silphium laciniatum | Compass Plant
+Boltonia asteroides | White Doll's Daisy
+Iris brevicaulis | Zigzag Iris
+Iris hexagona | Dixie Iris
+Iris innominata | Del Norte Iris
+Iris prismatica | Slender Blue Flag
+Iris tenuissima | Shasta Iris
+Allium canadense | Wild Garlic
+Allium macropetalum | Largeflower Onion
+Allium unifolium | One-leaf Onion
+Allium validum | Swamp Onion
+Tradescantia gigantea | Giant Spiderwort
+Tradescantia hirsuticaulis | Hairystem Spiderwort
+Tradescantia pedicellata | Stalked Spiderwort
+Tradescantia subaspera | Zigzag Spiderwort
+Vernonia fasciculata | Prairie Ironweed
+Vernonia lindheimeri | Woolly Ironweed
+Vernonia noveboracensis | New York Ironweed
+Sisyrinchium albidum | White Blue-eyed Grass
+Sisyrinchium angustifolium | Narrowleaf Blue-eyed Grass
+Sisyrinchium atlanticum | Eastern Blue-eyed Grass
+Sisyrinchium californicum | Golden-eyed Grass
+Sisyrinchium campestre | Prairie Blue-eyed Grass
