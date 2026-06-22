@@ -1,11 +1,11 @@
 # Catalog gap candidates — remaining, re-ranked by garden + ecological priority
 
-Tiers 1–3 (the woody keystone genera) are **complete**. The **151** species below were originally ranked last only because they lack a *woody* caterpillar-host count — a poor signal for herbaceous plants, grasses, and pollinator staples. They are re-ranked here by horticultural demand + ecological value, treating regional & xeric natives as solid picks and reserving the bottom band for genuinely niche/difficult plants. Each candidate still clears the USDA/GBIF native gate at add-time, which also drops non-natives and trims 1-state outliers.
+Tiers 1–3 (the woody keystone genera) are **complete**. The **117** species below were originally ranked last only because they lack a *woody* caterpillar-host count — a poor signal for herbaceous plants, grasses, and pollinator staples. They are re-ranked here by horticultural demand + ecological value, treating regional & xeric natives as solid picks and reserving the bottom band for genuinely niche/difficult plants. Each candidate still clears the USDA/GBIF native gate at add-time, which also drops non-natives and trims 1-state outliers.
 
 | Priority | Species |
 |---|---|
 | P1 | 1 |
-| P2 | 69 |
+| P2 | 35 |
 | P3 | 81 |
 
 
@@ -101,41 +101,7 @@ Reorganized by growth-form / habitat into coherent batches.
 
 
 
-### Prairie & meadow forbs (central & eastern) · 68
-- [ ] Gentiana alba
-- [ ] Gentiana clausa
-- [ ] Gentiana saponaria
-- [ ] Hedysarum boreale
-- [ ] Helenium amarum
-- [ ] Helenium bigelovii
-- [ ] Houstonia caerulea
-- [ ] Houstonia longifolia
-- [ ] Hypericum cistifolium
-- [ ] Hypericum gentianoides
-- [ ] Hypericum hypericoides
-- [ ] Hypericum tetrapetalum
-- [ ] Ledum glandulosum
-- [ ] Ledum groenlandicum
-- [ ] Lespedeza capitata
-- [ ] Linnaea borealis
-- [ ] Linum berlandieri
-- [ ] Linum hudsonioides
-- [ ] Linum kingii
-- [ ] Linum neomexicanum
-- [ ] Linum pratense
-- [ ] Linum rigidum
-- [ ] Lotus scoparius
-- [ ] Marshallia graminifolia
-- [ ] Melochia tomentosa
-- [ ] Oxalis oregana
-- [ ] Oxalis stricta
-- [ ] Parthenium incanum
-- [ ] Parthenium integrifolium
-- [ ] Peritoma arborea
-- [ ] Peritoma jonesii
-- [ ] Peritoma lutea
-- [ ] Peritoma multicaulis
-- [ ] Peritoma platycarpa
+### Prairie & meadow forbs (central & eastern) · 34
 - [ ] Peritoma serrulata
 - [ ] Piriqueta cistoides
 - [ ] Prunella vulgaris
