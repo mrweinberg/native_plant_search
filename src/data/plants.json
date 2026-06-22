@@ -106187,5 +106187,1990 @@
       "erosion control",
       "naturalizing"
     ]
+  },
+  {
+    "id": "aspidotis-densa",
+    "scientificName": "Aspidotis densa",
+    "commonNames": [
+      "Indian's Dream Fern"
+    ],
+    "family": "Pteridaceae",
+    "nativeStates": [
+      "CA",
+      "ID",
+      "MT",
+      "OR",
+      "WA"
+    ],
+    "generalAppearance": "fern",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.3,
+      "max": 0.8
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky"
+    ],
+    "bloomMonths": [],
+    "bloomColors": [],
+    "leafArrangement": "basal",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [],
+    "deerResistant": true,
+    "notes": "Indian's dream is a small, wiry evergreen rock fern of dry western slopes and serpentine outcrops, tolerating sun and drought where most ferns can't.",
+    "usdaSymbol": "ASDE6",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/aspidotis-densa.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Aspidotis_densa",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "groundcover",
+      "container",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "asplenium-resiliens",
+    "scientificName": "Asplenium resiliens",
+    "commonNames": [
+      "Black-stem Spleenwort"
+    ],
+    "family": "Aspleniaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "AZ",
+      "FL",
+      "GA",
+      "IL",
+      "KS",
+      "KY",
+      "MO",
+      "NC",
+      "NM",
+      "OK",
+      "SC",
+      "TN",
+      "TX",
+      "VA"
+    ],
+    "generalAppearance": "fern",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.3,
+      "max": 0.8
+    },
+    "spreadFeet": {
+      "min": 0.3,
+      "max": 0.5
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky"
+    ],
+    "bloomMonths": [],
+    "bloomColors": [],
+    "leafArrangement": "basal",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [],
+    "deerResistant": true,
+    "notes": "Black-stem spleenwort is a dainty evergreen fern that tucks into limestone crevices and walls, with dark wiry stems and ladder-like fronds.",
+    "usdaSymbol": "ASRE",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "alkaline",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/asplenium-resiliens.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Asplenium_resiliens",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "groundcover",
+      "container",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "asplenium-trichomanes",
+    "scientificName": "Asplenium trichomanes",
+    "commonNames": [
+      "Maidenhair Spleenwort"
+    ],
+    "family": "Aspleniaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "AZ",
+      "CO",
+      "CT",
+      "GA",
+      "HI",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "NC",
+      "NH",
+      "NJ",
+      "NM",
+      "NY",
+      "OH",
+      "OK",
+      "OR",
+      "PA",
+      "SC",
+      "TN",
+      "VA",
+      "VT",
+      "WA",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "fern",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.2,
+      "max": 0.5
+    },
+    "spreadFeet": {
+      "min": 0.3,
+      "max": 0.5
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "rocky"
+    ],
+    "bloomMonths": [],
+    "bloomColors": [],
+    "leafArrangement": "basal",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [],
+    "deerResistant": true,
+    "notes": "Maidenhair spleenwort is a delicate little evergreen fern of shaded rock crevices, forming tidy rosettes of beaded fronds on cliffs and old walls.",
+    "usdaSymbol": "ASTR2",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "GL",
+      "HI",
+      "HI",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/asplenium-trichomanes.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Asplenium_trichomanes",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "groundcover",
+      "container",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "botrychium-virginianum",
+    "scientificName": "Botrychium virginianum",
+    "commonNames": [
+      "Rattlesnake Fern"
+    ],
+    "family": "Ophioglossaceae",
+    "nativeStates": [
+      "WI"
+    ],
+    "generalAppearance": "fern",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [],
+    "bloomColors": [],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [],
+    "deerResistant": true,
+    "notes": "Rattlesnake fern is a woodland grape fern with a single triangular, lacy frond and an upright spore stalk, a quiet curiosity of rich, moist shade.",
+    "usdaSymbol": "BOVI",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/botrychium-virginianum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Botrypus",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "groundcover",
+      "container",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "cheilanthes-gracillima",
+    "scientificName": "Cheilanthes gracillima",
+    "commonNames": [
+      "Lace Lip Fern"
+    ],
+    "family": "Pteridaceae",
+    "nativeStates": [
+      "CA",
+      "ID",
+      "MT",
+      "OR",
+      "WA"
+    ],
+    "generalAppearance": "fern",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.3,
+      "max": 0.8
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky"
+    ],
+    "bloomMonths": [],
+    "bloomColors": [],
+    "leafArrangement": "basal",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [],
+    "deerResistant": true,
+    "notes": "Lace lip fern is a drought-hardy evergreen rock fern of the Pacific Northwest, its finely cut fronds curling tight in dry spells and reviving with rain.",
+    "usdaSymbol": "CHGR",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/cheilanthes-gracillima.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Myriopteris_gracillima",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "groundcover",
+      "container",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "cystopteris-bulbifera",
+    "scientificName": "Cystopteris bulbifera",
+    "commonNames": [
+      "Bulblet Fern"
+    ],
+    "family": "Cystopteridaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "AZ",
+      "CT",
+      "IA",
+      "IL",
+      "IN",
+      "KY",
+      "MA",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "TN",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "fern",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2.5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "rocky",
+      "loam"
+    ],
+    "bloomMonths": [],
+    "bloomColors": [],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [],
+    "deerResistant": true,
+    "notes": "Bulblet fern is a graceful, long-tapering fern of moist shaded limestone, dropping tiny bulblets along its fronds that root into new colonies.",
+    "usdaSymbol": "CYBU3",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "alkaline",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/cystopteris-bulbifera.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Cystopteris_bulbifera",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "cystopteris-fragilis",
+    "scientificName": "Cystopteris fragilis",
+    "commonNames": [
+      "Fragile Fern"
+    ],
+    "family": "Cystopteridaceae",
+    "nativeStates": [
+      "AK",
+      "AR",
+      "AZ",
+      "CA",
+      "CO",
+      "CT",
+      "IA",
+      "ID",
+      "IL",
+      "IN",
+      "KY",
+      "MA",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "MT",
+      "NC",
+      "ND",
+      "NE",
+      "NH",
+      "NJ",
+      "NM",
+      "NV",
+      "NY",
+      "OH",
+      "OR",
+      "PA",
+      "SD",
+      "TN",
+      "UT",
+      "VT",
+      "WA",
+      "WI",
+      "WY"
+    ],
+    "generalAppearance": "fern",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.3,
+      "max": 1
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "rocky",
+      "loam"
+    ],
+    "bloomMonths": [],
+    "bloomColors": [],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [],
+    "deerResistant": true,
+    "notes": "Fragile fern is a dainty early-season fern of shaded rocks and ledges, with brittle stems and lacy fronds that emerge with the spring thaw.",
+    "usdaSymbol": "CYFR2",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "GL",
+      "L48",
+      "SPM"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/cystopteris-fragilis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Cystopteris_fragilis",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "groundcover",
+      "container",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "dryopteris-carthusiana",
+    "scientificName": "Dryopteris carthusiana",
+    "commonNames": [
+      "Spinulose Wood Fern"
+    ],
+    "family": "Dryopteridaceae",
+    "nativeStates": [
+      "AK",
+      "CT",
+      "DE",
+      "IA",
+      "ID",
+      "IL",
+      "IN",
+      "KY",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "MT",
+      "NC",
+      "ND",
+      "NE",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "RI",
+      "TN",
+      "VA",
+      "VT",
+      "WA",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "fern",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1.5,
+      "max": 2.5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [],
+    "bloomColors": [],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [],
+    "deerResistant": true,
+    "notes": "Spinulose wood fern is an adaptable, lacy-fronded wood fern of moist forests and swamp edges, spreading gently into soft colonies in shade.",
+    "usdaSymbol": "DRCA11",
+    "nativeRegions": [
+      "CAN",
+      "L48",
+      "SPM"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/dryopteris-carthusiana.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Dryopteris_carthusiana",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "rain garden",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "dryopteris-cristata",
+    "scientificName": "Dryopteris cristata",
+    "commonNames": [
+      "Crested Wood Fern"
+    ],
+    "family": "Dryopteridaceae",
+    "nativeStates": [
+      "CT",
+      "IA",
+      "ID",
+      "IL",
+      "IN",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MT",
+      "NC",
+      "ND",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "TN",
+      "VA",
+      "VT",
+      "WA",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "fern",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2.5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "wet",
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [],
+    "bloomColors": [],
+    "leafArrangement": "basal",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [],
+    "deerResistant": true,
+    "notes": "Crested wood fern is a wetland fern of swamps and marsh edges, with distinctive ladder-like fertile fronds held stiffly upright. Tolerates standing water.",
+    "usdaSymbol": "DRCR4",
+    "nativeRegions": [
+      "CAN",
+      "L48",
+      "SPM"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/dryopteris-cristata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Dryopteris_cristata",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "rain garden",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "dryopteris-ludoviciana",
+    "scientificName": "Dryopteris ludoviciana",
+    "commonNames": [
+      "Southern Wood Fern"
+    ],
+    "family": "Dryopteridaceae",
+    "nativeStates": [
+      "AL",
+      "FL",
+      "GA",
+      "LA",
+      "NC",
+      "SC"
+    ],
+    "generalAppearance": "fern",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [],
+    "bloomColors": [],
+    "leafArrangement": "basal",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [],
+    "deerResistant": true,
+    "notes": "Southern wood fern is a bold, glossy evergreen fern of Southeastern wet woods and seeps, with tall arching fronds that stay green through mild winters.",
+    "usdaSymbol": "DRLU",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/dryopteris-ludoviciana.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Dryopteris_ludoviciana",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "rain garden",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "equisetum-hyemale",
+    "scientificName": "Equisetum hyemale",
+    "commonNames": [
+      "Scouring Rush"
+    ],
+    "family": "Equisetaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "AZ",
+      "CA",
+      "CO",
+      "CT",
+      "FL",
+      "GA",
+      "IA",
+      "ID",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "MT",
+      "NC",
+      "NE",
+      "NH",
+      "NJ",
+      "NM",
+      "NV",
+      "NY",
+      "OH",
+      "OK",
+      "OR",
+      "PA",
+      "SC",
+      "SD",
+      "TN",
+      "TX",
+      "UT",
+      "VA",
+      "VT",
+      "WA",
+      "WI",
+      "WV",
+      "WY"
+    ],
+    "generalAppearance": "fern",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "wet",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [],
+    "bloomColors": [],
+    "leafArrangement": "basal",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [],
+    "deerResistant": true,
+    "notes": "Scouring rush is a striking, leafless evergreen horsetail of jointed green stems, prized for architectural form in wet ground and containers. Spreads aggressively by rhizome — contain it.",
+    "usdaSymbol": "EQHY",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "GL",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "aggressive",
+    "springEphemeral": false,
+    "imageFile": "plants/equisetum-hyemale.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Equisetum_hyemale",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "rain garden",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "gymnocarpium-dryopteris",
+    "scientificName": "Gymnocarpium dryopteris",
+    "commonNames": [
+      "Oak Fern"
+    ],
+    "family": "Cystopteridaceae",
+    "nativeStates": [
+      "AK",
+      "CO",
+      "CT",
+      "ID",
+      "MA",
+      "ME",
+      "MI",
+      "MN",
+      "MT",
+      "NH",
+      "NJ",
+      "NY",
+      "OR",
+      "PA",
+      "VT",
+      "WA",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "fern",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [],
+    "bloomColors": [],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [],
+    "deerResistant": true,
+    "notes": "Oak fern is a delicate, ground-hugging fern of cool northern forests, spreading by thin rhizomes into airy triangular-fronded carpets in deep shade.",
+    "usdaSymbol": "GYDR",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "GL",
+      "L48",
+      "SPM"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/gymnocarpium-dryopteris.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Gymnocarpium_dryopteris",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "groundcover",
+      "container",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "nephrolepis-exaltata",
+    "scientificName": "Nephrolepis exaltata",
+    "commonNames": [
+      "Sword Fern"
+    ],
+    "family": "Nephrolepidaceae",
+    "nativeStates": [
+      "FL",
+      "HI",
+      "MI"
+    ],
+    "generalAppearance": "fern",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1.5,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [],
+    "bloomColors": [],
+    "leafArrangement": "basal",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [],
+    "deerResistant": true,
+    "notes": "Sword fern is the native Florida fern behind the familiar Boston fern, with arching evergreen fronds that spread by runners into lush groundcover in warm, moist shade.",
+    "usdaSymbol": "NEEX",
+    "nativeRegions": [
+      "HI",
+      "L48",
+      "PR",
+      "VI"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/nephrolepis-exaltata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Nephrolepis_exaltata",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "rain garden",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "osmunda-cinnamomea",
+    "scientificName": "Osmunda cinnamomea",
+    "commonNames": [
+      "Cinnamon Fern"
+    ],
+    "family": "Osmundaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "FL",
+      "GA",
+      "IL",
+      "IN",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "VT",
+      "WA",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "fern",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 3
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "wet",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "sandy"
+    ],
+    "bloomMonths": [],
+    "bloomColors": [],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [],
+    "deerResistant": true,
+    "notes": "Cinnamon fern forms stately vase-shaped clumps with cinnamon-colored fertile fronds standing among the green, a bold native for wet, acidic shade and bog edges.",
+    "usdaSymbol": "OSCI",
+    "nativeRegions": [
+      "CAN",
+      "L48",
+      "PR",
+      "SPM"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/osmunda-cinnamomea.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Osmundastrum_cinnamomeum",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "rain garden",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "osmunda-regalis",
+    "scientificName": "Osmunda regalis",
+    "commonNames": [
+      "Royal Fern"
+    ],
+    "family": "Osmundaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DE",
+      "FL",
+      "GA",
+      "IL",
+      "IN",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MS",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "fern",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 5
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "wet",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "sandy"
+    ],
+    "bloomMonths": [],
+    "bloomColors": [],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [],
+    "deerResistant": true,
+    "notes": "Royal fern is a magnificent large fern with flower-like fertile tips, thriving at pond edges, in bogs, and along streams in sun to part shade with constant moisture.",
+    "usdaSymbol": "OSRE",
+    "nativeRegions": [
+      "CAN",
+      "L48",
+      "SPM"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/osmunda-regalis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Osmunda_regalis",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "rain garden",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "pellaea-atropurpurea",
+    "scientificName": "Pellaea atropurpurea",
+    "commonNames": [
+      "Purple Cliffbrake"
+    ],
+    "family": "Pteridaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "AZ",
+      "CA",
+      "CO",
+      "CT",
+      "DC",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "MA",
+      "MD",
+      "MI",
+      "MN",
+      "MO",
+      "NC",
+      "NJ",
+      "NM",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "SC",
+      "SD",
+      "TN",
+      "TX",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "fern",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky"
+    ],
+    "bloomMonths": [],
+    "bloomColors": [],
+    "leafArrangement": "basal",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [],
+    "deerResistant": true,
+    "notes": "Purple cliffbrake is a drought-tough evergreen fern of dry limestone cliffs and ledges, with blue-gray fronds on dark purple stems. A rock-garden gem for lean, alkaline sites.",
+    "usdaSymbol": "PEAT2",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "alkaline",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/pellaea-atropurpurea.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Pellaea_atropurpurea",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "groundcover",
+      "container",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "polypodium-californicum",
+    "scientificName": "Polypodium californicum",
+    "commonNames": [
+      "California Polypody"
+    ],
+    "family": "Polypodiaceae",
+    "nativeStates": [
+      "CA"
+    ],
+    "generalAppearance": "fern",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "loam"
+    ],
+    "bloomMonths": [],
+    "bloomColors": [],
+    "leafArrangement": "basal",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [],
+    "deerResistant": true,
+    "notes": "California polypody is a small evergreen fern that greens up with winter rains on shaded rocks and banks, then rests through the dry summer. A natural for California shade gardens.",
+    "usdaSymbol": "POCA12",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/polypodium-californicum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Polypodium_californicum",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "groundcover",
+      "container",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "polypodium-scouleri",
+    "scientificName": "Polypodium scouleri",
+    "commonNames": [
+      "Leathery Polypody"
+    ],
+    "family": "Polypodiaceae",
+    "nativeStates": [
+      "CA",
+      "OR",
+      "WA"
+    ],
+    "generalAppearance": "fern",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "rocky",
+      "loam"
+    ],
+    "bloomMonths": [],
+    "bloomColors": [],
+    "leafArrangement": "basal",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [],
+    "deerResistant": true,
+    "notes": "Leathery polypody is a thick-fronded evergreen fern of the foggy Pacific coast, growing on rocks and even tree trunks, tolerant of wind and salt spray.",
+    "usdaSymbol": "POSC4",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/polypodium-scouleri.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Polypodium_scouleri",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "groundcover",
+      "container",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "polystichum-imbricans",
+    "scientificName": "Polystichum imbricans",
+    "commonNames": [
+      "Narrowleaf Sword Fern"
+    ],
+    "family": "Dryopteridaceae",
+    "nativeStates": [
+      "CA",
+      "OR",
+      "WA"
+    ],
+    "generalAppearance": "fern",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "rocky",
+      "loam"
+    ],
+    "bloomMonths": [],
+    "bloomColors": [],
+    "leafArrangement": "basal",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [],
+    "deerResistant": true,
+    "notes": "Narrowleaf sword fern is a compact, drought-tolerant evergreen sword fern of dry rocky western slopes, holding stiff upright fronds through summer dryness.",
+    "usdaSymbol": "POIM",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/polystichum-imbricans.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Polystichum_imbricans",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "groundcover",
+      "container",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "pteridium-aquilinum",
+    "scientificName": "Pteridium aquilinum",
+    "commonNames": [
+      "Bracken Fern"
+    ],
+    "family": "Dennstaedtiaceae",
+    "nativeStates": [
+      "AK",
+      "AL",
+      "AR",
+      "AZ",
+      "CA",
+      "CO",
+      "CT",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "HI",
+      "IA",
+      "ID",
+      "IL",
+      "IN",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "MT",
+      "NC",
+      "NH",
+      "NJ",
+      "NM",
+      "NV",
+      "NY",
+      "OH",
+      "OK",
+      "OR",
+      "PA",
+      "RI",
+      "SC",
+      "SD",
+      "TN",
+      "TX",
+      "UT",
+      "VA",
+      "VT",
+      "WA",
+      "WI",
+      "WV",
+      "WY"
+    ],
+    "generalAppearance": "fern",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 5
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [],
+    "bloomColors": [],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [],
+    "deerResistant": true,
+    "notes": "Bracken is the widespread native fern of open woods, barrens, and clearings, with large triangular fronds. Vigorous and rhizomatous — best for naturalizing wild areas, not tidy beds.",
+    "usdaSymbol": "PTAQ",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "HI",
+      "L48",
+      "SPM"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "aggressive",
+    "springEphemeral": false,
+    "imageFile": "plants/pteridium-aquilinum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Pteridium_aquilinum",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "thelypteris-palustris",
+    "scientificName": "Thelypteris palustris",
+    "commonNames": [
+      "Marsh Fern"
+    ],
+    "family": "Thelypteridaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DE",
+      "FL",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "NE",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "fern",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2.5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [],
+    "bloomColors": [],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [],
+    "deerResistant": true,
+    "notes": "Marsh fern is a fine-textured fern of sunny marshes, wet meadows, and pond edges, spreading by rhizome to form soft stands in saturated ground.",
+    "usdaSymbol": "THPA",
+    "nativeRegions": [
+      "CAN",
+      "L48",
+      "SPM"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/thelypteris-palustris.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Thelypteris_palustris",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "rain garden",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "thelypteris-simulata",
+    "scientificName": "Thelypteris simulata",
+    "commonNames": [
+      "Massachusetts Fern"
+    ],
+    "family": "Thelypteridaceae",
+    "nativeStates": [
+      "CT",
+      "MA",
+      "MD",
+      "NH",
+      "NJ",
+      "NY",
+      "PA",
+      "WI"
+    ],
+    "generalAppearance": "fern",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "wet",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "sandy"
+    ],
+    "bloomMonths": [],
+    "bloomColors": [],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [],
+    "deerResistant": true,
+    "notes": "Massachusetts fern is a delicate fern of acidic Northeastern swamps and boggy woods, spreading slowly into airy colonies in cool, wet shade.",
+    "usdaSymbol": "THSI2",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/thelypteris-simulata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Coryphopteris_simulata",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "groundcover",
+      "container",
+      "rain garden",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "woodsia-obtusa",
+    "scientificName": "Woodsia obtusa",
+    "commonNames": [
+      "Blunt-lobed Woodsia"
+    ],
+    "family": "Woodsiaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "fern",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "rocky",
+      "loam"
+    ],
+    "bloomMonths": [],
+    "bloomColors": [],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [],
+    "deerResistant": true,
+    "notes": "Blunt-lobed woodsia is a tough little fern of rocky woods, ledges, and old walls, forming tidy clumps that tolerate more sun and dryness than most ferns.",
+    "usdaSymbol": "WOOB2",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/woodsia-obtusa.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Physematium_obtusum",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "groundcover",
+      "container",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "woodwardia-fimbriata",
+    "scientificName": "Woodwardia fimbriata",
+    "commonNames": [
+      "Giant Chain Fern"
+    ],
+    "family": "Blechnaceae",
+    "nativeStates": [
+      "CA",
+      "NV",
+      "OR",
+      "WA"
+    ],
+    "generalAppearance": "fern",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 6
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "wet",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [],
+    "bloomColors": [],
+    "leafArrangement": "basal",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [],
+    "deerResistant": true,
+    "notes": "Giant chain fern is the largest western native fern, raising towering evergreen fronds from seeps, streamsides, and wet shaded slopes. A dramatic specimen for moist gardens.",
+    "usdaSymbol": "WOFI",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/woodwardia-fimbriata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Woodwardia_fimbriata",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "rain garden",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "woodwardia-virginica",
+    "scientificName": "Woodwardia virginica",
+    "commonNames": [
+      "Virginia Chain Fern"
+    ],
+    "family": "Blechnaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "FL",
+      "GA",
+      "IN",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MS",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "VT"
+    ],
+    "generalAppearance": "fern",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 3
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "wet"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [],
+    "bloomColors": [],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [],
+    "deerResistant": true,
+    "notes": "Virginia chain fern spreads by rhizome through acidic bogs, marshes, and wet woods of the East, its bold fronds tinged red in spring. A robust native for sunny to shaded wetlands.",
+    "usdaSymbol": "WOVI",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/woodwardia-virginica.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Anchistea",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "rain garden",
+      "erosion control",
+      "naturalizing"
+    ]
   }
 ]

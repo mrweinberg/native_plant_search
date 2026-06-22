@@ -1,0 +1,25 @@
+Aspidotis densa | Indian's Dream Fern
+Asplenium resiliens | Black-stem Spleenwort
+Asplenium trichomanes | Maidenhair Spleenwort
+Botrychium virginianum | Rattlesnake Fern
+Cheilanthes gracillima | Lace Lip Fern
+Cystopteris bulbifera | Bulblet Fern
+Cystopteris fragilis | Fragile Fern
+Dryopteris carthusiana | Spinulose Wood Fern
+Dryopteris cristata | Crested Wood Fern
+Dryopteris ludoviciana | Southern Wood Fern
+Equisetum hyemale | Scouring Rush
+Gymnocarpium dryopteris | Oak Fern
+Nephrolepis exaltata | Sword Fern
+Osmunda cinnamomea | Cinnamon Fern
+Osmunda regalis | Royal Fern
+Pellaea atropurpurea | Purple Cliffbrake
+Polypodium californicum | California Polypody
+Polypodium scouleri | Leathery Polypody
+Polystichum imbricans | Narrowleaf Sword Fern
+Pteridium aquilinum | Bracken Fern
+Thelypteris palustris | Marsh Fern
+Thelypteris simulata | Massachusetts Fern
+Woodsia obtusa | Blunt-lobed Woodsia
+Woodwardia fimbriata | Giant Chain Fern
+Woodwardia virginica | Virginia Chain Fern
