@@ -1,0 +1,18 @@
+{
+  // Cloudflare deploy config for a STATIC site (no Worker script): Vite builds
+  // and prerenders everything into ./dist, and `wrangler deploy` just uploads
+  // that directory as static assets.
+  //
+  // IMPORTANT: set "name" to match your Cloudflare project/Worker name, or the
+  // deploy will create a new Worker called "bedfellow".
+  "name": "bedfellow",
+  "compatibility_date": "2026-06-22",
+  "assets": {
+    "directory": "./dist",
+    // Unknown routes fall back to index.html so client-side routing and deep
+    // links work. Prerendered pages (e.g. /plant/<id>/index.html) exist as real
+    // files and are served directly; only genuinely missing paths hit the SPA
+    // fallback (where the app shows "Plant not found").
+    "not_found_handling": "single-page-application"
+  }
+}
