@@ -139828,5 +139828,2666 @@
       "border",
       "container"
     ]
+  },
+  {
+    "id": "peritoma-serrulata",
+    "scientificName": "Peritoma serrulata",
+    "commonNames": [
+      "Rocky Mountain Beeplant"
+    ],
+    "family": "Cleomaceae",
+    "nativeStates": [
+      "AZ",
+      "CO",
+      "KS",
+      "NE",
+      "NM",
+      "NV",
+      "UT"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "annual",
+    "heightFeet": {
+      "min": 2,
+      "max": 5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "pink",
+      "purple"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Rocky Mountain beeplant is a tall western annual with showy clusters of rose-purple flowers all summer, one of the very best native bee and pollinator plants for sunny, dry, sandy gardens. An easy reseeder.",
+    "usdaSymbol": "PESE7",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/peritoma-serrulata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Cleomella_serrulata",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border"
+    ]
+  },
+  {
+    "id": "piriqueta-cistoides",
+    "scientificName": "Piriqueta cistoides",
+    "commonNames": [
+      "Pitted Stripeseed"
+    ],
+    "family": "Passifloraceae",
+    "nativeStates": [
+      "FL",
+      "GA",
+      "SC"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Pitted stripeseed is a low Florida perennial that opens cheerful yellow flowers nearly year-round on wiry stems, a drought-tolerant native for hot, sunny, sandy gardens and a steady nectar source.",
+    "usdaSymbol": "PICI",
+    "nativeRegions": [
+      "L48",
+      "PR"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/piriqueta-cistoides.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Piriqueta_cistoides",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "prunella-vulgaris",
+    "scientificName": "Prunella vulgaris",
+    "commonNames": [
+      "Selfheal"
+    ],
+    "family": "Lamiaceae",
+    "nativeStates": [
+      "AK",
+      "AL",
+      "AR",
+      "AZ",
+      "CA",
+      "CO",
+      "CT",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "HI",
+      "IA",
+      "ID",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "MT",
+      "NC",
+      "NE",
+      "NH",
+      "NJ",
+      "NM",
+      "NY",
+      "OH",
+      "OK",
+      "OR",
+      "PA",
+      "RI",
+      "SC",
+      "SD",
+      "TN",
+      "TX",
+      "UT",
+      "VA",
+      "VT",
+      "WA",
+      "WI",
+      "WV",
+      "WY"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.3,
+      "max": 1
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "purple"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Selfheal is a low, spreading native (subsp. lanceolata) with squat spikes of violet flowers all summer, an easy, tough groundcover and bee plant for sun or part shade; long valued as a medicinal herb.",
+    "usdaSymbol": "PRVU",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "L48",
+      "SPM"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/prunella-vulgaris.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Prunella_vulgaris",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "groundcover",
+      "container",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "pterocaulon-pycnostachyum",
+    "scientificName": "Pterocaulon pycnostachyum",
+    "commonNames": [
+      "Blackroot"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "FL",
+      "GA",
+      "NC",
+      "SC"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Blackroot is a silvery-leaved Southeastern perennial of dry pinelands with dense white flower spikes like a bottlebrush, a drought-tolerant native for hot, sunny, sandy ground.",
+    "usdaSymbol": "PTPY2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/pterocaulon-pycnostachyum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Pterocaulon_pycnostachyum",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border"
+    ]
+  },
+  {
+    "id": "ranunculus-californicus",
+    "scientificName": "Ranunculus californicus",
+    "commonNames": [
+      "California Buttercup"
+    ],
+    "family": "Ranunculaceae",
+    "nativeStates": [
+      "CA"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "California buttercup is a cheerful native perennial that spangles spring grasslands and oak woodlands with glossy golden flowers, an easy, drought-deciduous wildflower for sun or part shade. Toxic if eaten.",
+    "usdaSymbol": "RACA2",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/ranunculus-californicus.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Ranunculus_californicus",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "ranunculus-cardiophyllus",
+    "scientificName": "Ranunculus cardiophyllus",
+    "commonNames": [
+      "Heartleaf Buttercup"
+    ],
+    "family": "Ranunculaceae",
+    "nativeStates": [
+      "AZ",
+      "CO",
+      "NM"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Heartleaf buttercup is a western mountain perennial with glossy yellow flowers above heart-shaped basal leaves, a hardy native for moist, sunny meadows and streamsides. Toxic if eaten.",
+    "usdaSymbol": "RACA4",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/ranunculus-cardiophyllus.jpg",
+    "imageSource": "https://www.inaturalist.org/taxa/167718",
+    "imageCredit": "iNaturalist",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "ranunculus-cymbalaria",
+    "scientificName": "Ranunculus cymbalaria",
+    "commonNames": [
+      "Alkali Buttercup"
+    ],
+    "family": "Ranunculaceae",
+    "nativeStates": [
+      "AK",
+      "AZ",
+      "CA",
+      "CO",
+      "ID",
+      "KS",
+      "ME",
+      "MN",
+      "MT",
+      "NE",
+      "NM",
+      "NV",
+      "OR",
+      "SD",
+      "UT",
+      "WA",
+      "WI",
+      "WY"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.2,
+      "max": 0.5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Alkali buttercup is a low, runnering perennial of wet shores and alkaline flats, with small yellow flowers and scalloped leaves, a tough, salt-tolerant native groundcover for seasonally wet, sunny ground.",
+    "usdaSymbol": "RACY",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "GL",
+      "L48",
+      "SPM"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/ranunculus-cymbalaria.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Halerpestes_cymbalaria",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "groundcover",
+      "container",
+      "rain garden",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "rhapidophyllum-hystrix",
+    "scientificName": "Rhapidophyllum hystrix",
+    "commonNames": [
+      "Needle Palm"
+    ],
+    "family": "Arecaceae",
+    "nativeStates": [
+      "AL",
+      "FL",
+      "GA",
+      "MS",
+      "SC"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "shrub",
+    "heightFeet": {
+      "min": 4,
+      "max": 8
+    },
+    "spreadFeet": {
+      "min": 4,
+      "max": 8
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "purple",
+      "brown"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Needle palm is a clumping, fan-leaved native palm of Southeastern river bluffs — the most cold-hardy palm in the world — forming a lush evergreen mound for moist shade. Sharp needles arm its crown.",
+    "usdaSymbol": "RHHY",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/rhapidophyllum-hystrix.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Rhapidophyllum",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border"
+    ]
+  },
+  {
+    "id": "rivina-humilis",
+    "scientificName": "Rivina humilis",
+    "commonNames": [
+      "Pigeonberry"
+    ],
+    "family": "Petiveriaceae",
+    "nativeStates": [
+      "AZ",
+      "FL",
+      "HI",
+      "LA",
+      "NM",
+      "TX"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "bloomColors": [
+      "white",
+      "pink"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Pigeonberry is a graceful shade perennial that bears slender spikes of white-pink flowers and glossy red berries at the same time nearly year-round, a superb native groundcover for shade that feeds songbirds.",
+    "usdaSymbol": "RIHU2",
+    "nativeRegions": [
+      "L48",
+      "NAV",
+      "PR",
+      "VI"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/rivina-humilis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Rivina_humilis",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "ruellia-caroliniensis",
+    "scientificName": "Ruellia caroliniensis",
+    "commonNames": [
+      "Carolina Wild Petunia"
+    ],
+    "family": "Acanthaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "FL",
+      "GA",
+      "IL",
+      "IN",
+      "KY",
+      "LA",
+      "MD",
+      "MS",
+      "NC",
+      "OH",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "WV"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "purple",
+      "blue"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": true,
+    "notes": "Carolina wild petunia is an easygoing native perennial with lavender-blue trumpet flowers all summer, a tough, drought-tolerant plant for sun or part shade and a larval host for common buckeye butterflies.",
+    "usdaSymbol": "RUCA4",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/ruellia-caroliniensis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Ruellia_caroliniensis",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "ruellia-noctiflora",
+    "scientificName": "Ruellia noctiflora",
+    "commonNames": [
+      "Nightflowering Wild Petunia"
+    ],
+    "family": "Acanthaceae",
+    "nativeStates": [
+      "FL",
+      "MS"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "sandy"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Nightflowering wild petunia is a rare Southeastern perennial of moist pine savannas whose large, fragrant white trumpet flowers open at dusk for hawkmoths, a choice native for sunny, moist, sandy ground.",
+    "usdaSymbol": "RUNO",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/ruellia-noctiflora.jpg",
+    "imageSource": "https://www.inaturalist.org/taxa/168219",
+    "imageCredit": "iNaturalist",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "ruellia-nudiflora",
+    "scientificName": "Ruellia nudiflora",
+    "commonNames": [
+      "Violet Wild Petunia"
+    ],
+    "family": "Acanthaceae",
+    "nativeStates": [
+      "AZ",
+      "FL",
+      "LA",
+      "TX"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "purple",
+      "blue"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": true,
+    "notes": "Violet wild petunia is a drought-tough native perennial that opens fresh lavender-violet trumpets each morning through the warm season, an easy plant for sunny, dry gardens and a larval host for buckeye butterflies.",
+    "usdaSymbol": "RUNU",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/ruellia-nudiflora.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Ruellia_nudiflora",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "scaevola-plumieri",
+    "scientificName": "Scaevola plumieri",
+    "commonNames": [
+      "Beach Naupaka"
+    ],
+    "family": "Goodeniaceae",
+    "nativeStates": [
+      "FL"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "shrub",
+    "heightFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 3,
+      "max": 5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Beach naupaka (inkberry) is a fleshy, salt- and drought-proof native shrub of South Florida dunes, with fan-shaped white flowers and black fruit for birds. An excellent evergreen stabilizer for hot, sandy coasts.",
+    "usdaSymbol": "SCPL",
+    "nativeRegions": [
+      "L48",
+      "PR",
+      "VI"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/scaevola-plumieri.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Scaevola_plumieri",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "scutellaria-integrifolia",
+    "scientificName": "Scutellaria integrifolia",
+    "commonNames": [
+      "Helmet Skullcap"
+    ],
+    "family": "Lamiaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DE",
+      "FL",
+      "GA",
+      "KY",
+      "LA",
+      "MD",
+      "MS",
+      "NC",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "WV"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "purple",
+      "blue"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Helmet skullcap is a slender native perennial topped with showy hooded blue-violet flowers in early summer, an easy, drought-tolerant plant for sunny to part-shaded gardens and a good bee plant.",
+    "usdaSymbol": "SCIN2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/scutellaria-integrifolia.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Scutellaria_integrifolia",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "scutellaria-ovata",
+    "scientificName": "Scutellaria ovata",
+    "commonNames": [
+      "Heartleaf Skullcap"
+    ],
+    "family": "Lamiaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "GA",
+      "IL",
+      "IN",
+      "KY",
+      "LA",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "OH",
+      "OK",
+      "TN",
+      "TX",
+      "VA",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2.5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "purple",
+      "blue"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Heartleaf skullcap is a soft, silvery-leaved woodland perennial with spikes of hooded blue-violet flowers in summer, a handsome, drought-tolerant native groundcover for part shade.",
+    "usdaSymbol": "SCOV",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/scutellaria-ovata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Scutellaria_ovata",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "senna-lindheimeriana",
+    "scientificName": "Senna lindheimeriana",
+    "commonNames": [
+      "Lindheimer's Senna"
+    ],
+    "family": "Fabaceae",
+    "nativeStates": [
+      "NM",
+      "TX"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 5
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 3
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": true,
+    "notes": "Lindheimer's senna is a velvety-leaved Texas perennial with spikes of golden flowers in late summer, a drought-tolerant native legume that is a larval host for cloudless sulphur and other sulphur butterflies.",
+    "usdaSymbol": "SELI4",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/senna-lindheimeriana.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Senna_lindheimeriana",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border"
+    ]
+  },
+  {
+    "id": "senna-roemeriana",
+    "scientificName": "Senna roemeriana",
+    "commonNames": [
+      "Two-leaf Senna"
+    ],
+    "family": "Fabaceae",
+    "nativeStates": [
+      "NM",
+      "TX"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": true,
+    "notes": "Two-leaf senna is a low, mounding Southwestern perennial covered for months in bright yellow flowers, a drought-proof native legume and larval host for sulphur butterflies in hot, dry, rocky gardens.",
+    "usdaSymbol": "SERO8",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/senna-roemeriana.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Senna_roemeriana",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "senna-wislizeni",
+    "scientificName": "Senna wislizeni",
+    "commonNames": [
+      "Shrubby Senna"
+    ],
+    "family": "Fabaceae",
+    "nativeStates": [
+      "AZ",
+      "NM",
+      "TX"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "shrub",
+    "heightFeet": {
+      "min": 3,
+      "max": 6
+    },
+    "spreadFeet": {
+      "min": 3,
+      "max": 5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": true,
+    "notes": "Shrubby (Wislizenus') senna is a desert legume shrub that bursts into masses of golden flowers after summer rains, a striking, drought-proof native and larval host for sulphur butterflies in hot Southwestern gardens.",
+    "usdaSymbol": "SEWI3",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/senna-wislizeni.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Senna_wislizeni",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border"
+    ]
+  },
+  {
+    "id": "sida-rhombifolia",
+    "scientificName": "Sida rhombifolia",
+    "commonNames": [
+      "Cuban Jute"
+    ],
+    "family": "Malvaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "FL",
+      "GA",
+      "HI",
+      "LA",
+      "MS",
+      "NC",
+      "SC",
+      "TX"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Cuban jute (arrowleaf sida) is a wiry native subshrub with small pale-yellow mallow flowers through the warm season, a tough, drought-tolerant plant for hot, sunny ground and a larval host for some skippers.",
+    "usdaSymbol": "SIRH",
+    "nativeRegions": [
+      "L48",
+      "NAV",
+      "PR",
+      "VI"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/sida-rhombifolia.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Sida_rhombifolia",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border"
+    ]
+  },
+  {
+    "id": "silene-acaulis",
+    "scientificName": "Silene acaulis",
+    "commonNames": [
+      "Moss Campion"
+    ],
+    "family": "Caryophyllaceae",
+    "nativeStates": [
+      "AK",
+      "AZ",
+      "CO",
+      "ID",
+      "MT",
+      "NH",
+      "NM",
+      "NV",
+      "OR",
+      "UT",
+      "WA",
+      "WY"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.1,
+      "max": 0.3
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "pink",
+      "purple"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Moss campion is a tight, ancient alpine cushion that studs high, windswept fellfields with tiny pink flowers, an exquisite, exceptionally hardy native for troughs and crevice gardens.",
+    "usdaSymbol": "SIAC",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "GL",
+      "L48",
+      "SPM"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "mat-forming",
+    "springEphemeral": false,
+    "imageFile": "plants/silene-acaulis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Silene_acaulis",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "container"
+    ]
+  },
+  {
+    "id": "silene-californica",
+    "scientificName": "Silene californica",
+    "commonNames": [
+      "Indian Pink"
+    ],
+    "family": "Caryophyllaceae",
+    "nativeStates": [
+      "CA"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "red"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Indian pink is a California woodland perennial that flares vivid scarlet, deeply fringed flowers irresistible to hummingbirds, a showy native for part shade with good drainage.",
+    "usdaSymbol": "SICA4",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/silene-californica.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Silene_laciniata",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "silene-caroliniana",
+    "scientificName": "Silene caroliniana",
+    "commonNames": [
+      "Carolina Wild Pink"
+    ],
+    "family": "Caryophyllaceae",
+    "nativeStates": [
+      "AL",
+      "CT",
+      "GA",
+      "KY",
+      "MA",
+      "MD",
+      "MO",
+      "NC",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "SC",
+      "TN",
+      "VA",
+      "WV"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.3,
+      "max": 0.8
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "pink"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Carolina wild pink is a low eastern perennial that forms tufts topped with bright pink flowers in spring, a charming, drought-tolerant native for sunny to part-shaded rocky banks and rock gardens.",
+    "usdaSymbol": "SICA6",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/silene-caroliniana.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Silene_caroliniana",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "container"
+    ]
+  },
+  {
+    "id": "silene-hookeri",
+    "scientificName": "Silene hookeri",
+    "commonNames": [
+      "Hooker's Catchfly"
+    ],
+    "family": "Caryophyllaceae",
+    "nativeStates": [
+      "CA",
+      "OR"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.3,
+      "max": 0.6
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "pink",
+      "white"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Hooker's catchfly is a low Pacific Northwest perennial with large, deeply lobed pink-to-salmon flowers nestled close to the ground in spring, a choice, drought-tolerant native for sunny rock gardens.",
+    "usdaSymbol": "SIHO",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/silene-hookeri.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Silene_hookeri",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "container"
+    ]
+  },
+  {
+    "id": "silene-regia",
+    "scientificName": "Silene regia",
+    "commonNames": [
+      "Royal Catchfly"
+    ],
+    "family": "Caryophyllaceae",
+    "nativeStates": [
+      "AR",
+      "IA",
+      "IL",
+      "IN",
+      "KY",
+      "MN",
+      "MO",
+      "OH",
+      "WI"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "red"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Royal catchfly is a stately prairie perennial that flares brilliant scarlet flowers in mid-summer, a spectacular hummingbird magnet and increasingly rare native for sunny, well-drained meadows and borders.",
+    "usdaSymbol": "SIRE2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/silene-regia.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Silene_regia",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border"
+    ]
+  },
+  {
+    "id": "stenaria-nigricans",
+    "scientificName": "Stenaria nigricans",
+    "commonNames": [
+      "Diamondflowers"
+    ],
+    "family": "Rubiaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "FL",
+      "GA",
+      "IA",
+      "IL",
+      "KS",
+      "KY",
+      "LA",
+      "MO",
+      "MS",
+      "NE",
+      "NM",
+      "OH",
+      "OK",
+      "TN",
+      "TX"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "white",
+      "purple"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Diamondflowers (narrowleaf bluet) is a wiry native perennial dotted with small white-to-lavender flowers over a long season, a drought-proof plant for sunny, dry, rocky ground and rock gardens.",
+    "usdaSymbol": "STNI6",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/stenaria-nigricans.jpg",
+    "imageSource": "https://www.inaturalist.org/taxa/48364",
+    "imageCredit": "iNaturalist",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "tephrosia-virginiana",
+    "scientificName": "Tephrosia virginiana",
+    "commonNames": [
+      "Goat's Rue"
+    ],
+    "family": "Fabaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "FL",
+      "GA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "pink",
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": true,
+    "notes": "Goat's rue is a silky-leaved native legume of dry sandy ground with striking bicolored pink-and-cream pea flowers in early summer, a nitrogen-fixing, drought-proof plant and larval host for several butterflies.",
+    "usdaSymbol": "TEVI",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/tephrosia-virginiana.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Tephrosia_virginiana",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "teucrium-canadense",
+    "scientificName": "Teucrium canadense",
+    "commonNames": [
+      "American Germander"
+    ],
+    "family": "Lamiaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CO",
+      "CT",
+      "DE",
+      "FL",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "ND",
+      "NE",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "RI",
+      "SC",
+      "SD",
+      "TN",
+      "TX",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "pink",
+      "purple"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "American germander is an adaptable native perennial with spikes of lipped pink-lavender flowers in summer, a tough, spreading bee plant for sunny to part-shaded moist ground and pond edges.",
+    "usdaSymbol": "TECA3",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/teucrium-canadense.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Teucrium_canadense",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "trichostema-dichotomum",
+    "scientificName": "Trichostema dichotomum",
+    "commonNames": [
+      "Forked Bluecurls"
+    ],
+    "family": "Lamiaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DE",
+      "FL",
+      "GA",
+      "IL",
+      "IN",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MO",
+      "MS",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "VT",
+      "WV"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "annual",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy"
+    ],
+    "bloomMonths": [
+      8,
+      9,
+      10
+    ],
+    "bloomColors": [
+      "blue",
+      "purple"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Forked bluecurls is an aromatic native annual that opens jewel-like blue flowers with long arching stamens each morning in late summer, an easy, drought-tolerant reseeder and fine bee plant for sandy, sunny ground.",
+    "usdaSymbol": "TRDI2",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/trichostema-dichotomum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Trichostema_dichotomum",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "trifolium-reflexum",
+    "scientificName": "Trifolium reflexum",
+    "commonNames": [
+      "Buffalo Clover"
+    ],
+    "family": "Fabaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "FL",
+      "GA",
+      "IL",
+      "KY",
+      "LA",
+      "MO",
+      "NC",
+      "OK",
+      "SC",
+      "TX"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "annual",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "red",
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": false,
+    "notes": "Buffalo clover is a declining native clover with bicolored red-and-white flower heads in spring, a nitrogen-fixing legume that supports bees and is a conservation-worthy native for sunny meadows.",
+    "usdaSymbol": "TRRE2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/trifolium-reflexum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Trifolium_reflexum",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "verbesina-encelioides",
+    "scientificName": "Verbesina encelioides",
+    "commonNames": [
+      "Golden Crownbeard"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "CO",
+      "FL",
+      "HI",
+      "MO",
+      "NM",
+      "OK",
+      "SC",
+      "TX",
+      "UT"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "annual",
+    "heightFeet": {
+      "min": 1,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Golden crownbeard is a fast, gray-green native annual covered in bright yellow daisies through the warm season, an easy, drought-tolerant reseeder and steady nectar source for hot, dry, sunny ground.",
+    "usdaSymbol": "VEEN",
+    "nativeRegions": [
+      "L48",
+      "PR"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/verbesina-encelioides.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Verbesina_encelioides",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border"
+    ]
+  },
+  {
+    "id": "verbesina-virginica",
+    "scientificName": "Verbesina virginica",
+    "commonNames": [
+      "Frostweed"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "FL",
+      "GA",
+      "IL",
+      "KS",
+      "KY",
+      "LA",
+      "MO",
+      "MS",
+      "NC",
+      "OK",
+      "SC",
+      "TN",
+      "TX",
+      "VA"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 6
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 3
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      9,
+      10,
+      11
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "songbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Frostweed is a tall native perennial whose flat clusters of white flowers are a vital late-fall nectar source for migrating butterflies; on freezing mornings its split stems extrude ribbons of ice. Thrives in part shade.",
+    "usdaSymbol": "VEVI3",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/verbesina-virginica.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Verbesina_virginica",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border"
+    ]
+  },
+  {
+    "id": "waldsteinia-fragarioides",
+    "scientificName": "Waldsteinia fragarioides",
+    "commonNames": [
+      "Barren Strawberry"
+    ],
+    "family": "Rosaceae",
+    "nativeStates": [
+      "GA",
+      "MA",
+      "MI",
+      "NC",
+      "NY",
+      "OH",
+      "PA",
+      "TN",
+      "VA",
+      "VT",
+      "WI"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.3,
+      "max": 0.6
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Barren strawberry is a tidy, strawberry-like native groundcover with glossy semi-evergreen leaves and bright yellow spring flowers, an easy, drought-tolerant carpet for part to full shade.",
+    "usdaSymbol": "WAFR",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/waldsteinia-fragarioides.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Waldsteinia_fragarioides",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "groundcover",
+      "container",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "zanthoxylum-clava-herculis",
+    "scientificName": "Zanthoxylum clava-herculis",
+    "commonNames": [
+      "Hercules' Club"
+    ],
+    "family": "Rutaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "FL",
+      "GA",
+      "LA",
+      "MS",
+      "NC",
+      "OK",
+      "SC",
+      "TX",
+      "VA"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "tree",
+    "heightFeet": {
+      "min": 15,
+      "max": 30
+    },
+    "spreadFeet": {
+      "min": 15,
+      "max": 25
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "green",
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": true,
+    "notes": "Hercules' club (toothache tree) is a spiny native tree with aromatic citrus-scented foliage and corky, knobbed bark, a key larval host for giant swallowtail butterflies and a source of fruit for birds.",
+    "usdaSymbol": "ZACL",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/zanthoxylum-clava-herculis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Zanthoxylum_clava-herculis",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border"
+    ]
+  },
+  {
+    "id": "zanthoxylum-fagara",
+    "scientificName": "Zanthoxylum fagara",
+    "commonNames": [
+      "Lime Pricklyash"
+    ],
+    "family": "Rutaceae",
+    "nativeStates": [
+      "FL",
+      "TX"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "shrub",
+    "heightFeet": {
+      "min": 8,
+      "max": 15
+    },
+    "spreadFeet": {
+      "min": 8,
+      "max": 12
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5
+    ],
+    "bloomColors": [
+      "yellow",
+      "green"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": true,
+    "notes": "Lime pricklyash is a thorny, citrus-scented evergreen shrub of South Texas and Florida brush, a major larval host for giant swallowtail butterflies and cover and fruit for wildlife. Drought- and salt-tolerant.",
+    "usdaSymbol": "ZAFA",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/zanthoxylum-fagara.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Zanthoxylum_fagara",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border"
+    ]
   }
 ]

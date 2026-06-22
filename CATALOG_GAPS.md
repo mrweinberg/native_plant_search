@@ -1,11 +1,11 @@
 # Catalog gap candidates — remaining, re-ranked by garden + ecological priority
 
-Tiers 1–3 (the woody keystone genera) are **complete**. The **117** species below were originally ranked last only because they lack a *woody* caterpillar-host count — a poor signal for herbaceous plants, grasses, and pollinator staples. They are re-ranked here by horticultural demand + ecological value, treating regional & xeric natives as solid picks and reserving the bottom band for genuinely niche/difficult plants. Each candidate still clears the USDA/GBIF native gate at add-time, which also drops non-natives and trims 1-state outliers.
+Tiers 1–3 (the woody keystone genera) are **complete**. The **83** species below were originally ranked last only because they lack a *woody* caterpillar-host count — a poor signal for herbaceous plants, grasses, and pollinator staples. They are re-ranked here by horticultural demand + ecological value, treating regional & xeric natives as solid picks and reserving the bottom band for genuinely niche/difficult plants. Each candidate still clears the USDA/GBIF native gate at add-time, which also drops non-natives and trims 1-state outliers.
 
 | Priority | Species |
 |---|---|
 | P1 | 1 |
-| P2 | 35 |
+| P2 | 1 |
 | P3 | 81 |
 
 
@@ -101,41 +101,6 @@ Reorganized by growth-form / habitat into coherent batches.
 
 
 
-### Prairie & meadow forbs (central & eastern) · 34
-- [ ] Peritoma serrulata
-- [ ] Piriqueta cistoides
-- [ ] Prunella vulgaris
-- [ ] Pterocaulon pycnostachyum
-- [ ] Ranunculus californicus
-- [ ] Ranunculus cardiophyllus
-- [ ] Ranunculus cymbalaria
-- [ ] Rhapidophyllum hystrix
-- [ ] Rivina humilis
-- [ ] Ruellia caroliniensis
-- [ ] Ruellia noctiflora
-- [ ] Ruellia nudiflora
-- [ ] Scaevola plumieri
-- [ ] Scutellaria integrifolia
-- [ ] Scutellaria ovata
-- [ ] Senna lindheimeriana
-- [ ] Senna roemeriana
-- [ ] Senna wislizeni
-- [ ] Sida rhombifolia
-- [ ] Silene acaulis
-- [ ] Silene californica
-- [ ] Silene caroliniana
-- [ ] Silene hookeri
-- [ ] Silene regia
-- [ ] Stenaria nigricans
-- [ ] Tephrosia virginiana
-- [ ] Teucrium canadense
-- [ ] Trichostema dichotomum
-- [ ] Trifolium reflexum
-- [ ] Verbesina encelioides
-- [ ] Verbesina virginica
-- [ ] Waldsteinia fragarioides
-- [ ] Zanthoxylum clava-herculis
-- [ ] Zanthoxylum fagara
 
 ## P3 — Niche / specialist (obligate aquatics, tropical-coastal FL, succulent-collector, parasitic, native orchids)
 
