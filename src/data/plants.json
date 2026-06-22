@@ -88629,5 +88629,3705 @@
       "border",
       "rain garden"
     ]
+  },
+  {
+    "id": "andropogon-brachystachyus",
+    "scientificName": "Andropogon brachystachyus",
+    "commonNames": [
+      "Shortspike Bluestem"
+    ],
+    "family": "Poaceae",
+    "nativeStates": [
+      "FL"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      8,
+      9,
+      10
+    ],
+    "bloomColors": [
+      "brown",
+      "white"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Shortspike bluestem is a clumping Southeastern warm-season grass with slender stems and fluffy seed heads, glowing copper in fall. A host for skipper butterflies and cover for ground-nesting birds.",
+    "usdaSymbol": "ANBR2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/andropogon-brachystachyus.jpg",
+    "imageSource": "https://www.inaturalist.org/taxa/1617136",
+    "imageCredit": "iNaturalist",
+    "landscapeUses": [
+      "specimen",
+      "border",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "andropogon-capillipes",
+    "scientificName": "Andropogon capillipes",
+    "commonNames": [
+      "Chalky Bluestem"
+    ],
+    "family": "Poaceae",
+    "nativeStates": [
+      "FL",
+      "GA",
+      "SC"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      9,
+      10
+    ],
+    "bloomColors": [
+      "brown",
+      "white"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Chalky bluestem is a striking grass of the Southeastern coastal plain with waxy blue-white stems and silvery autumn seed heads. Drought-tough on sandy soils and a larval host for skippers.",
+    "usdaSymbol": "ANCA4",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/andropogon-capillipes.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Andropogon_capillipes",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "border",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "andropogon-virginicus",
+    "scientificName": "Andropogon virginicus",
+    "commonNames": [
+      "Broomsedge Bluestem"
+    ],
+    "family": "Poaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CA",
+      "CT",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "HI",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "MI",
+      "MO",
+      "MS",
+      "NC",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "WV"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      9,
+      10
+    ],
+    "bloomColors": [
+      "brown",
+      "white"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Broomsedge bluestem turns old fields and roadsides warm orange-tan through winter, a pioneer of poor, disturbed ground. Provides cover and seed for wildlife and hosts several skippers.",
+    "usdaSymbol": "ANVI2",
+    "nativeRegions": [
+      "CAN",
+      "L48",
+      "PR"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/andropogon-virginicus.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Andropogon_virginicus",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "border",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "bouteloua-eriopoda",
+    "scientificName": "Bouteloua eriopoda",
+    "commonNames": [
+      "Black Grama"
+    ],
+    "family": "Poaceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "CO",
+      "NM",
+      "TX",
+      "UT"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "brown",
+      "purple"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Black grama is a fine, wiry desert grassland grass that spreads by arching stolons, a backbone of Southwestern rangeland. Exceptionally drought-tolerant forage and cover.",
+    "usdaSymbol": "BOER4",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/bouteloua-eriopoda.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Bouteloua_eriopoda",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "bouteloua-ramosa",
+    "scientificName": "Bouteloua ramosa",
+    "commonNames": [
+      "Chino Grama"
+    ],
+    "family": "Poaceae",
+    "nativeStates": [
+      "TX"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "brown",
+      "purple"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Chino grama is a tufted grama of rocky desert slopes with the genus's distinctive flag-like seed spikes. A tough, drought-proof bunchgrass for hot, lean, limestone soils.",
+    "usdaSymbol": "BORA4",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/bouteloua-ramosa.jpg",
+    "imageSource": "https://www.inaturalist.org/taxa/159357",
+    "imageCredit": "iNaturalist",
+    "landscapeUses": [
+      "border",
+      "container",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "carex-amphibola",
+    "scientificName": "Carex amphibola",
+    "commonNames": [
+      "Eastern Narrowleaf Sedge"
+    ],
+    "family": "Cyperaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "FL",
+      "GA",
+      "IL",
+      "IN",
+      "KY",
+      "MD",
+      "MI",
+      "MO",
+      "MS",
+      "NC",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "WV"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2.5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Eastern narrowleaf sedge is a clumping woodland sedge with arching blue-green blades, excellent as a lawn alternative or massed groundcover in moist shade.",
+    "usdaSymbol": "CAAM8",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/carex-amphibola.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Carex_amphibola",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "rain garden",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "carex-annectens",
+    "scientificName": "Carex annectens",
+    "commonNames": [
+      "Yellowfruit Sedge"
+    ],
+    "family": "Cyperaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DE",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2.5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "clay",
+      "sandy"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Yellowfruit sedge is an adaptable clumping sedge of wet meadows and disturbed moist ground, with knobby yellow-green seed heads. A quick colonizer for rain gardens.",
+    "usdaSymbol": "CAAN6",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/carex-annectens.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Carex_annectens",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "rain garden",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "carex-aquatilis",
+    "scientificName": "Carex aquatilis",
+    "commonNames": [
+      "Water Sedge"
+    ],
+    "family": "Cyperaceae",
+    "nativeStates": [
+      "AK",
+      "CA",
+      "CO",
+      "IA",
+      "ID",
+      "ME",
+      "MI",
+      "MN",
+      "MT",
+      "NE",
+      "NM",
+      "NV",
+      "NY",
+      "OH",
+      "OR",
+      "UT",
+      "VT",
+      "WA",
+      "WI",
+      "WV",
+      "WY"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Water sedge is a rhizomatous sedge of marshes, fens, and pond margins across the North, forming lush stands in standing water. Key wetland habitat and waterfowl food.",
+    "usdaSymbol": "CAAQ",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "GL",
+      "L48",
+      "SPM"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/carex-aquatilis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Carex_aquatilis",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "border",
+      "rain garden",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "carex-bebbii",
+    "scientificName": "Carex bebbii",
+    "commonNames": [
+      "Bebb's Sedge"
+    ],
+    "family": "Cyperaceae",
+    "nativeStates": [
+      "CO",
+      "CT",
+      "IA",
+      "ID",
+      "IL",
+      "IN",
+      "ME",
+      "MI",
+      "MN",
+      "MT",
+      "NE",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "VT",
+      "WA",
+      "WI"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "wet",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "sandy"
+    ],
+    "bloomMonths": [
+      6,
+      7
+    ],
+    "bloomColors": [
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Bebb's sedge is a tufted wetland sedge with dense oval seed heads, common in sunny marshes and wet meadows. Its seeds feed waterfowl and songbirds.",
+    "usdaSymbol": "CABE2",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "L48",
+      "SPM"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/carex-bebbii.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Carex_bebbii",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "border",
+      "rain garden",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "carex-brevior",
+    "scientificName": "Carex brevior",
+    "commonNames": [
+      "Plains Oval Sedge"
+    ],
+    "family": "Cyperaceae",
+    "nativeStates": [
+      "AR",
+      "CO",
+      "CT",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "MA",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "MT",
+      "ND",
+      "NE",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "RI",
+      "SD",
+      "TX",
+      "VT",
+      "WA",
+      "WI",
+      "WY"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2.5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "sandy",
+      "clay"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Plains oval sedge is a drought-tolerant clumping sedge of prairies and open ground, with round, beadlike seed heads. Tougher and sunnier than most sedges.",
+    "usdaSymbol": "CABR10",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/carex-brevior.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Carex_brevior",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "carex-bromoides",
+    "scientificName": "Carex bromoides",
+    "commonNames": [
+      "Brome-like Sedge"
+    ],
+    "family": "Cyperaceae",
+    "nativeStates": [
+      "AL",
+      "CT",
+      "FL",
+      "IL",
+      "IN",
+      "LA",
+      "MA",
+      "MD",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "SC",
+      "TN",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "wet",
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Brome-like sedge forms soft, arching tussocks of fine bright-green foliage in wet woods and seeps, a graceful groundcover for moist shade.",
+    "usdaSymbol": "CABR14",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/carex-bromoides.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Carex_bromoides",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container",
+      "rain garden",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "carex-cephalophora",
+    "scientificName": "Carex cephalophora",
+    "commonNames": [
+      "Oval-leaf Sedge"
+    ],
+    "family": "Cyperaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "FL",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "sandy"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Oval-leaf sedge is a small, adaptable woodland sedge that tolerates dry shade, with tidy clumps and capitate seed heads. A fine native lawn or groundcover alternative.",
+    "usdaSymbol": "CACE",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/carex-cephalophora.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Carex_cephalophora",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "groundcover",
+      "container",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "carex-comosa",
+    "scientificName": "Carex comosa",
+    "commonNames": [
+      "Bristly Sedge"
+    ],
+    "family": "Cyperaceae",
+    "nativeStates": [
+      "AL",
+      "CA",
+      "CT",
+      "DE",
+      "FL",
+      "IA",
+      "IL",
+      "IN",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "NC",
+      "NE",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "OR",
+      "PA",
+      "SC",
+      "TN",
+      "VA",
+      "VT",
+      "WA",
+      "WI"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      6,
+      7
+    ],
+    "bloomColors": [
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Bristly sedge is a bold wetland sedge with shaggy, bristly seed heads dangling over pond and marsh edges. Striking structure and cover for aquatic wildlife.",
+    "usdaSymbol": "CACO8",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/carex-comosa.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Carex_comosa",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "border",
+      "rain garden",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "carex-crinita",
+    "scientificName": "Carex crinita",
+    "commonNames": [
+      "Fringed Sedge"
+    ],
+    "family": "Cyperaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DC",
+      "DE",
+      "GA",
+      "IL",
+      "IN",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "wet",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Fringed sedge hangs long, fuzzy, drooping seed catkins over wet meadows and stream banks, a graceful accent for rain gardens and pond edges.",
+    "usdaSymbol": "CACR6",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/carex-crinita.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Carex_crinita",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "border",
+      "rain garden",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "carex-cristatella",
+    "scientificName": "Carex cristatella",
+    "commonNames": [
+      "Crested Sedge"
+    ],
+    "family": "Cyperaceae",
+    "nativeStates": [
+      "CT",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "MA",
+      "MI",
+      "MN",
+      "MO",
+      "NE",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "VA",
+      "VT",
+      "WI"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "wet",
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      6,
+      7
+    ],
+    "bloomColors": [
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Crested sedge is a clumping wet-meadow sedge with bristly, star-like seed heads, quick to establish in sunny moist ground. Good for wetland restoration and rain gardens.",
+    "usdaSymbol": "CACR7",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/carex-cristatella.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Carex_cristatella",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "border",
+      "rain garden",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "carex-frankii",
+    "scientificName": "Carex frankii",
+    "commonNames": [
+      "Frank's Sedge"
+    ],
+    "family": "Cyperaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "DC",
+      "GA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MD",
+      "MI",
+      "MO",
+      "MS",
+      "NC",
+      "OH",
+      "OK",
+      "PA",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "WV"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2.5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "wet",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Frank's sedge bears bottlebrush-like cylindrical seed heads in summer on tolerant clumps that thrive in wet, disturbed ground. An easy sedge for damp sites.",
+    "usdaSymbol": "CAFR11",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/carex-frankii.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Carex_frankii",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "rain garden",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "carex-gracillima",
+    "scientificName": "Carex gracillima",
+    "commonNames": [
+      "Graceful Sedge"
+    ],
+    "family": "Cyperaceae",
+    "nativeStates": [
+      "CT",
+      "IL",
+      "IN",
+      "KY",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "TN",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2.5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Graceful sedge drapes thread-fine, nodding seed spikes over arching clumps in moist woodlands, one of the most elegant native sedges for shade gardens.",
+    "usdaSymbol": "CAGR2",
+    "nativeRegions": [
+      "CAN",
+      "L48",
+      "SPM"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/carex-gracillima.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Carex_gracillima",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "carex-hirsutella",
+    "scientificName": "Carex hirsutella",
+    "commonNames": [
+      "Hairy Green Sedge"
+    ],
+    "family": "Cyperaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "MD",
+      "MO",
+      "MS",
+      "NC",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "SC",
+      "TN",
+      "VA",
+      "VT",
+      "WV"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Hairy green sedge is a soft, fuzzy-leaved clumping sedge tolerant of dry shade and clay, useful as a durable groundcover under trees.",
+    "usdaSymbol": "CAHI6",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/carex-hirsutella.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Carex_hirsutella",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "carex-lacustris",
+    "scientificName": "Carex lacustris",
+    "commonNames": [
+      "Lakebank Sedge"
+    ],
+    "family": "Cyperaceae",
+    "nativeStates": [
+      "CT",
+      "IA",
+      "IL",
+      "IN",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "NE",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "VT",
+      "WI"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Lakebank sedge is a tall, rhizomatous sedge that armors shorelines and marshes with blue-green foliage, excellent for erosion control on wet banks.",
+    "usdaSymbol": "CALA16",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/carex-lacustris.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Carex_lacustris",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "border",
+      "rain garden",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "carex-macrocephala",
+    "scientificName": "Carex macrocephala",
+    "commonNames": [
+      "Largehead Sedge"
+    ],
+    "family": "Cyperaceae",
+    "nativeStates": [
+      "AK",
+      "OR",
+      "WA"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.3,
+      "max": 1
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist",
+      "dry"
+    ],
+    "soilType": [
+      "sandy"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Largehead sedge is a robust Pacific-coast dune sedge with spiny, oversized seed heads, spreading by stout rhizomes to bind beach sand.",
+    "usdaSymbol": "CAMA10",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/carex-macrocephala.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Carex_macrocephala",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "groundcover",
+      "container",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "carex-nebrascensis",
+    "scientificName": "Carex nebrascensis",
+    "commonNames": [
+      "Nebraska Sedge"
+    ],
+    "family": "Cyperaceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "CO",
+      "ID",
+      "MT",
+      "NE",
+      "NM",
+      "NV",
+      "OR",
+      "SD",
+      "UT",
+      "WA",
+      "WY"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 3.5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "wet",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Nebraska sedge is a vigorous, rhizomatous western wetland sedge, a workhorse of wet-meadow and streambank restoration and important forage and cover.",
+    "usdaSymbol": "CANE2",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/carex-nebrascensis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Carex_nebrascensis",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "border",
+      "rain garden",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "carex-retrorsa",
+    "scientificName": "Carex retrorsa",
+    "commonNames": [
+      "Knotsheath Sedge"
+    ],
+    "family": "Cyperaceae",
+    "nativeStates": [
+      "CT",
+      "ID",
+      "IL",
+      "MA",
+      "ME",
+      "MI",
+      "MN",
+      "MT",
+      "NY",
+      "PA",
+      "VT",
+      "WA",
+      "WI"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "wet"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      6,
+      7
+    ],
+    "bloomColors": [
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Knotsheath sedge is a wetland sedge with reflexed, spreading seed heads, thriving in marshes, swamps, and wet ditches across the North.",
+    "usdaSymbol": "CARE4",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/carex-retrorsa.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Carex_retrorsa",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "border",
+      "rain garden",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "carex-rostrata",
+    "scientificName": "Carex rostrata",
+    "commonNames": [
+      "Beaked Sedge"
+    ],
+    "family": "Cyperaceae",
+    "nativeStates": [
+      "AK",
+      "CA",
+      "CO",
+      "CT",
+      "ID",
+      "MA",
+      "ME",
+      "MI",
+      "MN",
+      "MT",
+      "NV",
+      "NY",
+      "OR",
+      "PA",
+      "UT",
+      "WA",
+      "WI",
+      "WY"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 3.5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Beaked sedge is a blue-green, rhizomatous sedge of fens, bogs, and shallow water, forming extensive northern wetland stands prized by waterfowl.",
+    "usdaSymbol": "CARO6",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "GL",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/carex-rostrata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Carex_rostrata",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "border",
+      "rain garden",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "carex-sartwellii",
+    "scientificName": "Carex sartwellii",
+    "commonNames": [
+      "Sartwell's Sedge"
+    ],
+    "family": "Cyperaceae",
+    "nativeStates": [
+      "IA",
+      "IL",
+      "MI",
+      "MN",
+      "MT",
+      "NE",
+      "NY",
+      "OH",
+      "WI"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "wet",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Sartwell's sedge spreads by rhizomes into uniform stands in wet prairies and marshes, useful for stabilizing and restoring sunny wetlands.",
+    "usdaSymbol": "CASA8",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/carex-sartwellii.jpg",
+    "imageSource": "https://www.inaturalist.org/taxa/160095",
+    "imageCredit": "iNaturalist",
+    "landscapeUses": [
+      "specimen",
+      "border",
+      "rain garden",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "carex-socialis",
+    "scientificName": "Carex socialis",
+    "commonNames": [
+      "Low Woodland Sedge"
+    ],
+    "family": "Cyperaceae",
+    "nativeStates": [
+      "AR",
+      "MS",
+      "TN"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "wet",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Low woodland sedge spreads gently into soft colonies in moist bottomland woods, an easy native groundcover for damp shade.",
+    "usdaSymbol": "CASO",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/carex-socialis.jpg",
+    "imageSource": "https://www.inaturalist.org/taxa/143756",
+    "imageCredit": "iNaturalist",
+    "landscapeUses": [
+      "border",
+      "groundcover",
+      "container",
+      "rain garden",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "carex-stipata",
+    "scientificName": "Carex stipata",
+    "commonNames": [
+      "Awlfruit Sedge"
+    ],
+    "family": "Cyperaceae",
+    "nativeStates": [
+      "AK",
+      "AZ",
+      "CA",
+      "CO",
+      "CT",
+      "DE",
+      "FL",
+      "IA",
+      "ID",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "MT",
+      "NC",
+      "NE",
+      "NH",
+      "NJ",
+      "NM",
+      "NY",
+      "OH",
+      "OR",
+      "PA",
+      "SC",
+      "TN",
+      "VA",
+      "VT",
+      "WA",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 3.5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "wet",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Awlfruit sedge forms big soft tussocks with knobby greenish seed heads in wet woods, ditches, and marsh edges, quick to establish for rain gardens.",
+    "usdaSymbol": "CAST5",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "L48",
+      "SPM"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/carex-stipata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Carex_stipata",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "border",
+      "rain garden",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "danthonia-californica",
+    "scientificName": "Danthonia californica",
+    "commonNames": [
+      "California Oatgrass"
+    ],
+    "family": "Poaceae",
+    "nativeStates": [
+      "CA",
+      "ID",
+      "MT",
+      "NV",
+      "OR",
+      "UT",
+      "WA",
+      "WY"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "dry"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "brown",
+      "green"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "California oatgrass is a cool-season bunchgrass of western meadows and oak woodlands, a key native lawn and meadow grass that greens up with winter rains.",
+    "usdaSymbol": "DACA3",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/danthonia-californica.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Danthonia_californica",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "border",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "danthonia-intermedia",
+    "scientificName": "Danthonia intermedia",
+    "commonNames": [
+      "Timber Oatgrass"
+    ],
+    "family": "Poaceae",
+    "nativeStates": [
+      "AK",
+      "CA",
+      "CO",
+      "ID",
+      "MT",
+      "NM",
+      "OR",
+      "UT",
+      "WA",
+      "WY"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "brown",
+      "green"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Timber oatgrass is a compact cool-season bunchgrass of mountain meadows and openings, hardy and drought-tolerant at high elevations.",
+    "usdaSymbol": "DAIN",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/danthonia-intermedia.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Danthonia_intermedia",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "groundcover",
+      "container",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "danthonia-spicata",
+    "scientificName": "Danthonia spicata",
+    "commonNames": [
+      "Poverty Oatgrass"
+    ],
+    "family": "Poaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CO",
+      "CT",
+      "DC",
+      "DE",
+      "GA",
+      "IA",
+      "ID",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "NH",
+      "NJ",
+      "NM",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "SC",
+      "SD",
+      "TN",
+      "TX",
+      "VA",
+      "VT",
+      "WA",
+      "WI",
+      "WV",
+      "WY"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky",
+      "loam"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "brown",
+      "green"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Poverty oatgrass is a tough little bunchgrass that thrives on the driest, poorest, most acidic soils where little else grows, with curly basal leaves.",
+    "usdaSymbol": "DASP2",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "GL",
+      "L48",
+      "SPM"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/danthonia-spicata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Danthonia_spicata",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "danthonia-unispicata",
+    "scientificName": "Danthonia unispicata",
+    "commonNames": [
+      "Onespike Oatgrass"
+    ],
+    "family": "Poaceae",
+    "nativeStates": [
+      "CA",
+      "ID",
+      "MT",
+      "NV",
+      "OR",
+      "UT",
+      "WA",
+      "WY"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.3,
+      "max": 1
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "brown",
+      "green"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Onespike oatgrass is a tiny western bunchgrass of dry, rocky openings and scablands, drought-hardy and well suited to lean rock-garden conditions.",
+    "usdaSymbol": "DAUN",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/danthonia-unispicata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Danthonia_unispicata",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "groundcover",
+      "container",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "dichanthelium-acuminatum",
+    "scientificName": "Dichanthelium acuminatum",
+    "commonNames": [
+      "Tapered Rosette Grass"
+    ],
+    "family": "Poaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "AZ",
+      "CA",
+      "CT",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "IA",
+      "ID",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "NE",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "OR",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "TX",
+      "UT",
+      "VA",
+      "WA",
+      "WI",
+      "WV",
+      "WY"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 2.5
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Tapered rosette grass is a low, soft-haired native bunchgrass that forms winter rosettes and flowers in two flushes, a larval host for skippers in open woods and fields.",
+    "usdaSymbol": "DIAC2",
+    "nativeRegions": [
+      "CAN",
+      "L48",
+      "PR"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/dichanthelium-acuminatum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Dichanthelium_acuminatum",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "dichanthelium-commutatum",
+    "scientificName": "Dichanthelium commutatum",
+    "commonNames": [
+      "Variable Panicgrass"
+    ],
+    "family": "Poaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "IN",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "MO",
+      "MS",
+      "NC",
+      "NJ",
+      "NY",
+      "PA",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "WV"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "dry"
+    ],
+    "soilType": [
+      "loam",
+      "sandy"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Variable panicgrass is a broad-leaved woodland rosette grass that stays semi-evergreen, providing cover and seed in dappled shade and hosting skipper larvae.",
+    "usdaSymbol": "DICO2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/dichanthelium-commutatum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Dichanthelium_commutatum",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "border",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "eragrostis-intermedia",
+    "scientificName": "Eragrostis intermedia",
+    "commonNames": [
+      "Plains Lovegrass"
+    ],
+    "family": "Poaceae",
+    "nativeStates": [
+      "AR",
+      "AZ",
+      "KS",
+      "MO",
+      "NM",
+      "OK",
+      "TX"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      8,
+      9
+    ],
+    "bloomColors": [
+      "purple",
+      "brown"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Plains lovegrass is a clumping warm-season grass topped with airy, shimmering purple-tinged seed clouds, drought-tough and beautiful in masses.",
+    "usdaSymbol": "ERIN",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/eragrostis-intermedia.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Eragrostis_intermedia",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "border",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "eragrostis-trichodes",
+    "scientificName": "Eragrostis trichodes",
+    "commonNames": [
+      "Sand Lovegrass"
+    ],
+    "family": "Poaceae",
+    "nativeStates": [
+      "CO",
+      "IL",
+      "KS",
+      "MO",
+      "NE",
+      "OK",
+      "TX"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy"
+    ],
+    "bloomMonths": [
+      8,
+      9
+    ],
+    "bloomColors": [
+      "purple",
+      "brown"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Sand lovegrass is a graceful sandhill grass with billowing, reddish-purple flowering panicles that catch the light, ideal for dry, sandy gardens.",
+    "usdaSymbol": "ERTR3",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/eragrostis-trichodes.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Eragrostis_trichodes",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "border",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "muhlenbergia-montana",
+    "scientificName": "Muhlenbergia montana",
+    "commonNames": [
+      "Mountain Muhly"
+    ],
+    "family": "Poaceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "CO",
+      "NM",
+      "UT"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2.5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      8,
+      9
+    ],
+    "bloomColors": [
+      "brown",
+      "purple"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Mountain muhly is a fine-textured bunchgrass of western mountains and high plains, drought- and cold-hardy with delicate flowering stems.",
+    "usdaSymbol": "MUMO",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/muhlenbergia-montana.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Muhlenbergia_montana",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "muhlenbergia-reverchonii",
+    "scientificName": "Muhlenbergia reverchonii",
+    "commonNames": [
+      "Seep Muhly"
+    ],
+    "family": "Poaceae",
+    "nativeStates": [
+      "TX"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1.5,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1.5,
+      "max": 2.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "loam"
+    ],
+    "bloomMonths": [
+      9,
+      10
+    ],
+    "bloomColors": [
+      "pink",
+      "brown"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Seep muhly forms tidy mounds of fine foliage topped each fall with a haze of rosy-pink flowering clouds, a tough, showy choice for dry limestone soils.",
+    "usdaSymbol": "MURE2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/muhlenbergia-reverchonii.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Muhlenbergia_reverchonii",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "border",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "muhlenbergia-rigida",
+    "scientificName": "Muhlenbergia rigida",
+    "commonNames": [
+      "Purple Muhly"
+    ],
+    "family": "Poaceae",
+    "nativeStates": [
+      "AZ",
+      "NM",
+      "TX"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 1.5,
+      "max": 2.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      9,
+      10
+    ],
+    "bloomColors": [
+      "purple",
+      "brown"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Purple muhly sends up slender, deep purple flowering spikes above fine foliage in fall, a striking, drought-proof accent grass for the Southwest.",
+    "usdaSymbol": "MURI3",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/muhlenbergia-rigida.jpg",
+    "imageSource": "https://www.inaturalist.org/taxa/165571",
+    "imageCredit": "iNaturalist",
+    "landscapeUses": [
+      "specimen",
+      "border",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "panicum-amarum",
+    "scientificName": "Panicum amarum",
+    "commonNames": [
+      "Bitter Panicgrass"
+    ],
+    "family": "Poaceae",
+    "nativeStates": [
+      "AL",
+      "CT",
+      "DE",
+      "FL",
+      "GA",
+      "LA",
+      "MD",
+      "MS",
+      "NC",
+      "NJ",
+      "NY",
+      "SC",
+      "TX",
+      "VA"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 6
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy"
+    ],
+    "bloomMonths": [
+      9,
+      10
+    ],
+    "bloomColors": [
+      "brown",
+      "green"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Bitter panicgrass is a blue-gray, rhizomatous dune grass of the Atlantic and Gulf coasts, salt- and drought-tolerant and excellent for stabilizing sand.",
+    "usdaSymbol": "PAAM2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/panicum-amarum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Panicum_amarum",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "panicum-capillare",
+    "scientificName": "Panicum capillare",
+    "commonNames": [
+      "Witchgrass"
+    ],
+    "family": "Poaceae",
+    "nativeStates": [
+      "AR",
+      "AZ",
+      "CA",
+      "CO",
+      "CT",
+      "IA",
+      "ID",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "MT",
+      "NC",
+      "ND",
+      "NE",
+      "NH",
+      "NJ",
+      "NM",
+      "NV",
+      "NY",
+      "OH",
+      "OK",
+      "OR",
+      "PA",
+      "SD",
+      "TN",
+      "TX",
+      "UT",
+      "VA",
+      "VT",
+      "WA",
+      "WI",
+      "WV",
+      "WY"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "annual",
+    "heightFeet": {
+      "min": 1,
+      "max": 2.5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Witchgrass is an annual native grass whose huge, lacy seed panicles break off and tumble in the wind. Quick cover for disturbed ground; abundant seed for birds.",
+    "usdaSymbol": "PACA6",
+    "nativeRegions": [
+      "CAN",
+      "L48",
+      "VI"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/panicum-capillare.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Panicum_capillare",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "panicum-obtusum",
+    "scientificName": "Panicum obtusum",
+    "commonNames": [
+      "Vine Mesquite"
+    ],
+    "family": "Poaceae",
+    "nativeStates": [
+      "AZ",
+      "CO",
+      "NM",
+      "OK",
+      "TX"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 2.5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist",
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      8,
+      9
+    ],
+    "bloomColors": [
+      "brown",
+      "green"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Vine mesquite is a stoloniferous Southwestern grass that creeps over swales and washes, knitting soil together for erosion control on tough, intermittently wet ground.",
+    "usdaSymbol": "PAOB",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/panicum-obtusum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Hopia",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "panicum-rigidulum",
+    "scientificName": "Panicum rigidulum",
+    "commonNames": [
+      "Redtop Panicgrass"
+    ],
+    "family": "Poaceae",
+    "nativeStates": [
+      "AR",
+      "FL",
+      "GA",
+      "LA",
+      "MA",
+      "MS",
+      "NC",
+      "SC",
+      "TX",
+      "VA"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "wet",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      8,
+      9
+    ],
+    "bloomColors": [
+      "brown",
+      "red"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Redtop panicgrass is a clumping wetland grass with reddish, airy seed heads, thriving at pond edges and in wet meadows. Good structure and seed for rain gardens.",
+    "usdaSymbol": "PARI4",
+    "nativeRegions": [
+      "CAN",
+      "L48",
+      "PR"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/panicum-rigidulum.jpg",
+    "imageSource": "https://www.inaturalist.org/taxa/460736",
+    "imageCredit": "iNaturalist",
+    "landscapeUses": [
+      "specimen",
+      "border",
+      "rain garden",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "sporobolus-flexuosus",
+    "scientificName": "Sporobolus flexuosus",
+    "commonNames": [
+      "Mesa Dropseed"
+    ],
+    "family": "Poaceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "NM",
+      "NV",
+      "TX",
+      "UT"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      8,
+      9
+    ],
+    "bloomColors": [
+      "brown",
+      "pink"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Mesa dropseed is a wiry desert bunchgrass with open, zigzagging seed panicles, exceptionally drought-tolerant forage and cover for the arid Southwest.",
+    "usdaSymbol": "SPFL2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/sporobolus-flexuosus.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Sporobolus_flexuosus",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "border",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "sporobolus-wrightii",
+    "scientificName": "Sporobolus wrightii",
+    "commonNames": [
+      "Big Sacaton"
+    ],
+    "family": "Poaceae",
+    "nativeStates": [
+      "AZ",
+      "CO",
+      "NM",
+      "TX"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 6
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "clay",
+      "sandy"
+    ],
+    "bloomMonths": [
+      8,
+      9
+    ],
+    "bloomColors": [
+      "brown",
+      "pink"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Big sacaton is a large, fountain-like bunchgrass of Southwestern swales and grasslands, a bold specimen that provides cover and binds soil on heavy or alkaline ground.",
+    "usdaSymbol": "SPWR2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/sporobolus-wrightii.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Sporobolus_wrightii",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "naturalizing"
+    ]
   }
 ]
