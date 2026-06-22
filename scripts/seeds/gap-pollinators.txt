@@ -1,0 +1,38 @@
+Asclepias asperula | Antelope Horns
+Asclepias elata | Tall Milkweed
+Asclepias exaltata | Poke Milkweed
+Asclepias lanceolata | Fewflower Milkweed
+Asclepias purpurascens | Purple Milkweed
+Asclepias subulata | Rush Milkweed
+Asclepias viridiflora | Green Comet Milkweed
+Coreopsis auriculata | Mouse-ear Tickseed
+Coreopsis calliopsidea | Leafstem Tickseed
+Coreopsis douglasii | Douglas's Tickseed
+Coreopsis gigantea | Giant Coreopsis
+Coreopsis leavenworthii | Leavenworth's Tickseed
+Coreopsis maritima | Sea Dahlia
+Coreopsis nudata | Georgia Tickseed
+Coreopsis palmata | Stiff Tickseed
+Coreopsis rosea | Pink Tickseed
+Echinacea sanguinea | Sanguine Coneflower
+Eryngium aquaticum | Marsh Rattlesnake-master
+Eryngium leavenworthii | Leavenworth's Eryngo
+Eryngium yuccifolium | Rattlesnake Master
+Gaillardia arizonica | Arizona Blanketflower
+Gaillardia pinnatifida | Red Dome Blanketflower
+Gaillardia suavis | Pincushion Daisy
+Liatris cylindracea | Cylindrical Blazing Star
+Liatris pycnostachya | Prairie Blazing Star
+Liatris tenuifolia | Shortleaf Blazing Star
+Monarda bradburiana | Eastern Bee Balm
+Monarda citriodora | Lemon Bee Balm
+Monarda didyma | Scarlet Bee Balm
+Rudbeckia californica | California Coneflower
+Rudbeckia grandiflora | Rough Coneflower
+Rudbeckia subtomentosa | Sweet Coneflower
+Salvia engelmannii | Engelmann's Sage
+Salvia regla | Mountain Sage
+Salvia roemeriana | Cedar Sage
+Salvia sonomensis | Creeping Sage
+Verbena bracteata | Prostrate Vervain
+Verbena hastata | Blue Vervain
