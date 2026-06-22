@@ -115004,5 +115004,1704 @@
       "erosion control",
       "naturalizing"
     ]
+  },
+  {
+    "id": "aristolochia-californica",
+    "scientificName": "Aristolochia californica",
+    "commonNames": [
+      "California Pipevine"
+    ],
+    "family": "Aristolochiaceae",
+    "nativeStates": [
+      "CA"
+    ],
+    "generalAppearance": "vine",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 8,
+      "max": 20
+    },
+    "spreadFeet": {
+      "min": 3,
+      "max": 8
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      2,
+      3,
+      4
+    ],
+    "bloomColors": [
+      "purple",
+      "brown"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "larval host"
+    ],
+    "deerResistant": true,
+    "notes": "California pipevine is the sole larval host of the California pipevine swallowtail, with curious U-shaped purple-brown 'pipe' flowers in late winter. A must for butterfly gardeners in the West.",
+    "usdaSymbol": "ARCA10",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/aristolochia-californica.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Aristolochia_californica",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "groundcover",
+      "erosion control"
+    ]
+  },
+  {
+    "id": "calystegia-occidentalis",
+    "scientificName": "Calystegia occidentalis",
+    "commonNames": [
+      "Chaparral False Bindweed"
+    ],
+    "family": "Convolvulaceae",
+    "nativeStates": [
+      "CA",
+      "OR"
+    ],
+    "generalAppearance": "vine",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 10
+    },
+    "spreadFeet": {
+      "min": 3,
+      "max": 6
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "loam"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": false,
+    "notes": "Chaparral false bindweed is a well-behaved native morning-glory relative of California slopes, with cream-white funnel flowers, far tamer than the weedy bindweeds.",
+    "usdaSymbol": "CAOC6",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/calystegia-occidentalis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Calystegia_occidentalis",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "groundcover",
+      "erosion control"
+    ]
+  },
+  {
+    "id": "clematis-baldwinii",
+    "scientificName": "Clematis baldwinii",
+    "commonNames": [
+      "Pine Hyacinth"
+    ],
+    "family": "Ranunculaceae",
+    "nativeStates": [
+      "FL"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist",
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "purple"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Pine hyacinth is an unusual erect, non-climbing clematis of Florida pinelands, with solitary nodding lavender bells over fine foliage, blooming much of the year.",
+    "usdaSymbol": "CLBA",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/clematis-baldwinii.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Clematis_baldwinii",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "clematis-columbiana",
+    "scientificName": "Clematis columbiana",
+    "commonNames": [
+      "Rock Clematis"
+    ],
+    "family": "Ranunculaceae",
+    "nativeStates": [
+      "AZ",
+      "CO",
+      "ID",
+      "MT",
+      "NM",
+      "SD",
+      "UT",
+      "WA",
+      "WY"
+    ],
+    "generalAppearance": "vine",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 6,
+      "max": 10
+    },
+    "spreadFeet": {
+      "min": 3,
+      "max": 6
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "rocky",
+      "loam"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "purple",
+      "blue"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Rock clematis is a delicate western mountain vine that drapes shrubs and rocks with nodding blue-violet bell flowers in late spring, followed by silky seed plumes.",
+    "usdaSymbol": "CLCO2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/clematis-columbiana.jpg",
+    "imageSource": "https://www.inaturalist.org/taxa/126748",
+    "imageCredit": "iNaturalist",
+    "landscapeUses": [
+      "groundcover",
+      "erosion control"
+    ]
+  },
+  {
+    "id": "clematis-lasiantha",
+    "scientificName": "Clematis lasiantha",
+    "commonNames": [
+      "Pipestem Clematis"
+    ],
+    "family": "Ranunculaceae",
+    "nativeStates": [
+      "CA"
+    ],
+    "generalAppearance": "vine",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 10,
+      "max": 20
+    },
+    "spreadFeet": {
+      "min": 3,
+      "max": 8
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "loam"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Pipestem clematis (chaparral clematis) scrambles over California chaparral with creamy starry flowers in spring and showy feathery seed heads after. Drought-tolerant once established.",
+    "usdaSymbol": "CLLA3",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "aggressive",
+    "springEphemeral": false,
+    "imageFile": "plants/clematis-lasiantha.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Clematis_lasiantha",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "groundcover",
+      "erosion control"
+    ]
+  },
+  {
+    "id": "clematis-ligusticifolia",
+    "scientificName": "Clematis ligusticifolia",
+    "commonNames": [
+      "Western Virgin's Bower"
+    ],
+    "family": "Ranunculaceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "CO",
+      "ID",
+      "MT",
+      "NM",
+      "NV",
+      "OR",
+      "UT",
+      "WA",
+      "WY"
+    ],
+    "generalAppearance": "vine",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 10,
+      "max": 20
+    },
+    "spreadFeet": {
+      "min": 4,
+      "max": 10
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "sandy",
+      "rocky"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Western virgin's bower is a vigorous western vine that smothers fences and streamside thickets in masses of white flowers, then silvery seed plumes. Fast and drought-hardy — give it room.",
+    "usdaSymbol": "CLLI2",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "aggressive",
+    "springEphemeral": false,
+    "imageFile": "plants/clematis-ligusticifolia.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Clematis_ligusticifolia",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "groundcover",
+      "erosion control"
+    ]
+  },
+  {
+    "id": "clematis-occidentalis",
+    "scientificName": "Clematis occidentalis",
+    "commonNames": [
+      "Western Blue Clematis"
+    ],
+    "family": "Ranunculaceae",
+    "nativeStates": [
+      "CO",
+      "CT",
+      "ID",
+      "MA",
+      "ME",
+      "MI",
+      "MN",
+      "MT",
+      "NH",
+      "NJ",
+      "NY",
+      "OR",
+      "PA",
+      "UT",
+      "VA",
+      "VT",
+      "WA",
+      "WI",
+      "WV",
+      "WY"
+    ],
+    "generalAppearance": "vine",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 6,
+      "max": 10
+    },
+    "spreadFeet": {
+      "min": 3,
+      "max": 6
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "rocky",
+      "loam"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "purple",
+      "blue"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Western blue clematis is a slender northern and montane vine with nodding violet-blue lantern flowers in spring and feathery seed heads, charming on a trellis or scrambling over shrubs.",
+    "usdaSymbol": "CLOC2",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/clematis-occidentalis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Clematis_occidentalis",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "groundcover",
+      "erosion control"
+    ]
+  },
+  {
+    "id": "clematis-pitcheri",
+    "scientificName": "Clematis pitcheri",
+    "commonNames": [
+      "Pitcher's Leatherflower"
+    ],
+    "family": "Ranunculaceae",
+    "nativeStates": [
+      "AR",
+      "IA",
+      "IL",
+      "KS",
+      "MO",
+      "NM",
+      "OK",
+      "TX"
+    ],
+    "generalAppearance": "vine",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 6,
+      "max": 12
+    },
+    "spreadFeet": {
+      "min": 3,
+      "max": 6
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "dry"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "purple"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Pitcher's leatherflower is a refined native vine hung with thick-petaled, urn-shaped purple bells through summer, a well-mannered climber for trellises and fences.",
+    "usdaSymbol": "CLPI",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/clematis-pitcheri.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Clematis_pitcheri",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "groundcover",
+      "erosion control"
+    ]
+  },
+  {
+    "id": "clematis-texensis",
+    "scientificName": "Clematis texensis",
+    "commonNames": [
+      "Scarlet Leatherflower"
+    ],
+    "family": "Ranunculaceae",
+    "nativeStates": [
+      "TX"
+    ],
+    "generalAppearance": "vine",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 6,
+      "max": 10
+    },
+    "spreadFeet": {
+      "min": 3,
+      "max": 6
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "rocky",
+      "loam"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "red"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Scarlet leatherflower is a Texas endemic vine with nodding, urn-shaped true-red bells that hummingbirds visit, blooming over a long season on a tidy, drought-tolerant climber.",
+    "usdaSymbol": "CLTE2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "alkaline",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/clematis-texensis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Clematis_texensis",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "groundcover",
+      "erosion control"
+    ]
+  },
+  {
+    "id": "cocculus-carolinus",
+    "scientificName": "Cocculus carolinus",
+    "commonNames": [
+      "Carolina Snailseed"
+    ],
+    "family": "Menispermaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "FL",
+      "GA",
+      "IL",
+      "KS",
+      "KY",
+      "LA",
+      "MO",
+      "MS",
+      "NC",
+      "OK",
+      "SC",
+      "TN",
+      "TX"
+    ],
+    "generalAppearance": "vine",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 10,
+      "max": 15
+    },
+    "spreadFeet": {
+      "min": 3,
+      "max": 6
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "dry"
+    ],
+    "soilType": [
+      "loam",
+      "sandy"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "green"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds"
+    ],
+    "deerResistant": false,
+    "notes": "Carolina snailseed is a twining native vine grown for its glossy, brilliant-red berry clusters in fall that birds devour, with inconspicuous greenish flowers. A good native screen.",
+    "usdaSymbol": "COCA",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "aggressive",
+    "springEphemeral": false,
+    "imageFile": "plants/cocculus-carolinus.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Nephroia_carolina",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "groundcover",
+      "erosion control"
+    ]
+  },
+  {
+    "id": "echites-umbellatus",
+    "scientificName": "Echites umbellatus",
+    "commonNames": [
+      "Devil's Potato"
+    ],
+    "family": "Apocynaceae",
+    "nativeStates": [
+      "FL"
+    ],
+    "generalAppearance": "vine",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 6,
+      "max": 15
+    },
+    "spreadFeet": {
+      "min": 3,
+      "max": 6
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": false,
+    "notes": "Devil's potato is an evergreen twining vine of South Florida hammocks and pinelands, with fragrant white pinwheel flowers, a larval host for the faithful beauty moth.",
+    "usdaSymbol": "ECUM2",
+    "nativeRegions": [
+      "L48",
+      "NAV"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/echites-umbellatus.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Echites_umbellatus",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "groundcover",
+      "erosion control"
+    ]
+  },
+  {
+    "id": "gelsemium-rankinii",
+    "scientificName": "Gelsemium rankinii",
+    "commonNames": [
+      "Swamp Jessamine"
+    ],
+    "family": "Gelsemiaceae",
+    "nativeStates": [
+      "AL",
+      "FL",
+      "GA",
+      "LA",
+      "MS"
+    ],
+    "generalAppearance": "vine",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 10,
+      "max": 20
+    },
+    "spreadFeet": {
+      "min": 3,
+      "max": 8
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "wet",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "sandy"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      10,
+      11
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Swamp jessamine is a twining Southeastern vine with fragrant yellow trumpet flowers in spring and again in fall, thriving in wet, sunny-to-shaded ground. All parts are toxic.",
+    "usdaSymbol": "GERA4",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/gelsemium-rankinii.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Gelsemium_rankinii",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "groundcover",
+      "rain garden",
+      "erosion control"
+    ]
+  },
+  {
+    "id": "ibervillea-lindheimeri",
+    "scientificName": "Ibervillea lindheimeri",
+    "commonNames": [
+      "Lindheimer's Globeberry"
+    ],
+    "family": "Cucurbitaceae",
+    "nativeStates": [
+      "TX"
+    ],
+    "generalAppearance": "vine",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 6,
+      "max": 10
+    },
+    "spreadFeet": {
+      "min": 3,
+      "max": 6
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "yellow",
+      "green"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "songbirds"
+    ],
+    "deerResistant": false,
+    "notes": "Lindheimer's globeberry is a drought-tough Texas cucurbit vine that sprouts each year from a huge caudex, with small flowers and shiny red berries for birds. A curiosity for xeric gardens.",
+    "usdaSymbol": "IBLI",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/ibervillea-lindheimeri.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Ibervillea_lindheimeri",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "groundcover",
+      "erosion control"
+    ]
+  },
+  {
+    "id": "ipomoea-alba",
+    "scientificName": "Ipomoea alba",
+    "commonNames": [
+      "Moonflower"
+    ],
+    "family": "Convolvulaceae",
+    "nativeStates": [
+      "FL",
+      "HI",
+      "VA"
+    ],
+    "generalAppearance": "vine",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 10,
+      "max": 15
+    },
+    "spreadFeet": {
+      "min": 3,
+      "max": 6
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "sandy"
+    ],
+    "bloomMonths": [
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": false,
+    "notes": "Moonflower unfurls huge, fragrant white trumpets at dusk for night-flying moths, a fast tropical-looking native vine for warm, sunny trellises and arbors.",
+    "usdaSymbol": "IPAL",
+    "nativeRegions": [
+      "L48",
+      "PR",
+      "VI"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "aggressive",
+    "springEphemeral": false,
+    "imageFile": "plants/ipomoea-alba.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Ipomoea_alba",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "groundcover",
+      "erosion control"
+    ]
+  },
+  {
+    "id": "ipomoea-hederifolia",
+    "scientificName": "Ipomoea hederifolia",
+    "commonNames": [
+      "Scarlet Morning Glory"
+    ],
+    "family": "Convolvulaceae",
+    "nativeStates": [
+      "AL",
+      "FL",
+      "GA",
+      "LA",
+      "MS",
+      "TX"
+    ],
+    "generalAppearance": "vine",
+    "lifespan": "annual",
+    "heightFeet": {
+      "min": 6,
+      "max": 15
+    },
+    "spreadFeet": {
+      "min": 3,
+      "max": 6
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist",
+      "dry"
+    ],
+    "soilType": [
+      "loam",
+      "sandy"
+    ],
+    "bloomMonths": [
+      8,
+      9,
+      10
+    ],
+    "bloomColors": [
+      "red"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds"
+    ],
+    "deerResistant": false,
+    "notes": "Scarlet morning glory is a fast annual vine hung with small brilliant-red trumpets that hummingbirds chase from late summer into fall. Self-sows in warm, sunny gardens.",
+    "usdaSymbol": "IPHE2",
+    "nativeRegions": [
+      "L48",
+      "PR",
+      "VI"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "aggressive",
+    "springEphemeral": false,
+    "imageFile": "plants/ipomoea-hederifolia.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Ipomoea_hederifolia",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "groundcover",
+      "erosion control"
+    ]
+  },
+  {
+    "id": "ipomoea-leptophylla",
+    "scientificName": "Ipomoea leptophylla",
+    "commonNames": [
+      "Bush Morning Glory"
+    ],
+    "family": "Convolvulaceae",
+    "nativeStates": [
+      "CO",
+      "KS",
+      "NE",
+      "NM",
+      "OK",
+      "SD",
+      "TX"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 3,
+      "max": 5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      6,
+      7
+    ],
+    "bloomColors": [
+      "pink",
+      "purple"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Bush morning glory is a non-climbing, mounding perennial morning glory of the Great Plains, with rose-purple funnels over a massive deep root. Exceptionally drought-proof for hot, sandy sites.",
+    "usdaSymbol": "IPLE",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/ipomoea-leptophylla.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Ipomoea_leptophylla",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border"
+    ]
+  },
+  {
+    "id": "ipomoea-pes-caprae",
+    "scientificName": "Ipomoea pes-caprae",
+    "commonNames": [
+      "Railroad Vine"
+    ],
+    "family": "Convolvulaceae",
+    "nativeStates": [
+      "FL",
+      "GA",
+      "HI",
+      "LA",
+      "MS",
+      "TX"
+    ],
+    "generalAppearance": "vine",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 10,
+      "max": 30
+    },
+    "spreadFeet": {
+      "min": 10,
+      "max": 30
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "bloomColors": [
+      "pink",
+      "purple"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": false,
+    "notes": "Railroad vine is a fast, salt- and drought-proof beach groundcover that races across dunes on long runners, dotted with pink-purple morning-glory flowers. A premier coastal dune stabilizer.",
+    "usdaSymbol": "IPPE",
+    "nativeRegions": [
+      "HI",
+      "L48",
+      "NAV",
+      "PB",
+      "PR",
+      "VI"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/ipomoea-pes-caprae.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Ipomoea_pes-caprae",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "groundcover",
+      "erosion control"
+    ]
+  },
+  {
+    "id": "matelea-gonocarpos",
+    "scientificName": "Matelea gonocarpos",
+    "commonNames": [
+      "Anglepod Milkvine"
+    ],
+    "family": "Apocynaceae",
+    "nativeStates": [
+      "AR",
+      "LA",
+      "TX"
+    ],
+    "generalAppearance": "vine",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 6,
+      "max": 12
+    },
+    "spreadFeet": {
+      "min": 3,
+      "max": 6
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "green",
+      "purple"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "larval host"
+    ],
+    "deerResistant": true,
+    "notes": "Anglepod milkvine is a twining milkweed relative of woodland edges, with star-shaped greenish-purple flowers and warty pods; like its kin it can host monarch and queen larvae.",
+    "usdaSymbol": "MAGO",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/matelea-gonocarpos.jpg",
+    "imageSource": "https://www.inaturalist.org/taxa/200074",
+    "imageCredit": "iNaturalist",
+    "landscapeUses": [
+      "groundcover",
+      "erosion control"
+    ]
+  },
+  {
+    "id": "mikania-scandens",
+    "scientificName": "Mikania scandens",
+    "commonNames": [
+      "Climbing Hempvine"
+    ],
+    "family": "Asteraceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DC",
+      "DE",
+      "FL",
+      "GA",
+      "IL",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "MS",
+      "NC",
+      "NJ",
+      "NY",
+      "OK",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "TX",
+      "VA"
+    ],
+    "generalAppearance": "vine",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 10,
+      "max": 15
+    },
+    "spreadFeet": {
+      "min": 3,
+      "max": 6
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "wet",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "clay",
+      "sandy"
+    ],
+    "bloomMonths": [
+      8,
+      9,
+      10
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Climbing hempvine is a vigorous native vine that drapes wet thickets and marsh edges with clusters of fuzzy white flowers in fall, a major late-season nectar source. Give it room to ramble.",
+    "usdaSymbol": "MISC",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "aggressive",
+    "springEphemeral": false,
+    "imageFile": "plants/mikania-scandens.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Mikania_scandens",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "groundcover",
+      "rain garden",
+      "erosion control"
+    ]
+  },
+  {
+    "id": "passiflora-foetida",
+    "scientificName": "Passiflora foetida",
+    "commonNames": [
+      "Fetid Passionflower"
+    ],
+    "family": "Passifloraceae",
+    "nativeStates": [
+      "HI",
+      "TX"
+    ],
+    "generalAppearance": "vine",
+    "lifespan": "annual",
+    "heightFeet": {
+      "min": 6,
+      "max": 10
+    },
+    "spreadFeet": {
+      "min": 3,
+      "max": 6
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "white",
+      "pink"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Fetid passionflower is a delicate annual-to-tender passionvine with lacy-bracted white-and-pink flowers and small edible fruit, a larval host for gulf fritillary and other longwings.",
+    "usdaSymbol": "PAFO2",
+    "nativeRegions": [
+      "L48",
+      "PR",
+      "VI"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/passiflora-foetida.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Passiflora_foetida",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "groundcover",
+      "erosion control"
+    ]
+  },
+  {
+    "id": "passiflora-lutea",
+    "scientificName": "Passiflora lutea",
+    "commonNames": [
+      "Yellow Passionflower"
+    ],
+    "family": "Passifloraceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "DC",
+      "FL",
+      "GA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MD",
+      "MO",
+      "MS",
+      "NC",
+      "OH",
+      "OK",
+      "PA",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "WV"
+    ],
+    "generalAppearance": "vine",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 6,
+      "max": 12
+    },
+    "spreadFeet": {
+      "min": 3,
+      "max": 6
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "dry"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "yellow",
+      "green"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Yellow passionflower is a dainty native passionvine with small greenish-yellow flowers and purple-black berries, a shade-tolerant larval host for gulf fritillary and zebra longwing.",
+    "usdaSymbol": "PALU2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/passiflora-lutea.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Passiflora_lutea",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "groundcover",
+      "erosion control"
+    ]
+  },
+  {
+    "id": "passiflora-tenuiloba",
+    "scientificName": "Passiflora tenuiloba",
+    "commonNames": [
+      "Birdwing Passionflower"
+    ],
+    "family": "Passifloraceae",
+    "nativeStates": [
+      "TX"
+    ],
+    "generalAppearance": "vine",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 8
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "green",
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies",
+      "larval host"
+    ],
+    "deerResistant": false,
+    "notes": "Birdwing passionflower is a fine-leaved desert passionvine of Texas and the Southwest, with tiny green-yellow flowers, a drought-hardy larval host for fritillaries and longwings.",
+    "usdaSymbol": "PATE9",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/passiflora-tenuiloba.jpg",
+    "imageSource": "https://www.inaturalist.org/taxa/166217",
+    "imageCredit": "iNaturalist",
+    "landscapeUses": [
+      "groundcover",
+      "erosion control"
+    ]
+  },
+  {
+    "id": "plumbago-scandens",
+    "scientificName": "Plumbago scandens",
+    "commonNames": [
+      "Doctorbush"
+    ],
+    "family": "Plumbaginaceae",
+    "nativeStates": [
+      "AZ",
+      "FL"
+    ],
+    "generalAppearance": "vine",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 6
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": false,
+    "notes": "Doctorbush (wild plumbago) is a sprawling, shrubby vine of the South with white phlox-like flowers nearly year-round, a larval host for the cassius blue butterfly and tolerant of dry shade.",
+    "usdaSymbol": "PLSC4",
+    "nativeRegions": [
+      "L48",
+      "NAV",
+      "PR",
+      "VI"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/plumbago-scandens.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Plumbago_zeylanica",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "groundcover",
+      "erosion control"
+    ]
   }
 ]
