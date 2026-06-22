@@ -38,7 +38,7 @@ for ln in out:
     elif ln.startswith('- [ ] ') and cur:
         counts[cur] += 1
 for p, c in counts.items():
-    t = re.sub(r'(\| ' + p + r' — [^|]*\| )\d+( \|)', r'\g<1>' + str(c) + r'\2', t)
+    t = re.sub(r'(\| ' + p + r' (?:— [^|]*)?\| )\d+( \|)', r'\g<1>' + str(c) + r'\2', t)
 total = sum(counts.values())
 t = re.sub(r'\*\*\d+\*\* species', f'**{total}** species', t)
 open('CATALOG_GAPS.md', 'w').write(t)

@@ -125118,5 +125118,2723 @@
       "foundation",
       "rain garden"
     ]
+  },
+  {
+    "id": "aconitum-columbianum",
+    "scientificName": "Aconitum columbianum",
+    "commonNames": [
+      "Columbian Monkshood"
+    ],
+    "family": "Ranunculaceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "CO",
+      "ID",
+      "MT",
+      "NM",
+      "NV",
+      "OR",
+      "SD",
+      "UT",
+      "WA",
+      "WI",
+      "WY"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 6
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "purple",
+      "blue"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Columbian monkshood is a tall western mountain perennial with deeply cut leaves and hooded violet-blue flowers along wet streambanks and meadows. Dramatic for moist shade; all parts are highly toxic.",
+    "usdaSymbol": "ACCO4",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/aconitum-columbianum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Aconitum_columbianum",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "rain garden"
+    ]
+  },
+  {
+    "id": "arabis-blepharophylla",
+    "scientificName": "Arabis blepharophylla",
+    "commonNames": [
+      "Coast Rock Cress"
+    ],
+    "family": "Brassicaceae",
+    "nativeStates": [
+      "CA"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.3,
+      "max": 0.8
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5
+    ],
+    "bloomColors": [
+      "pink",
+      "purple"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Coast rock cress is a compact California rosette plant that erupts in fragrant rose-purple flowers in early spring, a cheerful, drought-tolerant choice for sunny rock gardens and walls.",
+    "usdaSymbol": "ARBL",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/arabis-blepharophylla.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Arabis_blepharophylla",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "container"
+    ]
+  },
+  {
+    "id": "argentina-anserina",
+    "scientificName": "Argentina anserina",
+    "commonNames": [
+      "Silverweed"
+    ],
+    "family": "Rosaceae",
+    "nativeStates": [
+      "AK",
+      "AZ",
+      "CA",
+      "CO",
+      "CT",
+      "ID",
+      "IL",
+      "MA",
+      "ME",
+      "MI",
+      "MN",
+      "MT",
+      "ND",
+      "NH",
+      "NM",
+      "NV",
+      "NY",
+      "OH",
+      "OR",
+      "PA",
+      "SD",
+      "UT",
+      "VT",
+      "WA",
+      "WI",
+      "WY"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.2,
+      "max": 0.5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "sandy"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Silverweed is a creeping perennial of moist shores and meadows, with ferny silver-backed leaves and bright yellow buttercup-like flowers on runners. Spreads as a tough groundcover; roots are edible.",
+    "usdaSymbol": "ARAN7",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "L48",
+      "SPM"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/argentina-anserina.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Argentina_anserina",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "groundcover",
+      "container",
+      "rain garden",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "armeria-maritima",
+    "scientificName": "Armeria maritima",
+    "commonNames": [
+      "Sea Thrift"
+    ],
+    "family": "Plumbaginaceae",
+    "nativeStates": [
+      "AK",
+      "CA",
+      "OR",
+      "WA"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "pink",
+      "white"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Sea thrift forms tidy grassy evergreen cushions topped with round pink-to-white flower pompons over a long season, a salt- and drought-tolerant native for coastal beds, rock gardens, and edging.",
+    "usdaSymbol": "ARMA6",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "GL",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/armeria-maritima.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Armeria_maritima",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "calochortus-ambiguus",
+    "scientificName": "Calochortus ambiguus",
+    "commonNames": [
+      "Doubting Mariposa Lily"
+    ],
+    "family": "Liliaceae",
+    "nativeStates": [
+      "AZ",
+      "NM"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 0.3,
+      "max": 0.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "white",
+      "pink"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Doubting mariposa lily is a Southwestern bulb that lifts elegant cupped white-to-pinkish flowers, intricately marked within, on slender stems above grassy uplands. A drought-adapted summer gem.",
+    "usdaSymbol": "CAAM4",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/calochortus-ambiguus.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Calochortus_ambiguus",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "calochortus-nuttallii",
+    "scientificName": "Calochortus nuttallii",
+    "commonNames": [
+      "Sego Lily"
+    ],
+    "family": "Liliaceae",
+    "nativeStates": [
+      "AZ",
+      "CO",
+      "ID",
+      "MT",
+      "ND",
+      "NE",
+      "NM",
+      "NV",
+      "SD",
+      "UT",
+      "WY"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 0.3,
+      "max": 0.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "white",
+      "yellow"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Sego lily, Utah's state flower, is a Great Basin bulb with chalice-shaped white flowers brushed yellow and purple at the base. A drought-hardy beauty of dry grasslands and sagebrush.",
+    "usdaSymbol": "CANU3",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/calochortus-nuttallii.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Calochortus_nuttallii",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "campanula-uniflora",
+    "scientificName": "Campanula uniflora",
+    "commonNames": [
+      "Arctic Bellflower"
+    ],
+    "family": "Campanulaceae",
+    "nativeStates": [
+      "AK",
+      "CO"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.2,
+      "max": 0.5
+    },
+    "spreadFeet": {
+      "min": 0.2,
+      "max": 0.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "blue",
+      "purple"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Arctic bellflower is a diminutive alpine perennial of high, cold scree, holding a single nodding blue-violet bell on a wiry stem. A choice miniature for trough and rock gardens.",
+    "usdaSymbol": "CAUN2",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "GL",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/campanula-uniflora.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Melanocalyx_uniflora",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "container"
+    ]
+  },
+  {
+    "id": "chamerion-angustifolium",
+    "scientificName": "Chamerion angustifolium",
+    "commonNames": [
+      "Fireweed"
+    ],
+    "family": "Onagraceae",
+    "nativeStates": [
+      "AK",
+      "CA",
+      "CO",
+      "ID",
+      "NY",
+      "OR",
+      "UT",
+      "WA",
+      "WI",
+      "WY"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 6
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "sandy"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "pink",
+      "purple"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Fireweed is a bold pioneer perennial that paints burned and disturbed ground with spires of magenta-pink flowers, a major nectar source for bees (a prized honey plant) and hummingbirds. Spreads readily.",
+    "usdaSymbol": "CHAN9",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "GL",
+      "L48",
+      "SPM"
+    ],
+    "cutFlower": true,
+    "culinaryUse": true,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/chamerion-angustifolium.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Chamaenerion_angustifolium",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "chamerion-latifolium",
+    "scientificName": "Chamerion latifolium",
+    "commonNames": [
+      "Dwarf Fireweed"
+    ],
+    "family": "Onagraceae",
+    "nativeStates": [
+      "AK",
+      "CO",
+      "MT",
+      "WA"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "pink"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Dwarf fireweed (river beauty) is a low alpine and arctic perennial of gravelly riverbars, with large rose-pink flowers outsized for the plant. A choice, hardy native for cold rock gardens.",
+    "usdaSymbol": "CHLA13",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "GL",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/chamerion-latifolium.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Chamaenerion_latifolium",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "chlorogalum-pomeridianum",
+    "scientificName": "Chlorogalum pomeridianum",
+    "commonNames": [
+      "Soap Plant"
+    ],
+    "family": "Asparagaceae",
+    "nativeStates": [
+      "CA",
+      "OR"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 8
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Soap plant (amole) is a California bulb sending up a tall, airy candelabra of white evening-opening flowers above a basal rosette of wavy leaves. Drought-adapted; the bulb was long used as soap.",
+    "usdaSymbol": "CHPO3",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/chlorogalum-pomeridianum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Chlorogalum_pomeridianum",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border"
+    ]
+  },
+  {
+    "id": "darmera-peltata",
+    "scientificName": "Darmera peltata",
+    "commonNames": [
+      "Umbrella Plant"
+    ],
+    "family": "Saxifragaceae",
+    "nativeStates": [
+      "CA",
+      "OR"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "lightRequirement": [
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "pink",
+      "white"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Umbrella plant is a striking streamside perennial of the Pacific mountains that thrusts up pink flower clusters before its huge round parasol leaves emerge. Bold for pondsides and wet shade.",
+    "usdaSymbol": "DAPE",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/darmera-peltata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Darmera",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "rain garden",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "dichelostemma-capitatum",
+    "scientificName": "Dichelostemma capitatum",
+    "commonNames": [
+      "Blue Dicks"
+    ],
+    "family": "Asparagaceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "OR"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 0.3,
+      "max": 0.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5
+    ],
+    "bloomColors": [
+      "blue",
+      "purple"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Blue dicks is a widespread western bulb that lifts dense clusters of blue-violet flowers on slender stalks in spring, a drought-adapted, easy native and an important early nectar source. Corms are edible.",
+    "usdaSymbol": "DICA14",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/dichelostemma-capitatum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Dipterostemon",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "dryas-octopetala",
+    "scientificName": "Dryas octopetala",
+    "commonNames": [
+      "Mountain Avens"
+    ],
+    "family": "Rosaceae",
+    "nativeStates": [
+      "AK",
+      "CO",
+      "ID",
+      "MT",
+      "UT",
+      "WA",
+      "WY"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.2,
+      "max": 0.5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "white",
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Mountain avens is a mat-forming alpine evergreen subshrub with crinkled leaves, eight-petaled creamy flowers, and feathery silver seedheads. A nitrogen-fixing classic for limestone rock gardens.",
+    "usdaSymbol": "DROC",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "GL",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "mat-forming",
+    "springEphemeral": false,
+    "imageFile": "plants/dryas-octopetala.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Dryas_octopetala",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "foundation",
+      "container"
+    ]
+  },
+  {
+    "id": "epilobium-obcordatum",
+    "scientificName": "Epilobium obcordatum",
+    "commonNames": [
+      "Rockfringe Willowherb"
+    ],
+    "family": "Onagraceae",
+    "nativeStates": [
+      "CA",
+      "ID",
+      "NV",
+      "OR"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.2,
+      "max": 0.5
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      7,
+      8
+    ],
+    "bloomColors": [
+      "pink",
+      "red"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Rockfringe is a low alpine mat smothered in surprisingly large rose-pink flowers in late summer, a showy, drought-tolerant native for sunny scree and rock-garden crevices.",
+    "usdaSymbol": "EPOB",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "mat-forming",
+    "springEphemeral": false,
+    "imageFile": "plants/epilobium-obcordatum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Epilobium_obcordatum",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "container"
+    ]
+  },
+  {
+    "id": "epilobium-rigidum",
+    "scientificName": "Epilobium rigidum",
+    "commonNames": [
+      "Siskiyou Willowherb"
+    ],
+    "family": "Onagraceae",
+    "nativeStates": [
+      "CA",
+      "OR"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      7,
+      8
+    ],
+    "bloomColors": [
+      "pink"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Siskiyou willowherb is a rare serpentine-slope perennial of the Klamath region with blue-green leaves and large rose-pink flowers, a tough, drought-tolerant rock-garden plant for hot, lean soils.",
+    "usdaSymbol": "EPRI",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/epilobium-rigidum.jpg",
+    "imageSource": "https://www.inaturalist.org/taxa/76842",
+    "imageCredit": "iNaturalist",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "epilobium-septentrionale",
+    "scientificName": "Epilobium septentrionale",
+    "commonNames": [
+      "Humboldt County Fuchsia"
+    ],
+    "family": "Onagraceae",
+    "nativeStates": [
+      "CA"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "red",
+      "orange"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Humboldt County fuchsia is a low, soft gray-felted California perennial that glows with scarlet-orange tubular flowers in late summer, a hummingbird magnet and drought-tolerant groundcover.",
+    "usdaSymbol": "EPSE3",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "mat-forming",
+    "springEphemeral": false,
+    "imageFile": "plants/epilobium-septentrionale.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Epilobium_septentrionale",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "geum-triflorum",
+    "scientificName": "Geum triflorum",
+    "commonNames": [
+      "Prairie Smoke"
+    ],
+    "family": "Rosaceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "CO",
+      "IA",
+      "ID",
+      "IL",
+      "MI",
+      "MN",
+      "MT",
+      "ND",
+      "NM",
+      "NV",
+      "NY",
+      "OR",
+      "SD",
+      "UT",
+      "WA",
+      "WI",
+      "WY"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "pink",
+      "red"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Prairie smoke is a beloved prairie perennial whose nodding dusky-pink flowers give way to wispy, smoke-like feathered seedheads that catch the light. Drought-tolerant and enchanting in masses.",
+    "usdaSymbol": "GETR",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/geum-triflorum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Geum_triflorum",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "hesperocallis-undulata",
+    "scientificName": "Hesperocallis undulata",
+    "commonNames": [
+      "Desert Lily"
+    ],
+    "family": "Asparagaceae",
+    "nativeStates": [
+      "AZ",
+      "CA"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Desert lily is a spectacular deep-set bulb of the Sonoran and Mojave deserts that sends up fragrant, lily-like white flowers after winter rains. A drought-dormant jewel of sandy flats.",
+    "usdaSymbol": "HEUN2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/hesperocallis-undulata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Hesperocallis",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border"
+    ]
+  },
+  {
+    "id": "kalmiopsis-leachiana",
+    "scientificName": "Kalmiopsis leachiana",
+    "commonNames": [
+      "Kalmiopsis"
+    ],
+    "family": "Ericaceae",
+    "nativeStates": [
+      "OR"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "pink",
+      "purple"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Kalmiopsis is a rare, exquisite dwarf evergreen shrublet endemic to southwest Oregon, covered in rose-purple laurel-like flowers in spring. A prized, slow alpine for acidic, gritty rock gardens.",
+    "usdaSymbol": "KALE",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/kalmiopsis-leachiana.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Kalmiopsis_leachiana",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "foundation",
+      "container"
+    ]
+  },
+  {
+    "id": "lewisia-cotyledon",
+    "scientificName": "Lewisia cotyledon",
+    "commonNames": [
+      "Cliff Maids"
+    ],
+    "family": "Montiaceae",
+    "nativeStates": [
+      "CA",
+      "OR"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "pink",
+      "white",
+      "orange"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Cliff maids form succulent evergreen rosettes that throw up sprays of candy-striped flowers in pink, peach, white, and orange. A dazzling, drought-tolerant native for crevices and walls with sharp drainage.",
+    "usdaSymbol": "LECO5",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/lewisia-cotyledon.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Lewisia_cotyledon",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "lewisia-rediviva",
+    "scientificName": "Lewisia rediviva",
+    "commonNames": [
+      "Bitterroot"
+    ],
+    "family": "Montiaceae",
+    "nativeStates": [
+      "CA",
+      "CO",
+      "ID",
+      "MT",
+      "NV",
+      "OR",
+      "UT",
+      "WA",
+      "WY"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.1,
+      "max": 0.3
+    },
+    "spreadFeet": {
+      "min": 0.3,
+      "max": 0.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "pink",
+      "white"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Bitterroot, Montana's state flower, opens improbably large satiny rose-pink flowers nearly at ground level after its leaves wither. A drought-dormant treasure of dry, gravelly western slopes; roots were a food staple.",
+    "usdaSymbol": "LERE7",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/lewisia-rediviva.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Bitterroot",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "container"
+    ]
+  },
+  {
+    "id": "luetkea-pectinata",
+    "scientificName": "Luetkea pectinata",
+    "commonNames": [
+      "Partridgefoot"
+    ],
+    "family": "Rosaceae",
+    "nativeStates": [
+      "AK",
+      "CA",
+      "OR",
+      "WA"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.2,
+      "max": 0.5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      7,
+      8
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Partridgefoot is a low evergreen mat of finely dissected leaves topped with short spikes of creamy flowers, carpeting moist alpine meadows and slopes. A fine groundcover for cool, gritty mountain gardens.",
+    "usdaSymbol": "LUPE",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "mat-forming",
+    "springEphemeral": false,
+    "imageFile": "plants/luetkea-pectinata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Luetkea",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "container"
+    ]
+  },
+  {
+    "id": "minuartia-obtusiloba",
+    "scientificName": "Minuartia obtusiloba",
+    "commonNames": [
+      "Alpine Sandwort"
+    ],
+    "family": "Caryophyllaceae",
+    "nativeStates": [
+      "AK",
+      "CO",
+      "ID",
+      "MT",
+      "UT",
+      "WA",
+      "WY"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.1,
+      "max": 0.3
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Alpine sandwort builds dense emerald cushions studded with tiny white star flowers, hugging high, windswept fellfields. A choice, durable miniature for troughs and crevice gardens.",
+    "usdaSymbol": "MIOB2",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "mat-forming",
+    "springEphemeral": false,
+    "imageFile": "plants/minuartia-obtusiloba.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Cherleria_obtusiloba",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "container"
+    ]
+  },
+  {
+    "id": "nothochelone-nemorosa",
+    "scientificName": "Nothochelone nemorosa",
+    "commonNames": [
+      "Woodland Beardtongue"
+    ],
+    "family": "Plantaginaceae",
+    "nativeStates": [
+      "CA",
+      "OR",
+      "WA"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "purple",
+      "pink"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "hummingbirds"
+    ],
+    "deerResistant": true,
+    "notes": "Woodland beardtongue is a graceful penstemon relative of moist Pacific Northwest forests, dangling rose-purple tubular flowers in open clusters. A hummingbird favorite for cool, part-shade gardens.",
+    "usdaSymbol": "NONE3",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/nothochelone-nemorosa.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Nothochelone",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border"
+    ]
+  },
+  {
+    "id": "oxyria-digyna",
+    "scientificName": "Oxyria digyna",
+    "commonNames": [
+      "Mountain Sorrel"
+    ],
+    "family": "Polygonaceae",
+    "nativeStates": [
+      "AK",
+      "AZ",
+      "CA",
+      "CO",
+      "ID",
+      "MT",
+      "NH",
+      "NV",
+      "OR",
+      "UT",
+      "WA",
+      "WY"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.3,
+      "max": 1
+    },
+    "spreadFeet": {
+      "min": 0.3,
+      "max": 0.8
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "green",
+      "red"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Mountain sorrel is a circumpolar alpine perennial with kidney-shaped leaves and reddish-green flower spikes that flush crimson in seed. The tangy, vitamin-C-rich leaves are edible; tidy for cool rock gardens.",
+    "usdaSymbol": "OXDI3",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "GL",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": true,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/oxyria-digyna.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Oxyria_digyna",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "phyllodoce-empetriformis",
+    "scientificName": "Phyllodoce empetriformis",
+    "commonNames": [
+      "Pink Mountain Heather"
+    ],
+    "family": "Ericaceae",
+    "nativeStates": [
+      "CA",
+      "ID",
+      "MT",
+      "OR",
+      "WA",
+      "WY"
+    ],
+    "generalAppearance": "shrub",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "pink",
+      "purple"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Pink mountain heather is a low evergreen heath of high western slopes, forming needle-leaved mats hung with rosy bell flowers near melting snow. A choice, slow shrublet for cool, acidic rock gardens.",
+    "usdaSymbol": "PHEM",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "mat-forming",
+    "springEphemeral": false,
+    "imageFile": "plants/phyllodoce-empetriformis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Phyllodoce_empetriformis",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "foundation",
+      "container"
+    ]
+  },
+  {
+    "id": "potentilla-gracilis",
+    "scientificName": "Potentilla gracilis",
+    "commonNames": [
+      "Slender Cinquefoil"
+    ],
+    "family": "Rosaceae",
+    "nativeStates": [
+      "AK",
+      "CA",
+      "CO",
+      "ID",
+      "MT",
+      "NM",
+      "NV",
+      "OR",
+      "SD",
+      "UT",
+      "WA",
+      "WY"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2.5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Slender cinquefoil is a graceful western meadow perennial with palmate leaves and airy sprays of bright yellow flowers all summer, an easy, drought-tolerant pollinator plant for sunny borders and prairies.",
+    "usdaSymbol": "POGR9",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/potentilla-gracilis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Potentilla_gracilis",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border"
+    ]
+  },
+  {
+    "id": "potentilla-simplex",
+    "scientificName": "Potentilla simplex",
+    "commonNames": [
+      "Common Cinquefoil"
+    ],
+    "family": "Rosaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Common cinquefoil is a low, running eastern woodland perennial with strawberry-like leaves and small yellow five-petaled flowers in spring, a tough native groundcover for sun or part shade.",
+    "usdaSymbol": "POSI2",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/potentilla-simplex.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Potentilla_simplex",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "potentilla-thurberi",
+    "scientificName": "Potentilla thurberi",
+    "commonNames": [
+      "Scarlet Cinquefoil"
+    ],
+    "family": "Rosaceae",
+    "nativeStates": [
+      "AZ",
+      "NM"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2.5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "red"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators",
+      "butterflies"
+    ],
+    "deerResistant": true,
+    "notes": "Scarlet cinquefoil is a Southwestern mountain perennial unusual for its deep wine-red flowers over a long summer season, a drought-tolerant, long-blooming native for sunny borders.",
+    "usdaSymbol": "POTH2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/potentilla-thurberi.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Potentilla_thurberi",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border"
+    ]
+  },
+  {
+    "id": "saxifraga-bronchialis",
+    "scientificName": "Saxifraga bronchialis",
+    "commonNames": [
+      "Spotted Saxifrage"
+    ],
+    "family": "Saxifragaceae",
+    "nativeStates": [
+      "AK",
+      "CO",
+      "ID",
+      "MT",
+      "NM",
+      "OR",
+      "UT",
+      "WA",
+      "WY"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.2,
+      "max": 0.5
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "white",
+      "yellow"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Spotted saxifrage forms tight, spiny evergreen mats of tiny rosettes topped with white flowers freckled red and yellow, a hardy, drought-tolerant native for crevices, troughs, and rock walls.",
+    "usdaSymbol": "SABR6",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "mat-forming",
+    "springEphemeral": false,
+    "imageFile": "plants/saxifraga-bronchialis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Saxifraga_bronchialis",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "container"
+    ]
+  },
+  {
+    "id": "saxifraga-oppositifolia",
+    "scientificName": "Saxifraga oppositifolia",
+    "commonNames": [
+      "Purple Mountain Saxifrage"
+    ],
+    "family": "Saxifragaceae",
+    "nativeStates": [
+      "AK",
+      "ID",
+      "MT",
+      "VT",
+      "WA",
+      "WY"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.1,
+      "max": 0.3
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      3,
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "purple",
+      "pink"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Purple mountain saxifrage is one of the earliest and hardiest of all alpines, pressing magenta flowers flat against trailing mats as snow recedes. A treasured, cold-loving plant for limestone crevices.",
+    "usdaSymbol": "SAOP",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "GL",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "mat-forming",
+    "springEphemeral": false,
+    "imageFile": "plants/saxifraga-oppositifolia.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Saxifraga_oppositifolia",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "container"
+    ]
+  },
+  {
+    "id": "sibbaldiopsis-tridentata",
+    "scientificName": "Sibbaldiopsis tridentata",
+    "commonNames": [
+      "Three-toothed Cinquefoil"
+    ],
+    "family": "Rosaceae",
+    "nativeStates": [
+      "MA",
+      "ME",
+      "MI",
+      "MN",
+      "NC",
+      "NH",
+      "NY",
+      "TN",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.3,
+      "max": 1
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "alternate",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Three-toothed cinquefoil is a low, woody-based native with glossy three-toothed leaves that redden in fall and clusters of small white flowers, a tough evergreen-ish mat for sunny, acidic rocky ground.",
+    "usdaSymbol": "SITR3",
+    "nativeRegions": [
+      "CAN",
+      "GL",
+      "L48",
+      "SPM"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "mat-forming",
+    "springEphemeral": false,
+    "imageFile": "plants/sibbaldiopsis-tridentata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Sibbaldia_tridentata",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container"
+    ]
+  },
+  {
+    "id": "tolmiea-menziesii",
+    "scientificName": "Tolmiea menziesii",
+    "commonNames": [
+      "Piggyback Plant"
+    ],
+    "family": "Saxifragaceae",
+    "nativeStates": [
+      "CA",
+      "OR",
+      "WA"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2.5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "brown",
+      "green",
+      "purple"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Piggyback plant is a Pacific Northwest woodlander famous for sprouting new plantlets where leaf meets stalk, with spikes of slender chocolate-and-green flowers. A lush, easy groundcover for moist shade.",
+    "usdaSymbol": "TOME",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/tolmiea-menziesii.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Tolmiea_menziesii",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "trollius-laxus",
+    "scientificName": "Trollius laxus",
+    "commonNames": [
+      "American Globeflower"
+    ],
+    "family": "Ranunculaceae",
+    "nativeStates": [
+      "CO",
+      "CT",
+      "ID",
+      "MT",
+      "NJ",
+      "NY",
+      "PA",
+      "UT",
+      "WA",
+      "WY"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "yellow",
+      "white"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "American globeflower is a rare buttercup relative of cold wet meadows and fens, holding cupped creamy-yellow flowers on slender stems in spring. A choice native for consistently moist, sunny ground.",
+    "usdaSymbol": "TRLA14",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/trollius-laxus.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Trollius_laxus",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container",
+      "rain garden"
+    ]
+  },
+  {
+    "id": "vancouveria-chrysantha",
+    "scientificName": "Vancouveria chrysantha",
+    "commonNames": [
+      "Golden Inside-out Flower"
+    ],
+    "family": "Berberidaceae",
+    "nativeStates": [
+      "CA",
+      "OR"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "yellow"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Golden inside-out flower is a Siskiyou woodland perennial with leathery evergreen leaflets and airy sprays of nodding yellow flowers whose petals sweep backward. A refined evergreen groundcover for shade.",
+    "usdaSymbol": "VACH2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/vancouveria-chrysantha.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Vancouveria_chrysantha",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "whipplea-modesta",
+    "scientificName": "Whipplea modesta",
+    "commonNames": [
+      "Modesty"
+    ],
+    "family": "Hydrangeaceae",
+    "nativeStates": [
+      "CA",
+      "OR",
+      "WA"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.2,
+      "max": 0.5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "lightRequirement": [
+      "part shade",
+      "shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "opposite",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "pollinators"
+    ],
+    "deerResistant": true,
+    "notes": "Modesty (yerba de selva) is a trailing Pacific-coast subshrub that mats the forest floor with small white flower clusters in spring, an easy, drought-tolerant evergreen groundcover for dry shade.",
+    "usdaSymbol": "WHMO",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/whipplea-modesta.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Whipplea",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "groundcover",
+      "container",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "xerophyllum-tenax",
+    "scientificName": "Xerophyllum tenax",
+    "commonNames": [
+      "Beargrass"
+    ],
+    "family": "Melanthiaceae",
+    "nativeStates": [
+      "CA",
+      "ID",
+      "MT",
+      "OR",
+      "WA"
+    ],
+    "generalAppearance": "wildflower",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "white"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "pollinators",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Beargrass is a dramatic western mountain perennial with a fountain of tough grasslike evergreen leaves and a towering creamy plume of tiny flowers. Fire-adapted and a striking, architectural native.",
+    "usdaSymbol": "XETE",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/xerophyllum-tenax.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Xerophyllum_tenax",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border"
+    ]
   }
 ]
