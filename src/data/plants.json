@@ -108172,5 +108172,2382 @@
       "erosion control",
       "naturalizing"
     ]
+  },
+  {
+    "id": "agrostis-exarata",
+    "scientificName": "Agrostis exarata",
+    "commonNames": [
+      "Spike Bentgrass"
+    ],
+    "family": "Poaceae",
+    "nativeStates": [
+      "AK",
+      "AZ",
+      "CA",
+      "CO",
+      "ID",
+      "MT",
+      "NM",
+      "NV",
+      "OR",
+      "UT",
+      "WA",
+      "WY"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist",
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "sandy"
+    ],
+    "bloomMonths": [
+      6,
+      7
+    ],
+    "bloomColors": [
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Spike bentgrass is an adaptable western bentgrass of moist meadows and streambanks, used in restoration and erosion control on a range of wet-to-mesic soils.",
+    "usdaSymbol": "AGEX",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/agrostis-exarata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Agrostis_exarata",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "border",
+      "rain garden",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "agrostis-scabra",
+    "scientificName": "Agrostis scabra",
+    "commonNames": [
+      "Rough Bentgrass"
+    ],
+    "family": "Poaceae",
+    "nativeStates": [
+      "AK",
+      "AZ",
+      "CA",
+      "CO",
+      "CT",
+      "FL",
+      "GA",
+      "IA",
+      "ID",
+      "IN",
+      "MA",
+      "ME",
+      "MI",
+      "MN",
+      "MT",
+      "NC",
+      "NE",
+      "NH",
+      "NJ",
+      "NM",
+      "NV",
+      "NY",
+      "OH",
+      "OR",
+      "PA",
+      "SD",
+      "TN",
+      "UT",
+      "VA",
+      "VT",
+      "WA",
+      "WI",
+      "WV",
+      "WY"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2.5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Rough bentgrass (ticklegrass) is a delicate, widespread cool-season grass whose diffuse, hair-fine seed heads catch the light and break off to tumble in the wind.",
+    "usdaSymbol": "AGSC5",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "GL",
+      "L48",
+      "SPM"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/agrostis-scabra.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Agrostis_scabra",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "amphicarpum-muehlenbergianum",
+    "scientificName": "Amphicarpum muehlenbergianum",
+    "commonNames": [
+      "Blue Maidencane"
+    ],
+    "family": "Poaceae",
+    "nativeStates": [
+      "FL",
+      "SC"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "wet",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      8,
+      9,
+      10
+    ],
+    "bloomColors": [
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Blue maidencane is a Florida wetland grass of wet flatwoods and marsh edges, spreading by rhizome to provide cover and seed in saturated, sandy ground.",
+    "usdaSymbol": "AMMU2",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/amphicarpum-muehlenbergianum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Amphicarpum_muehlenbergianum",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "border",
+      "rain garden",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "aristida-beyrichiana",
+    "scientificName": "Aristida beyrichiana",
+    "commonNames": [
+      "Wiregrass"
+    ],
+    "family": "Poaceae",
+    "nativeStates": [
+      "AL",
+      "FL",
+      "GA",
+      "SC"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1.5,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy"
+    ],
+    "bloomMonths": [
+      9,
+      10,
+      11
+    ],
+    "bloomColors": [
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Wiregrass is the keystone bunchgrass of the longleaf pine savanna, carrying ground fire that the ecosystem depends on. Essential for Southeastern sandhill and savanna restoration.",
+    "usdaSymbol": "ARBE7",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/aristida-beyrichiana.jpg",
+    "imageSource": "https://www.inaturalist.org/taxa/158654",
+    "imageCredit": "iNaturalist",
+    "landscapeUses": [
+      "specimen",
+      "border",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "aristida-purpurascens",
+    "scientificName": "Aristida purpurascens",
+    "commonNames": [
+      "Arrowfeather Threeawn"
+    ],
+    "family": "Poaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "FL",
+      "GA",
+      "IN",
+      "KS",
+      "LA",
+      "MA",
+      "MD",
+      "MI",
+      "MO",
+      "MS",
+      "NC",
+      "NJ",
+      "OH",
+      "OK",
+      "PA",
+      "SC",
+      "TN",
+      "TX",
+      "VA"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2.5
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "rocky",
+      "loam"
+    ],
+    "bloomMonths": [
+      8,
+      9,
+      10
+    ],
+    "bloomColors": [
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Arrowfeather threeawn is a slender native bunchgrass of dry sandy barrens and open woods, with feathery purplish seed heads. A larval host and cover grass for lean soils.",
+    "usdaSymbol": "ARPU8",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/aristida-purpurascens.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Aristida_purpurascens",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "bromus-carinatus",
+    "scientificName": "Bromus carinatus",
+    "commonNames": [
+      "California Brome"
+    ],
+    "family": "Poaceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "CO",
+      "ID",
+      "MT",
+      "NM",
+      "NV",
+      "OR",
+      "TX",
+      "UT",
+      "WA",
+      "WY"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist",
+      "dry"
+    ],
+    "soilType": [
+      "loam",
+      "sandy"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "California brome is a fast cool-season bunchgrass of western woodlands and grasslands, widely used for quick cover and erosion control after fire or disturbance.",
+    "usdaSymbol": "BRCA5",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/bromus-carinatus.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Bromus_carinatus",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "border",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "bromus-kalmii",
+    "scientificName": "Bromus kalmii",
+    "commonNames": [
+      "Prairie Brome"
+    ],
+    "family": "Poaceae",
+    "nativeStates": [
+      "AR",
+      "CT",
+      "IA",
+      "IL",
+      "IN",
+      "MA",
+      "MI",
+      "MN",
+      "NJ",
+      "NY",
+      "PA",
+      "TN",
+      "VA",
+      "VT",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 3.5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "sandy"
+    ],
+    "bloomMonths": [
+      6,
+      7
+    ],
+    "bloomColors": [
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Prairie brome is a graceful native brome of prairies and open woods, with nodding, drooping seed heads, a well-behaved cool-season grass for meadow plantings.",
+    "usdaSymbol": "BRKA2",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/bromus-kalmii.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Bromus_kalmii",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "border",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "cyperus-odoratus",
+    "scientificName": "Cyperus odoratus",
+    "commonNames": [
+      "Fragrant Flatsedge"
+    ],
+    "family": "Cyperaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "AZ",
+      "CA",
+      "CT",
+      "FL",
+      "GA",
+      "HI",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "NE",
+      "NJ",
+      "NM",
+      "NY",
+      "OH",
+      "OK",
+      "PA",
+      "SC",
+      "SD",
+      "TN",
+      "TX",
+      "VA",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "wet",
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "clay",
+      "sandy"
+    ],
+    "bloomMonths": [
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Fragrant flatsedge is a robust annual-to-short-lived sedge of wet shores, ditches, and pond edges, its golden-brown seed heads feeding waterfowl and songbirds.",
+    "usdaSymbol": "CYOD",
+    "nativeRegions": [
+      "CAN",
+      "HI",
+      "L48",
+      "PB",
+      "PR",
+      "VI"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/cyperus-odoratus.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Cyperus_odoratus",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "border",
+      "rain garden",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "distichlis-spicata",
+    "scientificName": "Distichlis spicata",
+    "commonNames": [
+      "Saltgrass"
+    ],
+    "family": "Poaceae",
+    "nativeStates": [
+      "AZ",
+      "CA",
+      "CO",
+      "CT",
+      "DE",
+      "FL",
+      "GA",
+      "ID",
+      "KS",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MN",
+      "MS",
+      "MT",
+      "NC",
+      "ND",
+      "NE",
+      "NH",
+      "NJ",
+      "NM",
+      "NV",
+      "NY",
+      "OK",
+      "OR",
+      "RI",
+      "SC",
+      "SD",
+      "TX",
+      "UT",
+      "VA",
+      "WA",
+      "WY"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "wet",
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "clay"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Saltgrass is a tough, rhizomatous grass of salt marshes, alkaline flats, and coastal dunes, one of the few plants that thrives in saline soil. Key for salt-marsh restoration.",
+    "usdaSymbol": "DISP",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "alkaline",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/distichlis-spicata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Distichlis_spicata",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "groundcover",
+      "container",
+      "rain garden",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "glyceria-grandis",
+    "scientificName": "Glyceria grandis",
+    "commonNames": [
+      "American Mannagrass"
+    ],
+    "family": "Poaceae",
+    "nativeStates": [
+      "AK",
+      "CA",
+      "CO",
+      "CT",
+      "IA",
+      "ID",
+      "MA",
+      "ME",
+      "MI",
+      "MN",
+      "MT",
+      "ND",
+      "NE",
+      "NH",
+      "NM",
+      "NY",
+      "OH",
+      "OR",
+      "PA",
+      "SD",
+      "UT",
+      "VT",
+      "WA",
+      "WI",
+      "WY"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      6,
+      7
+    ],
+    "bloomColors": [
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "American mannagrass is a tall wetland grass of marshes, ditches, and pond margins, with airy seed panicles; its seeds and foliage are important waterfowl and wildlife food.",
+    "usdaSymbol": "GLGR",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "L48",
+      "SPM"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/glyceria-grandis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Glyceria_grandis",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "rain garden",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "hierochloe-occidentalis",
+    "scientificName": "Hierochloe occidentalis",
+    "commonNames": [
+      "California Sweetgrass"
+    ],
+    "family": "Poaceae",
+    "nativeStates": [
+      "CA",
+      "OR"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "California sweetgrass is a fragrant, vanilla-scented woodland grass of the Pacific states, spreading gently in moist shade. Culturally significant and pleasantly aromatic.",
+    "usdaSymbol": "HIOC",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/hierochloe-occidentalis.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Anthoxanthum_occidentale",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "border",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "hilaria-belangeri",
+    "scientificName": "Hilaria belangeri",
+    "commonNames": [
+      "Curly Mesquite"
+    ],
+    "family": "Poaceae",
+    "nativeStates": [
+      "AZ",
+      "TX"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Curly mesquite is a low, stoloniferous Southwestern grass that knits dry desert grasslands into tough sod, valuable forage and groundcover for arid, alkaline soils.",
+    "usdaSymbol": "HIBE",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/hilaria-belangeri.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Hilaria_belangeri",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "groundcover",
+      "container",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "juncus-roemerianus",
+    "scientificName": "Juncus roemerianus",
+    "commonNames": [
+      "Black Needlerush"
+    ],
+    "family": "Juncaceae",
+    "nativeStates": [
+      "AL",
+      "FL",
+      "GA",
+      "LA",
+      "MD",
+      "MS",
+      "NC",
+      "SC",
+      "TX",
+      "VA"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "wet"
+    ],
+    "soilType": [
+      "sandy",
+      "clay",
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5,
+      6
+    ],
+    "bloomColors": [
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Black needlerush is the sharp-tipped, blue-gray rush that dominates vast Southeastern salt and brackish marshes. A salt-tolerant backbone of tidal-marsh habitat and restoration.",
+    "usdaSymbol": "JURO",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/juncus-roemerianus.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Juncus_roemerianus",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "rain garden",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "leersia-oryzoides",
+    "scientificName": "Leersia oryzoides",
+    "commonNames": [
+      "Rice Cutgrass"
+    ],
+    "family": "Poaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "AZ",
+      "CA",
+      "CO",
+      "CT",
+      "FL",
+      "GA",
+      "IA",
+      "ID",
+      "IL",
+      "IN",
+      "KS",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "NE",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "OK",
+      "OR",
+      "PA",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "VT",
+      "WA",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "clay"
+    ],
+    "bloomMonths": [
+      8,
+      9
+    ],
+    "bloomColors": [
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Rice cutgrass is a wetland grass of marsh and pond edges with rough, blade-edged leaves and seeds favored by waterfowl. Spreads in saturated ground; site away from paths.",
+    "usdaSymbol": "LEOR",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/leersia-oryzoides.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Leersia_oryzoides",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "border",
+      "rain garden",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "leptochloa-dubia",
+    "scientificName": "Leptochloa dubia",
+    "commonNames": [
+      "Green Sprangletop"
+    ],
+    "family": "Poaceae",
+    "nativeStates": [
+      "AZ",
+      "FL",
+      "NM",
+      "TX"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1.5,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Green sprangletop is a drought-tough warm-season bunchgrass of Southwestern grasslands and rocky slopes, with open, sprangly seed heads. Good forage and cover for arid sites.",
+    "usdaSymbol": "LEDU",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/leptochloa-dubia.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Disakisperma_dubium",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "border",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "melica-imperfecta",
+    "scientificName": "Melica imperfecta",
+    "commonNames": [
+      "Coast Range Melic"
+    ],
+    "family": "Poaceae",
+    "nativeStates": [
+      "CA"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "loam"
+    ],
+    "bloomMonths": [
+      4,
+      5
+    ],
+    "bloomColors": [
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Coast Range melic is a delicate California bunchgrass of dry, shaded slopes and chaparral edges, with airy one-sided seed sprays. A graceful native for dry shade.",
+    "usdaSymbol": "MEIM",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/melica-imperfecta.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Melica_imperfecta",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "border",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "melica-nitens",
+    "scientificName": "Melica nitens",
+    "commonNames": [
+      "Three-flower Melic"
+    ],
+    "family": "Poaceae",
+    "nativeStates": [
+      "AR",
+      "IA",
+      "IL",
+      "IN",
+      "KS",
+      "MO",
+      "OK",
+      "PA",
+      "TX"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 3.5
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun",
+      "part shade"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "rocky",
+      "loam"
+    ],
+    "bloomMonths": [
+      5,
+      6
+    ],
+    "bloomColors": [
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Three-flower melic is a cool-season woodland bunchgrass of rocky bluffs and open woods, with nodding seed clusters, well suited to dry shade and naturalized plantings.",
+    "usdaSymbol": "MENI",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/melica-nitens.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Melica_nitens",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "border",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "paspalum-monostachyum",
+    "scientificName": "Paspalum monostachyum",
+    "commonNames": [
+      "Gulfdune Paspalum"
+    ],
+    "family": "Poaceae",
+    "nativeStates": [
+      "FL",
+      "TX"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "wet",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Gulfdune paspalum is a rhizomatous warm-season grass of Southeastern coastal flatwoods and dune swales, salt-tolerant cover for wet, sandy ground.",
+    "usdaSymbol": "PAMO4",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/paspalum-monostachyum.jpg",
+    "imageSource": "https://www.inaturalist.org/taxa/166186",
+    "imageCredit": "iNaturalist",
+    "landscapeUses": [
+      "specimen",
+      "border",
+      "rain garden",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "phleum-alpinum",
+    "scientificName": "Phleum alpinum",
+    "commonNames": [
+      "Alpine Timothy"
+    ],
+    "family": "Poaceae",
+    "nativeStates": [
+      "AK",
+      "AZ",
+      "CA",
+      "CO",
+      "ID",
+      "MT",
+      "NH",
+      "NM",
+      "NV",
+      "OR",
+      "UT",
+      "WA",
+      "WY"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "moist"
+    ],
+    "soilType": [
+      "loam",
+      "rocky"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Alpine timothy is a compact cool-season bunchgrass of high mountain meadows, with dense cylindrical seed heads, hardy and tidy for cold, moist, high-elevation sites.",
+    "usdaSymbol": "PHAL2",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "GL",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/phleum-alpinum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Phleum_alpinum",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "groundcover",
+      "container",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "pleuraphis-mutica",
+    "scientificName": "Pleuraphis mutica",
+    "commonNames": [
+      "Tobosa Grass"
+    ],
+    "family": "Poaceae",
+    "nativeStates": [
+      "AZ",
+      "NM"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 2
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "clay",
+      "loam",
+      "sandy"
+    ],
+    "bloomMonths": [
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Tobosa grass is a rugged, rhizomatous Southwestern grass of clay flats and swales, drought-proof forage and cover that greens up fast after summer rains.",
+    "usdaSymbol": "PLMU3",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/pleuraphis-mutica.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Hilaria_mutica",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "container",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "pseudoroegneria-spicata",
+    "scientificName": "Pseudoroegneria spicata",
+    "commonNames": [
+      "Bluebunch Wheatgrass"
+    ],
+    "family": "Poaceae",
+    "nativeStates": [
+      "AK",
+      "CA",
+      "CO",
+      "ID",
+      "MT",
+      "NV",
+      "OR",
+      "UT",
+      "WA",
+      "WY"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1.5,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 1,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      6,
+      7
+    ],
+    "bloomColors": [
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Bluebunch wheatgrass is the signature bunchgrass of the sagebrush steppe and a workhorse of western restoration, with blue-green tufts and slender seed spikes. Drought-hardy and long-lived.",
+    "usdaSymbol": "PSSP6",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/pseudoroegneria-spicata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Pseudoroegneria_spicata",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "border",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "rhynchospora-colorata",
+    "scientificName": "Rhynchospora colorata",
+    "commonNames": [
+      "Starrush Whitetop"
+    ],
+    "family": "Cyperaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "FL",
+      "GA",
+      "LA",
+      "MS",
+      "NC",
+      "SC",
+      "TX",
+      "VA"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "wet",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "white",
+      "green"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Starrush whitetop is an ornamental sedge whose flowers are ringed by showy, star-like white bracts, lighting up wet pinelands and rain gardens. A standout for bog plantings.",
+    "usdaSymbol": "RHCO7",
+    "nativeRegions": [
+      "L48",
+      "PR"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/rhynchospora-colorata.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Rhynchospora_colorata",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "groundcover",
+      "container",
+      "rain garden",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "rhynchospora-latifolia",
+    "scientificName": "Rhynchospora latifolia",
+    "commonNames": [
+      "Giant Whitetop"
+    ],
+    "family": "Cyperaceae",
+    "nativeStates": [
+      "AL",
+      "FL",
+      "GA",
+      "LA",
+      "MS",
+      "NC",
+      "SC",
+      "TX"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 2.5
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "wet",
+      "moist"
+    ],
+    "soilType": [
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      5,
+      6,
+      7
+    ],
+    "bloomColors": [
+      "white",
+      "green"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Giant whitetop is a larger relative of starrush whitetop, with bold white star-bracts over wet Southeastern savannas and ditches. Striking and easy in moist, sunny ground.",
+    "usdaSymbol": "RHLA7",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": true,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/rhynchospora-latifolia.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Rhynchospora_latifolia",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "rain garden",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "scirpus-cyperinus",
+    "scientificName": "Scirpus cyperinus",
+    "commonNames": [
+      "Woolgrass"
+    ],
+    "family": "Cyperaceae",
+    "nativeStates": [
+      "AL",
+      "AR",
+      "CT",
+      "DE",
+      "FL",
+      "GA",
+      "IA",
+      "IL",
+      "IN",
+      "KY",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MI",
+      "MN",
+      "MO",
+      "MS",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "OH",
+      "PA",
+      "RI",
+      "SC",
+      "TN",
+      "TX",
+      "VA",
+      "VT",
+      "WA",
+      "WI",
+      "WV"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 3,
+      "max": 5
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 3
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "wet"
+    ],
+    "soilType": [
+      "loam",
+      "clay",
+      "sandy"
+    ],
+    "bloomMonths": [
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Woolgrass is a bulrush-like sedge topped with woolly, tawny seed heads in late summer, a bold native for marshes, pond edges, and rain gardens. Cover and seed for wetland wildlife.",
+    "usdaSymbol": "SCCY",
+    "nativeRegions": [
+      "CAN",
+      "L48",
+      "SPM"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "acidic",
+      "neutral"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/scirpus-cyperinus.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Scirpus_cyperinus",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "rain garden",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "spartina-alterniflora",
+    "scientificName": "Spartina alterniflora",
+    "commonNames": [
+      "Smooth Cordgrass"
+    ],
+    "family": "Poaceae",
+    "nativeStates": [
+      "AK",
+      "CT",
+      "DE",
+      "FL",
+      "GA",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MS",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "RI",
+      "SC",
+      "TX",
+      "VA"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 6
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "wet"
+    ],
+    "soilType": [
+      "sandy",
+      "clay"
+    ],
+    "bloomMonths": [
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "semi-evergreen",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Smooth cordgrass is the foundational grass of Atlantic and Gulf salt marshes, building and binding tidal mud between the tides. Essential for coastal marsh restoration.",
+    "usdaSymbol": "SPAL",
+    "nativeRegions": [
+      "CAN",
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/spartina-alterniflora.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Sporobolus_alterniflorus",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "rain garden",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "spartina-patens",
+    "scientificName": "Spartina patens",
+    "commonNames": [
+      "Saltmeadow Cordgrass"
+    ],
+    "family": "Poaceae",
+    "nativeStates": [
+      "AK",
+      "CT",
+      "DE",
+      "FL",
+      "LA",
+      "MA",
+      "MD",
+      "ME",
+      "MS",
+      "NC",
+      "NH",
+      "NJ",
+      "NY",
+      "SC",
+      "TX",
+      "VA"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 1,
+      "max": 3
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "wet",
+      "dry"
+    ],
+    "soilType": [
+      "sandy",
+      "clay"
+    ],
+    "bloomMonths": [
+      7,
+      8,
+      9
+    ],
+    "bloomColors": [
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Saltmeadow cordgrass forms swirling 'cowlick' meadows in the high salt marsh and on back dunes, a fine-textured, salt- and drought-tolerant grass for coastal plantings.",
+    "usdaSymbol": "SPPA",
+    "nativeRegions": [
+      "CAN",
+      "L48",
+      "PR",
+      "VI"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "spreading",
+    "springEphemeral": false,
+    "imageFile": "plants/spartina-patens.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Sporobolus_pumilus",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "border",
+      "rain garden",
+      "erosion control",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "spartina-spartinae",
+    "scientificName": "Spartina spartinae",
+    "commonNames": [
+      "Gulf Cordgrass"
+    ],
+    "family": "Poaceae",
+    "nativeStates": [
+      "FL",
+      "LA",
+      "TX"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 2,
+      "max": 4
+    },
+    "spreadFeet": {
+      "min": 2,
+      "max": 3
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "clay",
+      "sandy",
+      "loam"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Gulf cordgrass is a stout, fountain-like bunchgrass of coastal prairies and marsh edges, tolerant of salt, drought, and heavy soils. A bold accent and tough cover grass.",
+    "usdaSymbol": "SPSP",
+    "nativeRegions": [
+      "L48"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "alkaline"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/spartina-spartinae.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Sporobolus_spartinae",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "specimen",
+      "border",
+      "naturalizing"
+    ]
+  },
+  {
+    "id": "trisetum-spicatum",
+    "scientificName": "Trisetum spicatum",
+    "commonNames": [
+      "Spike Trisetum"
+    ],
+    "family": "Poaceae",
+    "nativeStates": [
+      "AK",
+      "AZ",
+      "CA",
+      "CO",
+      "ID",
+      "ME",
+      "MI",
+      "MN",
+      "MT",
+      "NH",
+      "NM",
+      "NV",
+      "OR",
+      "UT",
+      "VT",
+      "WA",
+      "WI",
+      "WY"
+    ],
+    "generalAppearance": "grass",
+    "lifespan": "perennial",
+    "heightFeet": {
+      "min": 0.5,
+      "max": 1.5
+    },
+    "spreadFeet": {
+      "min": 0.5,
+      "max": 1
+    },
+    "lightRequirement": [
+      "sun"
+    ],
+    "soilMoisture": [
+      "dry",
+      "moist"
+    ],
+    "soilType": [
+      "rocky",
+      "sandy"
+    ],
+    "bloomMonths": [
+      6,
+      7,
+      8
+    ],
+    "bloomColors": [
+      "green",
+      "brown"
+    ],
+    "leafArrangement": "basal",
+    "leafRetention": "deciduous",
+    "wildlifeValue": [
+      "songbirds",
+      "larval host",
+      "mammals"
+    ],
+    "deerResistant": true,
+    "notes": "Spike trisetum is a compact cool-season bunchgrass of alpine tundra and rocky high country worldwide, with dense bristly seed spikes, hardy for cold rock gardens.",
+    "usdaSymbol": "TRSP2",
+    "nativeRegions": [
+      "AK",
+      "CAN",
+      "GL",
+      "L48",
+      "SPM"
+    ],
+    "cutFlower": false,
+    "culinaryUse": false,
+    "soilPh": [
+      "neutral",
+      "acidic"
+    ],
+    "spreadHabit": "clump",
+    "springEphemeral": false,
+    "imageFile": "plants/trisetum-spicatum.jpg",
+    "imageSource": "https://en.wikipedia.org/wiki/Trisetum_spicatum",
+    "imageCredit": "Wikimedia",
+    "landscapeUses": [
+      "border",
+      "groundcover",
+      "container",
+      "naturalizing"
+    ]
   }
 ]
