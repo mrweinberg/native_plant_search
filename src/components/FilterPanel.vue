@@ -24,6 +24,44 @@ const emit = defineEmits([
 
 const options = computed(() => getFilterOptions())
 
+// Height sliders use a logarithmic scale so the 1–6 ft band — where most
+// plants live — gets the bulk of the track, instead of being a sliver next to
+// the few 100–200 ft trees. The stored filter value stays in real feet (the
+// number inputs and URL are unchanged); only the slider's position is mapped.
+const STEPS = 100
+const FMIN = 0.5 // shortest meaningful height; slider floor
+const lnFloor = Math.log(FMIN)
+const lnMax = computed(() => Math.log(options.value.maxHeight))
+
+function niceRound(f) {
+  if (f < 10) return Math.round(f * 2) / 2 // 0.5 ft steps when small
+  if (f < 50) return Math.round(f)
+  return Math.round(f / 5) * 5
+}
+function posToFeet(pos) {
+  return niceRound(Math.exp(lnFloor + (pos / STEPS) * (lnMax.value - lnFloor)))
+}
+function feetToPos(feet) {
+  const f = Math.max(FMIN, Math.min(options.value.maxHeight, feet))
+  return Math.round((STEPS * (Math.log(f) - lnFloor)) / (lnMax.value - lnFloor))
+}
+const minPos = computed(() => (props.heightMin == null ? 0 : feetToPos(props.heightMin)))
+const maxPos = computed(() => (props.heightMax == null ? STEPS : feetToPos(props.heightMax)))
+
+function clampFeet(v) {
+  if (v === '' || v == null || Number.isNaN(Number(v))) return null
+  const n = Math.max(0, Math.min(options.value.maxHeight, Number(v)))
+  return n > 0 ? n : null
+}
+function onMinSlider(e) {
+  const pos = Number(e.target.value)
+  emit('heightMin', pos <= 0 ? null : posToFeet(pos))
+}
+function onMaxSlider(e) {
+  const pos = Number(e.target.value)
+  emit('heightMax', pos >= STEPS ? null : posToFeet(pos))
+}
+
 const groups = [
   { key: 'generalAppearance', title: 'Plant type' },
   { key: 'lifespan', title: 'Lifespan' },
@@ -58,26 +96,54 @@ function labelFor(group, val) {
 
     <section class="filter-group">
       <h3>Height range (ft)</h3>
-      <label class="range-label">Min height
-        <span class="range-value">{{ heightMin == null ? 'Any' : `≥ ${heightMin} ft` }}</span>
-      </label>
-      <input
-        type="range"
-        :min="0"
-        :max="options.maxHeight"
-        :value="heightMin ?? 0"
-        @input="emit('heightMin', Number($event.target.value) === 0 ? null : Number($event.target.value))"
-      />
-      <label class="range-label">Max height
-        <span class="range-value">{{ heightMax == null ? 'Any' : `≤ ${heightMax} ft` }}</span>
-      </label>
-      <input
-        type="range"
-        :min="1"
-        :max="options.maxHeight"
-        :value="heightMax ?? options.maxHeight"
-        @input="emit('heightMax', Number($event.target.value) === options.maxHeight ? null : Number($event.target.value))"
-      />
+      <div class="height-row">
+        <label class="height-field" for="height-min-num">Min</label>
+        <input
+          id="height-min-num"
+          class="height-num"
+          type="number"
+          inputmode="decimal"
+          min="0"
+          step="0.5"
+          :max="options.maxHeight"
+          :value="heightMin ?? ''"
+          placeholder="Any"
+          @change="emit('heightMin', clampFeet($event.target.value))"
+        />
+        <input
+          class="height-slider"
+          type="range"
+          :min="0"
+          :max="STEPS"
+          :value="minPos"
+          aria-label="Minimum height"
+          @input="onMinSlider"
+        />
+      </div>
+      <div class="height-row">
+        <label class="height-field" for="height-max-num">Max</label>
+        <input
+          id="height-max-num"
+          class="height-num"
+          type="number"
+          inputmode="decimal"
+          min="0"
+          step="0.5"
+          :max="options.maxHeight"
+          :value="heightMax ?? ''"
+          placeholder="Any"
+          @change="emit('heightMax', clampFeet($event.target.value))"
+        />
+        <input
+          class="height-slider"
+          type="range"
+          :min="0"
+          :max="STEPS"
+          :value="maxPos"
+          aria-label="Maximum height"
+          @input="onMaxSlider"
+        />
+      </div>
     </section>
 
     <section class="filter-group">
@@ -201,13 +267,28 @@ h3 {
 .filter-group { padding-top: 8px; }
 .chips { display: flex; flex-wrap: wrap; gap: 2px; }
 input[type='range'] { width: 100%; }
-.range-label {
+.height-row {
   display: flex;
-  justify-content: space-between;
+  align-items: center;
+  gap: 8px;
+  margin-top: 8px;
+}
+.height-field {
   font-size: 12px;
   color: var(--ink-soft);
-  margin-top: 6px;
+  width: 28px;
+  flex: none;
 }
-.range-value { font-weight: 500; }
+.height-num {
+  width: 60px;
+  flex: none;
+  padding: 3px 6px;
+  font-size: 13px;
+  border: 1px solid var(--line, #ccc);
+  border-radius: 6px;
+  background: var(--surface, #fff);
+  color: inherit;
+}
+.height-slider { flex: 1; min-width: 0; }
 .toggle { display: flex; align-items: center; gap: 8px; font-size: 14px; cursor: pointer; }
 </style>
