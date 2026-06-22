@@ -2,6 +2,7 @@
 import { computed, ref, watch, watchEffect, onUnmounted } from 'vue'
 import { useRoute, useRouter, RouterLink } from 'vue-router'
 import { allPlants, plantsLoaded } from '../composables/usePlantFilters.js'
+import { loadFullPlant } from '../composables/usePlantDetail.js'
 import { setHead } from '../composables/useHead.js'
 import { usePlantImage } from '../composables/usePlantImage.js'
 import { useInatGallery } from '../composables/useInatGallery.js'
@@ -13,7 +14,25 @@ import RangeMap from '../components/RangeMap.vue'
 
 const route = useRoute()
 const router = useRouter()
-const plant = computed(() => allPlants.value.find((p) => p.id === route.params.id))
+// The list ships a slim record; the detail page needs the full one (notes,
+// credits, USDA symbol, etc.). Use the slim record immediately, then merge in
+// the full record once its lazy chunk resolves.
+const fullPlant = ref(null)
+watch(
+  () => route.params.id,
+  async (id) => {
+    fullPlant.value = null
+    if (id) {
+      const full = await loadFullPlant(id)
+      if (route.params.id === id) fullPlant.value = full
+    }
+  },
+  { immediate: true },
+)
+const plant = computed(() => {
+  if (fullPlant.value && fullPlant.value.id === route.params.id) return fullPlant.value
+  return allPlants.value.find((p) => p.id === route.params.id)
+})
 
 // "Back to search" should always return to the search page as the user left it —
 // same filters, same scroll — even after navigating between detail pages. We

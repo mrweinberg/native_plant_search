@@ -4,7 +4,12 @@ import { RouterLink, useRoute } from 'vue-router'
 import { usePlantImage } from '../composables/usePlantImage.js'
 import { BLOOM_COLOR_HEX as colorMap } from '../composables/usePlantFilters.js'
 import FavoriteButton from './FavoriteButton.vue'
-const props = defineProps({ plant: { type: Object, required: true } })
+const props = defineProps({
+  plant: { type: Object, required: true },
+  // First-row cards opt in to eager, high-priority loading so the LCP image
+  // starts fetching immediately instead of after layout. Rest stay lazy.
+  priority: { type: Boolean, default: false },
+})
 const route = useRoute()
 const sciName = toRef(() => props.plant.scientificName)
 const imageFile = toRef(() => props.plant.imageFile)
@@ -21,7 +26,10 @@ const { src: imageSrc } = usePlantImage(sciName, imageFile)
         v-if="imageSrc"
         :src="imageSrc"
         :alt="plant.commonNames[0]"
-        loading="lazy"
+        width="280"
+        height="160"
+        :loading="priority ? 'eager' : 'lazy'"
+        :fetchpriority="priority ? 'high' : 'auto'"
       />
       <div v-else class="placeholder" aria-hidden="true">
         <span>❧</span>

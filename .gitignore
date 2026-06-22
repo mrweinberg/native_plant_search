@@ -4,3 +4,6 @@ dist/
 *.log
 .env
 .env.local
+
+# Generated at dev/build from plants.json (see scripts/gen-list.mjs)
+src/data/plants-list.json

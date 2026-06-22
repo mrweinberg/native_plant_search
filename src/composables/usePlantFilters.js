@@ -1,13 +1,15 @@
 import { computed, ref } from 'vue'
 import { useRoute, useRouter } from 'vue-router'
 
-// The catalog is large and grows with every region, so it's code-split into its
-// own async chunk instead of being bundled into the app shell. `allPlants`
-// starts empty and fills once the chunk resolves; every consumer reads it
-// reactively, so computeds recompute automatically when the data arrives.
+// The catalog is large, so the list/filter view loads a slim build-time copy
+// (detail-only fields like notes/credits stripped — see scripts/gen-list.mjs)
+// in its own async chunk, instead of the full catalog. This keeps the home
+// page's first paint off the heavy payload; the detail view lazy-loads the full
+// record on demand (see usePlantDetail.js). `allPlants` starts empty and fills
+// once the chunk resolves; consumers read it reactively.
 export const allPlants = ref([])
 export const plantsLoaded = ref(false)
-import('../data/plants.json').then((m) => {
+import('../data/plants-list.json').then((m) => {
   allPlants.value = m.default
   plantsLoaded.value = true
 })

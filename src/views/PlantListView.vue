@@ -202,7 +202,12 @@ watch(() => route.fullPath, () => { drawerOpen.value = false })
       </div>
       <template v-if="viewMode === 'grid'">
         <div v-if="sortedPlants.length" class="grid">
-          <PlantCard v-for="p in sortedPlants" :key="p.id" :plant="p" />
+          <PlantCard
+            v-for="(p, i) in sortedPlants"
+            :key="p.id"
+            :plant="p"
+            :priority="i < 8"
+          />
         </div>
         <div v-else-if="!plantsLoaded" class="empty">Loading plants…</div>
         <div v-else class="empty">
