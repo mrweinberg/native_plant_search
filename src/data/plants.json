@@ -77993,8 +77993,8 @@
    "VA",
    "WV"
   ],
-  "generalAppearance": "wildflower",
-  "lifespan": "shrub",
+  "generalAppearance": "shrub",
+  "lifespan": "perennial",
   "heightFeet": {
    "min": 8,
    "max": 15
@@ -135489,8 +135489,8 @@
    "GA",
    "MS"
   ],
-  "generalAppearance": "wildflower",
-  "lifespan": "shrub",
+  "generalAppearance": "shrub",
+  "lifespan": "perennial",
   "heightFeet": {
    "min": 1,
    "max": 3
@@ -135788,8 +135788,8 @@
    "AL",
    "FL"
   ],
-  "generalAppearance": "wildflower",
-  "lifespan": "shrub",
+  "generalAppearance": "shrub",
+  "lifespan": "perennial",
   "heightFeet": {
    "min": 1,
    "max": 3
@@ -136975,7 +136975,7 @@
    "WV"
   ],
   "generalAppearance": "wildflower",
-  "lifespan": "wildflower",
+  "lifespan": "perennial",
   "heightFeet": {
    "min": 0.2,
    "max": 0.4
@@ -137040,8 +137040,8 @@
   "nativeStates": [
    "FL"
   ],
-  "generalAppearance": "wildflower",
-  "lifespan": "shrub",
+  "generalAppearance": "shrub",
+  "lifespan": "perennial",
   "heightFeet": {
    "min": 0.5,
    "max": 2
@@ -137112,8 +137112,8 @@
   "nativeStates": [
    "TX"
   ],
-  "generalAppearance": "wildflower",
-  "lifespan": "shrub",
+  "generalAppearance": "shrub",
+  "lifespan": "perennial",
   "heightFeet": {
    "min": 1,
    "max": 3
@@ -138141,8 +138141,8 @@
    "UT",
    "WA"
   ],
-  "generalAppearance": "wildflower",
-  "lifespan": "shrub",
+  "generalAppearance": "shrub",
+  "lifespan": "perennial",
   "heightFeet": {
    "min": 2,
    "max": 5
@@ -138214,8 +138214,8 @@
    "WA",
    "WI"
   ],
-  "generalAppearance": "wildflower",
-  "lifespan": "shrub",
+  "generalAppearance": "shrub",
+  "lifespan": "perennial",
   "heightFeet": {
    "min": 2,
    "max": 4
@@ -138400,7 +138400,7 @@
    "WY"
   ],
   "generalAppearance": "wildflower",
-  "lifespan": "wildflower",
+  "lifespan": "perennial",
   "heightFeet": {
    "min": 0.1,
    "max": 0.3
@@ -139023,8 +139023,8 @@
    "FL",
    "TX"
   ],
-  "generalAppearance": "wildflower",
-  "lifespan": "shrub",
+  "generalAppearance": "shrub",
+  "lifespan": "perennial",
   "heightFeet": {
    "min": 2,
    "max": 5
@@ -139275,8 +139275,8 @@
    "NM",
    "TX"
   ],
-  "generalAppearance": "wildflower",
-  "lifespan": "shrub",
+  "generalAppearance": "shrub",
+  "lifespan": "perennial",
   "heightFeet": {
    "min": 1,
    "max": 3
@@ -139426,8 +139426,8 @@
    "AZ",
    "NV"
   ],
-  "generalAppearance": "wildflower",
-  "lifespan": "shrub",
+  "generalAppearance": "shrub",
+  "lifespan": "perennial",
   "heightFeet": {
    "min": 2,
    "max": 5
@@ -140331,8 +140331,8 @@
    "MS",
    "SC"
   ],
-  "generalAppearance": "wildflower",
-  "lifespan": "shrub",
+  "generalAppearance": "shrub",
+  "lifespan": "perennial",
   "heightFeet": {
    "min": 4,
    "max": 8
@@ -140703,8 +140703,8 @@
   "nativeStates": [
    "FL"
   ],
-  "generalAppearance": "wildflower",
-  "lifespan": "shrub",
+  "generalAppearance": "shrub",
+  "lifespan": "perennial",
   "heightFeet": {
    "min": 2,
    "max": 4
@@ -141085,8 +141085,8 @@
    "NM",
    "TX"
   ],
-  "generalAppearance": "wildflower",
-  "lifespan": "shrub",
+  "generalAppearance": "shrub",
+  "lifespan": "perennial",
   "heightFeet": {
    "min": 3,
    "max": 6
@@ -142301,8 +142301,8 @@
    "TX",
    "VA"
   ],
-  "generalAppearance": "wildflower",
-  "lifespan": "tree",
+  "generalAppearance": "tree",
+  "lifespan": "perennial",
   "heightFeet": {
    "min": 15,
    "max": 30
@@ -142369,8 +142369,8 @@
    "FL",
    "TX"
   ],
-  "generalAppearance": "wildflower",
-  "lifespan": "shrub",
+  "generalAppearance": "shrub",
+  "lifespan": "perennial",
   "heightFeet": {
    "min": 8,
    "max": 15
