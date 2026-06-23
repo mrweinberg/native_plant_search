@@ -4,6 +4,7 @@ import { useFavorites } from './composables/useFavorites.js'
 import { setHead } from './composables/useHead.js'
 import LocationPicker from './components/LocationPicker.vue'
 const { count: favCount } = useFavorites()
+const year = new Date().getFullYear()
 
 // Keep document head in sync per route. Plant detail pages set their own
 // (plant-specific) head; the others use these static defaults.
@@ -24,6 +25,16 @@ const ROUTE_HEAD = {
     description: 'About Bedfellow, a free tool for searching North American native plants and planning a garden that blooms all season.',
     path: '/about',
   },
+  terms: {
+    title: 'Terms of Service',
+    description: 'The terms governing use of Bedfellow.',
+    path: '/terms',
+  },
+  privacy: {
+    title: 'Privacy Policy',
+    description: 'How Bedfellow handles information when you use the site.',
+    path: '/privacy',
+  },
 }
 router.afterEach((to) => {
   if (to.name === 'detail') return
@@ -38,7 +49,7 @@ router.afterEach((to) => {
       <div class="title-block">
         <RouterLink to="/" class="brand">
           <span class="brand-mark">❧</span>
-          Bedfellow
+          Bedfellow<sup class="tm" aria-hidden="true">™</sup>
         </RouterLink>
         <span class="tagline">Plan your native garden</span>
       </div>
@@ -64,9 +75,15 @@ router.afterEach((to) => {
       <RouterView />
     </main>
     <footer class="app-footer">
-      <span>❧ Bedfellow</span>
+      <span>© {{ year }} Bedfellow™</span>
+      <span class="dot">·</span>
+      <RouterLink :to="{ name: 'about' }">About</RouterLink>
       <span class="dot">·</span>
       <RouterLink :to="{ name: 'sources' }">Sources &amp; data</RouterLink>
+      <span class="dot">·</span>
+      <RouterLink :to="{ name: 'terms' }">Terms</RouterLink>
+      <span class="dot">·</span>
+      <RouterLink :to="{ name: 'privacy' }">Privacy</RouterLink>
     </footer>
   </div>
 </template>
@@ -95,6 +112,7 @@ router.afterEach((to) => {
   text-decoration: none;
 }
 .brand-mark { color: #a7d6a7; margin-right: 6px; }
+.tm { font-size: 9px; vertical-align: super; margin-left: 1px; opacity: 0.8; }
 .tagline { color: #c9c0a4; font-size: 13px; }
 .top-links {
   display: flex;

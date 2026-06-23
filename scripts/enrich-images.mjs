@@ -69,6 +69,32 @@ async function fetchInatThumb(scientificName) {
   return {
     imgUrl: photo.medium_url,
     page: `https://www.inaturalist.org/taxa/${taxon.id}`,
+    // license_code is null when all-rights-reserved; *-nc / *-nd are not
+    // commercial-safe. Recorded so attribution/compliance can be verified.
+    license: photo.license_code || 'all rights reserved',
+    author: photo.attribution || null,
+  }
+}
+
+// Wikimedia Commons file metadata for the thumbnail we downloaded: the actual
+// license short name and author, which CC-BY/CC-BY-SA require us to display.
+async function fetchCommonsMeta(thumbUrl) {
+  try {
+    const parts = new URL(thumbUrl).pathname.split('/')
+    const ti = parts.indexOf('thumb')
+    const file = decodeURIComponent(ti !== -1 ? parts[parts.length - 2] : parts[parts.length - 1])
+    const api = `https://commons.wikimedia.org/w/api.php?action=query&titles=${encodeURIComponent(
+      'File:' + file,
+    )}&prop=imageinfo&iiprop=extmetadata&format=json&origin=*`
+    const r = await fetchWithRetry(api)
+    if (!r || !r.ok) return {}
+    const data = await r.json()
+    const page = Object.values(data?.query?.pages || {})[0]
+    const ex = page?.imageinfo?.[0]?.extmetadata || {}
+    const strip = (s) => (s ? String(s).replace(/<[^>]*>/g, '').trim() : null)
+    return { license: ex.LicenseShortName?.value || null, author: strip(ex.Artist?.value) }
+  } catch {
+    return {}
   }
 }
 
@@ -109,6 +135,8 @@ for (let i = 0; i < plants.length; i++) {
   let imgUrl = null
   let sourceUrl = null
   let credit = null
+  let license = null
+  let author = null
   for (const name of tryNames) {
     const summary = await fetchSummary(name)
     const wikiThumb = summary?.thumbnail?.source || summary?.originalimage?.source
@@ -116,6 +144,9 @@ for (let i = 0; i < plants.length; i++) {
       imgUrl = wikiThumb
       sourceUrl = summary?.content_urls?.desktop?.page || null
       credit = 'Wikimedia'
+      const meta = await fetchCommonsMeta(wikiThumb)
+      license = meta.license || null
+      author = meta.author || null
       break
     }
   }
@@ -126,6 +157,8 @@ for (let i = 0; i < plants.length; i++) {
         imgUrl = inat.imgUrl
         sourceUrl = inat.page
         credit = 'iNaturalist'
+        license = inat.license
+        author = inat.author
         break
       }
     }
@@ -139,8 +172,10 @@ for (let i = 0; i < plants.length; i++) {
       p.imageFile = relative
       p.imageSource = sourceUrl
       p.imageCredit = credit
+      if (license) p.imageLicense = license
+      if (author) p.imageAuthor = author
       downloaded++
-      console.log(`ok (${credit})`)
+      console.log(`ok (${credit}${license ? ', ' + license : ''})`)
     } else {
       missing++
       console.log('download failed')

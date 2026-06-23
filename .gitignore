@@ -7,3 +7,4 @@ dist/
 
 # Generated at dev/build from plants.json (see scripts/gen-list.mjs)
 src/data/plants-list.json
+IMAGE_LICENSE_AUDIT.md
