@@ -84,6 +84,8 @@ router.afterEach((to) => {
       <RouterLink :to="{ name: 'terms' }">Terms</RouterLink>
       <span class="dot">·</span>
       <RouterLink :to="{ name: 'privacy' }">Privacy</RouterLink>
+      <span class="dot">·</span>
+      <a href="mailto:features@bedfellow.org">Request a feature or report a bug</a>
     </footer>
   </div>
 </template>

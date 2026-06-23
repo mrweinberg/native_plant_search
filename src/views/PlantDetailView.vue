@@ -309,6 +309,11 @@ function fmtRange(r, unit) {
         <PlantCard v-for="c in companions" :key="c.id" :plant="c" />
       </div>
     </section>
+
+    <p class="contact-note">
+      Is any of this information wrong? Contact
+      <a href="mailto:plants@bedfellow.org">plants@bedfellow.org</a>
+    </p>
   </div>
   <div v-else-if="!plantsLoaded" class="detail">
     <p>Loading…</p>
@@ -354,6 +359,11 @@ function fmtRange(r, unit) {
 </template>
 
 <style scoped>
+.contact-note {
+  margin: 28px 0 0;
+  font-size: 13px;
+  color: var(--ink-soft);
+}
 .detail {
   background: var(--card);
   border: 1px solid var(--border);

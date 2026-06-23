@@ -172,6 +172,9 @@ function aboutContent() {
     `</ul>` +
     `<p>Native plants are also far more likely to play nicely. They are made for your environment, ` +
     `so they are far less likely to spread wildly and become a lasting problem.</p>` +
+    `<h2>Get in touch</h2>` +
+    `<p>Questions, suggestions, or just want to say hi? Email me at ` +
+    `<a href="mailto:max@bedfellow.org">max@bedfellow.org</a>.</p>` +
     `</main>`
   )
 }
@@ -231,7 +234,7 @@ function prerender() {
         html = setMeta(html, 'name', 'twitter:description', d)
         html = setMeta(html, 'name', 'twitter:image', img)
         if (headExtra) html = html.replace('</head>', `    ${headExtra}\n  </head>`)
-        if (content) html = html.replace(/<div id="app">\s*<\/div>/, `<div id="app">${content}</div>`)
+        if (content) html = html.replace(/<div id="app">\s*<\/div>/, `<div id="app"><div data-ssr>${content}</div></div>`)
         return html
       }
 

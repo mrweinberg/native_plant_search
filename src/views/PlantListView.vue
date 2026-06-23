@@ -220,14 +220,18 @@ watch(() => route.fullPath, () => { drawerOpen.value = false })
               <option value="bloomStart">Bloom (earliest first)</option>
             </select>
           </label>
-          <div class="view-toggle" role="tablist">
+          <div class="view-toggle" role="tablist" aria-label="Result view">
             <button
               type="button"
+              role="tab"
+              :aria-selected="viewMode === 'grid'"
               :class="{ active: viewMode === 'grid' }"
               @click="setViewMode('grid')"
             >Grid</button>
             <button
               type="button"
+              role="tab"
+              :aria-selected="viewMode === 'calendar'"
               :class="{ active: viewMode === 'calendar' }"
               @click="setViewMode('calendar')"
             >Calendar</button>
@@ -273,6 +277,10 @@ watch(() => route.fullPath, () => { drawerOpen.value = false })
         </div>
       </template>
       <BloomCalendar v-else :plants="sortedPlants" />
+      <p class="contact-note">
+        Missing a plant? Contact
+        <a href="mailto:plants@bedfellow.org">plants@bedfellow.org</a>
+      </p>
     </div>
   </div>
 </template>
@@ -452,6 +460,12 @@ watch(() => route.fullPath, () => { drawerOpen.value = false })
 .load-sentinel {
   height: 1px;
   width: 100%;
+}
+.contact-note {
+  margin-top: 24px;
+  text-align: center;
+  font-size: 13px;
+  color: var(--ink-soft);
 }
 .empty {
   background: var(--card);
