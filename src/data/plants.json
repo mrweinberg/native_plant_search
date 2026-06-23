@@ -12845,6 +12845,7 @@
   "springEphemeral": false,
   "imageFile": "plants/solidago-caesia.jpg",
   "imageCredit": "Wikimedia",
+  "imageSource": "https://en.wikipedia.org/wiki/Solidago_caesia",
   "landscapeUses": [
    "border"
   ],
