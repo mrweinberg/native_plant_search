@@ -1,5 +1,5 @@
 <script setup>
-import { computed, ref, watch, onMounted } from 'vue'
+import { computed, ref, watch, onMounted, onUnmounted } from 'vue'
 import { useRoute, useRouter, RouterLink } from 'vue-router'
 import SearchBar from '../components/SearchBar.vue'
 import FilterPanel from '../components/FilterPanel.vue'
@@ -37,6 +37,54 @@ const {
   clearFilter,
   clearAll,
 } = usePlantFilters()
+
+// Incremental render: mount cards in chunks and append on scroll, instead of
+// mounting the whole (1700+) catalog up front. Only ~a dozen cards are ever
+// visible, so this keeps the DOM and component count proportional to what's
+// seen. `allPlants` is a module-level singleton (usePlantFilters), so on a back
+// navigation the data is already in memory — restoring the prior count below
+// reproduces the exact list height synchronously, letting native scroll
+// restoration land where the user left off.
+const CHUNK = 60
+function restoredCount() {
+  // Only restore the larger count when returning to the *same* list history
+  // entry (back nav / reload), matching the bf:listPos scroll-restore gate.
+  const pos = window.history.state?.position
+  const storedPos = sessionStorage.getItem('bf:listPos')
+  if (storedPos != null && Number(storedPos) === pos) {
+    const saved = Number(sessionStorage.getItem('bf:listCount'))
+    if (Number.isInteger(saved) && saved > CHUNK) return saved
+  }
+  return CHUNK
+}
+const visibleCount = ref(restoredCount())
+const visiblePlants = computed(() => sortedPlants.value.slice(0, visibleCount.value))
+const hasMore = computed(() => visibleCount.value < sortedPlants.value.length)
+
+// Persist the count alongside the scroll position so back nav can restore it.
+watch(visibleCount, (n) => sessionStorage.setItem('bf:listCount', String(n)))
+
+// A genuine filter/search/sort change resets to the first chunk (fresh result
+// set, start at the top). Keyed off the user-controlled inputs only, so the
+// async data load (which doesn't touch these) never clobbers a restored count.
+const filterKey = computed(() =>
+  JSON.stringify([
+    query.value, selected.value, heightMax.value, heightMin.value,
+    deerOnly.value, cutFlowerOnly.value, culinaryOnly.value,
+    springEphemeralOnly.value, keystoneOnly.value, sortBy.value,
+  ]),
+)
+watch(filterKey, () => { visibleCount.value = CHUNK })
+
+const sentinel = ref(null)
+let observer = null
+function loadMore() {
+  if (hasMore.value) {
+    visibleCount.value = Math.min(visibleCount.value + CHUNK, sortedPlants.value.length)
+  }
+}
+// Re-observe if the sentinel mounts later (e.g. switching back from calendar).
+watch(sentinel, (el) => { if (el) observer?.observe(el) })
 
 const GROUP_TITLES = {
   generalAppearance: 'Type',
@@ -110,7 +158,14 @@ onMounted(() => {
   const pos = window.history.state?.position
   if (typeof pos === 'number') sessionStorage.setItem('bf:listPos', String(pos))
   if (location.value && !route.query.nativeStates) syncLocationToFilter()
+  // Load the next chunk before the sentinel reaches the viewport.
+  observer = new IntersectionObserver(
+    (entries) => { if (entries.some((e) => e.isIntersecting)) loadMore() },
+    { rootMargin: '800px 0px' },
+  )
+  if (sentinel.value) observer.observe(sentinel.value)
 })
+onUnmounted(() => observer?.disconnect())
 watch(location, syncLocationToFilter)
 
 const drawerOpen = ref(false)
@@ -201,14 +256,17 @@ watch(() => route.fullPath, () => { drawerOpen.value = false })
         </div>
       </div>
       <template v-if="viewMode === 'grid'">
-        <div v-if="sortedPlants.length" class="grid">
-          <PlantCard
-            v-for="(p, i) in sortedPlants"
-            :key="p.id"
-            :plant="p"
-            :priority="i < 8"
-          />
-        </div>
+        <template v-if="sortedPlants.length">
+          <div class="grid">
+            <PlantCard
+              v-for="(p, i) in visiblePlants"
+              :key="p.id"
+              :plant="p"
+              :priority="i < 8"
+            />
+          </div>
+          <div v-if="hasMore" ref="sentinel" class="load-sentinel" aria-hidden="true"></div>
+        </template>
         <div v-else-if="!plantsLoaded" class="empty">Loading plants…</div>
         <div v-else class="empty">
           No plants match your filters. <button @click="clearAll" type="button">Clear filters</button>
@@ -390,6 +448,10 @@ watch(() => route.fullPath, () => { drawerOpen.value = false })
 @media (max-width: 800px) {
   .grid { grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); gap: 12px; }
   .tb-fav-label { display: none; }
+}
+.load-sentinel {
+  height: 1px;
+  width: 100%;
 }
 .empty {
   background: var(--card);
