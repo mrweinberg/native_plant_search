@@ -1,39 +1,101 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
   <head>
     <meta charset="utf-8" />
-    <title>Bedfellow</title>
-    <!--
-      GitHub Pages SPA fallback. Pages serves this file for any unknown path
-      (e.g. /plant/asclepias-tuberosa on a hard refresh or external link). We
-      encode the path into a query string and bounce to the site root, where a
-      matching script in index.html restores the real URL and lets Vue Router
-      take over. Apex/custom domain -> keep 0 path segments.
-      (Technique: rafgraph/spa-github-pages.)
-    -->
-    <script>
-      var pathSegmentsToKeep = 0
-      var l = window.location
-      l.replace(
-        l.protocol +
-          '//' +
-          l.hostname +
-          (l.port ? ':' + l.port : '') +
-          l.pathname
-            .split('/')
-            .slice(0, 1 + pathSegmentsToKeep)
-            .join('/') +
-          '/?/' +
-          l.pathname
-            .slice(1)
-            .split('/')
-            .slice(pathSegmentsToKeep)
-            .join('/')
-            .replace(/&/g, '~and~') +
-          (l.search ? '&' + l.search.slice(1).replace(/&/g, '~and~') : '') +
-          l.hash
-      )
-    </script>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Page not found — Bedfellow</title>
+    <meta name="robots" content="noindex" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="theme-color" content="#1f3320" />
+    <style>
+      :root {
+        --bg: #f7f5f0;
+        --ink: #1f3320;
+        --ink-soft: #4a5a4b;
+        --accent: #356b35;
+      }
+      * { box-sizing: border-box; }
+      html, body { margin: 0; height: 100%; }
+      body {
+        background: var(--bg);
+        color: var(--ink);
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+        display: flex;
+        flex-direction: column;
+        min-height: 100%;
+      }
+      header {
+        background: var(--ink);
+        color: #f1ebd9;
+        padding: 14px 24px;
+        display: flex;
+        align-items: center;
+        gap: 6px;
+        font-weight: 600;
+        font-size: 18px;
+      }
+      header svg { height: 1.5em; width: 1.5em; }
+      header sup { font-size: 9px; vertical-align: super; opacity: 0.8; }
+      main {
+        flex: 1;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        padding: 48px 24px;
+      }
+      .code {
+        font-size: 64px;
+        font-weight: 700;
+        letter-spacing: 2px;
+        color: var(--accent);
+        margin: 0;
+      }
+      h1 { font-size: 22px; margin: 8px 0 4px; }
+      p { color: var(--ink-soft); max-width: 32rem; line-height: 1.5; }
+      .home {
+        display: inline-block;
+        margin-top: 20px;
+        padding: 10px 20px;
+        background: var(--accent);
+        color: #fff;
+        border-radius: 8px;
+        text-decoration: none;
+        font-weight: 600;
+      }
+      .home:hover { background: #2c5a2c; }
+    </style>
   </head>
-  <body></body>
+  <body>
+    <header>
+      <svg viewBox="0 0 64 64" aria-hidden="true">
+        <g transform="translate(32 32)">
+          <g fill="#e0a512">
+            <path transform="rotate(0)" d="M0 -8 C 6 -10 6 -24 0 -28 C -6 -24 -6 -10 0 -8 Z" />
+            <path transform="rotate(40)" d="M0 -8 C 6 -10 6 -24 0 -28 C -6 -24 -6 -10 0 -8 Z" />
+            <path transform="rotate(80)" d="M0 -8 C 6 -10 6 -24 0 -28 C -6 -24 -6 -10 0 -8 Z" />
+            <path transform="rotate(120)" d="M0 -8 C 6 -10 6 -24 0 -28 C -6 -24 -6 -10 0 -8 Z" />
+            <path transform="rotate(160)" d="M0 -8 C 6 -10 6 -24 0 -28 C -6 -24 -6 -10 0 -8 Z" />
+            <path transform="rotate(200)" d="M0 -8 C 6 -10 6 -24 0 -28 C -6 -24 -6 -10 0 -8 Z" />
+            <path transform="rotate(240)" d="M0 -8 C 6 -10 6 -24 0 -28 C -6 -24 -6 -10 0 -8 Z" />
+            <path transform="rotate(280)" d="M0 -8 C 6 -10 6 -24 0 -28 C -6 -24 -6 -10 0 -8 Z" />
+            <path transform="rotate(320)" d="M0 -8 C 6 -10 6 -24 0 -28 C -6 -24 -6 -10 0 -8 Z" />
+          </g>
+          <circle r="9.5" fill="#2c1d12" />
+          <circle r="9.5" fill="none" stroke="#e0a512" stroke-width="1.2" />
+        </g>
+      </svg>
+      Bedfellow<sup aria-hidden="true">™</sup>
+    </header>
+    <main>
+      <p class="code">404</p>
+      <h1>This plot is bare</h1>
+      <p>
+        We couldn't find that page. It may have been moved, or the link might be
+        broken. Let's get you back to growing.
+      </p>
+      <a class="home" href="/">← Back to Bedfellow</a>
+    </main>
+  </body>
 </html>

@@ -315,6 +315,24 @@ function prerender() {
           content: aboutContent(),
         }),
       )
+      write(
+        'terms',
+        render({
+          title: 'Terms of Service — Bedfellow',
+          description:
+            'The terms of service for Bedfellow, a free tool for searching North American native plants and planning a garden.',
+          path: '/terms',
+        }),
+      )
+      write(
+        'privacy',
+        render({
+          title: 'Privacy Policy — Bedfellow',
+          description:
+            'The privacy policy for Bedfellow, a free tool for searching North American native plants and planning a garden.',
+          path: '/privacy',
+        }),
+      )
       // Overwrite the homepage shell with baked content + a real H1 (was an
       // empty app div — the main SEO/GEO gap from the audit).
       writeFileSync(
@@ -327,7 +345,9 @@ function prerender() {
           content: homeContent(plants),
         }),
       )
-      console.log(`prerendered home + ${plants.length} plant pages + sources + favorites + about`)
+      console.log(
+        `prerendered home + ${plants.length} plant pages + sources + favorites + about + terms + privacy`,
+      )
     },
   }
 }
