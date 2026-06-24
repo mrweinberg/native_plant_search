@@ -59,6 +59,39 @@ const printDate = computed(() =>
 function printList() {
   window.print()
 }
+
+// Export the same alphabetized list as a CSV the gardener can hand to a nursery
+// or open in a spreadsheet — the orderable companion to the printable view.
+function csvCell(v) {
+  const s = v == null ? '' : String(v)
+  return /["\n,]/.test(s) ? `"${s.replace(/"/g, '""')}"` : s
+}
+function exportCsv() {
+  const cols = [
+    ['Common name', (p) => p.commonNames?.[0] || ''],
+    ['Scientific name', (p) => p.scientificName],
+    ['Family', (p) => p.family || ''],
+    ['Type', (p) => p.generalAppearance || ''],
+    ['Height (ft)', (p) => (p.heightFeet ? `${p.heightFeet.min}-${p.heightFeet.max}` : '')],
+    ['Bloom', (p) => (p.bloomMonths || []).map((m) => MONTH_LABELS[m]).join(', ')],
+    ['Bloom colors', (p) => (p.bloomColors || []).join(', ')],
+    ['Light', (p) => (p.lightRequirement || []).join(', ')],
+    ['Soil moisture', (p) => (p.soilMoisture || []).join(', ')],
+    ['Native states', (p) => (p.nativeStates || []).join(', ')],
+  ]
+  const rows = [cols.map((c) => c[0]), ...printPlants.value.map((p) => cols.map((c) => c[1](p)))]
+  const csv = rows.map((r) => r.map(csvCell).join(',')).join('\r\n')
+  // Lead with a BOM so Excel reads the UTF-8 (em dashes, accented names) correctly.
+  const blob = new Blob(['﻿' + csv], { type: 'text/csv;charset=utf-8;' })
+  const url = URL.createObjectURL(blob)
+  const a = document.createElement('a')
+  a.href = url
+  a.download = `bedfellow-plant-list-${new Date().toISOString().slice(0, 10)}.csv`
+  document.body.appendChild(a)
+  a.click()
+  a.remove()
+  URL.revokeObjectURL(url)
+}
 function fmtMonths(p) {
   return p.bloomMonths?.length ? p.bloomMonths.map((m) => MONTH_LABELS[m]).join(', ') : '—'
 }
@@ -208,10 +241,12 @@ function goBack() {
         <template v-if="isShared">
           <button type="button" class="action-btn primary" @click="importShared">★ Add all to my favorites</button>
           <button type="button" class="action-btn" @click="printList">🖨 Print list</button>
+          <button type="button" class="action-btn" @click="exportCsv">⬇ CSV</button>
         </template>
         <template v-else>
           <button type="button" class="action-btn" @click="copyShare">{{ copied ? '✓ Link copied' : '🔗 Share' }}</button>
           <button type="button" class="action-btn" @click="printList">🖨 Print list</button>
+          <button type="button" class="action-btn" @click="exportCsv">⬇ CSV</button>
           <button type="button" class="action-btn" @click="confirmClear">Clear all</button>
         </template>
       </div>
