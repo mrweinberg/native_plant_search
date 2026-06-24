@@ -1,0 +1,11 @@
+# Missing native Coreopsis (tickseeds), verified USDA-native to L48 + GBIF
+# presence (2026-06). Excludes C. floridana (GBIF synonym — range conflation).
+Coreopsis pubescens | Star Tickseed
+Coreopsis basalis | Goldenmane Tickseed
+Coreopsis delphiniifolia | Larkspur Tickseed
+Coreopsis latifolia | Broadleaf Tickseed
+Coreopsis intermedia | Goldenwave Tickseed
+Coreopsis bigelovii | Bigelow's Tickseed
+Coreopsis nuecensis | Crown Tickseed
+Coreopsis pulchra | Woodland Tickseed
+Coreopsis integrifolia | Fringeleaf Tickseed

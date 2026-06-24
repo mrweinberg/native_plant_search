@@ -11,8 +11,8 @@ const root = process.cwd()
 // spreadFeet is kept (it's small and shows in the detail Size section, which
 // renders before the full record loads — keeping it avoids a brief "—" flash).
 const DETAIL_ONLY = new Set([
-  'notes', 'imageSource', 'imageCredit', 'nativeRegions',
-  'usdaSymbol', 'caterpillarHosts',
+  'notes', 'imageSource', 'imageCredit', 'imageLicense', 'imageAuthor',
+  'nativeRegions', 'usdaSymbol', 'caterpillarHosts',
 ])
 
 const all = JSON.parse(readFileSync(join(root, 'src/data/plants.json'), 'utf8'))

@@ -142426,5 +142426,652 @@
   "landscapeUses": [
    "border"
   ]
+ },
+ {
+  "id": "coreopsis-pubescens",
+  "scientificName": "Coreopsis pubescens",
+  "commonNames": [
+   "Star Tickseed",
+   "Downy Tickseed"
+  ],
+  "family": "Asteraceae",
+  "nativeStates": [
+   "AL",
+   "AR",
+   "GA",
+   "KY",
+   "LA",
+   "MO",
+   "MS",
+   "NC",
+   "TN",
+   "WV"
+  ],
+  "generalAppearance": "wildflower",
+  "lifespan": "perennial",
+  "heightFeet": {
+   "min": 1.5,
+   "max": 3
+  },
+  "spreadFeet": {
+   "min": 1,
+   "max": 2
+  },
+  "lightRequirement": [
+   "sun",
+   "part shade"
+  ],
+  "soilMoisture": [
+   "dry",
+   "moist"
+  ],
+  "soilType": [
+   "sandy",
+   "loam",
+   "rocky"
+  ],
+  "bloomMonths": [
+   6,
+   7,
+   8,
+   9
+  ],
+  "bloomColors": [
+   "yellow"
+  ],
+  "leafArrangement": "opposite",
+  "leafRetention": "deciduous",
+  "wildlifeValue": [
+   "pollinators",
+   "butterflies"
+  ],
+  "deerResistant": true,
+  "notes": "Golden daisies on downy stems bloom for months through summer into fall. Adaptable and easygoing in sun, forming tidy clumps that shrug off heat, drought, and poor soils.",
+  "usdaSymbol": "COPU2",
+  "nativeRegions": [
+   "L48"
+  ],
+  "cutFlower": true,
+  "culinaryUse": false,
+  "soilPh": [
+   "acidic",
+   "neutral"
+  ],
+  "spreadHabit": "clump",
+  "springEphemeral": false,
+  "imageFile": "plants/coreopsis-pubescens.jpg",
+  "imageSource": "https://en.wikipedia.org/wiki/Coreopsis_pubescens",
+  "imageCredit": "Wikimedia",
+  "imageLicense": "CC BY-SA 3.0",
+  "imageAuthor": "Kurt Stüber [1]",
+  "landscapeUses": [
+   "border",
+   "naturalizing",
+   "container"
+  ]
+ },
+ {
+  "id": "coreopsis-basalis",
+  "scientificName": "Coreopsis basalis",
+  "commonNames": [
+   "Goldenmane Tickseed"
+  ],
+  "family": "Asteraceae",
+  "nativeStates": [
+   "AL",
+   "FL",
+   "GA",
+   "LA",
+   "NC",
+   "SC",
+   "TX"
+  ],
+  "generalAppearance": "wildflower",
+  "lifespan": "annual",
+  "heightFeet": {
+   "min": 1,
+   "max": 2
+  },
+  "spreadFeet": {
+   "min": 0.75,
+   "max": 1.5
+  },
+  "lightRequirement": [
+   "sun"
+  ],
+  "soilMoisture": [
+   "dry"
+  ],
+  "soilType": [
+   "sandy",
+   "loam"
+  ],
+  "bloomMonths": [
+   4,
+   5,
+   6,
+   7
+  ],
+  "bloomColors": [
+   "yellow",
+   "red"
+  ],
+  "leafArrangement": "opposite",
+  "leafRetention": "deciduous",
+  "wildlifeValue": [
+   "pollinators",
+   "butterflies"
+  ],
+  "deerResistant": true,
+  "notes": "A cheerful reseeding annual for sandy soils and meadow mixes — yellow daisies with a red-brown eye over a long spring-to-summer season. Self-sows freely where it is happy.",
+  "usdaSymbol": "COBA2",
+  "nativeRegions": [
+   "L48"
+  ],
+  "cutFlower": true,
+  "culinaryUse": false,
+  "soilPh": [
+   "acidic",
+   "neutral"
+  ],
+  "spreadHabit": "clump",
+  "springEphemeral": false,
+  "imageFile": "plants/coreopsis-basalis.jpg",
+  "imageSource": "https://en.wikipedia.org/wiki/Coreopsis_basalis",
+  "imageCredit": "Wikimedia",
+  "imageLicense": "CC BY-SA 3.0",
+  "imageAuthor": "Amada44",
+  "landscapeUses": [
+   "naturalizing",
+   "container",
+   "border"
+  ]
+ },
+ {
+  "id": "coreopsis-delphiniifolia",
+  "scientificName": "Coreopsis delphiniifolia",
+  "commonNames": [
+   "Larkspur Tickseed"
+  ],
+  "family": "Asteraceae",
+  "nativeStates": [
+   "GA",
+   "SC"
+  ],
+  "generalAppearance": "wildflower",
+  "lifespan": "perennial",
+  "heightFeet": {
+   "min": 2,
+   "max": 4
+  },
+  "spreadFeet": {
+   "min": 1,
+   "max": 2
+  },
+  "lightRequirement": [
+   "sun",
+   "part shade"
+  ],
+  "soilMoisture": [
+   "dry",
+   "moist"
+  ],
+  "soilType": [
+   "sandy",
+   "loam"
+  ],
+  "bloomMonths": [
+   6,
+   7,
+   8
+  ],
+  "bloomColors": [
+   "yellow"
+  ],
+  "leafArrangement": "opposite",
+  "leafRetention": "deciduous",
+  "wildlifeValue": [
+   "pollinators",
+   "butterflies"
+  ],
+  "deerResistant": true,
+  "notes": "Tall, airy tickseed of Southeastern pinelands with finely cut, larkspur-like leaves and yellow midsummer daisies. Spreads gently by rhizomes into loose drifts.",
+  "usdaSymbol": "CODE3",
+  "nativeRegions": [
+   "L48"
+  ],
+  "cutFlower": true,
+  "culinaryUse": false,
+  "soilPh": [
+   "acidic",
+   "neutral"
+  ],
+  "spreadHabit": "spreading",
+  "springEphemeral": false,
+  "imageFile": "plants/coreopsis-delphiniifolia.jpg",
+  "imageSource": "https://en.wikipedia.org/wiki/Anacis_delphiniifolia",
+  "imageCredit": "Wikimedia",
+  "imageLicense": "Public domain",
+  "imageAuthor": "Mason Brock (Masebrock)",
+  "landscapeUses": [
+   "border",
+   "naturalizing"
+  ]
+ },
+ {
+  "id": "coreopsis-latifolia",
+  "scientificName": "Coreopsis latifolia",
+  "commonNames": [
+   "Broadleaf Tickseed"
+  ],
+  "family": "Asteraceae",
+  "nativeStates": [
+   "NC",
+   "SC"
+  ],
+  "generalAppearance": "wildflower",
+  "lifespan": "perennial",
+  "heightFeet": {
+   "min": 1.5,
+   "max": 3
+  },
+  "spreadFeet": {
+   "min": 1,
+   "max": 2.5
+  },
+  "lightRequirement": [
+   "part shade",
+   "shade"
+  ],
+  "soilMoisture": [
+   "moist"
+  ],
+  "soilType": [
+   "loam"
+  ],
+  "bloomMonths": [
+   8,
+   9
+  ],
+  "bloomColors": [
+   "yellow"
+  ],
+  "leafArrangement": "opposite",
+  "leafRetention": "deciduous",
+  "wildlifeValue": [
+   "pollinators",
+   "butterflies"
+  ],
+  "deerResistant": true,
+  "notes": "An unusual shade-loving tickseed from the southern Appalachians, with broad oval leaves unlike the threadleaf kinds. Yellow daisies brighten moist, shaded gardens in late summer.",
+  "usdaSymbol": "COLA7",
+  "nativeRegions": [
+   "L48"
+  ],
+  "cutFlower": true,
+  "culinaryUse": false,
+  "soilPh": [
+   "acidic",
+   "neutral"
+  ],
+  "spreadHabit": "spreading",
+  "springEphemeral": false,
+  "imageFile": "plants/coreopsis-latifolia.jpg",
+  "imageSource": "https://en.wikipedia.org/wiki/Silphidium",
+  "imageCredit": "Wikimedia",
+  "imageLicense": "CC BY 2.0",
+  "imageAuthor": "sonnia hill",
+  "landscapeUses": [
+   "naturalizing",
+   "groundcover"
+  ]
+ },
+ {
+  "id": "coreopsis-intermedia",
+  "scientificName": "Coreopsis intermedia",
+  "commonNames": [
+   "Goldenwave Tickseed"
+  ],
+  "family": "Asteraceae",
+  "nativeStates": [
+   "LA",
+   "TX"
+  ],
+  "generalAppearance": "wildflower",
+  "lifespan": "perennial",
+  "heightFeet": {
+   "min": 1,
+   "max": 2.5
+  },
+  "spreadFeet": {
+   "min": 1,
+   "max": 1.5
+  },
+  "lightRequirement": [
+   "sun"
+  ],
+  "soilMoisture": [
+   "dry"
+  ],
+  "soilType": [
+   "sandy",
+   "loam"
+  ],
+  "bloomMonths": [
+   4,
+   5,
+   6
+  ],
+  "bloomColors": [
+   "yellow",
+   "brown"
+  ],
+  "leafArrangement": "opposite",
+  "leafRetention": "deciduous",
+  "wildlifeValue": [
+   "pollinators",
+   "butterflies"
+  ],
+  "deerResistant": true,
+  "notes": "Texas and south-central native with golden, maroon-centered daisies in spring. Thrives in lean, sandy soils and full sun — a bright filler for meadows and wildflower plantings.",
+  "usdaSymbol": "COIN2",
+  "nativeRegions": [
+   "L48"
+  ],
+  "cutFlower": true,
+  "culinaryUse": false,
+  "soilPh": [
+   "acidic",
+   "neutral"
+  ],
+  "spreadHabit": "clump",
+  "springEphemeral": false,
+  "imageFile": "plants/coreopsis-intermedia.jpg",
+  "imageSource": "https://en.wikipedia.org/wiki/Coreopsis_intermedia",
+  "imageCredit": "Wikimedia",
+  "imageLicense": "CC BY 4.0",
+  "imageAuthor": "(c) Laura Clark, some rights reserved (CC BY)",
+  "landscapeUses": [
+   "naturalizing",
+   "border",
+   "container"
+  ]
+ },
+ {
+  "id": "coreopsis-bigelovii",
+  "scientificName": "Coreopsis bigelovii",
+  "commonNames": [
+   "Bigelow's Tickseed",
+   "Bigelow's Coreopsis"
+  ],
+  "family": "Asteraceae",
+  "nativeStates": [
+   "CA"
+  ],
+  "generalAppearance": "wildflower",
+  "lifespan": "annual",
+  "heightFeet": {
+   "min": 0.5,
+   "max": 1.5
+  },
+  "spreadFeet": {
+   "min": 0.5,
+   "max": 1
+  },
+  "lightRequirement": [
+   "sun"
+  ],
+  "soilMoisture": [
+   "dry"
+  ],
+  "soilType": [
+   "sandy",
+   "rocky"
+  ],
+  "bloomMonths": [
+   3,
+   4,
+   5
+  ],
+  "bloomColors": [
+   "yellow"
+  ],
+  "leafArrangement": "basal",
+  "leafRetention": "deciduous",
+  "wildlifeValue": [
+   "pollinators",
+   "butterflies"
+  ],
+  "deerResistant": true,
+  "notes": "A spring annual of California's grasslands and desert edges, sending up leafless stalks topped with bright yellow daisies. Carpets open ground after wet winters.",
+  "usdaSymbol": "COBI",
+  "nativeRegions": [
+   "L48"
+  ],
+  "cutFlower": false,
+  "culinaryUse": false,
+  "soilPh": [
+   "neutral",
+   "alkaline"
+  ],
+  "spreadHabit": "clump",
+  "springEphemeral": false,
+  "imageFile": "plants/coreopsis-bigelovii.jpg",
+  "imageSource": "https://en.wikipedia.org/wiki/Leptosyne_bigelovii",
+  "imageCredit": "Wikimedia",
+  "imageLicense": "CC BY-SA 4.0",
+  "imageAuthor": "Walter Siegmund (talk)",
+  "landscapeUses": [
+   "naturalizing",
+   "container"
+  ]
+ },
+ {
+  "id": "coreopsis-nuecensis",
+  "scientificName": "Coreopsis nuecensis",
+  "commonNames": [
+   "Crown Tickseed"
+  ],
+  "family": "Asteraceae",
+  "nativeStates": [
+   "TX"
+  ],
+  "generalAppearance": "wildflower",
+  "lifespan": "annual",
+  "heightFeet": {
+   "min": 0.5,
+   "max": 1.5
+  },
+  "spreadFeet": {
+   "min": 0.5,
+   "max": 1
+  },
+  "lightRequirement": [
+   "sun"
+  ],
+  "soilMoisture": [
+   "dry"
+  ],
+  "soilType": [
+   "sandy"
+  ],
+  "bloomMonths": [
+   3,
+   4,
+   5
+  ],
+  "bloomColors": [
+   "yellow",
+   "brown"
+  ],
+  "leafArrangement": "basal",
+  "leafRetention": "deciduous",
+  "wildlifeValue": [
+   "pollinators",
+   "butterflies"
+  ],
+  "deerResistant": true,
+  "notes": "A south Texas annual with golden daisies ringed by a red-brown 'crown' at the center. Quick and showy from seed in sandy soils, reseeding through mild winters.",
+  "usdaSymbol": "CONU3",
+  "nativeRegions": [
+   "L48"
+  ],
+  "cutFlower": false,
+  "culinaryUse": false,
+  "soilPh": [
+   "acidic",
+   "neutral"
+  ],
+  "spreadHabit": "clump",
+  "springEphemeral": false,
+  "imageFile": "plants/coreopsis-nuecensis.jpg",
+  "imageSource": "https://en.wikipedia.org/wiki/Coreopsis_nuecensis",
+  "imageCredit": "Wikimedia",
+  "imageLicense": "CC BY 4.0",
+  "imageAuthor": "Cleveland Powell",
+  "landscapeUses": [
+   "naturalizing",
+   "container"
+  ]
+ },
+ {
+  "id": "coreopsis-pulchra",
+  "scientificName": "Coreopsis pulchra",
+  "commonNames": [
+   "Woodland Tickseed"
+  ],
+  "family": "Asteraceae",
+  "nativeStates": [
+   "AL"
+  ],
+  "generalAppearance": "wildflower",
+  "lifespan": "perennial",
+  "heightFeet": {
+   "min": 1.5,
+   "max": 3
+  },
+  "spreadFeet": {
+   "min": 1,
+   "max": 2
+  },
+  "lightRequirement": [
+   "sun",
+   "part shade"
+  ],
+  "soilMoisture": [
+   "dry"
+  ],
+  "soilType": [
+   "rocky",
+   "sandy"
+  ],
+  "bloomMonths": [
+   6,
+   7,
+   8
+  ],
+  "bloomColors": [
+   "yellow"
+  ],
+  "leafArrangement": "opposite",
+  "leafRetention": "deciduous",
+  "wildlifeValue": [
+   "pollinators",
+   "butterflies"
+  ],
+  "deerResistant": true,
+  "notes": "A rare tickseed of Alabama's sandstone outcrops, globally imperiled in the wild. Yellow summer daisies on upright stems; happiest in lean, rocky, well-drained ground.",
+  "usdaSymbol": "COPU9",
+  "nativeRegions": [
+   "L48"
+  ],
+  "cutFlower": true,
+  "culinaryUse": false,
+  "soilPh": [
+   "acidic",
+   "neutral"
+  ],
+  "spreadHabit": "clump",
+  "springEphemeral": false,
+  "imageFile": "plants/coreopsis-pulchra.jpg",
+  "imageSource": "https://en.wikipedia.org/wiki/Anacis_pulchra",
+  "imageCredit": "Wikimedia",
+  "imageLicense": "Public domain",
+  "imageAuthor": "Kelly Anderson and Mason Brock (Masebrock)",
+  "landscapeUses": [
+   "naturalizing",
+   "border"
+  ]
+ },
+ {
+  "id": "coreopsis-integrifolia",
+  "scientificName": "Coreopsis integrifolia",
+  "commonNames": [
+   "Fringeleaf Tickseed",
+   "Chipola River Tickseed"
+  ],
+  "family": "Asteraceae",
+  "nativeStates": [
+   "FL",
+   "SC"
+  ],
+  "generalAppearance": "wildflower",
+  "lifespan": "perennial",
+  "heightFeet": {
+   "min": 2,
+   "max": 3
+  },
+  "spreadFeet": {
+   "min": 1,
+   "max": 2
+  },
+  "lightRequirement": [
+   "sun",
+   "part shade"
+  ],
+  "soilMoisture": [
+   "moist",
+   "wet"
+  ],
+  "soilType": [
+   "loam",
+   "sandy"
+  ],
+  "bloomMonths": [
+   9,
+   10
+  ],
+  "bloomColors": [
+   "yellow"
+  ],
+  "leafArrangement": "opposite",
+  "leafRetention": "deciduous",
+  "wildlifeValue": [
+   "pollinators",
+   "butterflies"
+  ],
+  "deerResistant": true,
+  "notes": "A rare, late-blooming tickseed of Southeastern riverbanks, flowering when most others are done. Golden daisies in fall over moist to wet soil — a strong pick for rain gardens and pond edges.",
+  "usdaSymbol": "COIN4",
+  "nativeRegions": [
+   "L48"
+  ],
+  "cutFlower": true,
+  "culinaryUse": false,
+  "soilPh": [
+   "acidic",
+   "neutral"
+  ],
+  "spreadHabit": "spreading",
+  "springEphemeral": false,
+  "imageFile": "plants/coreopsis-integrifolia.jpg",
+  "imageSource": "https://www.inaturalist.org/taxa/160895",
+  "imageCredit": "iNaturalist",
+  "imageLicense": "cc-by-nc",
+  "imageAuthor": "(c) Valerie Dalton, some rights reserved (CC BY-NC), uploaded by Valerie Dalton",
+  "landscapeUses": [
+   "rain garden",
+   "naturalizing"
+  ]
  }
 ]
