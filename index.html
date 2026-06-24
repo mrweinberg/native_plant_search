@@ -24,10 +24,17 @@
     <title>Bedfellow — Plan a native garden</title>
     <meta
       name="description"
-      content="Search North American native plants by region, light, soil, and bloom time. Plan a garden with continuous bloom and find companion plants that thrive together."
+      content="Search North American native plants by region, light, soil, and bloom time. Find pollinator, hummingbird, deer-resistant, and rain-garden plants, and plan a garden that blooms all season."
     />
     <link rel="canonical" href="https://bedfellow.org/" />
     <meta name="theme-color" content="#1f3320" />
+
+    <!-- The build bakes a static SEO/no-JS fallback into #app (see prerender in
+         vite.config.js). Hide it before first paint so JS visitors don't flash
+         the unstyled fallback; Vue replaces #app on mount. Raw-HTML crawlers
+         still read it from source; no-JS visitors get it back via <noscript>. -->
+    <style>[data-ssr]{display:none}</style>
+    <noscript><style>[data-ssr]{display:block}</style></noscript>
 
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <link rel="apple-touch-icon" href="/favicon.svg" />
@@ -39,7 +46,7 @@
     <meta property="og:title" content="Bedfellow — Plan a native garden" />
     <meta
       property="og:description"
-      content="Search North American native plants by region, light, soil, and bloom time, and find companion plants that thrive together."
+      content="Search North American native plants by region, light, soil, and bloom time. Find pollinator, hummingbird, deer-resistant, and rain-garden plants that thrive together."
     />
     <meta property="og:url" content="https://bedfellow.org/" />
     <meta property="og:image" content="https://bedfellow.org/plants/echinacea-purpurea.jpg" />
@@ -49,7 +56,7 @@
     <meta name="twitter:title" content="Bedfellow — Plan a native garden that blooms all season" />
     <meta
       name="twitter:description"
-      content="Search North American native plants by region, light, soil, and bloom time."
+      content="Search North American native plants by region, light, soil, and bloom time — for pollinators, hummingbirds, deer resistance, and rain gardens."
     />
     <meta name="twitter:image" content="https://bedfellow.org/plants/echinacea-purpurea.jpg" />
 

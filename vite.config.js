@@ -107,10 +107,31 @@ function breadcrumb(p) {
 // so this never reaches interactive users.
 function homeContent(plants) {
   const e = escapeHtml
-  const sample = plants.filter((p) => p.keystone).slice(0, 12)
-  const links = sample
-    .map((p) => `<li><a href="/plant/${p.id}">${e(p.commonNames[0])} (${e(p.scientificName)})</a></li>`)
-    .join('')
+  const byId = (id) => plants.find((p) => p.id === id)
+  const link = (p) => `<li><a href="/plant/${p.id}">${e(p.commonNames[0])} (${e(p.scientificName)})</a></li>`
+
+  // Keystone genera, deduped to one species each, so the list spans maples,
+  // oaks, cherries, birches… instead of repeating oaks (the first dozen keystone
+  // records in catalog order are nearly all oaks).
+  const keystoneByGenus = []
+  const seenGenus = new Set()
+  for (const p of plants) {
+    if (!p.keystone) continue
+    const genus = p.scientificName.split(' ')[0]
+    if (seenGenus.has(genus)) continue
+    seenGenus.add(genus)
+    keystoneByGenus.push(p)
+    if (keystoneByGenus.length >= 8) break
+  }
+
+  // Signature herbaceous natives + a grass, to surface pollinator / butterfly /
+  // hummingbird keywords with recognizable examples (filtered to those present,
+  // so a removed id degrades gracefully).
+  const pollinators = [
+    'asclepias-tuberosa', 'echinacea-purpurea', 'monarda-fistulosa', 'lobelia-cardinalis',
+    'rudbeckia-hirta', 'symphyotrichum-novae-angliae', 'liatris-spicata', 'schizachyrium-scoparium',
+  ].map(byId).filter(Boolean)
+
   return (
     `<main>` +
     `<h1>Search North American native plants</h1>` +
@@ -118,16 +139,21 @@ function homeContent(plants) {
     `North American native plants by region and state, light, soil moisture and type, soil pH, bloom ` +
     `time, height, and wildlife value — then save favorites, build companion-planting beds, and check ` +
     `bloom coverage month by month.</p>` +
+    `<p>Find native plants for pollinators, butterflies, and hummingbirds; deer-resistant plants, ` +
+    `rain-garden and groundcover plants, plants for cut flowers, and edible native plants.</p>` +
     `<p>Native range, scientific names, and photos come from USDA PLANTS, GBIF, Wikimedia Commons, and ` +
     `iNaturalist; growing conditions and descriptions are editorially curated. ` +
     `<a href="/sources">See sources &amp; data</a>.</p>` +
     `<h2>Explore</h2>` +
     `<ul><li><a href="/favorites">Favorites, bloom timeline &amp; companion beds</a></li>` +
     `<li><a href="/sources">Sources &amp; data</a></li></ul>` +
+    `<h2>Native plants for pollinators &amp; wildlife</h2>` +
+    `<p>Recognizable native wildflowers and grasses that feed bees, butterflies, and hummingbirds:</p>` +
+    `<ul>${pollinators.map(link).join('')}</ul>` +
     `<h2>Keystone native plants</h2>` +
     `<p>Keystone genera support an outsized number of native caterpillar species — the food base for ` +
     `songbirds. A few in the catalog:</p>` +
-    `<ul>${links}</ul>` +
+    `<ul>${keystoneByGenus.map(link).join('')}</ul>` +
     `</main>`
   )
 }
@@ -296,7 +322,7 @@ function prerender() {
         render({
           title: 'Bedfellow — Plan a native garden that blooms all season',
           description:
-            'Search North American native plants by region, light, soil, and bloom time, and plan a garden with continuous bloom and companion plants that thrive together.',
+            'Search North American native plants by region, light, soil, and bloom time. Find pollinator, hummingbird, deer-resistant, and rain-garden plants, and plan a garden that blooms all season.',
           path: '/',
           content: homeContent(plants),
         }),

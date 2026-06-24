@@ -6,7 +6,7 @@
 const SITE = 'https://bedfellow.org'
 const DEFAULT_TITLE = 'Bedfellow — Plan a native garden that blooms all season'
 const DEFAULT_DESC =
-  'Search North American native plants by region, light, soil, and bloom time, and find companion plants that thrive together.'
+  'Search North American native plants by region, light, soil, and bloom time. Find pollinator, hummingbird, deer-resistant, and rain-garden plants, and plan a garden that blooms all season.'
 const DEFAULT_IMAGE = `${SITE}/plants/echinacea-purpurea.jpg`
 
 function upsert(selector, create, value, attr = 'content') {

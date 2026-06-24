@@ -1,10 +1,11 @@
 # Bedfellow
 
 > Bedfellow (bedfellow.org) is a free web app for searching North American
-> native plants and planning a garden that blooms all season. Filter ~1,000
+> native plants and planning a garden that blooms all season. Filter 1,700+
 > species by region/state, light, soil moisture and type, soil pH, bloom time,
-> height, and wildlife value, then build companion-planting "beds" and a
-> bloom-coverage timeline.
+> height, and wildlife value — including pollinator, butterfly, hummingbird,
+> deer-resistant, rain-garden, groundcover, cut-flower, and edible native
+> plants — then build companion-planting "beds" and a bloom-coverage timeline.
 
 Native range, scientific names, and photographs come from public databases
 (USDA PLANTS, GBIF, Wikimedia Commons, iNaturalist). Growing conditions, bloom
@@ -13,7 +14,7 @@ curated with AI assistance from horticultural references, and may contain
 errors — treat the data as a planning aid and verify for your own site.
 
 ## Key pages
-- [Plant search](https://bedfellow.org/): filter native plants by region, light, soil, bloom time, height, and wildlife value.
+- [Plant search](https://bedfellow.org/): filter native plants by region, light, soil, bloom time, height, and wildlife value (pollinator, butterfly, hummingbird, deer-resistant, rain-garden, edible).
 - [Favorites & planning](https://bedfellow.org/favorites): saved plants, a bloom-coverage timeline, and companion-planting beds.
 - [Sources & data](https://bedfellow.org/sources): the databases and horticultural references behind the catalog, and how the data is built.
 - [Plant detail pages](https://bedfellow.org/sitemap.xml): one page per species (see sitemap) with traits, a bloom chart, a native-range map, and companion suggestions.
