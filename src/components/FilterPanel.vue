@@ -2,24 +2,20 @@
 import { computed } from 'vue'
 import FilterChip from './FilterChip.vue'
 import MultiSelectDropdown from './MultiSelectDropdown.vue'
-import { getFilterOptions, MONTH_LABELS } from '../composables/usePlantFilters.js'
+import { getFilterOptions, MONTH_LABELS, BOOL_FILTERS } from '../composables/usePlantFilters.js'
 
 const DROPDOWN_THRESHOLD = 8
+const boolFilters = BOOL_FILTERS
 
 const props = defineProps({
   selected: { type: Object, required: true },
   heightMax: { type: Number, default: null },
   heightMin: { type: Number, default: null },
-  deerOnly: { type: Boolean, default: false },
-  cutFlowerOnly: { type: Boolean, default: false },
-  culinaryOnly: { type: Boolean, default: false },
-  springEphemeralOnly: { type: Boolean, default: false },
-  keystoneOnly: { type: Boolean, default: false },
+  bools: { type: Object, required: true },
   open: { type: Boolean, default: false },
 })
 const emit = defineEmits([
-  'toggle', 'heightMax', 'heightMin', 'deerOnly', 'cutFlowerOnly', 'culinaryOnly',
-  'springEphemeralOnly', 'keystoneOnly', 'clear', 'clearGroup', 'close',
+  'toggle', 'heightMax', 'heightMin', 'bool', 'clear', 'clearGroup', 'close',
 ])
 
 const options = computed(() => getFilterOptions())
@@ -147,45 +143,13 @@ function labelFor(group, val) {
     </section>
 
     <section class="filter-group">
-      <label class="toggle" title="Plants deer tend to leave alone — a guide, not a guarantee, since hungry deer sample almost anything.">
+      <label v-for="f in boolFilters" :key="f.key" class="toggle" :title="f.title">
         <input
           type="checkbox"
-          :checked="deerOnly"
-          @change="emit('deerOnly', $event.target.checked)"
+          :checked="bools[f.key]"
+          @change="emit('bool', f.key, $event.target.checked)"
         />
-        🦌 Deer-resistant only
-      </label>
-      <label class="toggle" title="Flowers that hold up well when cut for indoor arrangements.">
-        <input
-          type="checkbox"
-          :checked="cutFlowerOnly"
-          @change="emit('cutFlowerOnly', $event.target.checked)"
-        />
-        ✂️ Good for cut flowers
-      </label>
-      <label class="toggle" title="Has parts traditionally used as food — always confirm safe identification and preparation.">
-        <input
-          type="checkbox"
-          :checked="culinaryOnly"
-          @change="emit('culinaryOnly', $event.target.checked)"
-        />
-        🍴 Edible / culinary use
-      </label>
-      <label class="toggle" title="Woodland wildflowers that bloom early in spring, then die back by summer.">
-        <input
-          type="checkbox"
-          :checked="springEphemeralOnly"
-          @change="emit('springEphemeralOnly', $event.target.checked)"
-        />
-        🌱 Spring ephemerals only
-      </label>
-      <label class="toggle" title="Genera that host an outsized number of native caterpillar species — top wildlife value (Tallamy / NWF).">
-        <input
-          type="checkbox"
-          :checked="keystoneOnly"
-          @change="emit('keystoneOnly', $event.target.checked)"
-        />
-        🐛 Keystone plants only
+        {{ f.icon }} {{ f.panelLabel }}
       </label>
     </section>
 

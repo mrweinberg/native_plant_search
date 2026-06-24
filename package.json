@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "node scripts/gen-list.mjs && vite",
     "build": "node scripts/gen-list.mjs && vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "test": "vitest run"
   },
   "dependencies": {
     "vue": "^3.4.0",
@@ -14,6 +15,7 @@
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.0.0",
-    "vite": "^5.2.0"
+    "vite": "^5.2.0",
+    "vitest": "^4.1.9"
   }
 }

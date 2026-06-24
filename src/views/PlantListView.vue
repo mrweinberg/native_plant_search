@@ -5,7 +5,7 @@ import SearchBar from '../components/SearchBar.vue'
 import FilterPanel from '../components/FilterPanel.vue'
 import PlantCard from '../components/PlantCard.vue'
 import BloomCalendar from '../components/BloomCalendar.vue'
-import { usePlantFilters, plantsLoaded, MONTH_LABELS } from '../composables/usePlantFilters.js'
+import { usePlantFilters, plantsLoaded, MONTH_LABELS, BOOL_FILTERS } from '../composables/usePlantFilters.js'
 import { useLocation } from '../composables/useLocation.js'
 import { useFavorites } from '../composables/useFavorites.js'
 
@@ -16,11 +16,7 @@ const {
   selected,
   heightMax,
   heightMin,
-  deerOnly,
-  cutFlowerOnly,
-  culinaryOnly,
-  springEphemeralOnly,
-  keystoneOnly,
+  bools,
   sortBy,
   sortedPlants,
   activeFilterCount,
@@ -28,11 +24,7 @@ const {
   toggleFilter,
   setHeightMax,
   setHeightMin,
-  setDeerOnly,
-  setCutFlowerOnly,
-  setCulinaryOnly,
-  setSpringEphemeralOnly,
-  setKeystoneOnly,
+  setBool,
   setSortBy,
   clearFilter,
   clearAll,
@@ -70,8 +62,7 @@ watch(visibleCount, (n) => sessionStorage.setItem('bf:listCount', String(n)))
 const filterKey = computed(() =>
   JSON.stringify([
     query.value, selected.value, heightMax.value, heightMin.value,
-    deerOnly.value, cutFlowerOnly.value, culinaryOnly.value,
-    springEphemeralOnly.value, keystoneOnly.value, sortBy.value,
+    bools.value, sortBy.value,
   ]),
 )
 watch(filterKey, () => { visibleCount.value = CHUNK })
@@ -121,11 +112,9 @@ const activeChips = computed(() => {
   if (heightMax.value != null) {
     chips.push({ label: `Max height: ${heightMax.value} ft`, remove: () => setHeightMax(null) })
   }
-  if (deerOnly.value) chips.push({ label: 'Deer-resistant', remove: () => setDeerOnly(false) })
-  if (cutFlowerOnly.value) chips.push({ label: 'Cut flower', remove: () => setCutFlowerOnly(false) })
-  if (culinaryOnly.value) chips.push({ label: 'Edible', remove: () => setCulinaryOnly(false) })
-  if (springEphemeralOnly.value) chips.push({ label: 'Spring ephemeral', remove: () => setSpringEphemeralOnly(false) })
-  if (keystoneOnly.value) chips.push({ label: 'Keystone plants', remove: () => setKeystoneOnly(false) })
+  for (const f of BOOL_FILTERS) {
+    if (bools.value[f.key]) chips.push({ label: f.chip, remove: () => setBool(f.key, false) })
+  }
   return chips
 })
 
@@ -185,19 +174,11 @@ watch(() => route.fullPath, () => { drawerOpen.value = false })
       :selected="selected"
       :height-max="heightMax"
       :height-min="heightMin"
-      :deer-only="deerOnly"
-      :cut-flower-only="cutFlowerOnly"
-      :culinary-only="culinaryOnly"
-      :spring-ephemeral-only="springEphemeralOnly"
-      :keystone-only="keystoneOnly"
+      :bools="bools"
       @toggle="(k, v) => toggleFilter(k, v)"
       @height-max="setHeightMax"
       @height-min="setHeightMin"
-      @deer-only="setDeerOnly"
-      @cut-flower-only="setCutFlowerOnly"
-      @culinary-only="setCulinaryOnly"
-      @spring-ephemeral-only="setSpringEphemeralOnly"
-      @keystone-only="setKeystoneOnly"
+      @bool="setBool"
       @clear-group="clearFilter"
       @clear="clearAll"
     />

@@ -32,6 +32,27 @@ const MULTI_FILTERS = [
   { key: 'family', field: 'family', isArray: false },
 ]
 
+// Boolean "only" filters. `key` doubles as the URL query param (value '1'); the
+// table drives the query computed, the filter pass, the active count, the panel
+// checkboxes, and the active-chip list, so adding a flag is a one-line change.
+export const BOOL_FILTERS = [
+  { key: 'deer', field: 'deerResistant', chip: 'Deer-resistant', icon: '🦌',
+    panelLabel: 'Deer-resistant only',
+    title: 'Plants deer tend to leave alone — a guide, not a guarantee, since hungry deer sample almost anything.' },
+  { key: 'cut', field: 'cutFlower', chip: 'Cut flower', icon: '✂️',
+    panelLabel: 'Good for cut flowers',
+    title: 'Flowers that hold up well when cut for indoor arrangements.' },
+  { key: 'edible', field: 'culinaryUse', chip: 'Edible', icon: '🍴',
+    panelLabel: 'Edible / culinary use',
+    title: 'Has parts traditionally used as food — always confirm safe identification and preparation.' },
+  { key: 'ephemeral', field: 'springEphemeral', chip: 'Spring ephemeral', icon: '🌱',
+    panelLabel: 'Spring ephemerals only',
+    title: 'Woodland wildflowers that bloom early in spring, then die back by summer.' },
+  { key: 'keystone', field: 'keystone', chip: 'Keystone plants', icon: '🐛',
+    panelLabel: 'Keystone plants only',
+    title: 'Genera that host an outsized number of native caterpillar species — top wildlife value (Tallamy / NWF).' },
+]
+
 function uniqueSorted(values, numeric = false) {
   const set = new Set(values)
   const arr = [...set]
@@ -57,6 +78,66 @@ export function getFilterOptions() {
   return options
 }
 
+// Pure predicate: does a plant satisfy the given filter criteria? Decoupled from
+// the router so it's unit-testable. `criteria` mirrors the reactive filter state:
+//   { q, selected, heightMax, heightMin, bools }. `q` is normalized here.
+export function plantMatchesCriteria(p, criteria) {
+  const { selected = {}, heightMax = null, heightMin = null, bools = {} } = criteria
+  const q = (criteria.q || '').trim().toLowerCase()
+  if (q) {
+    const hay = [p.scientificName, ...(p.commonNames || [])].join(' ').toLowerCase()
+    if (!hay.includes(q)) return false
+  }
+  for (const f of MULTI_FILTERS) {
+    const chosen = selected[f.key]
+    if (!chosen || chosen.length === 0) continue
+    const v = p[f.field]
+    if (v == null) return false
+    if (f.isArray) {
+      if (!v.some((x) => chosen.includes(x))) return false
+    } else if (!chosen.includes(v)) {
+      return false
+    }
+  }
+  if (heightMax != null) {
+    const plantMin = p.heightFeet?.min ?? p.heightFeet?.max ?? 0
+    if (plantMin > heightMax) return false
+  }
+  if (heightMin != null) {
+    const plantMax = p.heightFeet?.max ?? p.heightFeet?.min ?? 0
+    if (plantMax < heightMin) return false
+  }
+  for (const f of BOOL_FILTERS) {
+    if (bools[f.key] && !p[f.field]) return false
+  }
+  return true
+}
+
+// Pure sort: returns a new array ordered by the given sort key.
+export function sortPlants(list, sortBy) {
+  const out = [...list]
+  const firstBloom = (p) => (p.bloomMonths?.length ? Math.min(...p.bloomMonths) : 99)
+  const cmpStr = (a, b) => String(a).localeCompare(String(b))
+  switch (sortBy) {
+    case 'scientific':
+      out.sort((a, b) => cmpStr(a.scientificName, b.scientificName))
+      break
+    case 'heightAsc':
+      out.sort((a, b) => (a.heightFeet?.min ?? 0) - (b.heightFeet?.min ?? 0))
+      break
+    case 'heightDesc':
+      out.sort((a, b) => (b.heightFeet?.max ?? 0) - (a.heightFeet?.max ?? 0))
+      break
+    case 'bloomStart':
+      out.sort((a, b) => firstBloom(a) - firstBloom(b))
+      break
+    case 'common':
+    default:
+      out.sort((a, b) => cmpStr(a.commonNames?.[0] || '', b.commonNames?.[0] || ''))
+  }
+  return out
+}
+
 export function usePlantFilters() {
   const route = useRoute()
   const router = useRouter()
@@ -76,11 +157,12 @@ export function usePlantFilters() {
     const v = Number(route.query.heightMin)
     return Number.isFinite(v) && v > 0 ? v : null
   })
-  const deerOnly = computed(() => route.query.deer === '1')
-  const cutFlowerOnly = computed(() => route.query.cut === '1')
-  const culinaryOnly = computed(() => route.query.edible === '1')
-  const springEphemeralOnly = computed(() => route.query.ephemeral === '1')
-  const keystoneOnly = computed(() => route.query.keystone === '1')
+  // { deer: true, cut: false, ... } — one reactive map for every boolean flag.
+  const bools = computed(() => {
+    const out = {}
+    for (const f of BOOL_FILTERS) out[f.key] = route.query[f.key] === '1'
+    return out
+  })
   const sortBy = computed(() => String(route.query.sort || 'common'))
 
   const selected = computed(() => {
@@ -119,20 +201,8 @@ export function usePlantFilters() {
   function setHeightMin(val) {
     setQuery({ heightMin: val ? String(val) : undefined })
   }
-  function setDeerOnly(val) {
-    setQuery({ deer: val ? '1' : undefined })
-  }
-  function setCutFlowerOnly(val) {
-    setQuery({ cut: val ? '1' : undefined })
-  }
-  function setCulinaryOnly(val) {
-    setQuery({ edible: val ? '1' : undefined })
-  }
-  function setSpringEphemeralOnly(val) {
-    setQuery({ ephemeral: val ? '1' : undefined })
-  }
-  function setKeystoneOnly(val) {
-    setQuery({ keystone: val ? '1' : undefined })
+  function setBool(key, val) {
+    setQuery({ [key]: val ? '1' : undefined })
   }
   function setSortBy(val) {
     setQuery({ sort: val && val !== 'common' ? val : undefined })
@@ -142,68 +212,17 @@ export function usePlantFilters() {
   }
 
   const filteredPlants = computed(() => {
-    const q = query.value.trim().toLowerCase()
-    const sel = selected.value
-    const hMax = heightMax.value
-    const hMin = heightMin.value
-    const deer = deerOnly.value
-
-    return allPlants.value.filter((p) => {
-      if (q) {
-        const hay = [p.scientificName, ...(p.commonNames || [])].join(' ').toLowerCase()
-        if (!hay.includes(q)) return false
-      }
-      for (const f of MULTI_FILTERS) {
-        const chosen = sel[f.key]
-        if (!chosen || chosen.length === 0) continue
-        const v = p[f.field]
-        if (v == null) return false
-        if (f.isArray) {
-          if (!v.some((x) => chosen.includes(x))) return false
-        } else {
-          if (!chosen.includes(v)) return false
-        }
-      }
-      if (hMax != null) {
-        const plantMin = p.heightFeet?.min ?? p.heightFeet?.max ?? 0
-        if (plantMin > hMax) return false
-      }
-      if (hMin != null) {
-        const plantMax = p.heightFeet?.max ?? p.heightFeet?.min ?? 0
-        if (plantMax < hMin) return false
-      }
-      if (deer && !p.deerResistant) return false
-      if (cutFlowerOnly.value && !p.cutFlower) return false
-      if (culinaryOnly.value && !p.culinaryUse) return false
-      if (springEphemeralOnly.value && !p.springEphemeral) return false
-      if (keystoneOnly.value && !p.keystone) return false
-      return true
-    })
-  })
-
-  const sortedPlants = computed(() => {
-    const list = [...filteredPlants.value]
-    const firstBloom = (p) => (p.bloomMonths?.length ? Math.min(...p.bloomMonths) : 99)
-    const cmpStr = (a, b) => String(a).localeCompare(String(b))
-    switch (sortBy.value) {
-      case 'scientific':
-        list.sort((a, b) => cmpStr(a.scientificName, b.scientificName))
-        break
-      case 'heightAsc':
-        list.sort((a, b) => (a.heightFeet?.min ?? 0) - (b.heightFeet?.min ?? 0))
-        break
-      case 'heightDesc':
-        list.sort((a, b) => (b.heightFeet?.max ?? 0) - (a.heightFeet?.max ?? 0))
-        break
-      case 'bloomStart':
-        list.sort((a, b) => firstBloom(a) - firstBloom(b))
-        break
-      case 'common':
-      default:
-        list.sort((a, b) => cmpStr(a.commonNames?.[0] || '', b.commonNames?.[0] || ''))
+    const criteria = {
+      q: query.value,
+      selected: selected.value,
+      heightMax: heightMax.value,
+      heightMin: heightMin.value,
+      bools: bools.value,
     }
-    return list
+    return allPlants.value.filter((p) => plantMatchesCriteria(p, criteria))
   })
+
+  const sortedPlants = computed(() => sortPlants(filteredPlants.value, sortBy.value))
 
   const activeFilterCount = computed(() => {
     let n = 0
@@ -211,11 +230,7 @@ export function usePlantFilters() {
     for (const f of MULTI_FILTERS) n += (selected.value[f.key] || []).length
     if (heightMax.value != null) n++
     if (heightMin.value != null) n++
-    if (deerOnly.value) n++
-    if (cutFlowerOnly.value) n++
-    if (culinaryOnly.value) n++
-    if (springEphemeralOnly.value) n++
-    if (keystoneOnly.value) n++
+    for (const f of BOOL_FILTERS) if (bools.value[f.key]) n++
     return n
   })
 
@@ -224,11 +239,7 @@ export function usePlantFilters() {
     selected,
     heightMax,
     heightMin,
-    deerOnly,
-    cutFlowerOnly,
-    culinaryOnly,
-    springEphemeralOnly,
-    keystoneOnly,
+    bools,
     sortBy,
     filteredPlants,
     sortedPlants,
@@ -238,11 +249,7 @@ export function usePlantFilters() {
     clearFilter,
     setHeightMax,
     setHeightMin,
-    setDeerOnly,
-    setCutFlowerOnly,
-    setCulinaryOnly,
-    setSpringEphemeralOnly,
-    setKeystoneOnly,
+    setBool,
     setSortBy,
     clearAll,
   }
