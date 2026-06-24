@@ -48,7 +48,23 @@ router.afterEach((to) => {
     <header class="app-header">
       <div class="title-block">
         <RouterLink to="/" class="brand">
-          <span class="brand-mark">❧</span>
+          <svg class="brand-mark" viewBox="0 0 64 64" aria-hidden="true">
+            <g transform="translate(32 32)">
+              <g fill="#e0a512">
+                <path transform="rotate(0)" d="M0 -8 C 6 -10 6 -24 0 -28 C -6 -24 -6 -10 0 -8 Z" />
+                <path transform="rotate(40)" d="M0 -8 C 6 -10 6 -24 0 -28 C -6 -24 -6 -10 0 -8 Z" />
+                <path transform="rotate(80)" d="M0 -8 C 6 -10 6 -24 0 -28 C -6 -24 -6 -10 0 -8 Z" />
+                <path transform="rotate(120)" d="M0 -8 C 6 -10 6 -24 0 -28 C -6 -24 -6 -10 0 -8 Z" />
+                <path transform="rotate(160)" d="M0 -8 C 6 -10 6 -24 0 -28 C -6 -24 -6 -10 0 -8 Z" />
+                <path transform="rotate(200)" d="M0 -8 C 6 -10 6 -24 0 -28 C -6 -24 -6 -10 0 -8 Z" />
+                <path transform="rotate(240)" d="M0 -8 C 6 -10 6 -24 0 -28 C -6 -24 -6 -10 0 -8 Z" />
+                <path transform="rotate(280)" d="M0 -8 C 6 -10 6 -24 0 -28 C -6 -24 -6 -10 0 -8 Z" />
+                <path transform="rotate(320)" d="M0 -8 C 6 -10 6 -24 0 -28 C -6 -24 -6 -10 0 -8 Z" />
+              </g>
+              <circle r="9.5" fill="#2c1d12" />
+              <circle r="9.5" fill="none" stroke="#e0a512" stroke-width="1.2" />
+            </g>
+          </svg>
           Bedfellow<sup class="tm" aria-hidden="true">™</sup>
         </RouterLink>
         <span class="tagline">Plan your native garden</span>
@@ -113,7 +129,12 @@ router.afterEach((to) => {
   font-size: 18px;
   text-decoration: none;
 }
-.brand-mark { color: #a7d6a7; margin-right: 6px; }
+.brand-mark {
+  height: 1.5em;
+  width: 1.5em;
+  margin-right: 6px;
+  vertical-align: -0.32em;
+}
 .tm { font-size: 9px; vertical-align: super; margin-left: 1px; opacity: 0.8; }
 .tagline { color: #c9c0a4; font-size: 13px; }
 .top-links {
