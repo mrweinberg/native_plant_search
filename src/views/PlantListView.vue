@@ -161,7 +161,9 @@ const drawerOpen = ref(false)
 watch(drawerOpen, (open) => {
   document.body.style.overflow = open ? 'hidden' : ''
 })
-watch(() => route.fullPath, () => { drawerOpen.value = false })
+// Close the drawer on real navigation (path change), but not on filter edits —
+// those are router.replace of the query only, and should leave the drawer open.
+watch(() => route.path, () => { drawerOpen.value = false })
 </script>
 
 <template>
