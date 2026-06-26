@@ -11,25 +11,21 @@ const { usCountyGeometry, plantCountiesNationwide } = useCountyIndex()
 // native to, unioned across its native states.
 const geo = ref(null)
 const shaded = ref(new Set())
+const countyless = ref(new Set()) // native states with no county data at all (e.g. CT)
 onMounted(async () => {
-  const [g, s] = await Promise.all([usCountyGeometry(), plantCountiesNationwide(props.plant)])
+  const [g, r] = await Promise.all([usCountyGeometry(), plantCountiesNationwide(props.plant)])
   geo.value = g
-  shaded.value = s
+  shaded.value = r.counties
+  countyless.value = r.countyless
 })
 
-// States that have at least one shaded county (so the rest of their native
-// states can fall back to whole-state fill — e.g. Connecticut, which has no
-// USDA county data).
-const statesWithData = computed(() => {
-  const set = new Set()
-  for (const f of shaded.value) set.add(f.slice(0, 2))
-  return set
-})
+// Whole-state fill only for native states that structurally lack county data —
+// not for plant-specific gaps in states that otherwise have it.
 const fallbackD = computed(() => {
   if (!geo.value) return ''
-  return (props.plant.nativeStates || [])
+  return [...countyless.value]
     .map((s) => USPS_FIP[s])
-    .filter((fp) => fp && !statesWithData.value.has(fp) && geo.value.states[fp])
+    .filter((fp) => fp && geo.value.states[fp])
     .map((fp) => geo.value.states[fp])
     .join('')
 })

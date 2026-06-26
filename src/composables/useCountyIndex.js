@@ -73,18 +73,29 @@ export function useCountyIndex() {
     return (usGeoPromise ||= import('../data/usCountyPaths.json').then((m) => m.default))
   }
 
-  // Every county (5-digit FIPS) where the plant is native, across its native
-  // states — the union used to shade the national map.
+  // For the national choropleth: the set of 5-digit county FIPS where the plant
+  // is native (unioned across its native states), plus the native states that
+  // *structurally* have no county data at all (e.g. Connecticut, whose USDA
+  // distribution is state-level only). Only those county-less states get a
+  // whole-state fallback fill — a plant simply being absent from a state's
+  // counties (it has data, just not for this plant) is left unshaded rather than
+  // painting the whole state (which over-claimed naturalized records).
   async function plantCountiesNationwide(plant) {
-    const sets = await Promise.all(
+    const counties = new Set()
+    const countyless = new Set()
+    await Promise.all(
       (plant.nativeStates || []).map(async (s) => {
         const fip = USPS_FIP[s]
-        if (!fip) return []
-        const cf = await plantCountiesInState(plant.id, s)
-        return [...cf].map((c) => fip + c)
+        if (!fip) return
+        const chunk = await loadState(s)
+        if (!Object.keys(chunk).length) {
+          countyless.add(s)
+          return
+        }
+        for (const c of await plantCountiesInState(plant.id, s)) counties.add(fip + c)
       }),
     )
-    return new Set(sets.flat())
+    return { counties, countyless }
   }
 
   // The county FIP3s within a state where the given plant is native (used to
