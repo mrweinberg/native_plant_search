@@ -15,11 +15,12 @@ const props = defineProps({
   heightMin: { type: Number, default: null },
   bools: { type: Object, required: true },
   countyFips: { type: Array, default: () => [] },
+  locationLocked: { type: Boolean, default: false },
   open: { type: Boolean, default: false },
 })
 const emit = defineEmits([
   'toggle', 'heightMax', 'heightMin', 'bool', 'clear', 'clearGroup', 'close',
-  'toggleCounty', 'clearCounties', 'applyLocation',
+  'toggleCounty', 'clearCounties', 'toggleLocationLock',
 ])
 
 const options = computed(() => getFilterOptions())
@@ -128,13 +129,6 @@ function labelFor(group, val) {
       <button class="close" @click="emit('close')" type="button" aria-label="Close filters">✕</button>
     </div>
 
-    <button
-      v-if="homeState"
-      type="button"
-      class="use-location"
-      @click="emit('applyLocation')"
-    >📍 Filter to my location ({{ locationName }})</button>
-
     <section class="filter-group">
       <h3>Height range (ft)</h3>
       <div class="height-row">
@@ -198,42 +192,71 @@ function labelFor(group, val) {
       </label>
     </section>
 
-    <section v-for="g in groups" :key="g.key" class="filter-group">
-      <h3>{{ g.title }}</h3>
-      <MultiSelectDropdown
-        v-if="options[g.key].length > DROPDOWN_THRESHOLD"
-        :title="g.title"
-        :options="options[g.key]"
-        :selected="selected[g.key] || []"
-        :label-for="(v) => labelFor(g, v)"
-        @toggle="(v) => emit('toggle', g.key, v)"
-        @clear="emit('clearGroup', g.key)"
-      />
-      <div v-else class="chips">
-        <FilterChip
-          v-for="val in options[g.key]"
-          :key="val"
-          :label="labelFor(g, val)"
-          :active="(selected[g.key] || []).includes(val)"
-          @toggle="emit('toggle', g.key, val)"
-        />
-      </div>
-    </section>
+    <template v-for="g in groups" :key="g.key">
+      <!-- Location cluster: "use my location" toggle, state, then county. The
+           toggle filters by the top-bar selection and is mutually exclusive with
+           the state/county dropdowns (which it disables while on). -->
+      <template v-if="g.key === 'nativeStates'">
+        <section class="filter-group">
+          <h3>{{ g.title }}</h3>
+          <label v-if="homeState" class="toggle use-loc">
+            <input
+              type="checkbox"
+              :checked="locationLocked"
+              @change="emit('toggleLocationLock', $event.target.checked)"
+            />
+            📍 Use my location ({{ locationName }})
+          </label>
+          <MultiSelectDropdown
+            :title="g.title"
+            :options="options[g.key]"
+            :selected="selected[g.key] || []"
+            :disabled="locationLocked"
+            :label-for="(v) => labelFor(g, v)"
+            @toggle="(v) => emit('toggle', g.key, v)"
+            @clear="emit('clearGroup', g.key)"
+          />
+        </section>
+        <section v-if="selectedStates.length" class="filter-group">
+          <h3>County</h3>
+          <p v-if="countyLoading" class="county-note">Loading counties…</p>
+          <MultiSelectDropdown
+            v-else-if="countyValues.length"
+            title="County"
+            :options="countyValues"
+            :selected="countyFips"
+            :disabled="locationLocked"
+            :label-for="countyLabel"
+            @toggle="(v) => emit('toggleCounty', v)"
+            @clear="emit('clearCounties')"
+          />
+          <p v-else class="county-note">No county data for the selected state{{ selectedStates.length === 1 ? '' : 's' }}.</p>
+        </section>
+      </template>
 
-    <section v-if="selectedStates.length" class="filter-group">
-      <h3>County</h3>
-      <p v-if="countyLoading" class="county-note">Loading counties…</p>
-      <MultiSelectDropdown
-        v-else-if="countyValues.length"
-        title="County"
-        :options="countyValues"
-        :selected="countyFips"
-        :label-for="countyLabel"
-        @toggle="(v) => emit('toggleCounty', v)"
-        @clear="emit('clearCounties')"
-      />
-      <p v-else class="county-note">No county data for the selected state{{ selectedStates.length === 1 ? '' : 's' }}.</p>
-    </section>
+      <!-- Every other filter group -->
+      <section v-else class="filter-group">
+        <h3>{{ g.title }}</h3>
+        <MultiSelectDropdown
+          v-if="options[g.key].length > DROPDOWN_THRESHOLD"
+          :title="g.title"
+          :options="options[g.key]"
+          :selected="selected[g.key] || []"
+          :label-for="(v) => labelFor(g, v)"
+          @toggle="(v) => emit('toggle', g.key, v)"
+          @clear="emit('clearGroup', g.key)"
+        />
+        <div v-else class="chips">
+          <FilterChip
+            v-for="val in options[g.key]"
+            :key="val"
+            :label="labelFor(g, val)"
+            :active="(selected[g.key] || []).includes(val)"
+            @toggle="emit('toggle', g.key, val)"
+          />
+        </div>
+      </section>
+    </template>
   </aside>
 </template>
 
@@ -315,20 +338,14 @@ input[type='range'] { width: 100%; }
 }
 .height-slider { flex: 1; min-width: 0; }
 .toggle { display: flex; align-items: center; gap: 8px; font-size: 14px; cursor: pointer; }
-.use-location {
-  width: 100%;
-  text-align: left;
+.use-loc {
   background: var(--accent-soft);
   color: var(--accent);
-  border: 1px solid transparent;
+  font-weight: 600;
+  font-size: 13px;
   border-radius: 8px;
   padding: 8px 10px;
-  font: inherit;
-  font-size: 13px;
-  font-weight: 600;
-  cursor: pointer;
-  margin-bottom: 4px;
+  margin-bottom: 8px;
 }
-.use-location:hover { border-color: var(--accent); }
 .county-note { font-size: 12px; color: var(--ink-soft); margin: 4px 0 0; }
 </style>

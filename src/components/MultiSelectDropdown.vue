@@ -7,6 +7,7 @@ const props = defineProps({
   selected: { type: Array, required: true },
   labelFor: { type: Function, default: (v) => String(v) },
   searchThreshold: { type: Number, default: 12 },
+  disabled: { type: Boolean, default: false },
 })
 const emit = defineEmits(['toggle', 'clear'])
 
@@ -32,6 +33,7 @@ const summary = computed(() => {
 })
 
 function toggleOpen() {
+  if (props.disabled) return
   open.value = !open.value
 }
 function close() {
@@ -71,6 +73,7 @@ onBeforeUnmount(() => {
       class="trigger"
       :class="{ open, has: selected.length > 0 }"
       :aria-expanded="open"
+      :disabled="disabled"
       @click="toggleOpen"
     >
       <span class="summary">{{ summary }}</span>
@@ -124,6 +127,8 @@ onBeforeUnmount(() => {
   text-align: left;
 }
 .trigger:hover { border-color: var(--accent); }
+.trigger:disabled { opacity: 0.5; cursor: not-allowed; background: var(--bg); }
+.trigger:disabled:hover { border-color: var(--border); }
 .trigger.open { border-color: var(--accent); box-shadow: 0 0 0 2px var(--accent-soft); }
 .trigger.has .summary { font-weight: 500; }
 .summary { flex: 1; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }

@@ -173,12 +173,29 @@ function setViewMode(v) {
 // only when the user hasn't already chosen states, and re-applied whenever the
 // chip changes so it stays authoritative for state selection.
 const { location, county } = useLocation()
+
+// "Use my location" mode: when on (?loc=1), the list is filtered by the home
+// state/county and the state/county dropdowns are disabled (mutually exclusive).
+// Setting a home location in the top bar turns it on; the filter dropdowns turn
+// it off by being edited while it's unlocked.
+const locationLocked = computed(() => route.query.loc === '1')
 function syncLocationToFilter() {
   const q = { ...route.query }
-  if (location.value) q.nativeStates = location.value
-  else delete q.nativeStates
+  if (location.value) {
+    q.nativeStates = location.value
+    q.loc = '1'
+  } else {
+    delete q.nativeStates
+    delete q.loc
+  }
   if (county.value) q.county = county.value.fips
   else delete q.county
+  router.replace({ query: q })
+}
+function setLocationLock(on) {
+  if (on) return syncLocationToFilter() // apply home state/county + lock
+  const q = { ...route.query }
+  delete q.loc
   router.replace({ query: q })
 }
 onMounted(() => {
@@ -221,6 +238,7 @@ watch(() => route.path, () => { drawerOpen.value = false })
       :height-min="heightMin"
       :bools="bools"
       :county-fips="countyFips"
+      :location-locked="locationLocked"
       @toggle="(k, v) => toggleFilter(k, v)"
       @height-max="setHeightMax"
       @height-min="setHeightMin"
@@ -229,7 +247,7 @@ watch(() => route.path, () => { drawerOpen.value = false })
       @clear="clearAll"
       @toggle-county="toggleCounty"
       @clear-counties="setCountyFips([])"
-      @apply-location="syncLocationToFilter"
+      @toggle-location-lock="setLocationLock"
     />
     <div class="results">
       <h1 class="sr-only">Native plant search — plan a North American garden that blooms all season</h1>
