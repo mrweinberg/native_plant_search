@@ -27,6 +27,7 @@ const MULTI_FILTERS = [
   { key: 'leafArrangement', field: 'leafArrangement', isArray: false },
   { key: 'leafRetention', field: 'leafRetention', isArray: false },
   { key: 'nativeStates', field: 'nativeStates', isArray: true },
+  { key: 'nativeBiomes', field: 'nativeBiomes', isArray: true },
   { key: 'wildlifeValue', field: 'wildlifeValue', isArray: true },
   { key: 'landscapeUses', field: 'landscapeUses', isArray: true },
   { key: 'family', field: 'family', isArray: false },

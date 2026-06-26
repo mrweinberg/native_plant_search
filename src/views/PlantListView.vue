@@ -144,6 +144,7 @@ const GROUP_TITLES = {
   leafArrangement: 'Leaves',
   leafRetention: 'Foliage',
   nativeStates: 'State',
+  nativeBiomes: 'Biome',
   wildlifeValue: 'Wildlife',
   landscapeUses: 'Use',
   family: 'Family',

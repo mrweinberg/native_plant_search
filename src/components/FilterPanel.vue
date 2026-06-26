@@ -98,6 +98,7 @@ function onMaxSlider(e) {
 }
 
 const groups = [
+  { key: 'nativeBiomes', title: 'Native biome' },
   { key: 'generalAppearance', title: 'Plant type' },
   { key: 'lifespan', title: 'Lifespan' },
   { key: 'lightRequirement', title: 'Light' },

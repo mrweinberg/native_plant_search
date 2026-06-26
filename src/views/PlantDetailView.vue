@@ -246,6 +246,9 @@ function fmtRange(r, unit) {
       <dl v-else class="facts">
         <div class="wide"><dt>USDA regions</dt><dd>{{ fmtList(plant.nativeRegions) }}</dd></div>
       </dl>
+      <dl v-if="plant.nativeBiomes?.length" class="facts">
+        <div class="wide"><dt>Biomes</dt><dd>{{ plant.nativeBiomes.join(', ') }}</dd></div>
+      </dl>
     </section>
 
     <section class="group">
