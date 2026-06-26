@@ -1,19 +1,10 @@
 <script setup>
 import { computed, ref, onMounted } from 'vue'
-import { useLocation } from '../composables/useLocation.js'
 import { useCountyIndex, USPS_FIP } from '../composables/useCountyIndex.js'
-import CountyMap from './CountyMap.vue'
 
 const props = defineProps({ plant: { type: Object, required: true } })
 
 const { usCountyGeometry, plantCountiesNationwide } = useCountyIndex()
-
-// When the visitor has a home state and this plant is native there, show a
-// zoomed county map of that state beneath the national one.
-const { location: homeState } = useLocation()
-const showCounty = computed(
-  () => homeState.value && (props.plant.nativeStates || []).includes(homeState.value),
-)
 
 // National county geometry (~270KB gz) loads lazily in its own chunk, cached
 // across detail pages. `shaded` is the set of 5-digit county FIPS this plant is
@@ -89,8 +80,6 @@ const extraRegions = computed(() =>
         v-if="extraRegions.length"
       >, and in {{ extraRegions.join(', ') }}</span>.
     </p>
-
-    <CountyMap v-if="showCounty" :plant-id="plant.id" :state="homeState" />
   </div>
 </template>
 

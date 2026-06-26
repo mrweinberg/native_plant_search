@@ -9,7 +9,6 @@ describe('useCountyIndex', () => {
     countiesForState,
     plantIdsInCounty,
     plantIdsInCounties,
-    countyGeometry,
     plantCountiesInState,
     usCountyGeometry,
     plantCountiesNationwide,
@@ -41,14 +40,6 @@ describe('useCountyIndex', () => {
   it('resolves empty for an unknown state code', async () => {
     const counties = await countiesForState('ZZ')
     expect(counties).toEqual([])
-  })
-
-  it('loads county geometry for a state', async () => {
-    const geo = await countyGeometry('OH')
-    expect(geo).toBeTruthy()
-    expect(geo.viewBox).toMatch(/^[-\d. ]+$/)
-    expect(Object.keys(geo.paths).length).toBe(88) // all OH counties have a shape
-    expect(await countyGeometry('ZZ')).toBeNull()
   })
 
   it('lists the counties of a state where a plant is native', async () => {

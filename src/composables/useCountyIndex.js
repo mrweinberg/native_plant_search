@@ -13,9 +13,6 @@
 // per-state code-split we want. manifest.json / names.json ride along and are
 // pulled the same way.
 const files = import.meta.glob('../data/county-index/*.json')
-// Per-state county SVG geometry (for the detail-page county map), loaded the
-// same lazy, per-state way. See scripts/gen-county-paths.mjs.
-const geoFiles = import.meta.glob('../data/countyPaths/*.json')
 
 const cache = new Map() // filename stem -> Promise<data>
 let usGeoPromise // national county geometry (loaded once)
@@ -71,10 +68,6 @@ export function useCountyIndex() {
     return [...new Set(lists.flat())]
   }
 
-  async function countyName(fips) {
-    return (await loadNames())[fips] || null
-  }
-
   // National county geometry for the main choropleth (one lazy, cached chunk).
   function usCountyGeometry() {
     return (usGeoPromise ||= import('../data/usCountyPaths.json').then((m) => m.default))
@@ -94,15 +87,8 @@ export function useCountyIndex() {
     return new Set(sets.flat())
   }
 
-  // SVG geometry for a state's counties: { viewBox, paths: { countyFIP3: d } }.
-  async function countyGeometry(stateCode) {
-    const fip = USPS_FIP[stateCode]
-    const importer = fip && geoFiles[`../data/countyPaths/${fip}.json`]
-    return importer ? (await importer()).default : null
-  }
-
-  // The county FIP3s within a state where the given plant is native (for the
-  // detail-page county map).
+  // The county FIP3s within a state where the given plant is native (used to
+  // build the nationwide union for the choropleth).
   async function plantCountiesInState(plantId, stateCode) {
     const [chunk, ids] = await Promise.all([loadState(stateCode), loadManifest()])
     const idx = ids.indexOf(plantId)
@@ -116,8 +102,6 @@ export function useCountyIndex() {
     countiesForState,
     plantIdsInCounty,
     plantIdsInCounties,
-    countyName,
-    countyGeometry,
     plantCountiesInState,
     usCountyGeometry,
     plantCountiesNationwide,
