@@ -58,16 +58,15 @@ describe('useCountyIndex', () => {
     expect(geo.nation.length).toBeGreaterThan(100)
   })
 
-  it('unions native counties nationwide and flags county-less states', async () => {
-    const { counties, countyless } = await plantCountiesNationwide({
+  it('unions a plant’s county-level native FIPS across its states', async () => {
+    const counties = await plantCountiesNationwide({
       id: 'asclepias-tuberosa',
       nativeStates: ['OH', 'IN', 'CT'],
     })
     expect([...counties].every((f) => /^\d{5}$/.test(f))).toBe(true)
     expect([...counties].some((f) => f.startsWith('39'))).toBe(true) // OH counties present
     expect([...counties].some((f) => f.startsWith('18'))).toBe(true) // IN counties present
-    // CT structurally lacks county data -> flagged for whole-state fallback, not shaded.
-    expect(countyless.has('CT')).toBe(true)
+    // CT has only state-level data, so no CT counties are shaded (caller fills the state).
     expect([...counties].some((f) => f.startsWith('09'))).toBe(false)
   })
 })
