@@ -26,6 +26,13 @@ const ARRAY_ENUMS = {
   bloomColors: ['white', 'yellow', 'green', 'pink', 'purple', 'brown', 'blue', 'red', 'orange', 'cream'],
   wildlifeValue: ['pollinators', 'songbirds', 'butterflies', 'larval host', 'mammals', 'hummingbirds', 'monarch host'],
   landscapeUses: ['border', 'specimen', 'erosion control', 'container', 'naturalizing', 'hedge or screen', 'rain garden', 'foundation', 'groundcover'],
+  // CEC Level I ecoregions (scripts/gen-county-biomes.mjs); derived, not curated.
+  nativeBiomes: [
+    'Arctic Cordillera', 'Eastern Temperate Forests', 'Great Plains', 'Hudson Plain',
+    'Marine West Coast Forest', 'Mediterranean California', 'North American Deserts',
+    'Northern Forests', 'Northwestern Forested Mountains', 'Southern Semiarid Highlands',
+    'Taiga', 'Temperate Sierras', 'Tropical Dry Forests', 'Tropical Wet Forests', 'Tundra',
+  ],
 }
 const US_STATES = new Set(
   'AL AK AZ AR CA CO CT DE FL GA HI ID IL IN IA KS KY LA ME MD MA MI MN MS MO MT NE NV NH NJ NM NY NC ND OH OK OR PA RI SC SD TN TX UT VT VA WA WV WI WY DC'.split(' '),

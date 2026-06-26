@@ -76,6 +76,21 @@ args to rebuild the whole country — always correct, but ~15 min. A plant skipp
 here still works everywhere; its map just shows state-level (lighter) shading
 until the index includes it.
 
+## Step 3.6 — Native biomes
+
+Derive each plant's `nativeBiomes` (CEC Level I ecoregions) from the county index
++ the committed `src/data/county-biome.json` crosswalk. Run after Step 3.5:
+
+```
+node scripts/enrich-biomes.mjs      # appends nativeBiomes to plants.json (1-space)
+```
+
+It re-derives the whole catalog (idempotent — existing plants are unchanged), so
+the diff is just the new plants' biomes. `nativeBiomes` is derived, not curated —
+don't hand-edit it. Plants with only state-level county data (or in Hawaii) get
+none, which is expected. (The crosswalk itself rarely needs regenerating; see
+`scripts/gen-county-biomes.mjs`.)
+
 ## Step 4 — Images (mind the collateral)
 
 ```
