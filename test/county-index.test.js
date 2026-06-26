@@ -69,4 +69,13 @@ describe('useCountyIndex', () => {
     // CT has only state-level data, so no CT counties are shaded (caller fills the state).
     expect([...counties].some((f) => f.startsWith('09'))).toBe(false)
   })
+
+  it('returns no counties for a plant not yet in the index (graceful add)', async () => {
+    // A newly added plant absent from the manifest must degrade to empty, not throw.
+    const counties = await plantCountiesNationwide({
+      id: 'brand-new-unindexed-plant',
+      nativeStates: ['OH', 'IN'],
+    })
+    expect(counties.size).toBe(0)
+  })
 })

@@ -7,12 +7,16 @@
 // It is presence-only (no native/introduced flag), so we gate each county by the
 // plant's existing `nativeStates` — a county counts only if its state is one we
 // already mark native. Output is a per-state inverted index keyed by 3-digit
-// county FIP -> integer plant indices (positions in src/data/plants.json), kept
-// in a manifest so the indices survive a catalog reorder.
+// county FIP -> plant indices into an append-only manifest id list (so existing
+// indices never shift when plants are added), plus names.json (FIPS5 -> name).
+//
+// After adding plants, re-run this to give them county data. A partial run is
+// safe — the manifest is append-only and names are merged — so you can rebuild
+// just the new plants' native states instead of the whole country.
 //
 // Usage:
 //   node scripts/enrich-county.mjs            # all states present in the catalog
-//   node scripts/enrich-county.mjs OH         # just Ohio (state FIP 39)
+//   node scripts/enrich-county.mjs OH IN      # just Ohio + Indiana (faster, safe)
 
 import { readFileSync, writeFileSync, mkdirSync } from 'node:fs'
 import { fileURLToPath } from 'node:url'
@@ -71,7 +75,21 @@ const sleep = (ms) => new Promise((r) => setTimeout(r, ms))
 
 async function main() {
   const plants = JSON.parse(readFileSync(PLANTS_PATH, 'utf8'))
-  const indexOf = new Map(plants.map((p, i) => [p.id, i]))
+
+  // Append-only manifest: county chunks store plant *indices* into this id list,
+  // so it must stay stable when plants are added or reordered — load the existing
+  // list and only append ids we haven't seen, never reorder. This keeps a partial
+  // (single-state) run safe: chunks for untouched states keep valid indices.
+  const MANIFEST_PATH = join(OUT_DIR, 'manifest.json')
+  let manifestIds = []
+  try {
+    manifestIds = JSON.parse(readFileSync(MANIFEST_PATH, 'utf8')).ids || []
+  } catch {
+    // first run — no manifest yet
+  }
+  const known = new Set(manifestIds)
+  for (const p of plants) if (!known.has(p.id)) manifestIds.push(p.id)
+  const indexOf = new Map(manifestIds.map((id, i) => [id, i]))
 
   const argStates = process.argv.slice(2).map((s) => s.toUpperCase())
   const targetStates = new Set(
@@ -87,9 +105,15 @@ async function main() {
       `(of ${plants.length} total)\n`,
   )
 
-  // index[stateFip][countyFip3] = Set(plantIndex); names[fips5] = "County"
+  // index[stateFip][countyFip3] = Set(plantIndex); names[fips5] = "County".
+  // Seed names from the existing file so a partial run keeps other states' names.
   const index = {}
-  const names = {}
+  let names = {}
+  try {
+    names = JSON.parse(readFileSync(join(OUT_DIR, 'names.json'), 'utf8'))
+  } catch {
+    // first run
+  }
   for (const s of targetStates) index[USPS_FIP[s]] = {}
 
   let processed = 0
@@ -144,10 +168,7 @@ async function main() {
     )
   }
 
-  writeFileSync(
-    join(OUT_DIR, 'manifest.json'),
-    JSON.stringify({ version: 1, ids: plants.map((p) => p.id) }),
-  )
+  writeFileSync(MANIFEST_PATH, JSON.stringify({ version: 1, ids: manifestIds }))
   const sortedNames = Object.fromEntries(Object.entries(names).sort())
   writeFileSync(join(OUT_DIR, 'names.json'), JSON.stringify(sortedNames))
   console.log(`  wrote names.json — ${Object.keys(sortedNames).length} counties`)
