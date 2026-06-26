@@ -196,43 +196,42 @@ function labelFor(group, val) {
       <!-- Location cluster: "use my location" toggle, state, then county. The
            toggle filters by the top-bar selection and is mutually exclusive with
            the state/county dropdowns (which it disables while on). -->
-      <template v-if="g.key === 'nativeStates'">
-        <section class="filter-group">
-          <h3>{{ g.title }}</h3>
-          <label v-if="homeState" class="toggle use-loc">
-            <input
-              type="checkbox"
-              :checked="locationLocked"
-              @change="emit('toggleLocationLock', $event.target.checked)"
-            />
-            📍 Use my location ({{ locationName }})
-          </label>
-          <MultiSelectDropdown
-            :title="g.title"
-            :options="options[g.key]"
-            :selected="selected[g.key] || []"
-            :disabled="locationLocked"
-            :label-for="(v) => labelFor(g, v)"
-            @toggle="(v) => emit('toggle', g.key, v)"
-            @clear="emit('clearGroup', g.key)"
+      <section v-if="g.key === 'nativeStates'" class="filter-group">
+        <h3>Native to area</h3>
+        <label v-if="homeState" class="toggle use-loc">
+          <input
+            type="checkbox"
+            :checked="locationLocked"
+            @change="emit('toggleLocationLock', $event.target.checked)"
           />
-        </section>
-        <section v-if="selectedStates.length" class="filter-group">
-          <h3>County</h3>
-          <p v-if="countyLoading" class="county-note">Loading counties…</p>
-          <MultiSelectDropdown
-            v-else-if="countyValues.length"
-            title="County"
-            :options="countyValues"
-            :selected="countyFips"
-            :disabled="locationLocked"
-            :label-for="countyLabel"
-            @toggle="(v) => emit('toggleCounty', v)"
-            @clear="emit('clearCounties')"
-          />
-          <p v-else class="county-note">No county data for the selected state{{ selectedStates.length === 1 ? '' : 's' }}.</p>
-        </section>
-      </template>
+          📍 Use my location ({{ locationName }})
+        </label>
+
+        <h4 class="subhead">State</h4>
+        <MultiSelectDropdown
+          title="State"
+          :options="options[g.key]"
+          :selected="selected[g.key] || []"
+          :disabled="locationLocked"
+          :label-for="(v) => labelFor(g, v)"
+          @toggle="(v) => emit('toggle', g.key, v)"
+          @clear="emit('clearGroup', g.key)"
+        />
+
+        <h4 class="subhead">County</h4>
+        <MultiSelectDropdown
+          title="County"
+          :options="countyValues"
+          :selected="countyFips"
+          :disabled="locationLocked || !countyValues.length"
+          :label-for="countyLabel"
+          @toggle="(v) => emit('toggleCounty', v)"
+          @clear="emit('clearCounties')"
+        />
+        <p v-if="countyLoading" class="county-note">Loading counties…</p>
+        <p v-else-if="!selectedStates.length" class="county-note">Select a state to choose counties.</p>
+        <p v-else-if="!countyValues.length" class="county-note">No county data for the selected state{{ selectedStates.length === 1 ? '' : 's' }}.</p>
+      </section>
 
       <!-- Every other filter group -->
       <section v-else class="filter-group">
@@ -346,6 +345,12 @@ input[type='range'] { width: 100%; }
   border-radius: 8px;
   padding: 8px 10px;
   margin-bottom: 8px;
+}
+.subhead {
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--ink);
+  margin: 10px 0 4px;
 }
 .county-note { font-size: 12px; color: var(--ink-soft); margin: 4px 0 0; }
 </style>
