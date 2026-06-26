@@ -1,8 +1,10 @@
 <script setup>
-import { computed } from 'vue'
+import { computed, ref, watch } from 'vue'
 import FilterChip from './FilterChip.vue'
 import MultiSelectDropdown from './MultiSelectDropdown.vue'
 import { getFilterOptions, MONTH_LABELS, BOOL_FILTERS } from '../composables/usePlantFilters.js'
+import { useCountyIndex } from '../composables/useCountyIndex.js'
+import { useLocation } from '../composables/useLocation.js'
 
 const DROPDOWN_THRESHOLD = 8
 const boolFilters = BOOL_FILTERS
@@ -12,13 +14,49 @@ const props = defineProps({
   heightMax: { type: Number, default: null },
   heightMin: { type: Number, default: null },
   bools: { type: Object, required: true },
+  countyFips: { type: Array, default: () => [] },
   open: { type: Boolean, default: false },
 })
 const emit = defineEmits([
   'toggle', 'heightMax', 'heightMin', 'bool', 'clear', 'clearGroup', 'close',
+  'toggleCounty', 'clearCounties', 'applyLocation',
 ])
 
 const options = computed(() => getFilterOptions())
+
+// County multiselect: only meaningful once one or more states are chosen, and
+// the options are loaded lazily from the per-state county index for exactly
+// those states. County labels carry their state code when more than one state
+// is in play, so e.g. "Adams (OH)" and "Adams (IN)" don't collide.
+const { countiesForState } = useCountyIndex()
+const { location: homeState, locationName } = useLocation()
+const selectedStates = computed(() => props.selected.nativeStates || [])
+const countyOptions = ref([]) // [{ fips, name, state }]
+const countyLoading = ref(false)
+
+watch(
+  selectedStates,
+  async (states) => {
+    if (!states.length) return (countyOptions.value = [])
+    countyLoading.value = true
+    const lists = await Promise.all(
+      states.map((s) => countiesForState(s).then((cs) => cs.map((c) => ({ ...c, state: s })))),
+    )
+    if (selectedStates.value.join() !== states.join()) return // stale
+    countyOptions.value = lists.flat().sort((a, b) => a.name.localeCompare(b.name))
+    countyLoading.value = false
+  },
+  { immediate: true },
+)
+const countyValues = computed(() => countyOptions.value.map((c) => c.fips))
+const countyNameByFips = computed(() =>
+  Object.fromEntries(countyOptions.value.map((c) => [c.fips, c])),
+)
+function countyLabel(fips) {
+  const c = countyNameByFips.value[fips]
+  if (!c) return fips
+  return selectedStates.value.length > 1 ? `${c.name} (${c.state})` : c.name
+}
 
 // Height sliders use a logarithmic scale so the 1–6 ft band — where most
 // plants live — gets the bulk of the track, instead of being a sliver next to
@@ -89,6 +127,13 @@ function labelFor(group, val) {
       <button class="clear" @click="emit('clear')" type="button">Clear all</button>
       <button class="close" @click="emit('close')" type="button" aria-label="Close filters">✕</button>
     </div>
+
+    <button
+      v-if="homeState"
+      type="button"
+      class="use-location"
+      @click="emit('applyLocation')"
+    >📍 Filter to my location ({{ locationName }})</button>
 
     <section class="filter-group">
       <h3>Height range (ft)</h3>
@@ -174,6 +219,21 @@ function labelFor(group, val) {
         />
       </div>
     </section>
+
+    <section v-if="selectedStates.length" class="filter-group">
+      <h3>County</h3>
+      <p v-if="countyLoading" class="county-note">Loading counties…</p>
+      <MultiSelectDropdown
+        v-else-if="countyValues.length"
+        title="County"
+        :options="countyValues"
+        :selected="countyFips"
+        :label-for="countyLabel"
+        @toggle="(v) => emit('toggleCounty', v)"
+        @clear="emit('clearCounties')"
+      />
+      <p v-else class="county-note">No county data for the selected state{{ selectedStates.length === 1 ? '' : 's' }}.</p>
+    </section>
   </aside>
 </template>
 
@@ -255,4 +315,20 @@ input[type='range'] { width: 100%; }
 }
 .height-slider { flex: 1; min-width: 0; }
 .toggle { display: flex; align-items: center; gap: 8px; font-size: 14px; cursor: pointer; }
+.use-location {
+  width: 100%;
+  text-align: left;
+  background: var(--accent-soft);
+  color: var(--accent);
+  border: 1px solid transparent;
+  border-radius: 8px;
+  padding: 8px 10px;
+  font: inherit;
+  font-size: 13px;
+  font-weight: 600;
+  cursor: pointer;
+  margin-bottom: 4px;
+}
+.use-location:hover { border-color: var(--accent); }
+.county-note { font-size: 12px; color: var(--ink-soft); margin: 4px 0 0; }
 </style>

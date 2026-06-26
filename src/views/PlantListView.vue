@@ -59,6 +59,19 @@ const displayPlants = computed(() =>
     : sortedPlants.value,
 )
 
+// The filter-menu county multiselect writes the active county FIPS straight to
+// the URL (the source of truth), independent of the home-location picker.
+function setCountyFips(list) {
+  const q = { ...route.query }
+  if (list.length) q.county = list.join(',')
+  else delete q.county
+  router.replace({ query: q })
+}
+function toggleCounty(fips) {
+  const cur = countyFips.value
+  setCountyFips(cur.includes(fips) ? cur.filter((f) => f !== fips) : [...cur, fips])
+}
+
 // Incremental render: mount cards in chunks and append on scroll, instead of
 // mounting the whole (1700+) catalog up front. Only ~a dozen cards are ever
 // visible, so this keeps the DOM and component count proportional to what's
@@ -207,12 +220,16 @@ watch(() => route.path, () => { drawerOpen.value = false })
       :height-max="heightMax"
       :height-min="heightMin"
       :bools="bools"
+      :county-fips="countyFips"
       @toggle="(k, v) => toggleFilter(k, v)"
       @height-max="setHeightMax"
       @height-min="setHeightMin"
       @bool="setBool"
       @clear-group="clearFilter"
       @clear="clearAll"
+      @toggle-county="toggleCounty"
+      @clear-counties="setCountyFips([])"
+      @apply-location="syncLocationToFilter"
     />
     <div class="results">
       <h1 class="sr-only">Native plant search — plan a North American garden that blooms all season</h1>

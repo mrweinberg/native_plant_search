@@ -228,6 +228,7 @@ export function usePlantFilters() {
     let n = 0
     if (query.value) n++
     for (const f of MULTI_FILTERS) n += (selected.value[f.key] || []).length
+    n += parseList(route.query.county).length // county multiselect lives outside MULTI_FILTERS
     if (heightMax.value != null) n++
     if (heightMin.value != null) n++
     for (const f of BOOL_FILTERS) if (bools.value[f.key]) n++
