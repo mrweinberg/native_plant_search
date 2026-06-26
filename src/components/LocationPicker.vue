@@ -1,13 +1,35 @@
 <script setup>
 import { ref, computed, watch, nextTick, onMounted, onBeforeUnmount } from 'vue'
 import { useLocation, US_STATES, stateName } from '../composables/useLocation.js'
+import { useCountyIndex } from '../composables/useCountyIndex.js'
 
-const { location, setLocation } = useLocation()
+const { location, county, locationName, setLocation, setCounty, clearCounty } = useLocation()
+const { countiesForState } = useCountyIndex()
 
 const open = ref(false)
 const search = ref('')
 const rootEl = ref(null)
 const inputEl = ref(null)
+
+// Two-level flow: pick a state, then optionally narrow to a county within it.
+const level = ref('state') // 'state' | 'county'
+const counties = ref([])
+const countiesLoading = ref(false)
+
+async function loadCounties(code) {
+  countiesLoading.value = true
+  counties.value = []
+  const list = await countiesForState(code)
+  // Guard against a stale load if the state changed while awaiting.
+  if (location.value === code) counties.value = list
+  countiesLoading.value = false
+}
+const visibleCounties = computed(() => {
+  const q = search.value.trim().toLowerCase()
+  if (!q) return counties.value
+  return counties.value.filter((c) => c.name.toLowerCase().includes(q))
+})
+const currentStateName = computed(() => (location.value ? stateName(location.value) : ''))
 
 // First-run nudge: gently point new users at the picker (no geolocation). Shows
 // only when no state is set and the user hasn't engaged with the picker before.
@@ -41,15 +63,46 @@ const visible = computed(() => {
 
 function toggle() {
   open.value = !open.value
-  if (open.value) dismissNudge()
+  if (open.value) {
+    dismissNudge()
+    // Open straight to the county step if a state is already chosen.
+    if (location.value) {
+      level.value = 'county'
+      loadCounties(location.value)
+    } else {
+      level.value = 'state'
+    }
+  }
 }
 function close() {
   open.value = false
 }
+// Pick a state. "All states" (null) clears everything and closes; a real state
+// advances to the county step so the user can optionally narrow further.
 function choose(code) {
-  setLocation(code)
   dismissNudge()
+  if (!code) {
+    setLocation(null)
+    return close()
+  }
+  setLocation(code)
+  level.value = 'county'
+  search.value = ''
+  loadCounties(code)
+  nextTick(() => inputEl.value?.focus())
+}
+function chooseCounty(c) {
+  setCounty({ fips: c.fips, name: c.name, state: location.value })
   close()
+}
+function chooseAllCounties() {
+  clearCounty()
+  close()
+}
+function backToStates() {
+  level.value = 'state'
+  search.value = ''
+  nextTick(() => inputEl.value?.focus())
 }
 function onDocClick(e) {
   if (open.value && rootEl.value && !rootEl.value.contains(e.target)) close()
@@ -64,6 +117,7 @@ watch(open, async (v) => {
     inputEl.value?.focus()
   } else {
     search.value = ''
+    level.value = 'state'
   }
 })
 
@@ -88,7 +142,7 @@ onBeforeUnmount(() => {
       @click="toggle"
     >
       <span class="lp-pin" aria-hidden="true">📍</span>
-      <span class="lp-label">{{ location ? stateName(location) : 'All states' }}</span>
+      <span class="lp-label">{{ locationName || 'All states' }}</span>
       <span class="lp-caret" aria-hidden="true">▾</span>
     </button>
 
@@ -98,7 +152,9 @@ onBeforeUnmount(() => {
       </button>
       <button type="button" class="lp-nudge-x" aria-label="Dismiss" @click="dismissNudge">✕</button>
     </div>
-    <div v-if="open" class="lp-panel" role="listbox" aria-label="Set your state">
+
+    <!-- State level -->
+    <div v-if="open && level === 'state'" class="lp-panel" role="listbox" aria-label="Set your state">
       <div class="lp-search">
         <input
           ref="inputEl"
@@ -123,9 +179,44 @@ onBeforeUnmount(() => {
             class="lp-opt"
             :class="{ active: location === code }"
             @click="choose(code)"
-          >{{ name }}</button>
+          >{{ name }}<span class="lp-chev" aria-hidden="true">›</span></button>
         </li>
         <li v-if="!visible.length" class="lp-empty">No matches</li>
+      </ul>
+    </div>
+
+    <!-- County level -->
+    <div v-else-if="open" class="lp-panel" role="listbox" :aria-label="`Set a county in ${currentStateName}`">
+      <button type="button" class="lp-back" @click="backToStates">‹ {{ currentStateName }}</button>
+      <div class="lp-search">
+        <input
+          ref="inputEl"
+          type="search"
+          v-model="search"
+          placeholder="Search counties…"
+          aria-label="Search counties"
+        />
+      </div>
+      <ul class="lp-opts">
+        <li v-if="!search.trim()">
+          <button
+            type="button"
+            class="lp-opt"
+            :class="{ active: !county }"
+            @click="chooseAllCounties"
+          >All of {{ currentStateName }}</button>
+        </li>
+        <li v-if="countiesLoading" class="lp-empty">Loading counties…</li>
+        <li v-else-if="!counties.length" class="lp-empty">No county data for {{ currentStateName }}</li>
+        <li v-for="c in visibleCounties" :key="c.fips">
+          <button
+            type="button"
+            class="lp-opt"
+            :class="{ active: county && county.fips === c.fips }"
+            @click="chooseCounty(c)"
+          >{{ c.name }}</button>
+        </li>
+        <li v-if="counties.length && !visibleCounties.length" class="lp-empty">No matches</li>
       </ul>
     </div>
   </div>
@@ -271,4 +362,18 @@ onBeforeUnmount(() => {
   font-weight: 600;
 }
 .lp-empty { padding: 8px; color: var(--ink-soft); font-size: 13px; text-align: center; }
+.lp-back {
+  background: none;
+  border: none;
+  font: inherit;
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--accent);
+  cursor: pointer;
+  padding: 2px 6px 6px;
+  text-align: left;
+}
+.lp-back:hover { text-decoration: underline; }
+.lp-chev { float: right; color: var(--ink-soft); }
+.lp-opt.active .lp-chev { color: var(--accent); }
 </style>

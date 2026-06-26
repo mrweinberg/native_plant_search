@@ -41,6 +41,20 @@ function load() {
 
 const location = ref(load())
 
+// Optional narrowing of the home location to a single county within `location`.
+// Shape: { fips, name, state } (5-digit county FIPS, display name, USPS state).
+const COUNTY_KEY = 'nps:county'
+function loadCounty() {
+  try {
+    const raw = localStorage.getItem(COUNTY_KEY)
+    const c = raw ? JSON.parse(raw) : null
+    return c && c.fips && c.state ? c : null
+  } catch {
+    return null
+  }
+}
+const county = ref(loadCounty())
+
 function persist() {
   try {
     if (location.value) localStorage.setItem(STORAGE_KEY, location.value)
@@ -49,24 +63,61 @@ function persist() {
     // ignore quota / disabled storage
   }
 }
+function persistCounty() {
+  try {
+    if (county.value) localStorage.setItem(COUNTY_KEY, JSON.stringify(county.value))
+    else localStorage.removeItem(COUNTY_KEY)
+  } catch {
+    // ignore quota / disabled storage
+  }
+}
 
 window.addEventListener('storage', (e) => {
   if (e.key === STORAGE_KEY) location.value = load()
+  if (e.key === COUNTY_KEY) county.value = loadCounty()
 })
 
 export function useLocation() {
   function setLocation(code) {
     location.value = code && STATE_NAME[code] ? code : null
+    // A county belongs to a state — drop it if the state no longer matches.
+    if (county.value && county.value.state !== location.value) {
+      county.value = null
+      persistCounty()
+    }
     persist()
   }
   function clearLocation() {
     location.value = null
+    county.value = null
     persist()
+    persistCounty()
+  }
+  // c: { fips, name, state }. Narrows to a county and aligns the home state.
+  function setCounty(c) {
+    if (!c || !c.fips || !c.state) return clearCounty()
+    county.value = { fips: c.fips, name: c.name || c.fips, state: c.state }
+    location.value = c.state
+    persistCounty()
+    persist()
+  }
+  function clearCounty() {
+    county.value = null
+    persistCounty()
   }
   return {
     location,
-    locationName: computed(() => (location.value ? stateName(location.value) : null)),
+    county,
+    locationName: computed(() =>
+      county.value
+        ? `${county.value.name}, ${county.value.state}`
+        : location.value
+          ? stateName(location.value)
+          : null,
+    ),
     setLocation,
     clearLocation,
+    setCounty,
+    clearCounty,
   }
 }
