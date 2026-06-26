@@ -11,6 +11,8 @@ describe('useCountyIndex', () => {
     plantIdsInCounties,
     countyGeometry,
     plantCountiesInState,
+    usCountyGeometry,
+    plantCountiesNationwide,
   } = useCountyIndex()
 
   it('maps OH to state FIPS 39', () => {
@@ -55,5 +57,21 @@ describe('useCountyIndex', () => {
     // Adams County (39001) carries this plant in the index.
     expect(fips.has('001')).toBe(true)
     expect(await plantCountiesInState('not-a-real-plant', 'OH')).toEqual(new Set())
+  })
+
+  it('loads national county geometry', async () => {
+    const geo = await usCountyGeometry()
+    expect(geo.viewBox).toBe('0 0 975 610')
+    expect(Object.keys(geo.counties).length).toBeGreaterThan(3000)
+    expect(Object.keys(geo.states).length).toBe(51)
+    expect(geo.nation.length).toBeGreaterThan(100)
+  })
+
+  it('unions a plant’s native counties nationwide as 5-digit FIPS', async () => {
+    const plant = { id: 'asclepias-tuberosa', nativeStates: ['OH', 'IN', 'KY'] }
+    const fips = await plantCountiesNationwide(plant)
+    expect([...fips].every((f) => /^\d{5}$/.test(f))).toBe(true)
+    expect([...fips].some((f) => f.startsWith('39'))).toBe(true) // OH counties present
+    expect([...fips].some((f) => f.startsWith('18'))).toBe(true) // IN counties present
   })
 })

@@ -1,74 +1,94 @@
 <script setup>
 import { computed, ref, onMounted } from 'vue'
-import { stateName, useLocation } from '../composables/useLocation.js'
+import { useLocation } from '../composables/useLocation.js'
+import { useCountyIndex, USPS_FIP } from '../composables/useCountyIndex.js'
 import CountyMap from './CountyMap.vue'
 
 const props = defineProps({ plant: { type: Object, required: true } })
 
+const { usCountyGeometry, plantCountiesNationwide } = useCountyIndex()
+
 // When the visitor has a home state and this plant is native there, show a
-// county-level map of that state beneath the national one ("where in my state").
+// zoomed county map of that state beneath the national one.
 const { location: homeState } = useLocation()
 const showCounty = computed(
   () => homeState.value && (props.plant.nativeStates || []).includes(homeState.value),
 )
 
-// The path data is ~140KB, so load it lazily on mount (its own chunk) — routed
-// views aren't code-split, so a static import would bloat the main bundle.
-const viewBox = ref('192 9 1028 746')
-const paths = ref(null)
+// National county geometry (~270KB gz) loads lazily in its own chunk, cached
+// across detail pages. `shaded` is the set of 5-digit county FIPS this plant is
+// native to, unioned across its native states.
+const geo = ref(null)
+const shaded = ref(new Set())
 onMounted(async () => {
-  const m = await import('../data/usStatePaths.js')
-  viewBox.value = m.default.viewBox
-  paths.value = m.default.paths
+  const [g, s] = await Promise.all([usCountyGeometry(), plantCountiesNationwide(props.plant)])
+  geo.value = g
+  shaded.value = s
 })
 
-const nativeSet = computed(() => new Set(props.plant.nativeStates || []))
-const stateList = computed(() =>
-  paths.value ? Object.entries(paths.value).map(([code, d]) => ({ code, d })) : [],
+// States that have at least one shaded county (so the rest of their native
+// states can fall back to whole-state fill — e.g. Connecticut, which has no
+// USDA county data).
+const statesWithData = computed(() => {
+  const set = new Set()
+  for (const f of shaded.value) set.add(f.slice(0, 2))
+  return set
+})
+const fallbackD = computed(() => {
+  if (!geo.value) return ''
+  return (props.plant.nativeStates || [])
+    .map((s) => USPS_FIP[s])
+    .filter((fp) => fp && !statesWithData.value.has(fp) && geo.value.states[fp])
+    .map((fp) => geo.value.states[fp])
+    .join('')
+})
+const shadedD = computed(() => {
+  if (!geo.value) return ''
+  let d = ''
+  for (const f of shaded.value) {
+    const p = geo.value.counties[f]
+    if (p) d += p
+  }
+  return d
+})
+// One merged accent path: shaded counties + whole-state fallbacks.
+const nativeFillD = computed(() => fallbackD.value + shadedD.value)
+
+const stateCount = computed(() => (props.plant.nativeStates || []).length)
+
+// Non-state native regions worth a footnote (Canada etc.; AK/HI render on the map).
+const REGION_LABEL = { CAN: 'Canada', PR: 'Puerto Rico', GL: 'Greenland', SPM: 'St. Pierre & Miquelon' }
+const extraRegions = computed(() =>
+  (props.plant.nativeRegions || []).filter((r) => REGION_LABEL[r]).map((r) => REGION_LABEL[r]),
 )
-
-// Non-state native regions worth noting under the map (state codes are drawn).
-const REGION_LABEL = {
-  CAN: 'Canada', AK: 'Alaska', PR: 'Puerto Rico',
-  GL: 'Greenland', SPM: 'St. Pierre & Miquelon', HI: 'Hawaii',
-}
-const extraRegions = computed(() => {
-  const states = nativeSet.value
-  return (props.plant.nativeRegions || [])
-    .filter((r) => REGION_LABEL[r] && r !== 'L48')
-    // AK / HI are drawn on the map, so only mention them if not already shaded.
-    .filter((r) => !((r === 'AK' || r === 'HI') && states.has(r)))
-    .map((r) => REGION_LABEL[r])
-})
-const count = computed(() => nativeSet.value.size)
 </script>
 
 <template>
   <div class="range-map">
     <svg
-      v-if="stateList.length"
-      :viewBox="viewBox"
+      v-if="geo"
+      :viewBox="geo.viewBox"
       class="map"
       role="img"
-      :aria-label="`US map with ${count} native state${count === 1 ? '' : 's'} highlighted`"
+      :aria-label="`US county map; native across ${stateCount} state${stateCount === 1 ? '' : 's'}`"
     >
-      <path
-        v-for="s in stateList"
-        :key="s.code"
-        :d="s.d"
-        class="state"
-        :class="{ native: nativeSet.has(s.code) }"
-      >
-        <title>{{ stateName(s.code) || s.code }}{{ nativeSet.has(s.code) ? ' — native' : '' }}</title>
-      </path>
+      <path :d="geo.nation" class="base" />
+      <path :d="nativeFillD" class="native-fill" />
+      <path :d="geo.countyBorders" class="county-line" />
+      <path :d="geo.stateBorders" class="state-line" />
+      <path :d="geo.nation" class="nation-line" />
     </svg>
     <div v-else class="map-skeleton" aria-hidden="true"></div>
 
     <div class="legend">
-      <span class="key"><span class="sw native"></span> Native ({{ count }} state{{ count === 1 ? '' : 's' }})</span>
+      <span class="key"><span class="sw native"></span> Native county</span>
       <span class="key"><span class="sw"></span> Not recorded</span>
     </div>
-    <p v-if="extraRegions.length" class="extra">Also native in {{ extraRegions.join(', ') }}.</p>
+    <p class="extra">
+      Recorded native across {{ stateCount }} state{{ stateCount === 1 ? '' : 's' }}<span
+        v-if="extraRegions.length"
+      >, and in {{ extraRegions.join(', ') }}</span>.
+    </p>
 
     <CountyMap v-if="showCounty" :plant-id="plant.id" :state="homeState" />
   </div>
@@ -79,22 +99,18 @@ const count = computed(() => nativeSet.value.size)
 .map { width: 100%; height: auto; display: block; }
 .map-skeleton {
   width: 100%;
-  aspect-ratio: 1028 / 746;
+  aspect-ratio: 975 / 610;
   border-radius: 8px;
   background: var(--accent-soft);
   animation: skeleton-pulse 1.4s ease-in-out infinite;
 }
 @keyframes skeleton-pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.5; } }
 @media (prefers-reduced-motion: reduce) { .map-skeleton { animation: none; opacity: 0.7; } }
-.state {
-  fill: #e7e7e2;
-  stroke: var(--card);
-  stroke-width: 1;
-  transition: fill 0.1s;
-}
-.state.native { fill: var(--accent); }
-.state:hover { fill: #d3d3cc; }
-.state.native:hover { fill: var(--accent); filter: brightness(1.08); }
+.base { fill: #e7e7e2; }
+.native-fill { fill: var(--accent); }
+.county-line { fill: none; stroke: #fff; stroke-width: 0.5; opacity: 0.5; }
+.state-line { fill: none; stroke: #fff; stroke-width: 1.1; }
+.nation-line { fill: none; stroke: #9a9a90; stroke-width: 1.1; }
 .legend { display: flex; gap: 16px; margin-top: 6px; font-size: 12px; color: var(--ink-soft); }
 .key { display: inline-flex; align-items: center; gap: 6px; }
 .sw { width: 12px; height: 12px; border-radius: 3px; background: #e7e7e2; display: inline-block; }

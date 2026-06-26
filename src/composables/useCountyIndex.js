@@ -18,6 +18,7 @@ const files = import.meta.glob('../data/county-index/*.json')
 const geoFiles = import.meta.glob('../data/countyPaths/*.json')
 
 const cache = new Map() // filename stem -> Promise<data>
+let usGeoPromise // national county geometry (loaded once)
 
 function loadFile(stem) {
   if (!cache.has(stem)) {
@@ -74,6 +75,25 @@ export function useCountyIndex() {
     return (await loadNames())[fips] || null
   }
 
+  // National county geometry for the main choropleth (one lazy, cached chunk).
+  function usCountyGeometry() {
+    return (usGeoPromise ||= import('../data/usCountyPaths.json').then((m) => m.default))
+  }
+
+  // Every county (5-digit FIPS) where the plant is native, across its native
+  // states — the union used to shade the national map.
+  async function plantCountiesNationwide(plant) {
+    const sets = await Promise.all(
+      (plant.nativeStates || []).map(async (s) => {
+        const fip = USPS_FIP[s]
+        if (!fip) return []
+        const cf = await plantCountiesInState(plant.id, s)
+        return [...cf].map((c) => fip + c)
+      }),
+    )
+    return new Set(sets.flat())
+  }
+
   // SVG geometry for a state's counties: { viewBox, paths: { countyFIP3: d } }.
   async function countyGeometry(stateCode) {
     const fip = USPS_FIP[stateCode]
@@ -99,6 +119,8 @@ export function useCountyIndex() {
     countyName,
     countyGeometry,
     plantCountiesInState,
+    usCountyGeometry,
+    plantCountiesNationwide,
   }
 }
 
