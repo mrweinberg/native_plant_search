@@ -7,7 +7,7 @@ import PlantCard from '../components/PlantCard.vue'
 import BloomCalendar from '../components/BloomCalendar.vue'
 import { usePlantFilters, plantsLoaded, MONTH_LABELS, BOOL_FILTERS } from '../composables/usePlantFilters.js'
 import { useLocation } from '../composables/useLocation.js'
-import { useCountyIndex } from '../composables/useCountyIndex.js'
+import { useCountyIndex, USPS_FIP } from '../composables/useCountyIndex.js'
 import { useFavorites } from '../composables/useFavorites.js'
 
 const { count: favCount } = useFavorites()
@@ -71,6 +71,18 @@ function toggleCounty(fips) {
   const cur = countyFips.value
   setCountyFips(cur.includes(fips) ? cur.filter((f) => f !== fips) : [...cur, fips])
 }
+// Counties can't outlive their state: when a state leaves the filter, drop any
+// selected counties that belong to it (clearing the state clears its counties).
+watch(
+  () => (selected.value.nativeStates || []).join(','),
+  () => {
+    const stateFips = new Set(
+      (selected.value.nativeStates || []).map((s) => USPS_FIP[s]).filter(Boolean),
+    )
+    const kept = countyFips.value.filter((f) => stateFips.has(f.slice(0, 2)))
+    if (kept.length !== countyFips.value.length) setCountyFips(kept)
+  },
+)
 
 // Incremental render: mount cards in chunks and append on scroll, instead of
 // mounting the whole (1700+) catalog up front. Only ~a dozen cards are ever
