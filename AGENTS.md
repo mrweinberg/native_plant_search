@@ -68,6 +68,7 @@ For UI changes, run `npm run dev` and verify in a browser. If you cannot run a b
 - `src/views/PlantDetailView.vue` — companion-plants scoring lives inline at the top of `<script setup>`; weights/bonuses are documented by the code.
 - `vite.config.js` — prerender (`homeContent`/`plantContent`/`aboutContent`/etc.) and sitemap generation. Keep prerendered copy in sync with the live components.
 - `CATALOG_GAPS.md` and `docs/odnr-candidates.md` — ranked candidate species driving what gets added next.
+- `docs/data-quality.md` — provenance, methodology, and judgment calls behind the catalog's sourced/derived data (`nativeStates`, county index, `nativeBiomes`). Read/update it when changing how that data is produced.
 - `test/data.test.js` — the catalog's enum vocabularies and integrity rules.
 
 ## When in doubt
