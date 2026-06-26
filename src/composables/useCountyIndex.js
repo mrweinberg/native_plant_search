@@ -13,6 +13,9 @@
 // per-state code-split we want. manifest.json / names.json ride along and are
 // pulled the same way.
 const files = import.meta.glob('../data/county-index/*.json')
+// Per-state county SVG geometry (for the detail-page county map), loaded the
+// same lazy, per-state way. See scripts/gen-county-paths.mjs.
+const geoFiles = import.meta.glob('../data/countyPaths/*.json')
 
 const cache = new Map() // filename stem -> Promise<data>
 
@@ -71,7 +74,32 @@ export function useCountyIndex() {
     return (await loadNames())[fips] || null
   }
 
-  return { countiesForState, plantIdsInCounty, plantIdsInCounties, countyName }
+  // SVG geometry for a state's counties: { viewBox, paths: { countyFIP3: d } }.
+  async function countyGeometry(stateCode) {
+    const fip = USPS_FIP[stateCode]
+    const importer = fip && geoFiles[`../data/countyPaths/${fip}.json`]
+    return importer ? (await importer()).default : null
+  }
+
+  // The county FIP3s within a state where the given plant is native (for the
+  // detail-page county map).
+  async function plantCountiesInState(plantId, stateCode) {
+    const [chunk, ids] = await Promise.all([loadState(stateCode), loadManifest()])
+    const idx = ids.indexOf(plantId)
+    if (idx < 0) return new Set()
+    const out = new Set()
+    for (const [cf, arr] of Object.entries(chunk)) if (arr.includes(idx)) out.add(cf)
+    return out
+  }
+
+  return {
+    countiesForState,
+    plantIdsInCounty,
+    plantIdsInCounties,
+    countyName,
+    countyGeometry,
+    plantCountiesInState,
+  }
 }
 
 // FIPS5 -> USPS, so a county can find its own state chunk.

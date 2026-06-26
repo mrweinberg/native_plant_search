@@ -1,8 +1,16 @@
 <script setup>
 import { computed, ref, onMounted } from 'vue'
-import { stateName } from '../composables/useLocation.js'
+import { stateName, useLocation } from '../composables/useLocation.js'
+import CountyMap from './CountyMap.vue'
 
 const props = defineProps({ plant: { type: Object, required: true } })
+
+// When the visitor has a home state and this plant is native there, show a
+// county-level map of that state beneath the national one ("where in my state").
+const { location: homeState } = useLocation()
+const showCounty = computed(
+  () => homeState.value && (props.plant.nativeStates || []).includes(homeState.value),
+)
 
 // The path data is ~140KB, so load it lazily on mount (its own chunk) — routed
 // views aren't code-split, so a static import would bloat the main bundle.
@@ -61,6 +69,8 @@ const count = computed(() => nativeSet.value.size)
       <span class="key"><span class="sw"></span> Not recorded</span>
     </div>
     <p v-if="extraRegions.length" class="extra">Also native in {{ extraRegions.join(', ') }}.</p>
+
+    <CountyMap v-if="showCounty" :plant-id="plant.id" :state="homeState" />
   </div>
 </template>
 

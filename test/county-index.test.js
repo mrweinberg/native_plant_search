@@ -5,7 +5,13 @@ import { useCountyIndex, USPS_FIP } from '../src/composables/useCountyIndex.js'
 // Other states fill in after the national enrichment run; OH is enough to prove
 // the load/lookup path end to end.
 describe('useCountyIndex', () => {
-  const { countiesForState, plantIdsInCounty, plantIdsInCounties } = useCountyIndex()
+  const {
+    countiesForState,
+    plantIdsInCounty,
+    plantIdsInCounties,
+    countyGeometry,
+    plantCountiesInState,
+  } = useCountyIndex()
 
   it('maps OH to state FIPS 39', () => {
     expect(USPS_FIP.OH).toBe('39')
@@ -33,5 +39,21 @@ describe('useCountyIndex', () => {
   it('resolves empty for an unknown state code', async () => {
     const counties = await countiesForState('ZZ')
     expect(counties).toEqual([])
+  })
+
+  it('loads county geometry for a state', async () => {
+    const geo = await countyGeometry('OH')
+    expect(geo).toBeTruthy()
+    expect(geo.viewBox).toMatch(/^[-\d. ]+$/)
+    expect(Object.keys(geo.paths).length).toBe(88) // all OH counties have a shape
+    expect(await countyGeometry('ZZ')).toBeNull()
+  })
+
+  it('lists the counties of a state where a plant is native', async () => {
+    const fips = await plantCountiesInState('asclepias-tuberosa', 'OH')
+    expect(fips.size).toBeGreaterThan(50)
+    // Adams County (39001) carries this plant in the index.
+    expect(fips.has('001')).toBe(true)
+    expect(await plantCountiesInState('not-a-real-plant', 'OH')).toEqual(new Set())
   })
 })
