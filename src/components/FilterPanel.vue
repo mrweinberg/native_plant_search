@@ -144,7 +144,7 @@ function labelFor(group, val) {
           :checked="locationLocked"
           @change="emit('toggleLocationLock', $event.target.checked)"
         />
-        📍 Use my location ({{ locationName }})
+        <span>📍 Use my location<br /><span class="use-loc-where">{{ locationName }}</span></span>
       </label>
 
       <template v-if="!locationLocked">
@@ -340,6 +340,7 @@ input[type='range'] { width: 100%; }
 .height-slider { flex: 1; min-width: 0; }
 .toggle { display: flex; align-items: center; gap: 8px; font-size: 14px; cursor: pointer; }
 .use-loc {
+  align-items: flex-start;
   background: var(--accent-soft);
   color: var(--accent);
   font-weight: 600;
@@ -348,6 +349,7 @@ input[type='range'] { width: 100%; }
   padding: 8px 10px;
   margin-bottom: 8px;
 }
+.use-loc-where { display: inline-block; margin-top: 2px; font-weight: 400; }
 .subhead {
   font-size: 12px;
   font-weight: 600;
