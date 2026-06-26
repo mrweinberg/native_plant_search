@@ -7,6 +7,7 @@ import PlantCard from '../components/PlantCard.vue'
 import BloomCalendar from '../components/BloomCalendar.vue'
 import { usePlantFilters, plantsLoaded, MONTH_LABELS, BOOL_FILTERS } from '../composables/usePlantFilters.js'
 import { useLocation } from '../composables/useLocation.js'
+import { useCountyIndex, USPS_FIP } from '../composables/useCountyIndex.js'
 import { useFavorites } from '../composables/useFavorites.js'
 
 const { count: favCount } = useFavorites()
@@ -30,6 +31,59 @@ const {
   clearAll,
 } = usePlantFilters()
 
+const route = useRoute()
+const router = useRouter()
+
+// County narrowing of the home location. The active county FIPS live in the URL
+// (?county=39001) so the result is shareable; the plant-id set for those
+// counties is loaded lazily from the per-state county index and intersected with
+// the filtered list. Absent/empty -> no narrowing.
+const { plantIdsInCounties } = useCountyIndex()
+const countyFips = computed(() => {
+  const c = route.query.county
+  return c ? String(c).split(',').filter(Boolean) : []
+})
+const countyIds = ref(null) // Set<plantId> | null
+watch(
+  countyFips,
+  async (list) => {
+    if (!list.length) return (countyIds.value = null)
+    const ids = await plantIdsInCounties(list)
+    if (countyFips.value.join() === list.join()) countyIds.value = new Set(ids) // ignore stale loads
+  },
+  { immediate: true },
+)
+const displayPlants = computed(() =>
+  countyIds.value
+    ? sortedPlants.value.filter((p) => countyIds.value.has(p.id))
+    : sortedPlants.value,
+)
+
+// The filter-menu county multiselect writes the active county FIPS straight to
+// the URL (the source of truth), independent of the home-location picker.
+function setCountyFips(list) {
+  const q = { ...route.query }
+  if (list.length) q.county = list.join(',')
+  else delete q.county
+  router.replace({ query: q })
+}
+function toggleCounty(fips) {
+  const cur = countyFips.value
+  setCountyFips(cur.includes(fips) ? cur.filter((f) => f !== fips) : [...cur, fips])
+}
+// Counties can't outlive their state: when a state leaves the filter, drop any
+// selected counties that belong to it (clearing the state clears its counties).
+watch(
+  () => (selected.value.nativeStates || []).join(','),
+  () => {
+    const stateFips = new Set(
+      (selected.value.nativeStates || []).map((s) => USPS_FIP[s]).filter(Boolean),
+    )
+    const kept = countyFips.value.filter((f) => stateFips.has(f.slice(0, 2)))
+    if (kept.length !== countyFips.value.length) setCountyFips(kept)
+  },
+)
+
 // Incremental render: mount cards in chunks and append on scroll, instead of
 // mounting the whole (1700+) catalog up front. Only ~a dozen cards are ever
 // visible, so this keeps the DOM and component count proportional to what's
@@ -50,8 +104,8 @@ function restoredCount() {
   return CHUNK
 }
 const visibleCount = ref(restoredCount())
-const visiblePlants = computed(() => sortedPlants.value.slice(0, visibleCount.value))
-const hasMore = computed(() => visibleCount.value < sortedPlants.value.length)
+const visiblePlants = computed(() => displayPlants.value.slice(0, visibleCount.value))
+const hasMore = computed(() => visibleCount.value < displayPlants.value.length)
 
 // Persist the count alongside the scroll position so back nav can restore it.
 watch(visibleCount, (n) => sessionStorage.setItem('bf:listCount', String(n)))
@@ -62,7 +116,7 @@ watch(visibleCount, (n) => sessionStorage.setItem('bf:listCount', String(n)))
 const filterKey = computed(() =>
   JSON.stringify([
     query.value, selected.value, heightMax.value, heightMin.value,
-    bools.value, sortBy.value,
+    bools.value, sortBy.value, countyFips.value,
   ]),
 )
 watch(filterKey, () => { visibleCount.value = CHUNK })
@@ -71,7 +125,7 @@ const sentinel = ref(null)
 let observer = null
 function loadMore() {
   if (hasMore.value) {
-    visibleCount.value = Math.min(visibleCount.value + CHUNK, sortedPlants.value.length)
+    visibleCount.value = Math.min(visibleCount.value + CHUNK, displayPlants.value.length)
   }
 }
 // Re-observe if the sentinel mounts later (e.g. switching back from calendar).
@@ -118,8 +172,6 @@ const activeChips = computed(() => {
   return chips
 })
 
-const route = useRoute()
-const router = useRouter()
 const viewMode = computed(() => (route.query.view === 'calendar' ? 'calendar' : 'grid'))
 function setViewMode(v) {
   const q = { ...route.query }
@@ -132,11 +184,30 @@ function setViewMode(v) {
 // it into the route query so the filter engine does the work. Applied on mount
 // only when the user hasn't already chosen states, and re-applied whenever the
 // chip changes so it stays authoritative for state selection.
-const { location } = useLocation()
+const { location, county } = useLocation()
+
+// "Use my location" mode: when on (?loc=1), the list is filtered by the home
+// state/county and the state/county dropdowns are disabled (mutually exclusive).
+// Setting a home location in the top bar turns it on; the filter dropdowns turn
+// it off by being edited while it's unlocked.
+const locationLocked = computed(() => route.query.loc === '1')
 function syncLocationToFilter() {
   const q = { ...route.query }
-  if (location.value) q.nativeStates = location.value
-  else delete q.nativeStates
+  if (location.value) {
+    q.nativeStates = location.value
+    q.loc = '1'
+  } else {
+    delete q.nativeStates
+    delete q.loc
+  }
+  if (county.value) q.county = county.value.fips
+  else delete q.county
+  router.replace({ query: q })
+}
+function setLocationLock(on) {
+  if (on) return syncLocationToFilter() // apply home state/county + lock
+  const q = { ...route.query }
+  delete q.loc
   router.replace({ query: q })
 }
 onMounted(() => {
@@ -146,7 +217,8 @@ onMounted(() => {
   // use router.replace, so this position stays stable while filtering.
   const pos = window.history.state?.position
   if (typeof pos === 'number') sessionStorage.setItem('bf:listPos', String(pos))
-  if (location.value && !route.query.nativeStates) syncLocationToFilter()
+  if ((location.value && !route.query.nativeStates) || (county.value && !route.query.county))
+    syncLocationToFilter()
   // Load the next chunk before the sentinel reaches the viewport.
   observer = new IntersectionObserver(
     (entries) => { if (entries.some((e) => e.isIntersecting)) loadMore() },
@@ -155,7 +227,7 @@ onMounted(() => {
   if (sentinel.value) observer.observe(sentinel.value)
 })
 onUnmounted(() => observer?.disconnect())
-watch(location, syncLocationToFilter)
+watch([location, county], syncLocationToFilter)
 
 const drawerOpen = ref(false)
 watch(drawerOpen, (open) => {
@@ -177,12 +249,17 @@ watch(() => route.path, () => { drawerOpen.value = false })
       :height-max="heightMax"
       :height-min="heightMin"
       :bools="bools"
+      :county-fips="countyFips"
+      :location-locked="locationLocked"
       @toggle="(k, v) => toggleFilter(k, v)"
       @height-max="setHeightMax"
       @height-min="setHeightMin"
       @bool="setBool"
       @clear-group="clearFilter"
       @clear="clearAll"
+      @toggle-county="toggleCounty"
+      @clear-counties="setCountyFips([])"
+      @toggle-location-lock="setLocationLock"
     />
     <div class="results">
       <h1 class="sr-only">Native plant search — plan a North American garden that blooms all season</h1>
@@ -227,7 +304,7 @@ watch(() => route.path, () => { drawerOpen.value = false })
         </div>
         <div class="toolbar-meta">
           <span class="result-count">
-            {{ sortedPlants.length }} plants<span v-if="activeFilterCount > 0" class="muted"> · {{ activeFilterCount }} filter{{ activeFilterCount === 1 ? '' : 's' }} active</span>
+            {{ displayPlants.length }} plants<span v-if="activeFilterCount > 0" class="muted"> · {{ activeFilterCount }} filter{{ activeFilterCount === 1 ? '' : 's' }} active</span>
           </span>
           <template v-if="activeChips.length">
             <button
@@ -243,7 +320,7 @@ watch(() => route.path, () => { drawerOpen.value = false })
         </div>
       </div>
       <template v-if="viewMode === 'grid'">
-        <template v-if="sortedPlants.length">
+        <template v-if="displayPlants.length">
           <div class="grid">
             <PlantCard
               v-for="(p, i) in visiblePlants"
@@ -259,7 +336,7 @@ watch(() => route.path, () => { drawerOpen.value = false })
           No plants match your filters. <button @click="clearAll" type="button">Clear filters</button>
         </div>
       </template>
-      <BloomCalendar v-else :plants="sortedPlants" />
+      <BloomCalendar v-else :plants="displayPlants" />
       <p class="contact-note">
         Missing a plant? Contact
         <a href="mailto:plants@bedfellow.org">plants@bedfellow.org</a>

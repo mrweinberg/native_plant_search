@@ -59,6 +59,23 @@ node scripts/enrich-usda.mjs <id1> <id2> …
 Fills `usdaSymbol`, `nativeRegions`, `nativeStates`. A record that comes back with
 no `nativeStates` isn't really US-native — drop it.
 
+## Step 3.5 — County distribution index
+
+The detail-page range map and the County filter read a per-state index
+(`src/data/county-index/`) built from USDA county distribution. Regenerate it for
+the new plants' native states (the codes enrich-usda just printed) so they get
+county-level data:
+
+```
+node scripts/enrich-county.mjs OH IN VA      # the new plants' nativeStates
+```
+
+The manifest is **append-only**, so existing county indices stay valid and a
+partial state run won't corrupt the other states (names are merged too). Omit the
+args to rebuild the whole country — always correct, but ~15 min. A plant skipped
+here still works everywhere; its map just shows state-level (lighter) shading
+until the index includes it.
+
 ## Step 4 — Images (mind the collateral)
 
 ```
@@ -151,7 +168,8 @@ stays out of the list payload.
 Stage only this session's files with explicit paths (commit-scope convention):
 
 ```
-git add src/data/plants.json scripts/seeds/gap-<topic>.txt public/plants/<new>.jpg [scripts/gen-list.mjs]
+git add src/data/plants.json scripts/seeds/gap-<topic>.txt public/plants/<new>.jpg \
+  src/data/county-index/ [scripts/gen-list.mjs]
 ```
 
 `plants-list.json` is gitignored (rebuilt on dev/build) — don't stage it.
