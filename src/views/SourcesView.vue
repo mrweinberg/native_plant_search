@@ -7,14 +7,29 @@ const sources = [
     title: 'Native range & distribution',
     items: [
       {
+        name: 'World Checklist of Vascular Plants (WCVP) — Royal Botanic Gardens, Kew',
+        url: 'https://powo.science.kew.org',
+        note: "Kew's authoritative record of native vs. introduced status by region (≈ US state), accessed via GBIF. The primary source for which states a species is truly native to. A small share of species WCVP doesn't cover fall back to an occurrence-based estimate.",
+      },
+      {
         name: 'USDA PLANTS Database',
         url: 'https://plants.usda.gov',
-        note: 'Authoritative scientific names, USDA symbols, and native/introduced status by region (e.g. lower 48, Canada).',
+        note: 'Scientific names, USDA symbols, regional native/introduced status, and county-level distribution — the county data drives the county range maps and the county filter.',
       },
       {
         name: 'GBIF — Global Biodiversity Information Facility',
         url: 'https://www.gbif.org',
-        note: 'Per-state occurrence records, used as a presence proxy to estimate which states a species is native to. Because it counts observations, very widely cultivated species can appear in more states than their true native range.',
+        note: 'Global occurrence and distribution data. Provides access to the WCVP distribution records above, plus a per-state occurrence fallback for species WCVP does not cover (which can over- or under-state range for cultivated or sparsely-recorded plants).',
+      },
+    ],
+  },
+  {
+    title: 'Biomes & ecoregions',
+    items: [
+      {
+        name: 'EPA / CEC North America Level I Ecoregions',
+        url: 'https://www.epa.gov/eco-research/ecoregions-north-america',
+        note: "The Commission for Environmental Cooperation's ecoregion framework. Each plant's native biomes are derived by overlaying its USDA county distribution on these Level I ecoregions (county boundaries from the US Census Bureau).",
       },
     ],
   },

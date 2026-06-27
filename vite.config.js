@@ -141,8 +141,8 @@ function homeContent(plants) {
     `bloom coverage month by month.</p>` +
     `<p>Find native plants for pollinators, butterflies, and hummingbirds; deer-resistant plants, ` +
     `rain-garden and groundcover plants, plants for cut flowers, and edible native plants.</p>` +
-    `<p>Native range, scientific names, and photos come from USDA PLANTS, GBIF, Wikimedia Commons, and ` +
-    `iNaturalist; growing conditions and descriptions are editorially curated. ` +
+    `<p>Native range, scientific names, and photos come from USDA PLANTS, WCVP (Kew), GBIF, EPA ` +
+    `ecoregions, Wikimedia Commons, and iNaturalist; growing conditions and descriptions are editorially curated. ` +
     `<a href="/sources">See sources &amp; data</a>.</p>` +
     `<h2>Explore</h2>` +
     `<ul><li><a href="/favorites">Favorites, bloom timeline &amp; companion beds</a></li>` +
@@ -216,8 +216,9 @@ function sourcesContent(plants) {
     `wildlife value, deer resistance, and descriptions are editorially written with AI assistance from ` +
     `the horticultural references below, and may contain errors.</p>` +
     `<ul>` +
-    `<li>USDA PLANTS Database — scientific names, symbols, and native status by region</li>` +
-    `<li>GBIF — per-state occurrence records used as a presence proxy</li>` +
+    `<li>USDA PLANTS Database — scientific names, symbols, regional native status, and county-level distribution (county range maps)</li>` +
+    `<li>World Checklist of Vascular Plants (Kew), via GBIF — authoritative native-vs-introduced status by state</li>` +
+    `<li>EPA / CEC North America Level I Ecoregions — the native-biome classification</li>` +
     `<li>Wikimedia Commons and iNaturalist — photographs, under their individual licenses</li>` +
     `<li>Lady Bird Johnson Wildflower Center, Xerces Society, Calscape, Oregon Flora, and the ` +
     `Arizona-Sonora Desert Museum — species selection and horticulture</li>` +
@@ -292,7 +293,7 @@ function prerender() {
         render({
           title: 'Sources & data — Bedfellow',
           description:
-            'The data sources behind Bedfellow: USDA PLANTS, GBIF, Wikimedia, iNaturalist, and regional native-plant authorities.',
+            'The data sources behind Bedfellow: USDA PLANTS, WCVP (Kew), GBIF, EPA ecoregions, Wikimedia, iNaturalist, and regional native-plant authorities.',
           path: '/sources',
           content: sourcesContent(plants),
         }),
