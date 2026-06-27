@@ -1,10 +1,14 @@
 # Data quality decisions
 
-The single reference for how the catalog's **derived / sourced data** is produced
-and the judgment calls behind it. When you add a field sourced from an external
-dataset, or make a non-obvious call about provenance, thresholds, or known
-inaccuracies, record it here. Curated horticultural fields (light, soil, bloom…)
-are not covered — see the `add-plants` skill for those.
+The single reference for how the catalog's data is produced and the judgment
+calls behind it. When you add a field sourced from an external dataset, or make a
+non-obvious call about provenance, thresholds, or known inaccuracies, record it
+here. Every per-plant field falls into one of three provenance tiers:
+
+- **Sourced** — pulled from an external database (native range, photos).
+- **Derived** — computed from sourced data (biomes, keystone status).
+- **Editorial** — written with AI assistance from horticultural references
+  (growing conditions, descriptions); error-prone, see the last section.
 
 Guiding principle: **prefer authoritative sources** (USDA PLANTS, Kew/WCVP, EPA
 CEC ecoregions) over raw-occurrence proxies, and be honest in the UI about
@@ -87,3 +91,45 @@ The plant-detail map is a **national county choropleth** (Albers USA). Counties
 with USDA county data are solid; native states with only state-level USDA data
 (e.g. Maryland, Connecticut) render as a **distinct lighter "state-level" fill** —
 honest about lower confidence rather than implying confident statewide nativity.
+
+---
+
+## Photographs & licensing
+
+The card/detail thumbnail is a bundled `imageFile` fetched by `enrich-images.mjs`
+from **Wikimedia Commons** (via the Wikipedia REST API) or **iNaturalist**, then
+downscaled by `optimize-images.mjs`. Each record carries `imageSource` /
+`imageCredit`; newer ones also carry structured `imageLicense` / `imageAuthor`.
+The detail page additionally pulls a runtime **iNaturalist** gallery
+(`useInatGallery.js`).
+
+**Known gap:** structured `imageLicense`/`imageAuthor` is only captured on a small
+fraction of records (older ones have free-text `imageCredit` only) —
+`scripts/_audit_image_licenses.mjs` is the in-progress audit. Photos remain their
+creators' property under their individual licenses; attribution is shown per
+plant. Treat any image lacking a structured license as needing verification
+before reuse outside the site.
+
+## Keystone plants & caterpillar hosts
+
+`enrich-keystone.mjs` sets `caterpillarHosts` (int) and `keystone` (bool) from
+**Doug Tallamy's keystone-plants work + the NWF Native Plant Finder**. `keystone`
+is `caterpillarHosts >= 100` — a chosen threshold, not a source designation.
+
+**Limitation:** the host counts are **genus-level, national** estimates (how many
+Lepidoptera a genus supports across the US), applied to every species in the
+genus. So the figure reflects the genus, not the individual species or a local
+region — a strong wildlife-value signal, not a precise per-species count.
+
+## Editorially-curated horticultural traits
+
+The bulk of per-plant fields — `lightRequirement`, `soilMoisture`/`soilType`/
+`soilPh`, `heightFeet`/`spreadFeet`, `bloomMonths`/`bloomColors`, `lifespan`,
+leaf traits, `deerResistant`, `cutFlower`, `culinaryUse`, `landscapeUses`,
+`notes` — are **editorially written with AI assistance** from the horticultural
+references on the Sources page, gated only by completeness/vocabulary checks
+(`validate-records.mjs`, `test/data.test.js`), **not** by an external dataset.
+They can contain errors; `deerResistant` especially is a rough guide (no plant is
+deer-proof). The per-field process and closed vocabularies live in the
+`add-plants` skill. This is the catalog's largest body of data and its lowest
+provenance tier — surface it honestly and welcome corrections.
