@@ -110,6 +110,24 @@ creators' property under their individual licenses; attribution is shown per
 plant. Treat any image lacking a structured license as needing verification
 before reuse outside the site.
 
+## Light, soil moisture & bloom — LBJWC / NPIN
+
+`lightRequirement`, `soilMoisture`, `bloomMonths`, and `bloomColors` are sourced
+from the **Lady Bird Johnson Wildflower Center's** Native Plant Information
+Network (wildflower.org), which keys species by USDA symbol. `enrich-lbjwc.mjs`
+pulls **only the structured controlled-vocabulary values** — never the prose
+(Soil Description / Conditions Comments / Bloom Notes) — caches pages, rate-limits,
+and identifies the crawler; `/plants/` is robots-permitted. The factual extract
+is committed at `src/data/lbjwc-traits.json` (provenance), and applied per field
+only where NPIN has a value.
+
+NPIN's vocabulary maps cleanly onto ours (Sun/Part Shade/Shade, Dry/Moist/Wet,
+month-level bloom, named colors). It's curated and native-garden-focused —
+notably more reliable than USDA PLANTS for these fields, whose `Shade Tolerance`
+is inverted/unreliable (butterfly weed came back shade-tolerant). **Coverage ~82%
+(1,447/1,770);** the remaining species keep their editorial values for these
+fields. So these four fields are **sourced where covered, editorial otherwise**.
+
 ## Keystone plants & caterpillar hosts
 
 `enrich-keystone.mjs` sets `caterpillarHosts` (int) and `keystone` (bool) from
@@ -123,10 +141,11 @@ region — a strong wildlife-value signal, not a precise per-species count.
 
 ## Editorially-curated horticultural traits
 
-The bulk of per-plant fields — `lightRequirement`, `soilMoisture`/`soilType`/
-`soilPh`, `heightFeet`/`spreadFeet`, `bloomMonths`/`bloomColors`, `lifespan`,
-leaf traits, `deerResistant`, `cutFlower`, `culinaryUse`, `landscapeUses`,
-`notes` — are **editorially written with AI assistance** from the horticultural
+Many per-plant fields — `soilType`/`soilPh`, `heightFeet`/`spreadFeet`,
+`lifespan`, leaf traits, `deerResistant`, `cutFlower`, `culinaryUse`,
+`landscapeUses`, `notes`, plus the editorial *fallback* for the LBJWC fields
+above where NPIN has no record — are **editorially written with AI assistance**
+from the horticultural
 references on the Sources page, gated only by completeness/vocabulary checks
 (`validate-records.mjs`, `test/data.test.js`), **not** by an external dataset.
 They can contain errors; `deerResistant` especially is a rough guide (no plant is
