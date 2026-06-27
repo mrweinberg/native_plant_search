@@ -59,7 +59,7 @@ const sources = [
       {
         name: 'Lady Bird Johnson Wildflower Center',
         url: 'https://www.wildflower.org',
-        note: 'Native plant database and regional recommended-species lists used to choose garden-worthy species region by region.',
+        note: 'The Native Plant Information Network — the source of light requirement, soil moisture, bloom time, and bloom color for most species (curated, native-garden-focused), plus regional recommended-species lists used in selecting garden-worthy plants.',
       },
       {
         name: 'Xerces Society',

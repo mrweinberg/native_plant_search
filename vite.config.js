@@ -219,6 +219,7 @@ function sourcesContent(plants) {
     `<li>USDA PLANTS Database — scientific names, symbols, regional native status, and county-level distribution (county range maps)</li>` +
     `<li>World Checklist of Vascular Plants (Kew), via GBIF — authoritative native-vs-introduced status by state</li>` +
     `<li>EPA / CEC North America Level I Ecoregions — the native-biome classification</li>` +
+    `<li>Lady Bird Johnson Wildflower Center (NPIN) — light, soil moisture, bloom time and color for most species</li>` +
     `<li>Wikimedia Commons and iNaturalist — photographs, under their individual licenses</li>` +
     `<li>Lady Bird Johnson Wildflower Center, Xerces Society, Calscape, Oregon Flora, and the ` +
     `Arizona-Sonora Desert Museum — species selection and horticulture</li>` +
